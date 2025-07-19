@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -23,28 +22,16 @@ jobs:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
           set -eux
-          # 1. Download the feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
-
-          # 2. Count entries (ignore namespaces)
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
-
-          # 3. Pick one seeded by date
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
-
-          # 4. Extract that entry
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
-
-          # 5. Pull fields
           TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml)
           AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml)
           SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | sed 's/"/\\"/g')
           COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href)" entry.xml)
           EPUB=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @type='application/epub+zip']/@href)" entry.xml)
-          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml \
-                     | jq -R -s 'split("\n") | map(select(length>0))')
-
-          # 6. Write JSON
+          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
           cat > today.json <<EOF
 {
   "date": "$(date -u +%Y-%m-%d)",
