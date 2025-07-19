@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Install XML & JSON tools
+      - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y xmlstarlet jq
@@ -24,27 +24,27 @@ jobs:
         run: |
           set -eux
 
-          # 1. Download feed
+          # Download the feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
 
-          # 2. Count entries (Atom uses default ns, so use local-name())
+          # Count entries (use local-name() to ignore namespace)
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
 
-          # 3. Compute index: (YYYYMMDD mod TOTAL) + 1
+          # Pick one seeded by date
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
 
-          # 4. Extract the Nth entry
+          # Extract that entry
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
 
-          # 5. Pull fields
-          TITLE=$(xmlstarlet sel -t -v "//*[local-name()='title']" entry.xml)
-          AUTHOR=$(xmlstarlet sel -t -v "//*[local-name()='author']/*[local-name()='name']" entry.xml)
-          SUMMARY=$(xmlstarlet sel -t -v "//*[local-name()='summary']" entry.xml | sed 's/"/\\"/g')
-          COVER=$(xmlstarlet sel -t -v "//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href" entry.xml)
-          EPUB=$(xmlstarlet sel -t -v "//*[local-name()='link' and @type='application/epub+zip']/@href" entry.xml)
+          # Pull fields
+          TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml)
+          AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml)
+          SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | sed 's/"/\\"/g')
+          COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href)" entry.xml)
+          EPUB=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @type='application/epub+zip']/@href)" entry.xml)
           SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
 
-          # 6. Write clean JSON
+          # Write JSON
           cat > today.json <<EOF
 {
   "date": "$(date -u +%Y-%m-%d)",
