@@ -15,7 +15,7 @@ jobs:
       - name: Install XML tools
         run: sudo apt-get update && sudo apt-get install -y xmlstarlet
 
-      - name: Fetch & parse OPDS → today.json
+            - name: Fetch & parse OPDS → today.json
         env:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
@@ -24,22 +24,22 @@ jobs:
           # 1. Download feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
 
-          # 2. Count entries
-          TOTAL=$(xmlstarlet sel -t -v "count(//entry)" feed.xml)
+          # 2. Count entries (Atom namespace uses default ns, so use local-name())
+          TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
 
           # 3. Compute index: (YYYYMMDD mod TOTAL) + 1
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
 
           # 4. Extract the Nth <entry> into a temp file
-          xmlstarlet sel -t -c "(//entry)[$IDX]" feed.xml > entry.xml
+          xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
 
           # 5. Pull fields
-          TITLE=$(xmlstarlet sel -t -v "//title" entry.xml)
-          AUTHOR=$(xmlstarlet sel -t -v "//author/name" entry.xml)
-          SUMMARY=$(xmlstarlet sel -t -v "//summary" entry.xml | sed 's/"/\\"/g')
-          COVER=$(xmlstarlet sel -t -v "//link[@rel='http://opds-spec.org/image/thumbnail']/@href" entry.xml)
-          EPUB=$(xmlstarlet sel -t -v "//link[@type='application/epub+zip']/@href" entry.xml)
-          SUBJECTS=$(xmlstarlet sel -t -m "//category" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
+          TITLE=$(xmlstarlet sel -t -v "//*[local-name()='title']" entry.xml)
+          AUTHOR=$(xmlstarlet sel -t -v "//*[local-name()='author']/*[local-name()='name']" entry.xml)
+          SUMMARY=$(xmlstarlet sel -t -v "//*[local-name()='summary']" entry.xml | sed 's/"/\\"/g')
+          COVER=$(xmlstarlet sel -t -v "//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href" entry.xml)
+          EPUB=$(xmlstarlet sel -t -v "//*[local-name()='link' and @type='application/epub+zip']/@href" entry.xml)
+          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
 
           # 6. Write JSON
           cat > today.json <<EOF
@@ -53,7 +53,7 @@ jobs:
             "subjects": ${SUBJECTS}
           }
           EOF
-
+          
       - name: Commit & Push today.json
         run: |
           git config user.name  "github-actions[bot]"
