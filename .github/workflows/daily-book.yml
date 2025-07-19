@@ -1,0 +1,61 @@
+name: Daily Standard Ebooks JSON
+
+on:
+  schedule:
+    # every day at 00:05 UTC
+    - cron:  '5 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch OPDS feed & pick book
+        env:
+          OPDS_KEY: ${{ secrets.OPDS_KEY }}
+        run: |
+          # fetch the full OPDS feed
+          curl -u "$OPDS_KEY:" https://standardebooks.org/feeds/opds/all \
+            -sS > full.xml
+
+          # pick a book seeded by today's date
+          ENTRY=$(xmllint --xpath \
+            "/*[local-name()='feed']/*[local-name()='entry'][$(
+              date -u +%Y%m%d) mod \
+              $(xmlstarlet sel -t -v "count(/*[local-name()='feed']/*[local-name()='entry'])" full.xml)+1]" \
+            full.xml)
+
+          # extract fields to JSON
+          TITLE=$(echo "$ENTRY" | xmllint --xpath "string(//*[local-name()='title'])" -)
+          AUTHOR=$(echo "$ENTRY" | xmllint --xpath "string(//*[local-name()='author']/*[local-name()='name'])" -)
+          SUMMARY=$(echo "$ENTRY" | xmllint --xpath "string(//*[local-name()='summary'])" -)
+          COVER=$(echo "$ENTRY" | xmllint --xpath "string(//*[local-name()='link'][@rel='http://opds-spec.org/image/thumbnail']/@href)" -)
+          EPUB=$(echo "$ENTRY" | xmllint --xpath "string(//*[local-name()='link'][@type='application/epub+zip']/@href)" -)
+          SUBJECTS=$(echo "$ENTRY" | xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n -)
+
+          # write out today.json
+          cat > today.json <<EOF
+          {
+            "date": "$(date -u +%Y-%m-%d)",
+            "title":   "$(echo $TITLE   | sed 's/"/\\"/g')",
+            "author":  "$(echo $AUTHOR  | sed 's/"/\\"/g')",
+            "summary": "$(echo $SUMMARY | sed 's/"/\\"/g')",
+            "coverUrl": "$COVER",
+            "epubUrl":  "$EPUB",
+            "subjects": [
+              $(echo "$SUBJECTS" | sed '/^$/d' | sed 's/.*/"&",/' | sed '$s/,$//')
+            ]
+          }
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add today.json
+          git commit -m "Daily book JSON for $(date -u +%Y-%m-%d)" || echo "No changes to commit"
+          git push
