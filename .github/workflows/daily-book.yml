@@ -23,28 +23,28 @@ jobs:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
           set -eux
-
-          # Download the feed
+          # 1. Download the feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
 
-          # Count entries (use local-name() to ignore namespace)
+          # 2. Count entries (ignore namespaces)
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
 
-          # Pick one seeded by date
+          # 3. Pick one seeded by date
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
 
-          # Extract that entry
+          # 4. Extract that entry
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
 
-          # Pull fields
+          # 5. Pull fields
           TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml)
           AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml)
           SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | sed 's/"/\\"/g')
           COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href)" entry.xml)
           EPUB=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @type='application/epub+zip']/@href)" entry.xml)
-          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
+          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml \
+                     | jq -R -s 'split("\n") | map(select(length>0))')
 
-          # Write JSON
+          # 6. Write JSON
           cat > today.json <<EOF
 {
   "date": "$(date -u +%Y-%m-%d)",
@@ -59,7 +59,7 @@ EOF
 
       - name: Commit & Push today.json
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add today.json
           if git diff --quiet; then
