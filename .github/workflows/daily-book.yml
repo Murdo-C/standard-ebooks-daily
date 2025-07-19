@@ -27,13 +27,13 @@ jobs:
           # 1. Download feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
 
-          # 2. Count entries (use local-name() to ignore namespaces)
+          # 2. Count entries (Atom uses default ns, so use local-name())
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
 
           # 3. Compute index: (YYYYMMDD mod TOTAL) + 1
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
 
-          # 4. Extract the Nth <entry>
+          # 4. Extract the Nth entry
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
 
           # 5. Pull fields
@@ -44,7 +44,7 @@ jobs:
           EPUB=$(xmlstarlet sel -t -v "//*[local-name()='link' and @type='application/epub+zip']/@href" entry.xml)
           SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
 
-          # 6. Write out clean JSON
+          # 6. Write clean JSON
           cat > today.json <<EOF
 {
   "date": "$(date -u +%Y-%m-%d)",
