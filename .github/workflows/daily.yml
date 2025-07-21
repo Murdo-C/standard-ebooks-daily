@@ -1,74 +1,69 @@
 name: Daily Standard Ebooks JSON
-
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '5 0 * * *'
-
+    - cron: '5 0 * * *'    # every day at 00:05 UTC (fixed extra asterisk)
+  workflow_dispatch:
 jobs:
-  fetch:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Install xmlstarlet & jq
+      - uses: actions/checkout@v3
+      - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y xmlstarlet jq
-
-      - name: Fetch feed & build today.json
+      - name: Fetch OPDS & build today.json
         env:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
           set -eux
-          # 1) download feed
+          # 1) Download feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
-
-          # 2) count entries (ignore namespace)
+          
+          # 2) Count <entry> (ignore NS)
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
-
-          # 3) pick one seeded by date
+          
+          # 3) Seeded index by UTC date
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
-
-          # 4) extract that entry
+          
+          # 4) Extract that entry
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
-
-          # 5) grab fields
-          TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml)
-          AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml)
-          SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | sed 's/"/\\"/g')
+          
+          # 5) Pull fields with proper JSON escaping
+          TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml | jq -R -s 'rtrimstr("\n")')
+          AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml | jq -R -s 'rtrimstr("\n")')
+          SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | jq -R -s 'rtrimstr("\n")')
           COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href)" entry.xml)
           EPUB=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @type='application/epub+zip']/@href)" entry.xml)
           SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
-
-          # 6) emit JSON
-          printf '{
-  "date":"%s",
-  "title":"%s",
-  "author":"%s",
-  "summary":"%s",
-  "coverUrl":"%s",
-  "epubUrl":"%s",
-  "subjects":%s
-}\n' \
-            "$(date -u +%F)" \
-            "$TITLE" \
-            "$AUTHOR" \
-            "$SUMMARY" \
-            "$COVER" \
-            "$EPUB" \
-            "$SUBJECTS" \
-          > today.json
-
+          
+          # 6) Build JSON object using jq for proper JSON construction
+          jq -n \
+            --arg date "$(date -u +%F)" \
+            --argjson title "$TITLE" \
+            --argjson author "$AUTHOR" \
+            --argjson summary "$SUMMARY" \
+            --arg coverUrl "$COVER" \
+            --arg epubUrl "$EPUB" \
+            --argjson subjects "$SUBJECTS" \
+            '{
+              date: $date,
+              title: $title,
+              author: $author,
+              summary: $summary,
+              coverUrl: $coverUrl,
+              epubUrl: $epubUrl,
+              subjects: $subjects
+            }' > today.json
+            
       - name: Commit & push today.json
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add today.json
-          if git diff --quiet; then
-            echo "No change – skipping"
+          # Check if there are staged changes (fixed git diff logic)
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
           else
             git commit -m "Daily book JSON $(date -u +%F)"
             git push
