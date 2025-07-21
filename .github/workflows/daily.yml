@@ -1,67 +1,78 @@
 name: Daily Standard Ebooks JSON
+
 on:
   schedule:
-    - cron: '5 0 * * *'    # every day at 00:05 UTC (fixed extra asterisk)
+    # every day at 00:05 UTC
+    - cron: '5 0 * * *'
   workflow_dispatch:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y xmlstarlet jq
+
       - name: Fetch OPDS & build today.json
         env:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
           set -eux
-          # 1) Download feed
+
+          # 1) Download the full OPDS feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
-          
-          # 2) Count <entry> (ignore NS)
+
+          # 2) Count <entry> elements (ignore namespaces)
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
-          
-          # 3) Seeded index by UTC date
+
+          # 3) Compute a seeded index based on UTC date
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
-          
-          # 4) Extract that entry
+
+          # 4) Extract just that <entry>
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
-          
-          # 5) Pull fields with proper JSON escaping
-          TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml | jq -R -s 'rtrimstr("\n")')
-          AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml | jq -R -s 'rtrimstr("\n")')
-          SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | jq -R -s 'rtrimstr("\n")')
-          COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href)" entry.xml)
-          EPUB=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @type='application/epub+zip']/@href)" entry.xml)
-          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
-          
-          # 6) Build JSON object using jq for proper JSON construction
+
+          # 5) Pull out the fields we need
+          TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml \
+            | jq -R -s 'rtrimstr("\n")')
+          AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml \
+            | jq -R -s 'rtrimstr("\n")')
+          SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml \
+            | jq -R -s 'rtrimstr("\n")')
+          COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image']/@href)" entry.xml)
+          ENTRY_URL=$(xmlstarlet sel -t -v "string(//*[local-name()='id'])" entry.xml)
+          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml \
+            | jq -R -s 'split("\n") | map(select(length>0))')
+
+          # 6) Construct a clean JSON with jq
           jq -n \
-            --arg date "$(date -u +%F)" \
-            --argjson title "$TITLE" \
-            --argjson author "$AUTHOR" \
+            --arg date     "$(date -u +%F)" \
+            --argjson title   "$TITLE" \
+            --argjson author  "$AUTHOR" \
             --argjson summary "$SUMMARY" \
-            --arg coverUrl "$COVER" \
-            --arg epubUrl "$EPUB" \
+            --arg coverUrl    "$COVER" \
+            --arg entryUrl    "$ENTRY_URL" \
             --argjson subjects "$SUBJECTS" \
             '{
-              date: $date,
-              title: $title,
-              author: $author,
-              summary: $summary,
-              coverUrl: $coverUrl,
-              epubUrl: $epubUrl,
-              subjects: $subjects
-            }' > today.json
-            
+               date:      $date,
+               title:     $title,
+               author:    $author,
+               summary:   $summary,
+               coverUrl:  $coverUrl,
+               entryUrl:  $entryUrl,
+               subjects:  $subjects
+             }' > today.json
+
       - name: Commit & push today.json
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add today.json
-          # Check if there are staged changes (fixed git diff logic)
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
