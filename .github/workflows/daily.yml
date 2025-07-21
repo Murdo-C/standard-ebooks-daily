@@ -1,15 +1,16 @@
 name: Daily Standard Ebooks JSON
 
 on:
-  schedule:
-    - cron: '5 0 * * *'    # every day at 00:05 UTC
   workflow_dispatch:
+  schedule:
+    - cron: '5 0 * * *'
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Install xmlstarlet + jq
@@ -17,33 +18,27 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y xmlstarlet jq
 
-      - name: Fetch OPDS feed & pick today’s book
+      - name: Fetch & parse OPDS → today.json
         env:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
           set -eux
-
-          # 1. Download the full OPDS feed
+          # download
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
-
-          # 2. Count <entry> elements (Atom namespace → use local-name())
+          # count entries
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
-
-          # 3. Seed index by UTC date: (YYYYMMDD mod TOTAL) + 1
+          # pick seeded index
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
-
-          # 4. Extract that single <entry>
+          # extract entry
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
-
-          # 5. Pull the fields we need
+          # fields
           TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml)
           AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml)
           SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | sed 's/"/\\"/g')
           COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image/thumbnail']/@href)" entry.xml)
           EPUB=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @type='application/epub+zip']/@href)" entry.xml)
           SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
-
-          # 6. Emit JSON
+          # emit JSON
           cat > today.json <<EOF
 {
   "date": "$(date -u +%Y-%m-%d)",
