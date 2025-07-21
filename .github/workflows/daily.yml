@@ -46,7 +46,7 @@ jobs:
             | jq -R -s 'rtrimstr("\n")')
           COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image']/@href)" entry.xml)
           ENTRY_URL=$(xmlstarlet sel -t -v "string(//*[local-name()='id'])" entry.xml)
-          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml \
+          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category' and @scheme='https://standardebooks.org/vocab/subjects']" -v "@term" -n entry.xml \
             | jq -R -s 'split("\n") | map(select(length>0))')
 
           # 6) Construct a clean JSON with jq
