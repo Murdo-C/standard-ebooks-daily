@@ -24,6 +24,6 @@ Every night at 00:05 UTC (or on demand via workflow dispatch), GitHub Actions:
 ## Usage
 
 1. **Clone** this repo.  
-2. **Add** a [`OPDS_KEY`](https://standardebooks.org/developer) secret in Settings → Secrets.  
+2. **Add** a [`OPDS_KEY`](https://standardebooks.org/feeds) secret in Settings → Secrets.  
 3. **Watch** the repo so you get daily updates in your feed.  
 4. Use the raw `today.json` URL in your web app, site, or QR-code generator.
