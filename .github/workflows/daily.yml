@@ -1,14 +1,16 @@
-name: 🛠️ Daily Workflow Smoke-Test
+name: Daily Standard Ebooks JSON
 
 on:
+  schedule:
+    - cron: '5 0 * * *'   # every day at 00:05 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Say Hello
-        run: echo "Hello, Actions! ✅"
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Echo schedule trigger
+        run: echo "Triggered at $(date -u)"
