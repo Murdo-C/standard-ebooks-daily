@@ -1,42 +1,40 @@
 name: Daily Standard Ebooks JSON
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '5 0 * * *'    # every day at 00:05 UTC
+  workflow_dispatch:
 
 jobs:
-  fetch:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Install xmlstarlet & jq
+      - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y xmlstarlet jq
 
-      - name: Fetch OPDS feed & build JSON
+      - name: Fetch OPDS & build today.json
         env:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
           set -eux
-
-          # Download feed
+          # 1) Download feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
 
-          # Count entries (ignore default namespace)
+          # 2) Count <entry> (ignore NS)
           TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
 
-          # Pick one seeded by UTC date
+          # 3) Seeded index by UTC date
           IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
 
-          # Extract that single entry
+          # 4) Extract that entry
           xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
 
-          # Pull fields
+          # 5) Pull fields
           TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml)
           AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml)
           SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | sed 's/"/\\"/g')
@@ -44,27 +42,33 @@ jobs:
           EPUB=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @type='application/epub+zip']/@href)" entry.xml)
           SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category']" -v "@term" -n entry.xml | jq -R -s 'split("\n") | map(select(length>0))')
 
-          # Emit clean JSON
-          cat > today.json << "EOF"
-{
-  "date": "$(date -u +%Y-%m-%d)",
-  "title": "${TITLE}",
-  "author": "${AUTHOR}",
-  "summary": "${SUMMARY}",
-  "coverUrl": "${COVER}",
-  "epubUrl": "${EPUB}",
-  "subjects": ${SUBJECTS}
-}
-EOF
+          # 6) Emit JSON via printf (avoids YAML here-doc woes)
+          printf '{
+  "date": "%s",
+  "title": "%s",
+  "author": "%s",
+  "summary": "%s",
+  "coverUrl": "%s",
+  "epubUrl": "%s",
+  "subjects": %s
+}\n' \
+            "$(date -u +%F)" \
+            "$TITLE" \
+            "$AUTHOR" \
+            "$SUMMARY" \
+            "$COVER" \
+            "$EPUB" \
+            "$SUBJECTS" \
+          > today.json
 
       - name: Commit & push today.json
         run: |
-          git config user.name  'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add today.json
           if git diff --quiet; then
-            echo "No change – skipping"
+            echo "No changes to commit"
           else
-            git commit -m "Daily book JSON for $(date -u +%Y-%m-%d)"
+            git commit -m "Daily book JSON $(date -u +%F)"
             git push
           fi
