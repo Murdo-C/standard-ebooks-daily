@@ -2,14 +2,14 @@ name: Daily Standard Ebooks JSON by Genre
 
 on:
   schedule:
-    # every day at 00:05 UTC
-    - cron: '5 0 * * *'
+    - cron: '5 0 * * *'   # every day at 00:05 UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout repo
         uses: actions/checkout@v3
 
@@ -24,8 +24,9 @@ jobs:
         run: |
           set -eux
 
-          # list of genres to include
+          # list of genres, with "All" first
           GENRES=(
+            All
             Adventure
             Autobiography
             Biography
@@ -47,26 +48,30 @@ jobs:
             Travel
           )
 
-          # fetch the OPDS feed
+          # download feed once
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
 
-          # start JSON array
+          # start the JSON array
           echo "[" > books.json
           first=true
 
           for GENRE in "${GENRES[@]}"; do
-            # namespace-agnostic XPath for entries tagged with this subject
-            SUBJECT_XPATH="//*[local-name()='entry' and .//*[local-name()='category' and @scheme='https://standardebooks.org/vocab/subjects' and @term=\"$GENRE\"]]"
+            # build an XPath for this genre (or all entries if GENRE=All)
+            if [ "$GENRE" = "All" ]; then
+              XPATH="//*[local-name()='entry']"
+            else
+              XPATH="//*[local-name()='entry' and .//*[local-name()='category' and @scheme='https://standardebooks.org/vocab/subjects' and @term=\"$GENRE\"]]"
+            fi
 
-            # count how many entries match
-            COUNT=$(xmlstarlet sel -t -v "count(${SUBJECT_XPATH})" feed.xml)
+            # how many match?
+            COUNT=$(xmlstarlet sel -t -v "count(${XPATH})" feed.xml)
             [ "$COUNT" -gt 0 ] || continue
 
-            # pick one seeded by date
+            # pick one by date-seeded index
             IDX=$(( (10#$(date -u +%Y%m%d) % COUNT) + 1 ))
 
-            # extract that entry
-            xmlstarlet sel -t -c "(${SUBJECT_XPATH})[$IDX]" feed.xml > entry.xml
+            # extract that single <entry>
+            xmlstarlet sel -t -c "(${XPATH})[$IDX]" feed.xml > entry.xml
 
             # pull fields
             TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml | jq -R -s 'rtrimstr("\n")')
@@ -75,10 +80,10 @@ jobs:
             COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image']/@href)" entry.xml)
             ENTRY_URL=$(xmlstarlet sel -t -v "string(//*[local-name()='id'])" entry.xml)
 
-            # build JSON object
+            # build the JSON object
             OBJ=$(jq -n \
-              --arg genre    "$GENRE" \
-              --arg date     "$(date -u +%F)" \
+              --arg genre   "$GENRE" \
+              --arg date    "$(date -u +%F)" \
               --argjson title   "$TITLE" \
               --argjson author  "$AUTHOR" \
               --argjson summary "$SUMMARY" \
@@ -94,18 +99,18 @@ jobs:
                  entryUrl: $entryUrl
                }')
 
-            # append comma if not first
+            # comma separate
             if $first; then
               first=false
             else
               echo "," >> books.json
             fi
 
-            # append the object
+            # append
             echo "$OBJ" >> books.json
           done
 
-          # close JSON array
+          # close the array
           echo "]" >> books.json
 
       - name: Commit & push books.json
