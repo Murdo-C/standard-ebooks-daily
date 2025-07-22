@@ -2,14 +2,15 @@ name: Daily Standard Ebooks JSON by Genre
 
 on:
   schedule:
-    - cron: '5 0 * * *'   # every day at 00:05 UTC
+    # every day at 00:05 UTC
+    - cron: '5 0 * * *'
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
 
+    steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
@@ -18,109 +19,67 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y xmlstarlet jq
 
-      - name: Fetch OPDS & build books.json
+      - name: Fetch OPDS & build today.json
         env:
           OPDS_KEY: ${{ secrets.OPDS_KEY }}
         run: |
           set -eux
 
-          # list of genres, with "All" first
-          GENRES=(
-            All
-            Adventure
-            Autobiography
-            Biography
-            "Children’s"
-            Comedy
-            Drama
-            Fantasy
-            Fiction
-            Horror
-            Memoir
-            Mystery
-            Nonfiction
-            Philosophy
-            Poetry
-            Satire
-            "Science Fiction"
-            Shorts
-            Spirituality
-            Travel
-          )
-
-          # download feed once
+          # 1) Download the full OPDS feed
           curl -u "$OPDS_KEY:" -sS https://standardebooks.org/feeds/opds/all > feed.xml
 
-          # start the JSON array
-          echo "[" > books.json
-          first=true
+          # 2) Count <entry> elements (ignore namespaces)
+          TOTAL=$(xmlstarlet sel -t -v "count(//*[local-name()='entry'])" feed.xml)
 
-          for GENRE in "${GENRES[@]}"; do
-            # build an XPath for this genre (or all entries if GENRE=All)
-            if [ "$GENRE" = "All" ]; then
-              XPATH="//*[local-name()='entry']"
-            else
-              XPATH="//*[local-name()='entry' and .//*[local-name()='category' and @scheme='https://standardebooks.org/vocab/subjects' and @term=\"$GENRE\"]]"
-            fi
+          # 3) Compute a seeded index based on UTC date
+          IDX=$(( (10#$(date -u +%Y%m%d) % TOTAL) + 1 ))
 
-            # how many match?
-            COUNT=$(xmlstarlet sel -t -v "count(${XPATH})" feed.xml)
-            [ "$COUNT" -gt 0 ] || continue
+          # 4) Extract just that <entry>
+          xmlstarlet sel -t -c "(//*[local-name()='entry'])[$IDX]" feed.xml > entry.xml
 
-            # pick one by date-seeded index
-            IDX=$(( (10#$(date -u +%Y%m%d) % COUNT) + 1 ))
+          # 5) Pull out the fields we need, with proper JSON quoting
+          TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml \
+            | jq -R -s 'rtrimstr("\n")')
+          AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml \
+            | jq -R -s 'rtrimstr("\n")')
+          SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml \
+            | jq -R -s 'rtrimstr("\n")')
+          COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image']/@href)" entry.xml)
+          ENTRY_URL=$(xmlstarlet sel -t -v "string(//*[local-name()='id'])" entry.xml)
+          SUBJECTS=$(xmlstarlet sel -t -m "//*[local-name()='category' and @scheme='https://standardebooks.org/vocab/subjects']" -v "@term" -n entry.xml \
+            | jq -R -s 'split("\n") | map(select(length>0))')
 
-            # extract that single <entry>
-            xmlstarlet sel -t -c "(${XPATH})[$IDX]" feed.xml > entry.xml
+          # 6) Build a JSON document with a top-level "books" array
+          jq -n \
+            --arg date     "$(date -u +%F)" \
+            --argjson title   "$TITLE" \
+            --argjson author  "$AUTHOR" \
+            --argjson summary "$SUMMARY" \
+            --arg coverUrl    "$COVER" \
+            --arg entryUrl    "$ENTRY_URL" \
+            --argjson subjects "$SUBJECTS" \
+            '{
+               books: [
+                 {
+                   date:      $date,
+                   title:     $title,
+                   author:    $author,
+                   summary:   $summary,
+                   coverUrl:  $coverUrl,
+                   entryUrl:  $entryUrl,
+                   subjects:  $subjects
+                 }
+               ]
+             }' > today.json
 
-            # pull fields
-            TITLE=$(xmlstarlet sel -t -v "string(//*[local-name()='title'])" entry.xml | jq -R -s 'rtrimstr("\n")')
-            AUTHOR=$(xmlstarlet sel -t -v "string(//*[local-name()='author']/*[local-name()='name'])" entry.xml | jq -R -s 'rtrimstr("\n")')
-            SUMMARY=$(xmlstarlet sel -t -v "string(//*[local-name()='summary'])" entry.xml | jq -R -s 'rtrimstr("\n")')
-            COVER=$(xmlstarlet sel -t -v "string(//*[local-name()='link' and @rel='http://opds-spec.org/image']/@href)" entry.xml)
-            ENTRY_URL=$(xmlstarlet sel -t -v "string(//*[local-name()='id'])" entry.xml)
-
-            # build the JSON object
-            OBJ=$(jq -n \
-              --arg genre   "$GENRE" \
-              --arg date    "$(date -u +%F)" \
-              --argjson title   "$TITLE" \
-              --argjson author  "$AUTHOR" \
-              --argjson summary "$SUMMARY" \
-              --arg coverUrl    "$COVER" \
-              --arg entryUrl    "$ENTRY_URL" \
-              '{
-                 genre:   $genre,
-                 date:    $date,
-                 title:   $title,
-                 author:  $author,
-                 summary: $summary,
-                 coverUrl: $coverUrl,
-                 entryUrl: $entryUrl
-               }')
-
-            # comma separate
-            if $first; then
-              first=false
-            else
-              echo "," >> books.json
-            fi
-
-            # append
-            echo "$OBJ" >> books.json
-          done
-
-          # close the array
-          echo "]" >> books.json
-
-      - name: Commit & push books.json
+      - name: Commit & push today.json
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add books.json
+          git add today.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Daily books JSON $(date -u +%F)"
+            git commit -m "Daily book JSON $(date -u +%F)"
             git push
           fi
