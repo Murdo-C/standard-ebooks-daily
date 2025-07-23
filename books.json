@@ -1,6 +1,6 @@
 { "books": [
 {
-  "genre": "All",
+  "genre": "all",
   "date": "2025-07-23",
   "title": "The Souls of Black Folk",
   "author": "W. E. B. Du Bois",
@@ -8,12 +8,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk",
   "subjects": [
-    "Nonfiction"
+    "nonfiction"
   ]
 }
 ,
 {
-  "genre": "Adventure",
+  "genre": "adventure",
   "date": "2025-07-23",
   "title": "Kidnapped",
   "author": "Robert Louis Stevenson",
@@ -21,14 +21,14 @@
   "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
   "subjects": [
-    "Adventure",
-    "Children’s",
-    "Fiction"
+    "adventure",
+    "children’s",
+    "fiction"
   ]
 }
 ,
 {
-  "genre": "Autobiography",
+  "genre": "autobiography",
   "date": "2025-07-23",
   "title": "Yashka",
   "author": "Maria Bochkareva",
@@ -36,13 +36,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
   "subjects": [
-    "Autobiography",
-    "Nonfiction"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
-  "genre": "Biography",
+  "genre": "biography",
   "date": "2025-07-23",
   "title": "Personal Recollections of Joan of Arc",
   "author": "Mark Twain",
@@ -50,13 +50,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
-    "Biography",
-    "Fiction"
+    "biography",
+    "fiction"
   ]
 }
 ,
 {
-  "genre": "Children’s",
+  "genre": "children’s",
   "date": "2025-07-23",
   "title": "The Shore Road Mystery",
   "author": "Franklin W. Dixon",
@@ -64,15 +64,15 @@
   "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery",
   "subjects": [
-    "Adventure",
-    "Children’s",
-    "Fiction",
-    "Mystery"
+    "adventure",
+    "children’s",
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
-  "genre": "Comedy",
+  "genre": "comedy",
   "date": "2025-07-23",
   "title": "Mike",
   "author": "P. G. Wodehouse",
@@ -80,12 +80,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
   "subjects": [
-    "Comedy"
+    "comedy"
   ]
 }
 ,
 {
-  "genre": "Drama",
+  "genre": "drama",
   "date": "2025-07-23",
   "title": "Antigone",
   "author": "Sophocles",
@@ -93,12 +93,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/sophocles/antigone/francis-storr/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/sophocles/antigone/francis-storr",
   "subjects": [
-    "Drama"
+    "drama"
   ]
 }
 ,
 {
-  "genre": "Fantasy",
+  "genre": "fantasy",
   "date": "2025-07-23",
   "title": "Master Flea",
   "author": "E. T. A. Hoffmann",
@@ -106,12 +106,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
   "subjects": [
-    "Fantasy"
+    "fantasy"
   ]
 }
 ,
 {
-  "genre": "Fiction",
+  "genre": "fiction",
   "date": "2025-07-23",
   "title": "Pimpernel and Rosemary",
   "author": "Baroness Orczy",
@@ -119,13 +119,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary",
   "subjects": [
-    "Adventure",
-    "Fiction"
+    "adventure",
+    "fiction"
   ]
 }
 ,
 {
-  "genre": "Horror",
+  "genre": "horror",
   "date": "2025-07-23",
   "title": "The Three Impostors",
   "author": "Arthur Machen",
@@ -133,13 +133,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
   "subjects": [
-    "Fiction",
-    "Horror"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
-  "genre": "Memoir",
+  "genre": "memoir",
   "date": "2025-07-23",
   "title": "Seven Pillars of Wisdom",
   "author": "T. E. Lawrence",
@@ -147,14 +147,14 @@
   "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
   "subjects": [
-    "Adventure",
-    "Memoir",
-    "Nonfiction"
+    "adventure",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
-  "genre": "Mystery",
+  "genre": "mystery",
   "date": "2025-07-23",
   "title": "Fantômas",
   "author": "Pierre Souvestre",
@@ -162,13 +162,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe",
   "subjects": [
-    "Fiction",
-    "Mystery"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
-  "genre": "Nonfiction",
+  "genre": "nonfiction",
   "date": "2025-07-23",
   "title": "The Humbugs of the World",
   "author": "P. T. Barnum",
@@ -176,12 +176,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world",
   "subjects": [
-    "Nonfiction"
+    "nonfiction"
   ]
 }
 ,
 {
-  "genre": "Philosophy",
+  "genre": "philosophy",
   "date": "2025-07-23",
   "title": "On Liberty",
   "author": "John Stuart Mill",
@@ -189,12 +189,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
   "subjects": [
-    "Philosophy"
+    "philosophy"
   ]
 }
 ,
 {
-  "genre": "Poetry",
+  "genre": "poetry",
   "date": "2025-07-23",
   "title": "The Odyssey",
   "author": "Homer",
@@ -202,12 +202,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
   "subjects": [
-    "Poetry"
+    "poetry"
   ]
 }
 ,
 {
-  "genre": "Satire",
+  "genre": "satire",
   "date": "2025-07-23",
   "title": "Dodsworth",
   "author": "Sinclair Lewis",
@@ -215,13 +215,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
   "subjects": [
-    "Fiction",
-    "Satire"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
-  "genre": "Science Fiction",
+  "genre": "science_fiction",
   "date": "2025-07-23",
   "title": "The Night Land",
   "author": "William Hope Hodgson",
@@ -229,12 +229,12 @@
   "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
   "subjects": [
-    "Science Fiction"
+    "science_fiction"
   ]
 }
 ,
 {
-  "genre": "Shorts",
+  "genre": "shorts",
   "date": "2025-07-23",
   "title": "Lord Arthur Savile’s Crime and Other Stories",
   "author": "Oscar Wilde",
@@ -242,13 +242,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories",
   "subjects": [
-    "Fiction",
-    "Shorts"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
-  "genre": "Spirituality",
+  "genre": "spirituality",
   "date": "2025-07-23",
   "title": "Practical Mysticism",
   "author": "Evelyn Underhill",
@@ -256,13 +256,13 @@
   "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
   "subjects": [
-    "Nonfiction",
-    "Spirituality"
+    "nonfiction",
+    "spirituality"
   ]
 }
 ,
 {
-  "genre": "Travel",
+  "genre": "travel",
   "date": "2025-07-23",
   "title": "Roughing It",
   "author": "Mark Twain",
@@ -270,8 +270,8 @@
   "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
   "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "Memoir",
-    "Travel"
+    "memoir",
+    "travel"
   ]
 }
 ] }
