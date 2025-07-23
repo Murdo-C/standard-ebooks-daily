@@ -56,8 +56,8 @@ jobs:
           first=true
 
           for GENRE in "${GENRES[@]}"; do
-            # Normalize genre: spaces to underscores, lowercase
-            GENRE_NORM=$(echo "$GENRE" | tr '[:upper:]' '[:lower:]' | sed 's/ /_/g')
+            # Normalize genre: spaces to underscores, lowercase, remove apostrophes
+            GENRE_NORM=$(echo "$GENRE" | tr '[:upper:]' '[:lower:]' | sed 's/ /_/g; s/[’'\'']//g')
 
             if [ "$GENRE" = "All" ]; then
               XPATH="//*[local-name()='entry']"
@@ -80,7 +80,7 @@ jobs:
             SUBJECTS=$(xmlstarlet sel -t \
               -m "//*[local-name()='category' and @scheme='https://standardebooks.org/vocab/subjects']" \
               -v "@term" -n entry.xml \
-              | jq -R -s 'split("\n") | map(select(length>0)) | map(ascii_downcase | gsub(" "; "_"))')
+              | jq -R -s 'split("\n") | map(select(length>0)) | map(ascii_downcase | gsub(" "; "_") | gsub("[’'\'']"; ""))')
 
             OBJ=$(jq -n \
               --arg genre    "$GENRE_NORM" \
