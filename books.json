@@ -1,68 +1,66 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-07-23",
-  "title": "To the Lighthouse",
-  "author": "Virginia Woolf",
-  "summary": "Over the course of a day—and again another day ten years later—the Ramsays and their friends plan a boating trip to the nearby lighthouse.",
-  "coverUrl": "https://standardebooks.org/ebooks/virginia-woolf/to-the-lighthouse/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/virginia-woolf/to-the-lighthouse",
+  "date": "2025-07-24",
+  "title": "The Eclogues",
+  "author": "Virgil",
+  "summary": "Ten pastoral poems exploring themes of love, politics, and the impact of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/virgil/the-eclogues/john-dryden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/virgil/the-eclogues/john-dryden",
   "subjects": [
-    "fiction"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-07-23",
-  "title": "Kidnapped",
+  "date": "2025-07-24",
+  "title": "The Master of Ballantrae",
   "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "summary": "The relationship of two noble brothers is blighted by hostility and vengeance in Jacobite Scotland.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-07-23",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "date": "2025-07-24",
+  "title": "Geronimo’s Story of His Life",
+  "author": "Geronimo",
+  "summary": "The Apache war chief Geronimo recounts the story of his life.",
+  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-07-23",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-07-24",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-07-23",
-  "title": "The Shore Road Mystery",
+  "date": "2025-07-24",
+  "title": "The Tower Treasure",
   "author": "Franklin W. Dixon",
-  "summary": "Two amateur slueths endeavor to break up a carjacking ring.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery",
+  "summary": "After a tower mansion is robbed, two boys are determined to find the culprit and exonerate their friend’s father.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure",
   "subjects": [
     "adventure",
     "childrens",
@@ -73,12 +71,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-07-23",
-  "title": "Mike",
+  "date": "2025-07-24",
+  "title": "Leave It to Psmith",
   "author": "P. G. Wodehouse",
-  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
+  "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith",
   "subjects": [
     "comedy"
   ]
@@ -86,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-07-23",
-  "title": "Antigone",
-  "author": "Sophocles",
-  "summary": "A young woman defies the king’s decree to honor her brother with a proper burial.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/antigone/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/antigone/francis-storr",
+  "date": "2025-07-24",
+  "title": "He Who Gets Slapped",
+  "author": "Leonid Andreyev",
+  "summary": "A mysterious gentleman joins a circus troupe as a clown.",
+  "coverUrl": "https://standardebooks.org/ebooks/leonid-andreyev/he-who-gets-slapped/gregory-zilboorg/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leonid-andreyev/he-who-gets-slapped/gregory-zilboorg",
   "subjects": [
     "drama"
   ]
@@ -99,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-07-23",
-  "title": "Master Flea",
-  "author": "E. T. A. Hoffmann",
-  "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
+  "date": "2025-07-24",
+  "title": "A Princess of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -112,7 +110,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-07-23",
+  "date": "2025-07-24",
   "title": "Pimpernel and Rosemary",
   "author": "Baroness Orczy",
   "summary": "A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.",
@@ -126,28 +124,29 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-07-23",
-  "title": "The Three Impostors",
+  "date": "2025-07-24",
+  "title": "Short Fiction",
   "author": "Arthur Machen",
-  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
   "subjects": [
     "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-07-23",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "date": "2025-07-24",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
-    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -155,21 +154,20 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-07-23",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "date": "2025-07-24",
+  "title": "The Eye of Osiris",
+  "author": "R. Austin Freeman",
+  "summary": "A newly-qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-eye-of-osiris/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-eye-of-osiris",
   "subjects": [
-    "horror",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-07-23",
+  "date": "2025-07-24",
   "title": "The Humbugs of the World",
   "author": "P. T. Barnum",
   "summary": "American archetype and cultural founding father P. T. Barnum shares a collection of anecdotes that he deems “humbugs”—fodder for the gullible, deserving of skepticism—with the goal of making his fellow citizens a little wiser and more skeptical.",
@@ -182,25 +180,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-07-23",
-  "title": "On Liberty",
-  "author": "John Stuart Mill",
-  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+  "date": "2025-07-24",
+  "title": "Two Treatises of Government",
+  "author": "John Locke",
+  "summary": "Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-07-23",
-  "title": "The Odyssey",
-  "author": "Homer",
-  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
+  "date": "2025-07-24",
+  "title": "Poetry",
+  "author": "Georgia Douglas Johnson",
+  "summary": "A collection of poems by Georgia Douglas Johnson.",
+  "coverUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,40 +207,47 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-07-23",
-  "title": "Dodsworth",
-  "author": "Sinclair Lewis",
-  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
+  "date": "2025-07-24",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "fiction",
-    "satire"
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-07-23",
-  "title": "The Night Land",
-  "author": "William Hope Hodgson",
-  "summary": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
+  "date": "2025-07-24",
+  "title": "Short Fiction",
+  "author": "Walter M. Miller Jr.",
+  "summary": "A collection of short fiction by Walter M. Miller Jr., ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-07-23",
-  "title": "Lord Arthur Savile’s Crime and Other Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s short mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories",
+  "date": "2025-07-24",
+  "title": "Golf Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
+    "comedy",
     "fiction",
     "shorts"
   ]
@@ -249,28 +255,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-07-23",
-  "title": "Practical Mysticism",
-  "author": "Evelyn Underhill",
-  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
-  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
+  "date": "2025-07-24",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-07-23",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2025-07-24",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
+    "nonfiction",
     "travel"
   ]
 }
