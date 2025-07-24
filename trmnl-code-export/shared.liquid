@@ -1,0 +1,19 @@
+{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% assign schedule = trmnl.plugin_settings.custom_fields_values.schedule | downcase %}
+{% assign filtered_data = data | where: "Calendar", schedule %}
+
+{% assign next_pickup = '' %}
+{% assign preview = '' %}
+{% assign preview_count = 0 %}
+
+{% for entry in filtered_data %}
+{% assign week_start = entry.WeekStarting | date: '%s' | plus: 0 %}
+{% if week_start >= now %}
+{% if next_pickup == '' %}
+{% assign next_pickup = entry %}
+{% elsif preview_count < 2 %}
+  {% assign preview = preview | append: entry.WeekStarting | append: '||' | append: entry.GreenBin | append: '||' | append: entry.Garbage | append: '||' | append: entry.Recycling | append: '||' | append: entry.YardWaste | append: '~~' %}
+  {% assign preview_count = preview_count | plus: 1 %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}

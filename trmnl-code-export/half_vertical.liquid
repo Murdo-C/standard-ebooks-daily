@@ -1,0 +1,52 @@
+<div class="layout layout--col gap--large items--start">
+  <!-- Next pickup -->
+  <div class="item">
+    <div class="meta"></div>
+    <div class="content" style="line-height: 1.2; overflow: visible;">
+      <span class="label">Next Pickup</span>
+      <span class="value value--tnums value--medium">
+        {{ next_pickup.WeekStarting | date: "%a, %-d %b" }}
+      </span>
+      <span class="value value--medium">
+        {% if next_pickup.GreenBin != '0' %}<br>Green Bin{% endif %}
+        {% if next_pickup.Garbage != '0' %}<br>Garbage{% endif %}
+        {% if next_pickup.Recycling != '0' %}<br>Recycling{% endif %}
+        {% if next_pickup.YardWaste != '0' %}<br>Yard Waste{% endif %}
+      </span>
+    </div>
+  </div>
+
+  <div class="w--full b-h-gray-5"></div>
+
+  <!-- TWO WEEK PREVIEW -->
+  <div class="grid gap--xsmall">
+    {% assign preview_entries = preview | split: '~~' %}
+    {% for preview_entry in preview_entries %}
+    {% if preview_entry != '' %}
+    {% assign parts = preview_entry | split: '||' %}
+    {% assign date = parts[0] %}
+    {% assign green = parts[1] %}
+    {% assign garbage = parts[2] %}
+    {% assign recycling = parts[3] %}
+    {% assign yard = parts[4] %}
+
+    <div class="content text--center" style="line-height: 1;">
+      <span class="label">{{ date | date: "%a, %-d %b" }}</span>
+      <span class="value value--xsmall">
+        {% if green != '0' %} Green Bin {% endif %}
+        {% if garbage != '0' %} Garbage {% endif %}
+        {% if recycling != '0' %} Recycling {% endif %}
+        {% if yard != '0' %} Yard Waste {% endif %}
+      </span>
+    </div>
+
+    {% endif %}
+    {% endfor %}
+  </div>
+
+</div>
+
+<div class="title_bar">
+  <span class="title">2025 Waste – {{ schedule | capitalize }}</span>
+  <span class="instance">Refreshed: {{ "now" | date: "%m-%d" }}</span>
+</div>

@@ -1,0 +1,76 @@
+<div class="layout layout--col gap--space-between">
+
+    <!-- NEXT PICKUP BLOCK -->
+    {% if next_pickup != '' %}
+    <div class="grid">
+      <div class="item col--span-12 items--start" style="overflow: visible;">
+        <div class="meta"></div>
+        <div class="content" style="overflow: visible; padding-bottom: 0.25rem; line-height: 1.2;">
+          <span class="label">Next Pickup</span>
+          <span class="value value--small value--tnums">{{ next_pickup.WeekStarting | date: "%a, %-d %B %Y" }}</span>
+          <span class="value value--medium" style="line-height: 1.1;"> 
+            {% if next_pickup.GreenBin != '0' %}<br>Green Bin{% endif %}
+            {% if next_pickup.Garbage != '0' %}<br>Garbage{% endif %}
+            {% if next_pickup.Recycling != '0' %}<br>Recycling{% endif %}
+            {% if next_pickup.YardWaste != '0' %}<br>Yard Waste{% endif %}
+          </span>
+        </div>
+      </div>
+    </div>
+    {% else %}
+    <div class="grid">
+      <div class="item col--span-12 items--start" style="overflow: visible;">
+        <div class="meta"></div>
+        <div class="content" style="overflow: visible; padding-bottom: 0.25rem; line-height: 1.2;">
+          <span class="label">Next Pickup</span>
+          <span class="value value--small">No upcoming pickup found</span>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="w--full b-h-gray-5"></div>
+
+    <!-- TWO WEEK PREVIEW -->
+    <div class="grid gap--small items--start">
+      {% assign preview_entries = preview | split: '~~' %}
+      {% for preview_entry in preview_entries %}
+      {% if preview_entry != '' %}
+      {% assign parts = preview_entry | split: '||' %}
+      {% assign date = parts[0] %}
+      {% assign green = parts[1] %}
+      {% assign garbage = parts[2] %}
+      {% assign recycling = parts[3] %}
+      {% assign yard = parts[4] %}
+
+      <div class="item col--span-6 content--start" style="min-height: 140px;"> 
+        <div class="meta"></div>
+        <div class="content content--start" style="align-self: flex-start;">
+          <span class="label">Upcoming Pickup</span>
+          <span class="value value--tnums value--xsmall">{{ date | date: "%a, %-d %B" }}</span>
+          <span class="value value--xsmall" style="line-height: 1.2;">
+            {% if green != '0' %}<br>Green Bin{% endif %}
+            {% if garbage != '0' %}<br>Garbage{% endif %}
+            {% if recycling != '0' %}<br>Recycling{% endif %}
+            {% if yard != '0' %}<br>Yard Waste{% endif %}
+          </span>
+        </div>
+      </div>
+
+      {% unless forloop.last %} 
+      {% endunless %}
+
+      {% endif %}
+      {% endfor %}
+    </div>
+
+  </div>
+
+<div class="title_bar">
+  <span class="title">
+    2025 Waste Collection – {{ schedule | capitalize }}
+  </span>
+  <span class="instance">
+    Refreshed: {{ "now" | date: "%Y-%m-%d" }}
+  </span>
+</div>

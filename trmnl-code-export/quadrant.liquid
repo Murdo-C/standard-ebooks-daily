@@ -1,0 +1,22 @@
+<div class="layout layout--col gap--xsmall items--start">
+  <div class="item">
+    <div class="meta"></div>
+    <div class="content" style="line-height: 1.2; overflow: visible;">
+      <span class="label">Next Pickup</span>
+      <span class="value value--small value--tnums">
+        {{ next_pickup.WeekStarting | date: "%a, %-d %B %Y" }}
+      </span>
+      <span class="value value--small">
+        {% if next_pickup.GreenBin != '0' %}<br>Green Bin{% endif %}
+        {% if next_pickup.Garbage != '0' %}<br>Garbage{% endif %}
+        {% if next_pickup.Recycling != '0' %}<br>Recycling{% endif %}
+        {% if next_pickup.YardWaste != '0' %}<br>Yard Waste{% endif %}
+      </span>
+    </div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <span class="title">
+    2025 Waste – {{ schedule | capitalize }}
+  </span>
