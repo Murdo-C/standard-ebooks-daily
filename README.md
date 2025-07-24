@@ -17,7 +17,7 @@ The goal was to deliver a timeless book discovery experience—free, beautifully
 
 ## today.json schema
 
-Each day at 00:05 UTC, a GitHub Action fetches one random book from the full catalog and one from each genre. The result is a JSON file with this structure:
+Each day at 00:05 UTC, a GitHub Action fetches one random book from the full catalog and one from each genre. The result is a [books JSON](https://github.com/Murdo-C/standard-ebooks-daily/blob/main/books.json) file with this structure:
 
 ```json
 {
@@ -41,7 +41,7 @@ Every night, GitHub Actions:
    3.1. One book from the full catalog  
    3.2. One book from each of the 19 genre categories  
 4. Parses key fields via `xmlstarlet` and `jq`  
-5. Outputs a clean `books.json` (and `today.json` for single-book views)  
+5. Outputs a clean `books.json` 
 6. Commits and pushes if changes are detected  
 
 Built with:
