@@ -1,40 +1,39 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-07-25",
-  "title": "The Georgics",
-  "author": "Virgil",
-  "summary": "Virgil explores rural life, providing practical advice on agriculture, arboriculture, viticulture, animal husbandry, and beekeeping.",
-  "coverUrl": "https://standardebooks.org/ebooks/virgil/the-georgics/john-dryden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/virgil/the-georgics/john-dryden",
+  "date": "2025-07-26",
+  "title": "Passages from the Life of a Philosopher",
+  "author": "Charles Babbage",
+  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
   "subjects": [
-    "poetry"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-07-25",
-  "title": "Treasure Island",
-  "author": "Robert Louis Stevenson",
-  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "date": "2025-07-26",
+  "title": "Bellarion the Fortunate",
+  "author": "Rafael Sabatini",
+  "summary": "An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-07-25",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
+  "date": "2025-07-26",
+  "title": "Pointed Roofs",
+  "author": "Dorothy M. Richardson",
+  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
   "subjects": [
     "autobiography",
     "fiction"
@@ -43,26 +42,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-07-25",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2025-07-26",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-07-25",
-  "title": "The Secret of the Caves",
+  "date": "2025-07-26",
+  "title": "The Mystery of Cabin Island",
   "author": "Franklin W. Dixon",
-  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "summary": "A group of amateur detectives unravel the mystery of a missing stamps collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island",
   "subjects": [
     "adventure",
     "childrens",
@@ -73,12 +72,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-07-25",
-  "title": "A Gentleman of Leisure",
-  "author": "P. G. Wodehouse",
-  "summary": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure",
+  "date": "2025-07-26",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
   "subjects": [
     "comedy",
     "fiction"
@@ -87,12 +86,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-07-25",
-  "title": "The Power of Darkness",
-  "author": "Leo Tolstoy",
-  "summary": "Two Russian peasants tragically succumb to selfish, immoral temptations.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
+  "date": "2025-07-26",
+  "title": "The Mule-Bone",
+  "author": "Langston Hughes",
+  "summary": "A guitarist and a dancer compete for the same woman’s affection.",
+  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone",
   "subjects": [
     "drama"
   ]
@@ -100,12 +99,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-07-25",
-  "title": "The Chessmen of Mars",
+  "date": "2025-07-26",
+  "title": "The Gods of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars",
+  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -113,106 +112,104 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-07-25",
-  "title": "Sir Percy Hits Back",
-  "author": "Baroness Orczy",
-  "summary": "A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back",
+  "date": "2025-07-26",
+  "title": "Iola Leroy",
+  "author": "Frances Ellen Watkins Harper",
+  "summary": "As the Civil War rages, a young woman living the North is unaware of her African ancestry until she returns to the South and is immediately enslaved.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/iola-leroy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/iola-leroy",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-07-25",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "date": "2025-07-26",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "horror",
-    "mystery"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-07-25",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2025-07-26",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "adventure",
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-07-25",
-  "title": "The D’Arblay Mystery",
-  "author": "R. Austin Freeman",
-  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
+  "date": "2025-07-26",
+  "title": "Fantômas",
+  "author": "Pierre Souvestre",
+  "summary": "A shapeshifting arch-villain terrorizes Parisian society.",
+  "coverUrl": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-07-25",
-  "title": "Struggles and Triumphs",
-  "author": "P. T. Barnum",
-  "summary": "The world’s greatest showman tells the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
+  "date": "2025-07-26",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
-    "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-07-25",
-  "title": "The Crock of Gold",
-  "author": "James Stephens",
-  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+  "date": "2025-07-26",
+  "title": "Democracy and Social Ethics",
+  "author": "Jane Addams",
+  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
   "subjects": [
-    "comedy",
-    "fantasy",
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-07-25",
-  "title": "Poetry",
-  "author": "Fernando Pessoa",
-  "summary": "A collection of Fernando Pessoa’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+  "date": "2025-07-26",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
   "subjects": [
-    "poetry"
+    "comedy",
+    "poetry",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-07-25",
+  "date": "2025-07-26",
   "title": "Penguin Island",
   "author": "Anatole France",
   "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
@@ -227,21 +224,20 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-07-25",
-  "title": "Short Fiction",
-  "author": "Walter M. Miller Jr.",
-  "summary": "A collection of short fiction by Walter M. Miller Jr., ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
+  "date": "2025-07-26",
+  "title": "The Survivors",
+  "author": "Tom Godwin",
+  "summary": "A group of humans stranded on a deadly planet try to survive the harsh conditions and take revenge on the aliens that left them there.",
+  "coverUrl": "https://standardebooks.org/ebooks/tom-godwin/the-survivors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/tom-godwin/the-survivors",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-07-25",
+  "date": "2025-07-26",
   "title": "School Stories",
   "author": "P. G. Wodehouse",
   "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
@@ -256,14 +252,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-07-25",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2025-07-26",
+  "title": "Verses on Various Occasions",
+  "author": "John Henry Newman",
+  "summary": "A collection of poems by John Henry Newman.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
   "subjects": [
-    "fiction",
     "poetry",
     "spirituality"
   ]
@@ -271,15 +266,16 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-07-25",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2025-07-26",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
     "comedy",
     "fiction",
+    "spirituality",
     "travel"
   ]
 }
