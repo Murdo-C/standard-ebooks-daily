@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-07-27",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2025-07-28",
+  "title": "Stand by for Mars!",
+  "author": "Carey Rockwell",
+  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
+  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
   "subjects": [
-    "autobiography"
+    "adventure",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-07-27",
-  "title": "The Survivors of the Chancellor",
+  "date": "2025-07-28",
+  "title": "The Fur Country",
   "author": "Jules Verne",
-  "summary": "A record of the ill-fated voyage of the Chancellor as told by one of the passengers.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer",
+  "summary": "A group of colonists attempt to settle in the Arctic Circle.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-07-27",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2025-07-28",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
   "subjects": [
     "autobiography"
   ]
@@ -41,40 +42,39 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-07-27",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2025-07-28",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2025-07-27",
-  "title": "Bambi",
-  "author": "Felix Salten",
-  "summary": "A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.",
-  "coverUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers",
-  "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "childrens",
+  "date": "2025-07-28",
+  "title": "Pollyanna Grows Up",
+  "author": "Eleanor H. Porter",
+  "summary": "Pollyanna recovers from an automobile accident with the help of a nearby dowager, before leaving the country to later return to rural Vermont.",
+  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up",
+  "subjects": [
+    "childrens"
+  ]
+}
+,
+{
   "genre": "comedy",
-  "date": "2025-07-27",
-  "title": "Jurgen",
+  "date": "2025-07-28",
+  "title": "Figures of Earth",
   "author": "James Branch Cabell",
-  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
+  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
   "subjects": [
     "comedy",
     "fantasy"
@@ -83,39 +83,40 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-07-27",
-  "title": "R.U.R.",
-  "author": "Karel Čapek",
-  "summary": "The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.",
-  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
+  "date": "2025-07-28",
+  "title": "The Man of Destiny",
+  "author": "George Bernard Shaw",
+  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
   "subjects": [
-    "drama",
-    "science_fiction"
+    "comedy",
+    "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-07-27",
-  "title": "Lady Into Fox",
-  "author": "David Garnett",
-  "summary": "A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox",
+  "date": "2025-07-28",
+  "title": "A Voyage to Arcturus",
+  "author": "David Lindsay",
+  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-07-27",
-  "title": "The Fifth Queen",
-  "author": "Ford Madox Ford",
-  "summary": "A young noblewoman arrives at court and quickly gets embroiled in court politics and comes to the attention of the king.",
-  "coverUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen",
+  "date": "2025-07-28",
+  "title": "The Beautiful and Damned",
+  "author": "F. Scott Fitzgerald",
+  "summary": "The marriage between a down-and-out aesthete and a self-indulgent flapper begins to crumble against the backdrop of World War I and America’s Jazz Age.",
+  "coverUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-beautiful-and-damned/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-beautiful-and-damned",
   "subjects": [
     "fiction"
   ]
@@ -123,56 +124,25 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-07-27",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "date": "2025-07-28",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
-    "fiction",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-07-27",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
-  "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-07-27",
-  "title": "Uncle Silas",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "An heiress becomes ward to her disreputable uncle with an unsavory past, tainted by the apparent suicide of a man to whom he owed a large gambling debt, and must help clear his name.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas",
-  "subjects": [
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-07-27",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2025-07-28",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -181,26 +151,55 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2025-07-27",
-  "title": "Moribund Society and Anarchy",
-  "author": "Jean Grave",
-  "summary": "Jean Grave systemically critiques bourgeois society from an anarchist perspective.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
+  "genre": "mystery",
+  "date": "2025-07-28",
+  "title": "The Middle Temple Murder",
+  "author": "J. S. Fletcher",
+  "summary": "A murder in London’s Middle Temple uncovers a twenty year old conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder",
   "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-07-28",
+  "title": "The New State",
+  "author": "Mary Parker Follett",
+  "summary": "The theory of group organization is formulated and applied in an attempt to design a truly democratic political state.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-07-28",
+  "title": "The Social Contract",
+  "author": "Jean-Jacques Rousseau",
+  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+  "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-07-27",
-  "title": "The Kalevala",
-  "author": "Elias Lönnrot",
-  "summary": "The Finnish national epic poem recounting the creation of the Earth and the adventures of its mythical heroes.",
-  "coverUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford",
+  "date": "2025-07-28",
+  "title": "Sonnets from the Portuguese",
+  "author": "Elizabeth Barrett Browning",
+  "summary": "A collection of 44 love sonnets.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese",
   "subjects": [
     "poetry"
   ]
@@ -208,41 +207,40 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-07-27",
-  "title": "The Luck of Barry Lyndon",
-  "author": "William Makepeace Thackeray",
-  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
+  "date": "2025-07-28",
+  "title": "Candide",
+  "author": "Voltaire",
+  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-07-27",
-  "title": "The Jewels of Aptor",
-  "author": "Samuel R. Delany",
-  "summary": "Four companions travel to the mysterious island of Aptor in search of a jewel.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor",
+  "date": "2025-07-28",
+  "title": "Short Fiction",
+  "author": "Robert Sheckley",
+  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-07-27",
+  "date": "2025-07-28",
   "title": "Short Fiction",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "author": "Nella Larsen",
+  "summary": "A collection of Nella Larsen’s short fiction by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/nella-larsen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/nella-larsen/short-fiction",
   "subjects": [
-    "comedy",
     "fiction",
     "shorts"
   ]
@@ -250,30 +248,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-07-27",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2025-07-28",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "fiction",
-    "poetry",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-07-27",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2025-07-28",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
+    "memoir",
     "nonfiction",
-    "spirituality",
     "travel"
   ]
 }
