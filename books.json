@@ -1,35 +1,35 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-07-28",
-  "title": "Stand by for Mars!",
-  "author": "Carey Rockwell",
-  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
-  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
+  "date": "2025-07-29",
+  "title": "So Big",
+  "author": "Edna Ferber",
+  "summary": "A woman discovers her own inner strength when she decides to teach children in a rural farming area.",
+  "coverUrl": "https://standardebooks.org/ebooks/edna-ferber/so-big/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edna-ferber/so-big",
   "subjects": [
-    "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-07-28",
-  "title": "The Fur Country",
-  "author": "Jules Verne",
-  "summary": "A group of colonists attempt to settle in the Arctic Circle.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers",
+  "date": "2025-07-29",
+  "title": "Catriona",
+  "author": "Robert Louis Stevenson",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
     "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-07-28",
+  "date": "2025-07-29",
   "title": "The Autobiography of Calvin Coolidge",
   "author": "Calvin Coolidge",
   "summary": "The thirtieth president of the United States recounts his life story.",
@@ -42,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-07-28",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2025-07-29",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-07-28",
-  "title": "Pollyanna Grows Up",
+  "date": "2025-07-29",
+  "title": "Pollyanna",
   "author": "Eleanor H. Porter",
-  "summary": "Pollyanna recovers from an automobile accident with the help of a nearby dowager, before leaving the country to later return to rural Vermont.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up",
+  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
+  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
   "subjects": [
     "childrens"
   ]
@@ -69,75 +69,77 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-07-28",
-  "title": "Figures of Earth",
-  "author": "James Branch Cabell",
-  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
+  "date": "2025-07-29",
+  "title": "Kipps",
+  "author": "H. G. Wells",
+  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
   "subjects": [
     "comedy",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-07-28",
-  "title": "The Man of Destiny",
-  "author": "George Bernard Shaw",
-  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
+  "date": "2025-07-29",
+  "title": "The Hairy Ape",
+  "author": "Eugene O’Neill",
+  "summary": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
+  "coverUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-07-28",
-  "title": "A Voyage to Arcturus",
-  "author": "David Lindsay",
-  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
+  "date": "2025-07-29",
+  "title": "Five Children and It",
+  "author": "E. Nesbit",
+  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
   "subjects": [
-    "fantasy",
-    "philosophy"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-07-28",
-  "title": "The Beautiful and Damned",
-  "author": "F. Scott Fitzgerald",
-  "summary": "The marriage between a down-and-out aesthete and a self-indulgent flapper begins to crumble against the backdrop of World War I and America’s Jazz Age.",
-  "coverUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-beautiful-and-damned/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-beautiful-and-damned",
+  "date": "2025-07-29",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
   "subjects": [
+    "comedy",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-07-28",
-  "title": "The Beetle",
-  "author": "Richard Marsh",
-  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
+  "date": "2025-07-29",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
-    "horror"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-07-28",
+  "date": "2025-07-29",
   "title": "The Mirror of the Sea",
   "author": "Joseph Conrad",
   "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
@@ -152,12 +154,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-07-28",
-  "title": "The Middle Temple Murder",
+  "date": "2025-07-29",
+  "title": "The Middle of Things",
   "author": "J. S. Fletcher",
-  "summary": "A murder in London’s Middle Temple uncovers a twenty year old conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder",
+  "summary": "The murder of a wealthy man raises questions about the identity of the young woman who is his ward.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,40 +168,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-07-28",
-  "title": "The New State",
-  "author": "Mary Parker Follett",
-  "summary": "The theory of group organization is formulated and applied in an attempt to design a truly democratic political state.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state",
+  "date": "2025-07-29",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-07-28",
-  "title": "The Social Contract",
-  "author": "Jean-Jacques Rousseau",
-  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+  "date": "2025-07-29",
+  "title": "The Servile State",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-07-28",
-  "title": "Sonnets from the Portuguese",
-  "author": "Elizabeth Barrett Browning",
-  "summary": "A collection of 44 love sonnets.",
-  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese",
+  "date": "2025-07-29",
+  "title": "Poetry",
+  "author": "Edward Thomas",
+  "summary": "A collection of poetry by Edward Thomas.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry",
   "subjects": [
     "poetry"
   ]
@@ -207,40 +208,42 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-07-28",
-  "title": "Candide",
-  "author": "Voltaire",
-  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
+  "date": "2025-07-29",
+  "title": "Sunshine Sketches of a Little Town",
+  "author": "Stephen Leacock",
+  "summary": "A humorous account of life in the fictional small town of Mariposa.",
+  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
   "subjects": [
+    "comedy",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-07-28",
-  "title": "Short Fiction",
-  "author": "Robert Sheckley",
-  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+  "date": "2025-07-29",
+  "title": "The Jewels of Aptor",
+  "author": "Samuel R. Delany",
+  "summary": "Four companions travel to the mysterious island of Aptor in search of a jewel.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-07-28",
-  "title": "Short Fiction",
-  "author": "Nella Larsen",
-  "summary": "A collection of Nella Larsen’s short fiction by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/nella-larsen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/nella-larsen/short-fiction",
+  "date": "2025-07-29",
+  "title": "Golf Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
+    "comedy",
     "fiction",
     "shorts"
   ]
@@ -248,7 +251,7 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-07-28",
+  "date": "2025-07-29",
   "title": "Religion and the Rise of Capitalism",
   "author": "R. H. Tawney",
   "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
@@ -263,12 +266,12 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-07-28",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2025-07-29",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
     "memoir",
     "nonfiction",
