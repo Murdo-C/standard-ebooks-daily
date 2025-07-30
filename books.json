@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-07-29",
-  "title": "So Big",
-  "author": "Edna Ferber",
-  "summary": "A woman discovers her own inner strength when she decides to teach children in a rural farming area.",
-  "coverUrl": "https://standardebooks.org/ebooks/edna-ferber/so-big/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edna-ferber/so-big",
+  "date": "2025-07-30",
+  "title": "The Well of Loneliness",
+  "author": "Radclyffe Hall",
+  "summary": "A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.",
+  "coverUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness",
   "subjects": [
     "fiction"
   ]
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-07-29",
+  "date": "2025-07-30",
   "title": "Catriona",
   "author": "Robert Louis Stevenson",
   "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
@@ -29,79 +29,41 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-07-29",
-  "title": "The Autobiography of Calvin Coolidge",
-  "author": "Calvin Coolidge",
-  "summary": "The thirtieth president of the United States recounts his life story.",
-  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
+  "date": "2025-07-30",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-07-29",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-07-30",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-07-29",
-  "title": "Pollyanna",
-  "author": "Eleanor H. Porter",
-  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
-  "subjects": [
-    "childrens"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2025-07-29",
-  "title": "Kipps",
-  "author": "H. G. Wells",
-  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2025-07-29",
-  "title": "The Hairy Ape",
-  "author": "Eugene O’Neill",
-  "summary": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
-  "coverUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2025-07-29",
-  "title": "Five Children and It",
+  "date": "2025-07-30",
+  "title": "The Phoenix and the Carpet",
   "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
   "subjects": [
     "childrens",
     "fantasy"
@@ -109,57 +71,95 @@
 }
 ,
 {
-  "genre": "fiction",
-  "date": "2025-07-29",
-  "title": "The Cords of Vanity",
-  "author": "James Branch Cabell",
-  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "genre": "comedy",
+  "date": "2025-07-30",
+  "title": "The Man of Destiny",
+  "author": "George Bernard Shaw",
+  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
   "subjects": [
     "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2025-07-30",
+  "title": "Pericles",
+  "author": "William Shakespeare",
+  "summary": "A Tyrian prince flees after he discovers a terrible secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2025-07-30",
+  "title": "The Lost Continent",
+  "author": "C. J. Cutcliffe Hyne",
+  "summary": "A swashbuckling adventure on the fabled continent of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2025-07-30",
+  "title": "The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
+  "subjects": [
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-07-29",
+  "date": "2025-07-30",
   "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "author": "M. R. James",
+  "summary": "A collection of ghost stories written by M. R. James.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-07-29",
-  "title": "The Mirror of the Sea",
+  "date": "2025-07-30",
+  "title": "A Personal Record",
   "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-07-29",
-  "title": "The Middle of Things",
-  "author": "J. S. Fletcher",
-  "summary": "The murder of a wealthy man raises questions about the identity of the young woman who is his ward.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things",
+  "date": "2025-07-30",
+  "title": "Murder in the Maze",
+  "author": "J. J. Connington",
+  "summary": "Twin brothers are found murdered in a maze, and the local Chief Constable must solve the crime.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,39 +168,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-07-29",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2025-07-30",
+  "title": "The Humbugs of the World",
+  "author": "P. T. Barnum",
+  "summary": "American archetype and cultural founding father P. T. Barnum shares a collection of anecdotes that he deems “humbugs”—fodder for the gullible, deserving of skepticism—with the goal of making his fellow citizens a little wiser and more skeptical.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world",
   "subjects": [
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-07-29",
-  "title": "The Servile State",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state",
+  "date": "2025-07-30",
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "summary": "Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-07-29",
+  "date": "2025-07-30",
   "title": "Poetry",
-  "author": "Edward Thomas",
-  "summary": "A collection of poetry by Edward Thomas.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,40 +208,41 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-07-29",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2025-07-30",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
     "comedy",
-    "fiction",
+    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-07-29",
-  "title": "The Jewels of Aptor",
-  "author": "Samuel R. Delany",
-  "summary": "Four companions travel to the mysterious island of Aptor in search of a jewel.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor",
+  "date": "2025-07-30",
+  "title": "Short Fiction",
+  "author": "Robert Sheckley",
+  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-07-29",
-  "title": "Golf Stories",
+  "date": "2025-07-30",
+  "title": "School Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
+  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -251,27 +252,26 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-07-29",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2025-07-30",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
     "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-07-29",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2025-07-30",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
