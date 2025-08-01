@@ -1,98 +1,95 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-07-31",
-  "title": "The Well of Loneliness",
-  "author": "Radclyffe Hall",
-  "summary": "A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.",
-  "coverUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness",
+  "date": "2025-08-01",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
   "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2025-07-31",
-  "title": "Kidnapped",
-  "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
-  "subjects": [
-    "adventure",
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-07-31",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
-  "subjects": [
-    "adventure",
-    "autobiography",
     "memoir",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "biography",
-  "date": "2025-07-31",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "genre": "adventure",
+  "date": "2025-08-01",
+  "title": "The Vicomte de Bragelonne",
+  "author": "Alexandre Dumas",
+  "summary": "The events of the early days of Louis XIV’s majority reign in France, including the continuing story of the four musketeers who served both Louis XIV’s father and himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-vicomte-de-bragelonne/george-routledge-and-co/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-vicomte-de-bragelonne/george-routledge-and-co",
   "subjects": [
-    "biography",
+    "adventure"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2025-08-01",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
+  "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2025-07-31",
-  "title": "The Railway Children",
-  "author": "E. Nesbit",
-  "summary": "After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children",
+  "genre": "biography",
+  "date": "2025-08-01",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
-    "childrens",
+    "biography",
     "fiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-08-01",
+  "title": "The Story of the Treasure Seekers",
+  "author": "E. Nesbit",
+  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
+  "subjects": [
+    "adventure",
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-07-31",
-  "title": "Brewster’s Millions",
-  "author": "George Barr McCutcheon",
-  "summary": "A young man stands to gain a fortune—but only if he loses one first.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions",
+  "date": "2025-08-01",
+  "title": "The Way of the World",
+  "author": "William Congreve",
+  "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world",
   "subjects": [
     "comedy",
-    "fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-07-31",
-  "title": "Measure for Measure",
-  "author": "William Shakespeare",
-  "summary": "A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure",
+  "date": "2025-08-01",
+  "title": "Heartbreak House",
+  "author": "George Bernard Shaw",
+  "summary": "Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house",
   "subjects": [
     "drama"
   ]
@@ -100,50 +97,78 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-07-31",
-  "title": "The Lost World",
-  "author": "Arthur Conan Doyle",
-  "summary": "A team of scientists and adventurers explores a prehistoric land.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+  "date": "2025-08-01",
+  "title": "The Worm Ouroboros",
+  "author": "E. R. Eddison",
+  "summary": "The King Gorice of Witchland and the lords of Demonland wage war in the high-fantasy lands of Mercury.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros",
   "subjects": [
-    "adventure",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-07-31",
-  "title": "The Adventures of Huckleberry Finn",
-  "author": "Mark Twain",
-  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
+  "date": "2025-08-01",
+  "title": "The Son of the Wolf",
+  "author": "Jack London",
+  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
   "subjects": [
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2025-07-31",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
-  "subjects": [
-    "horror",
-    "science_fiction",
+    "adventure",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
+  "genre": "horror",
+  "date": "2025-08-01",
+  "title": "The Three Impostors",
+  "author": "Arthur Machen",
+  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
   "genre": "memoir",
-  "date": "2025-07-31",
+  "date": "2025-08-01",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "subjects": [
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-08-01",
+  "title": "The Sign of the Four",
+  "author": "Arthur Conan Doyle",
+  "summary": "An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-08-01",
   "title": "South!",
   "author": "Ernest Shackleton",
   "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
@@ -157,40 +182,13 @@
 }
 ,
 {
-  "genre": "mystery",
-  "date": "2025-07-31",
-  "title": "The Big Bow Mystery",
-  "author": "Israel Zangwill",
-  "summary": "A seemingly impossible murder committed during the trade union movement becomes the obsession of London’s Bow district.",
-  "coverUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery",
-  "subjects": [
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-07-31",
-  "title": "Struggles and Triumphs",
-  "author": "P. T. Barnum",
-  "summary": "The world’s greatest showman tells the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
   "genre": "philosophy",
-  "date": "2025-07-31",
-  "title": "The Crowd",
-  "author": "Gustave Le Bon",
-  "summary": "Le Bon explores the psychology, motivations, and dangers of crowds of people.",
-  "coverUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+  "date": "2025-08-01",
+  "title": "On Liberty",
+  "author": "John Stuart Mill",
+  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
   "subjects": [
     "philosophy"
   ]
@@ -198,12 +196,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-07-31",
-  "title": "Spoon River Anthology",
-  "author": "Edgar Lee Masters",
-  "summary": "A collection of short poems recounting the lives and deaths of the residents of a small Illinois town.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology",
+  "date": "2025-08-01",
+  "title": "The Argonautica",
+  "author": "Apollonius of Rhodes",
+  "summary": "A Greek hero voyages to a distant land to steal the fabled Golden Fleece.",
+  "coverUrl": "https://standardebooks.org/ebooks/apollonius-of-rhodes/the-argonautica/arthur-s-way/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apollonius-of-rhodes/the-argonautica/arthur-s-way",
   "subjects": [
     "poetry"
   ]
@@ -211,20 +209,34 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-07-31",
-  "title": "The History of Rasselas, Prince of Abyssinia",
-  "author": "Samuel Johnson",
-  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
+  "date": "2025-08-01",
+  "title": "Gulliver’s Travels",
+  "author": "Jonathan Swift",
+  "summary": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
   "subjects": [
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-07-31",
+  "date": "2025-08-01",
+  "title": "The Moon Pool",
+  "author": "A. Merritt",
+  "summary": "A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2025-08-01",
   "title": "Short Fiction",
   "author": "Ray Bradbury",
   "summary": "A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.",
@@ -237,44 +249,30 @@
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2025-07-31",
-  "title": "Short Fiction",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2025-07-31",
-  "title": "Orthodoxy",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+  "date": "2025-08-01",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
-    "philosophy",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-07-31",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2025-08-01",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
-    "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
