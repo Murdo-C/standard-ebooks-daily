@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-02",
+  "date": "2025-08-03",
   "title": "The Plastic Age",
   "author": "Percy Marks",
   "summary": "A student at an upscale liberal arts college navigates challenges, pitfalls, disillusionment, and the possibilities of his undergraduate experience in Jazz Age New England.",
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-02",
+  "date": "2025-08-03",
   "title": "Tarzan of the Apes",
   "author": "Edgar Rice Burroughs",
   "summary": "An orphan is raised by apes in Africa and goes on various adventures.",
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-02",
-  "title": "The Autobiography of Mark Twain",
-  "author": "Mark Twain",
-  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
+  "date": "2025-08-03",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-08-02",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2025-08-03",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,26 +56,26 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-02",
-  "title": "Five Children and It",
-  "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "date": "2025-08-03",
+  "title": "Understood Betsy",
+  "author": "Dorothy Canfield Fisher",
+  "summary": "A young girl discovers independence, responsibility, and newfound confidence after being sent to live in a farmhouse with her extended family.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-02",
-  "title": "The Way of the World",
-  "author": "William Congreve",
-  "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world",
+  "date": "2025-08-03",
+  "title": "Our American Cousin",
+  "author": "Tom Taylor",
+  "summary": "A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.",
+  "coverUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-08-02",
-  "title": "Major Barbara",
+  "date": "2025-08-03",
+  "title": "Mrs. Warren’s Profession",
   "author": "George Bernard Shaw",
-  "summary": "The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara",
+  "summary": "A young woman learns a secret about her mother’s past and must decide what it means for her future.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession",
   "subjects": [
     "drama"
   ]
@@ -97,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-02",
-  "title": "Wet Magic",
+  "date": "2025-08-03",
+  "title": "The House of Arden",
   "author": "E. Nesbit",
-  "summary": "A group of children visiting the seaside free a captive mermaid and visit her domain.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic",
+  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
   "subjects": [
     "childrens",
     "fantasy"
@@ -111,7 +111,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-02",
+  "date": "2025-08-03",
   "title": "When God Laughs",
   "author": "Jack London",
   "summary": "The eleventh collection of short stories by Jack London.",
@@ -126,82 +126,86 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-08-02",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "date": "2025-08-03",
+  "title": "Short Fiction",
+  "author": "Arthur Machen",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
   "subjects": [
     "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-02",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2025-08-03",
+  "title": "Essays",
+  "author": "Henry David Thoreau",
+  "summary": "A collection of Henry David Thoreau’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-02",
-  "title": "A Study in Scarlet",
+  "date": "2025-08-03",
+  "title": "His Last Bow",
   "author": "Arthur Conan Doyle",
-  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
+  "summary": "The world’s first consulting detective and his faithful biographer tackle more mysterious cases.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-02",
-  "title": "Essays",
-  "author": "Errico Malatesta",
-  "summary": "A collection of essays by Errico Malatesta.",
-  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/free-society-library_f-a-b_industrial-syndicalist-education-league_norman-matson_freedom-press/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/free-society-library_f-a-b_industrial-syndicalist-education-league_norman-matson_freedom-press",
+  "date": "2025-08-03",
+  "title": "A Daughter of the Samurai",
+  "author": "Etsu Inagaki Sugimoto",
+  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
+  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-02",
-  "title": "Two Treatises of Government",
-  "author": "John Locke",
-  "summary": "Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+  "date": "2025-08-03",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
-    "nonfiction",
+    "comedy",
+    "fantasy",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-02",
-  "title": "Idylls of the King",
-  "author": "Alfred, Lord Tennyson",
-  "summary": "Twelve poems detailing the adventures of Arthur’s round table.",
-  "coverUrl": "https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king",
+  "date": "2025-08-03",
+  "title": "Poetry",
+  "author": "Ambrose Bierce",
+  "summary": "A collection of Ambrose Bierce’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
   "subjects": [
     "poetry"
   ]
@@ -209,12 +213,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-08-02",
-  "title": "Northanger Abbey",
-  "author": "Jane Austen",
-  "summary": "A young girl with an overactive imagination comes of age.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+  "date": "2025-08-03",
+  "title": "Martin Eden",
+  "author": "Jack London",
+  "summary": "A young working-class man sets out to become a bourgeois writer.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
   "subjects": [
     "fiction",
     "satire"
@@ -223,27 +227,27 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-02",
-  "title": "Triplanetary",
-  "author": "E. E. Smith",
-  "summary": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
+  "date": "2025-08-03",
+  "title": "Short Fiction",
+  "author": "H. Beam Piper",
+  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-02",
+  "date": "2025-08-03",
   "title": "Short Fiction",
-  "author": "R. A. Lafferty",
-  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "author": "Poul Anderson",
+  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
   "subjects": [
-    "fantasy",
     "science_fiction",
     "shorts"
   ]
@@ -251,13 +255,14 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-02",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2025-08-03",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
+    "fiction",
     "poetry",
     "spirituality"
   ]
@@ -265,15 +270,16 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-08-02",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2025-08-03",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
     "comedy",
     "fiction",
+    "spirituality",
     "travel"
   ]
 }
