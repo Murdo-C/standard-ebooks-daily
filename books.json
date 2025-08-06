@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-05",
-  "title": "The Eleventh Virgin",
-  "author": "Dorothy Day",
-  "summary": "A young radical journalist has a love affair in New York in the 1910s.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-day/the-eleventh-virgin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-day/the-eleventh-virgin",
+  "date": "2025-08-06",
+  "title": "The Man Who Was Thursday",
+  "author": "G. K. Chesterton",
+  "summary": "An undercover policeman infiltrates a mysterious Anarchist group.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-05",
-  "title": "The Master of Ballantrae",
-  "author": "Robert Louis Stevenson",
-  "summary": "The relationship of two noble brothers is blighted by hostility and vengeance in Jacobite Scotland.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
+  "date": "2025-08-06",
+  "title": "The Sea Hawk",
+  "author": "Rafael Sabatini",
+  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-05",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "date": "2025-08-06",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "summary": "The autobiography of English philosopher John Stuart Mill.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
   "subjects": [
     "autobiography"
   ]
@@ -41,56 +41,54 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-08-05",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2025-08-06",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-05",
-  "title": "Short Fiction",
-  "author": "Beatrix Potter",
-  "summary": "A collection of Beatrix Potter’s short stories for children, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction",
+  "date": "2025-08-06",
+  "title": "Black Beauty",
+  "author": "Anna Sewell",
+  "summary": "A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty",
   "subjects": [
     "childrens",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-05",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2025-08-06",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
-    "fantasy",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-08-05",
-  "title": "The Merry Wives of Windsor",
+  "date": "2025-08-06",
+  "title": "Henry VI, Part I",
   "author": "William Shakespeare",
-  "summary": "Sir John Falstaff runs astray of the denizens of Windsor by trying to seduce several local wives at once.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor",
+  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
   "subjects": [
     "drama"
   ]
@@ -98,27 +96,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-05",
-  "title": "Short Fiction",
-  "author": "E. M. Forster",
-  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+  "date": "2025-08-06",
+  "title": "The Story of the Amulet",
+  "author": "E. Nesbit",
+  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-05",
-  "title": "The Old Curiosity Shop",
-  "author": "Charles Dickens",
-  "summary": "A girl and her grandfather struggle through a life of poverty amidst a diverse cast of memorable characters in Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/the-old-curiosity-shop/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/the-old-curiosity-shop",
+  "date": "2025-08-06",
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "summary": "An ambulance lieutenant and a field nurse have an affair during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms",
   "subjects": [
     "fiction"
   ]
@@ -126,12 +123,12 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-08-05",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2025-08-06",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
     "horror"
   ]
@@ -139,12 +136,12 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-05",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2025-08-06",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -153,78 +150,77 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-05",
-  "title": "The Man in the Brown Suit",
-  "author": "Agatha Christie",
-  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
+  "date": "2025-08-06",
+  "title": "The Memoirs of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
-    "adventure",
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-05",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2025-08-06",
+  "title": "A Journal of the Plague Year",
+  "author": "Daniel Defoe",
+  "summary": "An account of one man’s survival in London during the Great Plague of 1665.",
+  "coverUrl": "https://standardebooks.org/ebooks/daniel-defoe/a-journal-of-the-plague-year/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/daniel-defoe/a-journal-of-the-plague-year",
   "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-05",
-  "title": "Moribund Society and Anarchy",
-  "author": "Jean Grave",
-  "summary": "Jean Grave systemically critiques bourgeois society from an anarchist perspective.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
+  "date": "2025-08-06",
+  "title": "The Social Contract",
+  "author": "Jean-Jacques Rousseau",
+  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-05",
-  "title": "The Nibelungenlied",
-  "author": "Anonymous",
-  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+  "date": "2025-08-06",
+  "title": "Eugene Onegin",
+  "author": "Alexander Pushkin",
+  "summary": "A jaded Russian fop’s disdain for the world catches up with him.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding",
   "subjects": [
-    "adventure",
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-08-05",
-  "title": "Evelina",
-  "author": "Fanny Burney",
-  "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
-  "coverUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina",
+  "date": "2025-08-06",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-05",
+  "date": "2025-08-06",
   "title": "Metropolis",
   "author": "Thea von Harbou",
   "summary": "In a futuristic dystopian city, the son of the city’s mastermind falls in love with a revolutionary activist.",
@@ -237,40 +233,41 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-05",
-  "title": "Lais",
-  "author": "Marie de France",
-  "summary": "A collection of twelfth-century medieval tales of chivalry and romance.",
-  "coverUrl": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason",
+  "date": "2025-08-06",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
-    "fiction",
+    "horror",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-05",
-  "title": "Unspoken Sermons",
-  "author": "George MacDonald",
-  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
+  "date": "2025-08-06",
+  "title": "Orthodoxy",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
   "subjects": [
-    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-08-05",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2025-08-06",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
