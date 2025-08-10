@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-09",
-  "title": "Under Western Eyes",
-  "author": "Joseph Conrad",
-  "summary": "A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/under-western-eyes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/under-western-eyes",
+  "date": "2025-08-10",
+  "title": "Pudd’nhead Wilson",
+  "author": "Mark Twain",
+  "summary": "A small-town lawyer unravels a complex web of switched identities and exposes the true nature of individuals in a racially divided society.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/puddnhead-wilson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/puddnhead-wilson",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-09",
-  "title": "The Mucker",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A street tough undergoes a transformation as he navigates the dangerous worlds of Chicago’s slums, a South Pacific island, and the wilds of Mexico.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker",
+  "date": "2025-08-10",
+  "title": "The Master of Ballantrae",
+  "author": "Robert Louis Stevenson",
+  "summary": "The relationship of two noble brothers is blighted by hostility and vengeance in Jacobite Scotland.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,81 +28,82 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-09",
-  "title": "Our Nig",
-  "author": "Harriet E. Wilson",
-  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
+  "date": "2025-08-10",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-08-09",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2025-08-10",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-09",
-  "title": "Green Meadow Stories",
-  "author": "Thornton W. Burgess",
-  "summary": "A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.",
-  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories",
+  "date": "2025-08-10",
+  "title": "Hindu Tales from the Sanskrit",
+  "author": "S. M. Mitra",
+  "summary": "Short stories and fables from the Sanskrit tradition.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit",
   "subjects": [
     "childrens",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-09",
-  "title": "English as She Is Spoke",
-  "author": "Pedro Carolino",
-  "summary": "A phrasebook of unintentionally hilarious English.",
-  "coverUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke",
+  "date": "2025-08-10",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
-    "comedy"
+    "comedy",
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-08-09",
-  "title": "Tartuffe",
-  "author": "Molière",
-  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
-  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
+  "date": "2025-08-10",
+  "title": "The Duchess of Malfi",
+  "author": "John Webster",
+  "summary": "A widow marries beneath her station and against her brothers’ orders and, enraged, they take their revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-09",
-  "title": "A Princess of Mars",
+  "date": "2025-08-10",
+  "title": "The Chessmen of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
+  "summary": "Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -110,41 +111,40 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-09",
-  "title": "The Borough Treasurer",
-  "author": "J. S. Fletcher",
-  "summary": "When a retired detective is found murdered, two business partners in a small Yorkshire town become the prime suspects.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+  "date": "2025-08-10",
+  "title": "Dodsworth",
+  "author": "Sinclair Lewis",
+  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
   "subjects": [
     "fiction",
-    "mystery"
+    "satire"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-08-09",
+  "date": "2025-08-10",
   "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "author": "M. R. James",
+  "summary": "A collection of ghost stories written by M. R. James.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-09",
-  "title": "Incidents in the Life of a Slave Girl",
-  "author": "Linda Brent",
-  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
-  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
+  "date": "2025-08-10",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -153,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-09",
-  "title": "The Footsteps at the Lock",
-  "author": "Ronald A. Knox",
-  "summary": "When an unsavory pair of cousins goes missing from their canoe holiday on the Thames, detectives are called in to solve the mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock",
+  "date": "2025-08-10",
+  "title": "Inspector French’s Greatest Case",
+  "author": "Freeman Wills Crofts",
+  "summary": "An inspector is called in to investigate the murder of a diamond trading firm’s employee and the theft of their jewels.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,110 +167,113 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-09",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2025-08-10",
+  "title": "Roads to Freedom",
+  "author": "Bertrand Russell",
+  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-09",
-  "title": "The Crowd",
-  "author": "Gustave Le Bon",
-  "summary": "Le Bon explores the psychology, motivations, and dangers of crowds of people.",
-  "coverUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+  "date": "2025-08-10",
+  "title": "What’s Wrong with the World",
+  "author": "G. K. Chesterton",
+  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-09",
-  "title": "Poetry",
-  "author": "William Shakespeare",
-  "summary": "A collection of William Shakespeare’s poems and sonnets.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry",
+  "date": "2025-08-10",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
-    "poetry"
+    "fiction",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-08-09",
-  "title": "The Devil’s Dictionary",
-  "author": "Ambrose Bierce",
-  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
+  "date": "2025-08-10",
+  "title": "Crome Yellow",
+  "author": "Aldous Huxley",
+  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
   "subjects": [
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-09",
-  "title": "The House on the Borderland",
-  "author": "William Hope Hodgson",
-  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "date": "2025-08-10",
+  "title": "The Purple Cloud",
+  "author": "M. P. Shiel",
+  "summary": "A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud",
   "subjects": [
-    "horror",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-09",
+  "date": "2025-08-10",
   "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "author": "M. R. James",
+  "summary": "A collection of ghost stories written by M. R. James.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-09",
-  "title": "The Pilgrim’s Progress",
-  "author": "John Bunyan",
-  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
+  "date": "2025-08-10",
+  "title": "Polynesian Mythology",
+  "author": "George Grey",
+  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-08-09",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2025-08-10",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
     "nonfiction",
+    "spirituality",
     "travel"
   ]
 }
