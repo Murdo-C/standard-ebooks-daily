@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-10",
-  "title": "Pudd’nhead Wilson",
+  "date": "2025-08-11",
+  "title": "Roughing It",
   "author": "Mark Twain",
-  "summary": "A small-town lawyer unravels a complex web of switched identities and exposes the true nature of individuals in a racially divided society.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/puddnhead-wilson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/puddnhead-wilson",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "fiction"
+    "memoir",
+    "travel"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-10",
-  "title": "The Master of Ballantrae",
-  "author": "Robert Louis Stevenson",
-  "summary": "The relationship of two noble brothers is blighted by hostility and vengeance in Jacobite Scotland.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
+  "date": "2025-08-11",
+  "title": "The Sea Hawk",
+  "author": "Rafael Sabatini",
+  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,39 +29,40 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-10",
-  "title": "The Story of My Life",
-  "author": "Helen Keller",
-  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
+  "date": "2025-08-11",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-08-10",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-08-11",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-10",
-  "title": "Hindu Tales from the Sanskrit",
-  "author": "S. M. Mitra",
-  "summary": "Short stories and fables from the Sanskrit tradition.",
-  "coverUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit",
+  "date": "2025-08-11",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
   "subjects": [
     "childrens",
     "fiction",
@@ -70,40 +72,40 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-10",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "date": "2025-08-11",
+  "title": "A Damsel in Distress",
+  "author": "P. G. Wodehouse",
+  "summary": "A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-08-10",
-  "title": "The Duchess of Malfi",
-  "author": "John Webster",
-  "summary": "A widow marries beneath her station and against her brothers’ orders and, enraged, they take their revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi",
+  "date": "2025-08-11",
+  "title": "Man and Superman",
+  "author": "George Bernard Shaw",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-10",
-  "title": "The Chessmen of Mars",
+  "date": "2025-08-11",
+  "title": "The Gods of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars",
+  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -111,40 +113,40 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-10",
-  "title": "Dodsworth",
-  "author": "Sinclair Lewis",
-  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
+  "date": "2025-08-11",
+  "title": "The Way of All Flesh",
+  "author": "Samuel Butler",
+  "summary": "Four generations of the Pontifex family grow to adulthood in Victorian England, encountering challenges that satirize the era along the way.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-butler/the-way-of-all-flesh/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-butler/the-way-of-all-flesh",
   "subjects": [
-    "fiction",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-08-10",
+  "date": "2025-08-11",
   "title": "Short Fiction",
-  "author": "M. R. James",
-  "summary": "A collection of ghost stories written by M. R. James.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
+  "author": "Frank Belknap Long",
+  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
   "subjects": [
     "horror",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-10",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2025-08-11",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -153,12 +155,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-10",
-  "title": "Inspector French’s Greatest Case",
-  "author": "Freeman Wills Crofts",
-  "summary": "An inspector is called in to investigate the murder of a diamond trading firm’s employee and the theft of their jewels.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case",
+  "date": "2025-08-11",
+  "title": "The Dain Curse",
+  "author": "Dashiell Hammett",
+  "summary": "A detective assigned to investigate a diamond theft finds himself entangled by a family curse.",
+  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-dain-curse/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-dain-curse",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,12 +169,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-10",
-  "title": "Roads to Freedom",
+  "date": "2025-08-11",
+  "title": "The Problems of Philosophy",
   "author": "Bertrand Russell",
-  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
+  "summary": "A beginner’s guide to problems in various fields of philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -181,41 +183,38 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-10",
-  "title": "What’s Wrong with the World",
-  "author": "G. K. Chesterton",
-  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
+  "date": "2025-08-11",
+  "title": "Beyond Good and Evil",
+  "author": "Friedrich Nietzsche",
+  "summary": "Nietzsche’s philosophical treatise on the ambiguity of traditional morality.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-10",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2025-08-11",
+  "title": "The Canterbury Tales",
+  "author": "Geoffrey Chaucer",
+  "summary": "A group of pilgrims trade tales as they travel through medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-08-10",
-  "title": "Crome Yellow",
+  "date": "2025-08-11",
+  "title": "Those Barren Leaves",
   "author": "Aldous Huxley",
-  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
   "subjects": [
     "fiction",
     "satire"
@@ -224,12 +223,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-10",
-  "title": "The Purple Cloud",
-  "author": "M. P. Shiel",
-  "summary": "A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud",
+  "date": "2025-08-11",
+  "title": "Omega",
+  "author": "Camille Flammarion",
+  "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
   "subjects": [
     "science_fiction"
   ]
@@ -237,43 +236,43 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-10",
-  "title": "Short Fiction",
-  "author": "M. R. James",
-  "summary": "A collection of ghost stories written by M. R. James.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
+  "date": "2025-08-11",
+  "title": "Fifty-One Tales",
+  "author": "Lord Dunsany",
+  "summary": "A series of otherworldly short stories ranging from the moral to the whimsical.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales",
   "subjects": [
-    "horror",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-10",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2025-08-11",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
   "subjects": [
-    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-08-10",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2025-08-11",
+  "title": "Essays",
+  "author": "Henry David Thoreau",
+  "summary": "A collection of Henry David Thoreau’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
   "subjects": [
+    "memoir",
     "nonfiction",
-    "spirituality",
     "travel"
   ]
 }
