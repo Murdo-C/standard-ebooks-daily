@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-12",
-  "title": "Tractatus Logico-Philosophicus",
-  "author": "Ludwig Wittgenstein",
-  "summary": "One of the most important texts of 20th century philosophy, in which the nature of the philosophy, language, understanding, and logical atomism are explored.",
-  "coverUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden",
+  "date": "2025-08-13",
+  "title": "Six Characters in Search of an Author",
+  "author": "Luigi Pirandello",
+  "summary": "An absurdist comedy that contrasts illusion with reality, in which six characters arrive on a rehearsal stage filled with actors and demand the chance to speak their lines and act out the story of their lives.",
+  "coverUrl": "https://standardebooks.org/ebooks/luigi-pirandello/six-characters-in-search-of-an-author/edward-storer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/luigi-pirandello/six-characters-in-search-of-an-author/edward-storer",
   "subjects": [
-    "philosophy"
+    "drama"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-12",
-  "title": "Bellarion the Fortunate",
-  "author": "Rafael Sabatini",
-  "summary": "An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy.",
-  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate",
+  "date": "2025-08-13",
+  "title": "The Courts of the Morning",
+  "author": "John Buchan",
+  "summary": "A Scottish laird foments rebellion in a South American country threatened by a hostile regime.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-courts-of-the-morning/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-courts-of-the-morning",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-12",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2025-08-13",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-08-12",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2025-08-13",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-12",
-  "title": "Just William",
-  "author": "Richmal Crompton",
-  "summary": "An eleven-year old English boy gets involved in a continuous series of amusing adventures to the exasperation of his long-suffering family.",
-  "coverUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william",
+  "date": "2025-08-13",
+  "title": "The Gold Bat",
+  "author": "P. G. Wodehouse",
+  "summary": "The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,26 +70,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-12",
-  "title": "A Prefect’s Uncle",
+  "date": "2025-08-13",
+  "title": "Golf Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-08-12",
-  "title": "Othello",
+  "date": "2025-08-13",
+  "title": "Richard II",
   "author": "William Shakespeare",
-  "summary": "Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/othello/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/othello",
+  "summary": "King Richard II’s wasteful spending habits drive his supporters to revolt.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii",
   "subjects": [
     "drama"
   ]
@@ -97,20 +98,108 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-12",
-  "title": "Lady Into Fox",
-  "author": "David Garnett",
-  "summary": "A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox",
+  "date": "2025-08-13",
+  "title": "A Voyage to Arcturus",
+  "author": "David Lindsay",
+  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-12",
+  "date": "2025-08-13",
+  "title": "The Adventures of Captain Hatteras",
+  "author": "Jules Verne",
+  "summary": "A mysterious captain assembles a ship and crew for a secret and dangerous voyage.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-adventures-of-captain-hatteras/james-r-osgood-and-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-adventures-of-captain-hatteras/james-r-osgood-and-company",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2025-08-13",
+  "title": "The Case of Charles Dexter Ward",
+  "author": "H. P. Lovecraft",
+  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+  "subjects": [
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2025-08-13",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "subjects": [
+    "autobiography",
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-08-13",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "subjects": [
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-08-13",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-08-13",
+  "title": "Thus Spake Zarathustra",
+  "author": "Friedrich Nietzsche",
+  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2025-08-13",
   "title": "Paradise Lost",
   "author": "John Milton",
   "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
@@ -124,99 +213,15 @@
 }
 ,
 {
-  "genre": "horror",
-  "date": "2025-08-12",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
-  "subjects": [
-    "fiction",
-    "horror",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2025-08-12",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
-  "subjects": [
-    "adventure",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-08-12",
-  "title": "The Secret Adversary",
-  "author": "Agatha Christie",
-  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-08-12",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
-  "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2025-08-12",
-  "title": "The Genealogy of Morals",
-  "author": "Friedrich Nietzsche",
-  "summary": "Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2025-08-12",
-  "title": "The Columbiad",
-  "author": "Joel Barlow",
-  "summary": "Columbus is shown a history of the western hemisphere since his discoveries.",
-  "coverUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
   "genre": "satire",
-  "date": "2025-08-12",
-  "title": "Point Counter Point",
-  "author": "Aldous Huxley",
-  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+  "date": "2025-08-13",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -224,25 +229,26 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-12",
-  "title": "Triplanetary",
-  "author": "E. E. Smith",
-  "summary": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
+  "date": "2025-08-13",
+  "title": "Short Fiction",
+  "author": "H. Beam Piper",
+  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-12",
+  "date": "2025-08-13",
   "title": "Short Fiction",
-  "author": "Leo Tolstoy",
-  "summary": "A collection of all of the short stories and novellas written by Leo Tolstoy.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo",
+  "author": "Jonas Lie",
+  "summary": "A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/robert-nisbet-bain_littells-living-age/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/robert-nisbet-bain_littells-living-age",
   "subjects": [
     "fiction",
     "shorts"
@@ -251,27 +257,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-12",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+  "date": "2025-08-13",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "summary": "Prose poems of offering translated by the author from the original Bengali.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
   "subjects": [
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-08-12",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2025-08-13",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
-    "shorts",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
