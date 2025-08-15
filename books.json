@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-14",
+  "date": "2025-08-15",
   "title": "Hester",
   "author": "Margaret Oliphant",
   "summary": "The daughter of a failed banker is drawn into conflict with her father’s cousin who saved the bank.",
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-14",
-  "title": "Room 13",
-  "author": "Edgar Wallace",
-  "summary": "A recently-released prisoner discovers that his love, the daughter of an old friend, has married a sinister imposter.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/room-13/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/room-13",
+  "date": "2025-08-15",
+  "title": "Tarzan of the Apes",
+  "author": "Edgar Rice Burroughs",
+  "summary": "An orphan is raised by apes in Africa and goes on various adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-of-the-apes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-of-the-apes",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,27 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-14",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2025-08-15",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-08-14",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2025-08-15",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,12 +57,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-14",
-  "title": "The Gold Bat",
-  "author": "P. G. Wodehouse",
-  "summary": "The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat",
+  "date": "2025-08-15",
+  "title": "The Blue Bird",
+  "author": "Maurice Maeterlinck",
+  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,12 +71,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-14",
-  "title": "Indiscretions of Archie",
+  "date": "2025-08-15",
+  "title": "Love Among the Chickens",
   "author": "P. G. Wodehouse",
-  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
+  "summary": "Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens",
   "subjects": [
     "comedy",
     "fiction"
@@ -84,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-08-14",
-  "title": "Richard III",
+  "date": "2025-08-15",
+  "title": "Romeo and Juliet",
   "author": "William Shakespeare",
-  "summary": "King Edward IV’s brother, Richard of Gloucester, ascends to the English throne through deadly machinations.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-iii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-iii",
+  "summary": "The children of two opposing houses fall in love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet",
   "subjects": [
     "drama"
   ]
@@ -97,90 +98,94 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-14",
-  "title": "Five Children and It",
-  "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "date": "2025-08-15",
+  "title": "The Lost Continent",
+  "author": "C. J. Cutcliffe Hyne",
+  "summary": "A swashbuckling adventure on the fabled continent of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-14",
-  "title": "Letters of Two Brides",
-  "author": "Honoré de Balzac",
-  "summary": "Two women write letters to tell each other about their lives and loves.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott",
+  "date": "2025-08-15",
+  "title": "Short Fiction",
+  "author": "Guy de Maupassant",
+  "summary": "A collection of short stories by Guy de Maupassant, in order of date of composition.",
+  "coverUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/ernest-boyd_storm-jameson_jeffery-e-jeffery_lafcadio-hearn_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc_francis-steegmuller/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/ernest-boyd_storm-jameson_jeffery-e-jeffery_lafcadio-hearn_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc_francis-steegmuller",
   "subjects": [
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-08-14",
-  "title": "The Case of Charles Dexter Ward",
-  "author": "H. P. Lovecraft",
-  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+  "date": "2025-08-15",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "horror"
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-14",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2025-08-15",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "adventure",
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-14",
-  "title": "The Murder on the Links",
+  "date": "2025-08-15",
+  "title": "The Murder of Roger Ackroyd",
   "author": "Agatha Christie",
-  "summary": "A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links",
+  "summary": "A legendary Belgian detective comes out of retirement to investigate a friend’s murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-14",
-  "title": "The Origin of Species",
-  "author": "Charles Darwin",
-  "summary": "A distinguished amateur scientist lays out the evidence for the origin of species by means of natural selection.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species",
+  "date": "2025-08-15",
+  "title": "The Practice and Theory of Bolshevism",
+  "author": "Bertrand Russell",
+  "summary": "Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-14",
+  "date": "2025-08-15",
   "title": "Principia Ethica",
   "author": "G. E. Moore",
   "summary": "An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.",
@@ -193,28 +198,26 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-14",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2025-08-15",
+  "title": "Poetry",
+  "author": "Voltairine de Cleyre",
+  "summary": "A collection of Voltairine de Cleyre’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry",
   "subjects": [
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-08-14",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2025-08-15",
+  "title": "Sartor Resartus",
+  "author": "Thomas Carlyle",
+  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -222,12 +225,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-14",
-  "title": "Omega",
-  "author": "Camille Flammarion",
-  "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
+  "date": "2025-08-15",
+  "title": "Triplanetary",
+  "author": "E. E. Smith",
+  "summary": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
   "subjects": [
     "science_fiction"
   ]
@@ -235,12 +238,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-14",
-  "title": "The Confessions of Arsène Lupin",
-  "author": "Maurice Leblanc",
-  "summary": "The gentleman-thief relates stories of his outwitting the Parisian detectives.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos",
+  "date": "2025-08-15",
+  "title": "Lais",
+  "author": "Marie de France",
+  "summary": "A collection of twelfth-century medieval tales of chivalry and romance.",
+  "coverUrl": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason",
   "subjects": [
     "fiction",
     "shorts"
@@ -249,16 +252,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-14",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-08-15",
+  "title": "A Confession",
+  "author": "Leo Tolstoy",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -266,15 +266,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-08-14",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2025-08-15",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
     "adventure",
-    "nonfiction",
+    "fiction",
     "travel"
   ]
 }
