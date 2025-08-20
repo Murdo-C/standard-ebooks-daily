@@ -1,26 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-19",
-  "title": "A Confession",
-  "author": "Leo Tolstoy",
-  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+  "date": "2025-08-20",
+  "title": "The Crime at Black Dudley",
+  "author": "Margery Allingham",
+  "summary": "The attendees of a party at a old mansion are threatened by a criminal kingpin.",
+  "coverUrl": "https://standardebooks.org/ebooks/margery-allingham/the-crime-at-black-dudley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/margery-allingham/the-crime-at-black-dudley",
   "subjects": [
-    "philosophy",
-    "spirituality"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-19",
-  "title": "The Mucker",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A street tough undergoes a transformation as he navigates the dangerous worlds of Chicago’s slums, a South Pacific island, and the wilds of Mexico.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker",
+  "date": "2025-08-20",
+  "title": "Twenty Years After",
+  "author": "Alexandre Dumas",
+  "summary": "Four musketeers are drawn back together by current events after many years apart, try to save Charles I from Cromwell, and are pursued by the now-grown son of a former female adversary.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,20 +29,21 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-19",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2025-08-20",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "title": "Personal Recollections of Joan of Arc",
   "author": "Mark Twain",
   "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
@@ -56,21 +57,21 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-19",
-  "title": "Peter and Wendy",
-  "author": "J. M. Barrie",
-  "summary": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy",
+  "date": "2025-08-20",
+  "title": "Heidi",
+  "author": "Johanna Spyri",
+  "summary": "A small girl is left with her grandfather and falls in love with his alpine home.",
+  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "title": "Something New",
   "author": "P. G. Wodehouse",
   "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
@@ -84,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-08-19",
-  "title": "The Taming of the Shrew",
+  "date": "2025-08-20",
+  "title": "Romeo and Juliet",
   "author": "William Shakespeare",
-  "summary": "An unmarriageable shrew receives a marriage proposal.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew",
+  "summary": "The children of two opposing houses fall in love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet",
   "subjects": [
     "drama"
   ]
@@ -97,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-19",
-  "title": "Khaled",
-  "author": "F. Marion Crawford",
-  "summary": "A powerful genie is condemned to live the life of a man, unless he can find true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled",
+  "date": "2025-08-20",
+  "title": "The Shaving of Shagpat",
+  "author": "George Meredith",
+  "summary": "A Persian barber embarks on a quest to save a city from the clutches of a tyrant and his magical hair.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-meredith/the-shaving-of-shagpat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-meredith/the-shaving-of-shagpat",
   "subjects": [
     "fantasy"
   ]
@@ -110,21 +111,20 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-19",
-  "title": "Dodsworth",
-  "author": "Sinclair Lewis",
-  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
+  "date": "2025-08-20",
+  "title": "Howards End",
+  "author": "E. M. Forster",
+  "summary": "The lives of three families of different classes intertwine in Edwardian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/howards-end/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/howards-end",
   "subjects": [
-    "fiction",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "title": "The King in Yellow",
   "author": "Robert W. Chambers",
   "summary": "Ten short stories of madness, hauntings, romance, and art.",
@@ -138,27 +138,30 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-19",
-  "title": "A Personal Record",
+  "date": "2025-08-20",
+  "title": "The Mirror of the Sea",
   "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-19",
-  "title": "Monsieur Lecoq",
-  "author": "Émile Gaboriau",
-  "summary": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+  "date": "2025-08-20",
+  "title": "The Secret of the Old Mill",
+  "author": "Franklin W. Dixon",
+  "summary": "The police are out of their depth as counterfeit bills circulate through the city, but two amateur sleuths are on the case.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill",
   "subjects": [
+    "adventure",
+    "childrens",
     "fiction",
     "mystery"
   ]
@@ -166,70 +169,78 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-19",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
-  "subjects": [
-    "adventure",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2025-08-19",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "date": "2025-08-20",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
     "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
-  "genre": "poetry",
-  "date": "2025-08-19",
-  "title": "Poetry",
-  "author": "Taras Shevchenko",
-  "summary": "A collection of Taras Shevchenko’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/alexander-jardine-hunter_ethel-voynich_paul-selver_florence-randal-livesay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/alexander-jardine-hunter_ethel-voynich_paul-selver_florence-randal-livesay",
+  "genre": "philosophy",
+  "date": "2025-08-20",
+  "title": "Principia Ethica",
+  "author": "G. E. Moore",
+  "summary": "An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica",
   "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2025-08-20",
+  "title": "Hudibras",
+  "author": "Samuel Butler",
+  "summary": "A knight and his squire set forth for adventure and love.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras",
+  "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-08-19",
-  "title": "Sartor Resartus",
-  "author": "Thomas Carlyle",
-  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
+  "date": "2025-08-20",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "fiction",
-    "satire"
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "title": "Short Fiction",
-  "author": "H. Beam Piper",
-  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
     "science_fiction",
     "shorts"
   ]
@@ -237,12 +248,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-19",
-  "title": "Lais",
-  "author": "Marie de France",
-  "summary": "A collection of twelfth-century medieval tales of chivalry and romance.",
-  "coverUrl": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason",
+  "date": "2025-08-20",
+  "title": "Short Fiction",
+  "author": "Voltairine de Cleyre",
+  "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -251,7 +262,7 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "title": "Siddhartha",
   "author": "Hermann Hesse",
   "summary": "A man embarks on a spiritual journey through India.",
@@ -265,7 +276,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "title": "Roughing It",
   "author": "Mark Twain",
   "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
