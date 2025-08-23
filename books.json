@@ -1,34 +1,34 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-22",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2025-08-23",
+  "title": "Poetry",
+  "author": "W. B. Yeats",
+  "summary": "A collection of poems by W. B. Yeats.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-b-yeats/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-b-yeats/poetry",
   "subjects": [
-    "autobiography"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-22",
-  "title": "The Survivors of the Chancellor",
-  "author": "Jules Verne",
-  "summary": "A record of the ill-fated voyage of the Chancellor as told by one of the passengers.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer",
+  "date": "2025-08-23",
+  "title": "After London",
+  "author": "Richard Jefferies",
+  "summary": "A young man tries to understand his place in the world as he explores a post-apocalyptic England.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
   "subjects": [
     "adventure",
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-22",
+  "date": "2025-08-23",
   "title": "Memoirs of a Foxhunting Man",
   "author": "Siegfried Sassoon",
   "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
@@ -42,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-08-22",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2025-08-23",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -56,41 +56,41 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-22",
-  "title": "Children’s Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s children’s stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories",
+  "date": "2025-08-23",
+  "title": "Catriona",
+  "author": "Robert Louis Stevenson",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
+    "adventure",
     "childrens",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-22",
-  "title": "Lady Windermere’s Fan",
+  "date": "2025-08-23",
+  "title": "An Ideal Husband",
   "author": "Oscar Wilde",
-  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "summary": "Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-08-22",
-  "title": "Troilus and Cressida",
+  "date": "2025-08-23",
+  "title": "Titus Andronicus",
   "author": "William Shakespeare",
-  "summary": "A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida",
+  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
   "subjects": [
     "drama"
   ]
@@ -98,26 +98,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-22",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2025-08-23",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
+    "comedy",
     "fantasy",
-    "horror"
+    "satire"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-22",
-  "title": "The Black Tulip",
-  "author": "Alexandre Dumas",
-  "summary": "An unjustly imprisoned man longs after both his love and his tulips.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-black-tulip/p-f-collier-and-son/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-black-tulip/p-f-collier-and-son",
+  "date": "2025-08-23",
+  "title": "Adam’s Breed",
+  "author": "Radclyffe Hall",
+  "summary": "The child of Italian immigrants struggles to find meaning in Edwardian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/radclyffe-hall/adams-breed/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/radclyffe-hall/adams-breed",
   "subjects": [
     "fiction"
   ]
@@ -125,56 +126,60 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-08-22",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
+  "date": "2025-08-23",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "fiction",
+    "adventure",
+    "comedy",
     "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-22",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2025-08-23",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-22",
-  "title": "The Valley of Fear",
+  "date": "2025-08-23",
+  "title": "The Memoirs of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-22",
-  "title": "Democracy and Education",
+  "date": "2025-08-23",
+  "title": "The Public and Its Problems",
   "author": "John Dewey",
-  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
+  "summary": "A discussion of the political philosophy of a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -183,53 +188,53 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-22",
-  "title": "The Practice and Theory of Bolshevism",
-  "author": "Bertrand Russell",
-  "summary": "Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
+  "date": "2025-08-23",
+  "title": "A General View of Positivism",
+  "author": "Auguste Comte",
+  "summary": "A brief overview of the goals and methods of the Positivist philosophical movement.",
+  "coverUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-22",
-  "title": "Hudibras",
-  "author": "Samuel Butler",
-  "summary": "A knight and his squire set forth for adventure and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras",
+  "date": "2025-08-23",
+  "title": "Songs of a Sourdough",
+  "author": "Robert W. Service",
+  "summary": "A collection of poems about the Klondike Gold Rush.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough",
   "subjects": [
-    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-08-22",
-  "title": "The Coming of Bill",
-  "author": "P. G. Wodehouse",
-  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
+  "date": "2025-08-23",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-22",
-  "title": "The Airlords of Han",
+  "date": "2025-08-23",
+  "title": "Armageddon 2419 A.D.",
   "author": "Philip Francis Nowlan",
-  "summary": "Science fiction hero Buck Rogers continues his crusade against the evil Han empire.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han",
+  "summary": "Adventure hero Buck Rogers battles the forces of the evil Han Empire in 2419 America.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d",
   "subjects": [
     "science_fiction"
   ]
@@ -237,7 +242,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-22",
+  "date": "2025-08-23",
   "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
   "author": "Maurice Leblanc",
   "summary": "An infamous French thief plans intricate ways of stealing precious paintings and jewellery in this first collection of Arsène Lupin short stories.",
@@ -251,29 +256,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-22",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2025-08-23",
+  "title": "The Pursuit of God",
+  "author": "A. W. Tozer",
+  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
   "subjects": [
-    "fiction",
-    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-08-22",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2025-08-23",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
