@@ -1,26 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-25",
-  "title": "Darkwater",
-  "author": "W. E. B. Du Bois",
-  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
+  "date": "2025-08-26",
+  "title": "The Rough Riders",
+  "author": "Theodore Roosevelt",
+  "summary": "The First United States Volunteer Cavalry fights in the Spanish–American War.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-25",
-  "title": "Lorna Doone",
-  "author": "R. D. Blackmore",
-  "summary": "A young yeoman farmer falls in love with a beautiful girl who belongs to the outlaw clan which killed his father.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone",
+  "date": "2025-08-26",
+  "title": "Ivanhoe",
+  "author": "Walter Scott",
+  "summary": "A disinherited knight returns from the Crusades and fights back against Prince John’s reign.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-scott/ivanhoe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-scott/ivanhoe",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-25",
-  "title": "A Yankee in the Trenches",
-  "author": "Robert Derby Holmes",
-  "summary": "An American describes his experiences in the British Army in the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "date": "2025-08-26",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -43,28 +42,27 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-08-25",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2025-08-26",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-25",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "date": "2025-08-26",
+  "title": "Green Forest Stories",
+  "author": "Thornton W. Burgess",
+  "summary": "A collection of four animal tales featuring the denizens of the Green Forest.",
+  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories",
   "subjects": [
-    "adventure",
     "childrens",
     "fiction"
   ]
@@ -72,145 +70,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-25",
-  "title": "She Stoops to Conquer",
-  "author": "Oliver Goldsmith",
-  "summary": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
-  "coverUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer",
-  "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2025-08-25",
-  "title": "The Winter’s Tale",
-  "author": "William Shakespeare",
-  "summary": "A king’s unfounded jealousy destroys his family and kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2025-08-25",
-  "title": "A Connecticut Yankee in King Arthur’s Court",
-  "author": "Mark Twain",
-  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2025-08-25",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
-  "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2025-08-25",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
-  "subjects": [
-    "fiction",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2025-08-25",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-08-25",
-  "title": "The Sign of the Four",
-  "author": "Arthur Conan Doyle",
-  "summary": "An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-08-25",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2025-08-25",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2025-08-25",
-  "title": "New Hampshire",
-  "author": "Robert Frost",
-  "summary": "Robert Frost’s Pulitzer-winning book of poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2025-08-25",
+  "date": "2025-08-26",
   "title": "A Woman of No Importance",
   "author": "Oscar Wilde",
   "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
@@ -224,13 +84,151 @@
 }
 ,
 {
+  "genre": "drama",
+  "date": "2025-08-26",
+  "title": "Timon of Athens",
+  "author": "William Shakespeare",
+  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2025-08-26",
+  "title": "The House of Arden",
+  "author": "E. Nesbit",
+  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "subjects": [
+    "childrens",
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2025-08-26",
+  "title": "The Wyvern Mystery",
+  "author": "J. Sheridan Le Fanu",
+  "summary": "A young orphan marries a man with a secret that threatens to ruin both of them.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-wyvern-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-wyvern-mystery",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2025-08-26",
+  "title": "The Three Impostors",
+  "author": "Arthur Machen",
+  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2025-08-26",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "subjects": [
+    "adventure",
+    "autobiography",
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-08-26",
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle",
+  "summary": "A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-08-26",
+  "title": "How the Other Half Lives",
+  "author": "Jacob Riis",
+  "summary": "A social reformer documents the living conditions of the poor in the tenements of New York City.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-08-26",
+  "title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2025-08-26",
+  "title": "Poetry",
+  "author": "Sarah Louisa Forten Purvis",
+  "summary": "A collection of poems by Sarah Louisa Forten Purvis.",
+  "coverUrl": "https://standardebooks.org/ebooks/sarah-louisa-forten-purvis/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sarah-louisa-forten-purvis/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2025-08-26",
+  "title": "Zuleika Dobson",
+  "author": "Max Beerbohm",
+  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+  "subjects": [
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
   "genre": "science_fiction",
-  "date": "2025-08-25",
-  "title": "The Purple Cloud",
-  "author": "M. P. Shiel",
-  "summary": "A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud",
+  "date": "2025-08-26",
+  "title": "The Night Land",
+  "author": "William Hope Hodgson",
+  "summary": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
   "subjects": [
     "science_fiction"
   ]
@@ -238,12 +236,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-25",
-  "title": "The Confessions of Arsène Lupin",
-  "author": "Maurice Leblanc",
-  "summary": "The gentleman-thief relates stories of his outwitting the Parisian detectives.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos",
+  "date": "2025-08-26",
+  "title": "Short Fiction",
+  "author": "Robert E. Howard",
+  "summary": "A collection of Robert E. Howard’s short stories, including the barbarian adventures of Conan the Cimmerian.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -252,29 +250,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-25",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2025-08-26",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
     "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-08-25",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2025-08-26",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
