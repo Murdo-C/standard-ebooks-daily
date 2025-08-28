@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-27",
-  "title": "The Jungle",
-  "author": "Upton Sinclair",
-  "summary": "A working-class Lithuanian immigrant family’s struggle to make a living in the turn-of-the-century Chicago stockyards.",
-  "coverUrl": "https://standardebooks.org/ebooks/upton-sinclair/the-jungle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/upton-sinclair/the-jungle",
+  "date": "2025-08-28",
+  "title": "Memoirs of Arsène Lupin",
+  "author": "Maurice Leblanc",
+  "summary": "The gentleman-thief recounts the tale of his first major caper.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/memoirs-of-arsene-lupin/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/memoirs-of-arsene-lupin/alexander-teixeira-de-mattos",
   "subjects": [
     "fiction"
   ]
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-27",
+  "date": "2025-08-28",
   "title": "Ashenden",
   "author": "W. Somerset Maugham",
   "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
@@ -28,54 +28,55 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-27",
-  "title": "Memoirs of a Foxhunting Man",
-  "author": "Siegfried Sassoon",
-  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
-  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
+  "date": "2025-08-28",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
   "subjects": [
     "autobiography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-08-27",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2025-08-27",
-  "title": "Green Forest Stories",
-  "author": "Thornton W. Burgess",
-  "summary": "A collection of four animal tales featuring the denizens of the Green Forest.",
-  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories",
+  "genre": "biography",
+  "date": "2025-08-28",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
-    "childrens",
+    "biography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "childrens",
+  "date": "2025-08-28",
+  "title": "Hindu Tales from the Sanskrit",
+  "author": "S. M. Mitra",
+  "summary": "Short stories and fables from the Sanskrit tradition.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit",
+  "subjects": [
+    "childrens",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "comedy",
-  "date": "2025-08-27",
-  "title": "She Stoops to Conquer",
-  "author": "Oliver Goldsmith",
-  "summary": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
-  "coverUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer",
+  "date": "2025-08-28",
+  "title": "Tartuffe",
+  "author": "Molière",
+  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
+  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
   "subjects": [
     "comedy",
     "drama"
@@ -84,7 +85,7 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-08-27",
+  "date": "2025-08-28",
   "title": "Timon of Athens",
   "author": "William Shakespeare",
   "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
@@ -97,59 +98,53 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-27",
-  "title": "Short Fiction",
-  "author": "E. M. Forster",
-  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+  "date": "2025-08-28",
+  "title": "Vathek",
+  "author": "William Beckford",
+  "summary": "A powerful caliph embarks on a quest to harness the powers of darkness.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-27",
-  "title": "The Child of the Cavern",
-  "author": "Jules Verne",
-  "summary": "An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company",
+  "date": "2025-08-28",
+  "title": "The Life and Adventures of Robinson Crusoe",
+  "author": "Daniel Defoe",
+  "summary": "Shipwrecked on a remote tropical island, a resourceful Englishman manages to survive alone for many years.",
+  "coverUrl": "https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-08-27",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2025-08-28",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "fiction",
-    "horror",
-    "shorts"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-27",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2025-08-28",
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
   "subjects": [
     "adventure",
-    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -157,42 +152,39 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-27",
-  "title": "The Adventures of Sherlock Holmes",
-  "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective investigates a variety of intriguing cases in the first Holmes short story collection.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes",
+  "date": "2025-08-28",
+  "title": "The Box Office Murders",
+  "author": "Freeman Wills Crofts",
+  "summary": "The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders",
   "subjects": [
     "fiction",
-    "mystery",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-27",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2025-08-28",
+  "title": "Histories",
+  "author": "Herodotus",
+  "summary": "Herodotus recounts the history and geography of the ancient world.",
+  "coverUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
   "subjects": [
-    "nonfiction",
-    "spirituality",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-27",
-  "title": "The Wealth of Nations",
-  "author": "Adam Smith",
-  "summary": "Adam Smith lays the foundation of classical economics.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+  "date": "2025-08-28",
+  "title": "Essays",
+  "author": "Thomas Paine",
+  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
   "subjects": [
     "philosophy"
   ]
@@ -200,12 +192,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-27",
+  "date": "2025-08-28",
   "title": "Poetry",
-  "author": "T. S. Eliot",
-  "summary": "A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”",
-  "coverUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
+  "author": "Thomas Gray",
+  "summary": "A collection of poems by Thomas Gray.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry",
   "subjects": [
     "poetry"
   ]
@@ -213,26 +205,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-08-27",
-  "title": "The Works of Max Beerbohm",
-  "author": "Max Beerbohm",
-  "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm",
+  "date": "2025-08-28",
+  "title": "Gulliver’s Travels",
+  "author": "Jonathan Swift",
+  "summary": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
   "subjects": [
-    "satire",
-    "shorts"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-27",
-  "title": "Nordenholt’s Million",
-  "author": "J. J. Connington",
-  "summary": "After a strain of bacteria causes the collapse of the world’s food supply, a plutocrat creates a refuge to try to ensure the survival of a chosen few.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/nordenholts-million/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/nordenholts-million",
+  "date": "2025-08-28",
+  "title": "The Night Land",
+  "author": "William Hope Hodgson",
+  "summary": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
   "subjects": [
     "science_fiction"
   ]
@@ -240,12 +232,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-27",
-  "title": "Short Fiction",
-  "author": "Selma Lagerlöf",
-  "summary": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/pauline-bancroft-flach_jessie-brochner_velma-swanston-howard/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/pauline-bancroft-flach_jessie-brochner_velma-swanston-howard",
+  "date": "2025-08-28",
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "summary": "Seven fable-like tales about jungle animals in India and the humans who live on the edges of their realm.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book",
   "subjects": [
     "fiction",
     "shorts"
@@ -254,7 +246,7 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-27",
+  "date": "2025-08-28",
   "title": "The Divine Comedy",
   "author": "Dante Alighieri",
   "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
@@ -269,14 +261,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-08-27",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2025-08-28",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "shorts",
+    "nonfiction",
     "travel"
   ]
 }
