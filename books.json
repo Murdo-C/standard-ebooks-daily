@@ -1,20 +1,20 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-08-29",
-  "title": "Poetry",
-  "author": "Mina Loy",
-  "summary": "A collection of poems by Mina Loy.",
-  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
+  "date": "2025-08-30",
+  "title": "Lud-in-the-Mist",
+  "author": "Hope Mirrlees",
+  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
+  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
   "subjects": [
-    "poetry"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "title": "Ashenden",
   "author": "W. Somerset Maugham",
   "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
@@ -28,7 +28,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "title": "A Yankee in the Trenches",
   "author": "Robert Derby Holmes",
   "summary": "An American describes his experiences in the British Army in the First World War.",
@@ -42,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-08-29",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-08-30",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,40 +56,42 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-08-29",
-  "title": "The Wonderful Adventures of Nils",
-  "author": "Selma Lagerlöf",
-  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
+  "date": "2025-08-30",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
   "subjects": [
     "childrens",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-08-29",
-  "title": "Tartuffe",
-  "author": "Molière",
-  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
-  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
+  "date": "2025-08-30",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-08-29",
-  "title": "Timon of Athens",
+  "date": "2025-08-30",
+  "title": "The Tempest",
   "author": "William Shakespeare",
-  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+  "summary": "A magic-induced tempest shipwrecks the king of Naples and his crew on an island inhabited by the usurped duke of Milan.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-tempest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-tempest",
   "subjects": [
     "drama"
   ]
@@ -97,12 +99,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-08-29",
-  "title": "The Wood Beyond the World",
+  "date": "2025-08-30",
+  "title": "The Water of the Wondrous Isles",
   "author": "William Morris",
-  "summary": "An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world",
+  "summary": "A beautiful woman escapes a life of servitude under an evil witch to adventure through a series of magical islands.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles",
   "subjects": [
     "fantasy"
   ]
@@ -110,21 +112,20 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-08-29",
-  "title": "The Young Visiters",
-  "author": "Daisy Ashford",
-  "summary": "A nine-year-old girl’s humorous depiction of high society, exactly as written in her notebook.",
-  "coverUrl": "https://standardebooks.org/ebooks/daisy-ashford/the-young-visiters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/daisy-ashford/the-young-visiters",
+  "date": "2025-08-30",
+  "title": "The Splendid Fairing",
+  "author": "Constance Holme",
+  "summary": "An elderly couple tries to deal with an unfavorable financial situation, deteriorating health, and the absence of their son while living in a tight-knit community that doesn’t hold them in high esteem.",
+  "coverUrl": "https://standardebooks.org/ebooks/constance-holme/the-splendid-fairing/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/constance-holme/the-splendid-fairing",
   "subjects": [
-    "comedy",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "title": "The Private Memoirs and Confessions of a Justified Sinner",
   "author": "James Hogg",
   "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
@@ -138,12 +139,12 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-08-29",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2025-08-30",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -152,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-08-29",
-  "title": "The Shore Road Mystery",
+  "date": "2025-08-30",
+  "title": "The Tower Treasure",
   "author": "Franklin W. Dixon",
-  "summary": "Two amateur slueths endeavor to break up a carjacking ring.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery",
+  "summary": "After a tower mansion is robbed, two boys are determined to find the culprit and exonerate their friend’s father.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure",
   "subjects": [
     "adventure",
     "childrens",
@@ -168,42 +169,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-08-29",
-  "title": "Histories",
-  "author": "Herodotus",
-  "summary": "Herodotus recounts the history and geography of the ancient world.",
-  "coverUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
+  "date": "2025-08-30",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
   "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-08-29",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-08-30",
+  "title": "Moribund Society and Anarchy",
+  "author": "Jean Grave",
+  "summary": "Jean Grave systemically critiques bourgeois society from an anarchist perspective.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "title": "Poetry",
-  "author": "Taras Shevchenko",
-  "summary": "A collection of Taras Shevchenko’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/alexander-jardine-hunter_ethel-voynich_paul-selver_florence-randal-livesay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/alexander-jardine-hunter_ethel-voynich_paul-selver_florence-randal-livesay",
+  "author": "Sarah Louisa Forten Purvis",
+  "summary": "A collection of poems by Sarah Louisa Forten Purvis.",
+  "coverUrl": "https://standardebooks.org/ebooks/sarah-louisa-forten-purvis/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sarah-louisa-forten-purvis/poetry",
   "subjects": [
     "poetry"
   ]
@@ -211,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-08-29",
-  "title": "Northanger Abbey",
-  "author": "Jane Austen",
-  "summary": "A young girl with an overactive imagination comes of age.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+  "date": "2025-08-30",
+  "title": "Martin Eden",
+  "author": "Jack London",
+  "summary": "A young working-class man sets out to become a bourgeois writer.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
   "subjects": [
     "fiction",
     "satire"
@@ -225,26 +223,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-08-29",
-  "title": "The House on the Borderland",
-  "author": "William Hope Hodgson",
-  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "date": "2025-08-30",
+  "title": "Metropolis",
+  "author": "Thea von Harbou",
+  "summary": "In a futuristic dystopian city, the son of the city’s mastermind falls in love with a revolutionary activist.",
+  "coverUrl": "https://standardebooks.org/ebooks/thea-von-harbou/metropolis/the-readers-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thea-von-harbou/metropolis/the-readers-library",
   "subjects": [
-    "horror",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-08-29",
-  "title": "Winesburg, Ohio",
-  "author": "Sherwood Anderson",
-  "summary": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
-  "coverUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio",
+  "date": "2025-08-30",
+  "title": "Short Fiction",
+  "author": "Tanizaki Jun’ichirō",
+  "summary": "A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/ijichi-sumimasa_iwado-z-tamotsu/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/ijichi-sumimasa_iwado-z-tamotsu",
   "subjects": [
     "fiction",
     "shorts"
@@ -253,22 +250,22 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-08-29",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2025-08-30",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "fiction",
-    "poetry",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "title": "Two Years Before the Mast",
   "author": "Richard Henry Dana Jr.",
   "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
