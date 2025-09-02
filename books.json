@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-01",
-  "title": "The Inferno",
-  "author": "August Strindberg",
-  "summary": "A writer succumbing to mania tries to find a path out through occultism and religion, in Strindberg’s semi-autobiographical novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/august-strindberg/the-inferno/claud-field/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/august-strindberg/the-inferno/claud-field",
+  "date": "2025-09-02",
+  "title": "Ursule Mirouët",
+  "author": "Honoré de Balzac",
+  "summary": "A young girl grows up in the care of her uncle and his friends, while his heirs scheme to prevent her from inheriting anything.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/ursule-mirouet/clara-bell/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/ursule-mirouet/clara-bell",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-01",
-  "title": "The Triumph of the Scarlet Pimpernel",
+  "date": "2025-09-02",
+  "title": "The Scarlet Pimpernel",
   "author": "Baroness Orczy",
-  "summary": "A woman is kidnapped in order to trap her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel",
+  "summary": "A daring Englishman with a secret identity rescues French aristocrats from the guillotine during the French Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,41 +28,42 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-01",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2025-09-02",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-09-01",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
+    "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2025-09-01",
-  "title": "Kidnapped",
-  "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "genre": "biography",
+  "date": "2025-09-02",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
-    "adventure",
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-09-02",
+  "title": "The Wonderful Adventures of Nils",
+  "author": "Selma Lagerlöf",
+  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
+  "subjects": [
     "childrens",
     "fiction"
   ]
@@ -70,96 +71,176 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-01",
-  "title": "Gentlemen Prefer Blondes",
-  "author": "Anita Loos",
-  "summary": "The comic diary of a young woman recounting her escapades and romances in 1920s New York and Europe.",
-  "coverUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
+  "date": "2025-09-02",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-09-01",
-  "title": "Major Barbara",
+  "date": "2025-09-02",
+  "title": "Man and Superman",
   "author": "George Bernard Shaw",
-  "summary": "The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-01",
-  "title": "Through the Looking-Glass",
-  "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
+  "date": "2025-09-02",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-01",
-  "title": "Lord Arthur Savile’s Crime and Other Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s short mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories",
+  "date": "2025-09-02",
+  "title": "Laughing Boy",
+  "author": "Oliver La Farge",
+  "summary": "A young Navajo man meets a mysterious young woman as he enters adulthood during the American expansion into the West.",
+  "coverUrl": "https://standardebooks.org/ebooks/oliver-la-farge/laughing-boy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oliver-la-farge/laughing-boy",
   "subjects": [
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-09-01",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2025-09-02",
+  "title": "Melmoth the Wanderer",
+  "author": "Charles Robert Maturin",
+  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
   "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-01",
-  "title": "The Mirror of the Sea",
+  "date": "2025-09-02",
+  "title": "A Personal Record",
   "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-01",
+  "date": "2025-09-02",
+  "title": "The Paradise Mystery",
+  "author": "J. S. Fletcher",
+  "summary": "A young doctor attempts to turn a mysterious death to his romantic advantage.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-09-02",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "subjects": [
+    "autobiography",
+    "memoir",
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-09-02",
+  "title": "Nicomachean Ethics",
+  "author": "Aristotle",
+  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
+  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2025-09-02",
+  "title": "New Hampshire",
+  "author": "Robert Frost",
+  "summary": "Robert Frost’s Pulitzer-winning book of poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2025-09-02",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "subjects": [
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2025-09-02",
+  "title": "Islands of Space",
+  "author": "John W. Campbell",
+  "summary": "Four men become the first humans to travel to other galaxies.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2025-09-02",
   "title": "Lord Peter Views the Body",
   "author": "Dorothy L. Sayers",
   "summary": "A collection of short stories in which an aristocratic amateur detective solves a variety of crimes.",
@@ -173,109 +254,32 @@
 }
 ,
 {
-  "genre": "nonfiction",
-  "date": "2025-09-01",
-  "title": "Representative Men",
-  "author": "Ralph Waldo Emerson",
-  "summary": "A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.",
-  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2025-09-01",
-  "title": "A General View of Positivism",
-  "author": "Auguste Comte",
-  "summary": "A brief overview of the goals and methods of the Positivist philosophical movement.",
-  "coverUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2025-09-01",
-  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
-  "author": "Robert Williams Wood",
-  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
-  "subjects": [
-    "poetry",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2025-09-01",
-  "title": "The Devil’s Dictionary",
-  "author": "Ambrose Bierce",
-  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
-  "subjects": [
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2025-09-01",
-  "title": "Short Fiction",
-  "author": "Mack Reynolds",
-  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
-  "subjects": [
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2025-09-01",
-  "title": "Poirot Investigates",
-  "author": "Agatha Christie",
-  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
-  "subjects": [
-    "mystery",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2025-09-01",
-  "title": "A Day at a Time",
-  "author": "Archibald Alexander",
-  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
+  "date": "2025-09-02",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
+    "autobiography",
+    "memoir",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-01",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2025-09-02",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
