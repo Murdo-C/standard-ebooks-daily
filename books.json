@@ -1,109 +1,112 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-03",
-  "title": "Scaramouche",
-  "author": "Rafael Sabatini",
-  "summary": "A country lawyer finds love and adventure as he seeks revenge during the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/scaramouche/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/scaramouche",
+  "date": "2025-09-04",
+  "title": "Vikram and the Vampire",
+  "author": "Richard F. Burton",
+  "summary": "King Vikram becomes trapped in a cycle of stories as he tries to capture a cunning vampire.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire",
   "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2025-09-03",
-  "title": "The Laughing Cavalier",
-  "author": "Baroness Orczy",
-  "summary": "An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-09-03",
-  "title": "The Story of My Life",
-  "author": "Helen Keller",
-  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
-  "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-09-03",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
-  "subjects": [
-    "biography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2025-09-03",
-  "title": "Just So Stories",
-  "author": "Rudyard Kipling",
-  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
-  "subjects": [
-    "childrens",
     "fiction",
     "shorts"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2025-09-04",
+  "title": "The League of the Scarlet Pimpernel",
+  "author": "Baroness Orczy",
+  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
+  "subjects": [
+    "adventure",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2025-09-04",
+  "title": "Our Nig",
+  "author": "Harriet E. Wilson",
+  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
+  "subjects": [
+    "autobiography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2025-09-04",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "subjects": [
+    "biography",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-09-04",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "subjects": [
+    "adventure",
+    "childrens",
+    "fiction"
+  ]
+}
+,
+{
   "genre": "comedy",
-  "date": "2025-09-03",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2025-09-04",
+  "title": "Getting Married",
+  "author": "George Bernard Shaw",
+  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-09-03",
-  "title": "Heartbreak House",
+  "date": "2025-09-04",
+  "title": "Man and Superman",
   "author": "George Bernard Shaw",
-  "summary": "Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-03",
-  "title": "The Shaving of Shagpat",
-  "author": "George Meredith",
-  "summary": "A Persian barber embarks on a quest to save a city from the clutches of a tyrant and his magical hair.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-meredith/the-shaving-of-shagpat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-meredith/the-shaving-of-shagpat",
+  "date": "2025-09-04",
+  "title": "Phantastes",
+  "author": "George MacDonald",
+  "summary": "A young man awakes in Fairy Land, where he takes part in a series of strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes",
   "subjects": [
     "fantasy"
   ]
@@ -111,12 +114,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-03",
-  "title": "The Vicar of Wakefield",
-  "author": "Oliver Goldsmith",
-  "summary": "A country vicar and his family are subjected to a series of unfortunate events.",
-  "coverUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/the-vicar-of-wakefield/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/the-vicar-of-wakefield",
+  "date": "2025-09-04",
+  "title": "The Sport of the Gods",
+  "author": "Paul Laurence Dunbar",
+  "summary": "In a Southern town and then in New York City, an African American family struggles for for its integrity and survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-laurence-dunbar/the-sport-of-the-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-laurence-dunbar/the-sport-of-the-gods",
   "subjects": [
     "fiction"
   ]
@@ -124,12 +127,12 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-09-03",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2025-09-04",
+  "title": "The Three Impostors",
+  "author": "Arthur Machen",
+  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
   "subjects": [
     "fiction",
     "horror"
@@ -138,27 +141,27 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-03",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2025-09-04",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
+    "autobiography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-03",
-  "title": "The Benson Murder Case",
-  "author": "S. S. Van Dine",
-  "summary": "A Manhattanite art connoisseur becomes an amateur detective as he assists his good friend, the District Attorney, in solving an unusual murder case.",
-  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case",
+  "date": "2025-09-04",
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle",
+  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,35 +170,37 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-03",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "date": "2025-09-04",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-03",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "date": "2025-09-04",
+  "title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-03",
+  "date": "2025-09-04",
   "title": "Hudibras",
   "author": "Samuel Butler",
   "summary": "A knight and his squire set forth for adventure and love.",
@@ -209,12 +214,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-09-03",
-  "title": "Crome Yellow",
+  "date": "2025-09-04",
+  "title": "Point Counter Point",
   "author": "Aldous Huxley",
-  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
+  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
   "subjects": [
     "fiction",
     "satire"
@@ -223,58 +228,57 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-03",
-  "title": "Short Fiction",
-  "author": "Henry Kuttner",
-  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "date": "2025-09-04",
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "summary": "A mysterious inventor travels to a land far off in time.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-03",
-  "title": "School Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
+  "date": "2025-09-04",
+  "title": "The Wisdom of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "Amateur detective and Catholic priest Father Brown solves mysteries in this second collection of Father Brown short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-wisdom-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-wisdom-of-father-brown",
   "subjects": [
-    "comedy",
     "fiction",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-03",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "date": "2025-09-04",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
     "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-03",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2025-09-04",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
