@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-05",
-  "title": "To Cuba and Back",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
+  "date": "2025-09-06",
+  "title": "After London",
+  "author": "Richard Jefferies",
+  "summary": "A young man tries to understand his place in the world as he explores a post-apocalyptic England.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
   "subjects": [
-    "travel"
+    "adventure",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-05",
-  "title": "The Elusive Pimpernel",
+  "date": "2025-09-06",
+  "title": "The First Sir Percy",
   "author": "Baroness Orczy",
-  "summary": "A French official schemes to finally catch the Scarlet Pimpernel.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel",
+  "summary": "A man and his followers try again to overthrow the Stadtholder of the Netherlands.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,25 +29,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-05",
-  "title": "Geronimo’s Story of His Life",
-  "author": "Geronimo",
-  "summary": "The Apache war chief Geronimo recounts the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
+  "date": "2025-09-06",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-05",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2025-09-06",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -55,12 +57,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-05",
-  "title": "Catriona",
+  "date": "2025-09-06",
+  "title": "Kidnapped",
   "author": "Robert Louis Stevenson",
-  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
   "subjects": [
     "adventure",
     "childrens",
@@ -70,12 +72,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-05",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2025-09-06",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
     "drama"
@@ -84,55 +86,54 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-09-05",
-  "title": "Heartbreak House",
+  "date": "2025-09-06",
+  "title": "Fanny’s First Play",
   "author": "George Bernard Shaw",
-  "summary": "Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house",
+  "summary": "A young woman writes a play to shock her father, in which two respectable families deal with their with disreputable children.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-05",
-  "title": "At the Back of the North Wind",
-  "author": "George MacDonald",
-  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
+  "date": "2025-09-06",
+  "title": "Zuni Folktales",
+  "author": "Frank Hamilton Cushing",
+  "summary": "A collection of folktales from the Zuni culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-05",
-  "title": "Stover at Yale",
-  "author": "Owen Johnson",
-  "summary": "A young prep school football star arrives at Yale, where he grows and develops on the football field and off.",
-  "coverUrl": "https://standardebooks.org/ebooks/owen-johnson/stover-at-yale/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/owen-johnson/stover-at-yale",
+  "date": "2025-09-06",
+  "title": "The Virginian",
+  "author": "Owen Wister",
+  "summary": "A cowboy working on a Wyoming Territory cattle ranch in the 1880s embraces the spirit of the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/owen-wister/the-virginian/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/owen-wister/the-virginian",
   "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-09-05",
+  "date": "2025-09-06",
   "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "author": "H. P. Lovecraft",
+  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
   "subjects": [
-    "fiction",
     "horror",
     "shorts"
   ]
@@ -140,34 +141,37 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-05",
-  "title": "The Hashish Eater",
-  "author": "Fitz Hugh Ludlow",
-  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
-  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
+  "date": "2025-09-06",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "memoir"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-05",
-  "title": "The Secret Adversary",
-  "author": "Agatha Christie",
-  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
+  "date": "2025-09-06",
+  "title": "Lord Peter Views the Body",
+  "author": "Dorothy L. Sayers",
+  "summary": "A collection of short stories in which an aristocratic amateur detective solves a variety of crimes.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/lord-peter-views-the-body/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/lord-peter-views-the-body",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-05",
+  "date": "2025-09-06",
   "title": "Yashka",
   "author": "Maria Bochkareva",
   "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
@@ -181,33 +185,35 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-05",
-  "title": "The Wealth of Nations",
-  "author": "Adam Smith",
-  "summary": "Adam Smith lays the foundation of classical economics.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+  "date": "2025-09-06",
+  "title": "Darkwater",
+  "author": "W. E. B. Du Bois",
+  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-05",
-  "title": "Songs of a Sourdough",
-  "author": "Robert W. Service",
-  "summary": "A collection of poems about the Klondike Gold Rush.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough",
+  "date": "2025-09-06",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "poetry"
+    "poetry",
+    "satire"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-09-05",
+  "date": "2025-09-06",
   "title": "Where Angels Fear to Tread",
   "author": "E. M. Forster",
   "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
@@ -221,20 +227,21 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-05",
-  "title": "The Food of the Gods",
-  "author": "H. G. Wells",
-  "summary": "Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
+  "date": "2025-09-06",
+  "title": "Short Fiction",
+  "author": "H. Beam Piper",
+  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-05",
+  "date": "2025-09-06",
   "title": "Short Fiction",
   "author": "Cordwainer Smith",
   "summary": "A collection of short stories by Cordwainer Smith ordered by date of publication.",
@@ -248,29 +255,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-05",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2025-09-06",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
     "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-05",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2025-09-06",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "nonfiction",
     "travel"
   ]
 }
