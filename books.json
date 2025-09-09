@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-08",
-  "title": "The Playboy of the Western World",
-  "author": "J. M. Synge",
-  "summary": "A young man in the west coast of Ireland is lionized after he claims to have killed his father.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world",
+  "date": "2025-09-09",
+  "title": "The Thirty-Nine Steps",
+  "author": "John Buchan",
+  "summary": "An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps",
   "subjects": [
-    "drama"
+    "adventure",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-08",
-  "title": "Pimpernel and Rosemary",
+  "date": "2025-09-09",
+  "title": "Sir Percy Hits Back",
   "author": "Baroness Orczy",
-  "summary": "A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary",
+  "summary": "A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +29,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-08",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2025-09-09",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-08",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2025-09-09",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -56,7 +57,7 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "The Wonderful Adventures of Nils",
   "author": "Selma Lagerlöf",
   "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
@@ -70,7 +71,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "Penguin Island",
   "author": "Anatole France",
   "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
@@ -85,12 +86,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-09-08",
-  "title": "Candida",
-  "author": "George Bernard Shaw",
-  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+  "date": "2025-09-09",
+  "title": "The Hairy Ape",
+  "author": "Eugene O’Neill",
+  "summary": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
+  "coverUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape",
   "subjects": [
     "drama"
   ]
@@ -98,12 +99,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-08",
-  "title": "Khaled",
-  "author": "F. Marion Crawford",
-  "summary": "A powerful genie is condemned to live the life of a man, unless he can find true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled",
+  "date": "2025-09-09",
+  "title": "Kai Lung’s Golden Hours",
+  "author": "Ernest Bramah",
+  "summary": "An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours",
   "subjects": [
     "fantasy"
   ]
@@ -111,21 +112,21 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-08",
-  "title": "The Beasts of Tarzan",
-  "author": "Edgar Rice Burroughs",
-  "summary": "An old enemy kidnaps Tarzan’s family, and Tarzan must rescue them with the help of his panther and ape friends.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan",
+  "date": "2025-09-09",
+  "title": "Short Fiction",
+  "author": "F. Scott Fitzgerald",
+  "summary": "A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction",
   "subjects": [
-    "adventure",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "Short Fiction",
   "author": "Edgar Allan Poe",
   "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
@@ -144,22 +145,22 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-08",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2025-09-09",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
+    "autobiography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "The Dain Curse",
   "author": "Dashiell Hammett",
   "summary": "A detective assigned to investigate a diamond theft finds himself entangled by a family curse.",
@@ -173,12 +174,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-08",
-  "title": "Representative Men",
-  "author": "Ralph Waldo Emerson",
-  "summary": "A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.",
-  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men",
+  "date": "2025-09-09",
+  "title": "Table-Talk",
+  "author": "William Hazlitt",
+  "summary": "A collection of essays on art, literature, philosophy, society, and culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk",
   "subjects": [
     "nonfiction"
   ]
@@ -186,12 +187,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-08",
-  "title": "The Social Contract",
-  "author": "Jean-Jacques Rousseau",
-  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+  "date": "2025-09-09",
+  "title": "Democracy and Social Ethics",
+  "author": "Jane Addams",
+  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -200,7 +201,7 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "New Hampshire",
   "author": "Robert Frost",
   "summary": "Robert Frost’s Pulitzer-winning book of poetry.",
@@ -213,26 +214,27 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-09-08",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
+  "date": "2025-09-09",
+  "title": "A Woman of No Importance",
+  "author": "Oscar Wilde",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-08",
-  "title": "The Food of the Gods",
-  "author": "H. G. Wells",
-  "summary": "Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
+  "date": "2025-09-09",
+  "title": "Armageddon 2419 A.D.",
+  "author": "Philip Francis Nowlan",
+  "summary": "Adventure hero Buck Rogers battles the forces of the evil Han Empire in 2419 America.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d",
   "subjects": [
     "science_fiction"
   ]
@@ -240,7 +242,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "Short Fiction",
   "author": "Philip K. Dick",
   "summary": "A collection of short works by science fiction legend Philip K. Dick.",
@@ -254,21 +256,22 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-08",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2025-09-09",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
     "nonfiction",
-    "spirituality"
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "title": "To Cuba and Back",
   "author": "Richard Henry Dana Jr.",
   "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
