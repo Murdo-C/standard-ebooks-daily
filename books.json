@@ -1,27 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-12",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2025-09-13",
+  "title": "The Transformation of Philip Jettan",
+  "author": "Georgette Heyer",
+  "summary": "In eighteenth-century England, a handsome youth reluctantly transforms himself into a fashionable gentleman in order to win the heart of the girl he loves.",
+  "coverUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-transformation-of-philip-jettan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-transformation-of-philip-jettan",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-12",
-  "title": "El Dorado",
+  "date": "2025-09-13",
+  "title": "I Will Repay",
   "author": "Baroness Orczy",
-  "summary": "Two separate interests want to free the imprisoned Dauphin of France.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado",
+  "summary": "A young woman pursues revenge against the man who killed her brother in a duel years before.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay",
   "subjects": [
     "adventure",
     "fiction"
@@ -30,21 +28,21 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-12",
-  "title": "Elizabeth and Her German Garden",
-  "author": "Elizabeth von Arnim",
-  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
+  "date": "2025-09-13",
+  "title": "Personal Memoirs of Ulysses S. Grant",
+  "author": "Ulysses S. Grant",
+  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
+  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
   "subjects": [
     "autobiography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-12",
+  "date": "2025-09-13",
   "title": "Queen Victoria",
   "author": "Lytton Strachey",
   "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
@@ -58,36 +56,35 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-12",
-  "title": "Treasure Island",
-  "author": "Robert Louis Stevenson",
-  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "date": "2025-09-13",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
   "subjects": [
-    "adventure",
     "childrens",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-12",
-  "title": "Getting Married",
-  "author": "George Bernard Shaw",
-  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
+  "date": "2025-09-13",
+  "title": "Mike",
+  "author": "P. G. Wodehouse",
+  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
   "subjects": [
-    "comedy",
-    "drama"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-09-12",
+  "date": "2025-09-13",
   "title": "Three Sisters",
   "author": "Anton Chekhov",
   "summary": "Three sisters long to escape their provincial town and return to Moscow.",
@@ -100,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-12",
-  "title": "Five Children and It",
+  "date": "2025-09-13",
+  "title": "Harding’s Luck",
   "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
   "subjects": [
     "childrens",
     "fantasy"
@@ -114,12 +111,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-12",
-  "title": "The History of Mr. Polly",
-  "author": "H. G. Wells",
-  "summary": "A middle-aged man in early Edwardian England finds himself despairing at his failed business and marriage, and takes a drastic step to escape—with unexpected results.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-history-of-mr-polly/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-history-of-mr-polly",
+  "date": "2025-09-13",
+  "title": "The Financier",
+  "author": "Theodore Dreiser",
+  "summary": "A young man makes and loses a fortune in Civil War era America.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-dreiser/the-financier/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-dreiser/the-financier",
   "subjects": [
     "fiction"
   ]
@@ -127,40 +124,39 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-09-12",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2025-09-13",
+  "title": "The Private Memoirs and Confessions of a Justified Sinner",
+  "author": "James Hogg",
+  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
   "subjects": [
+    "fiction",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-12",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "date": "2025-09-13",
+  "title": "The Hashish Eater",
+  "author": "Fitz Hugh Ludlow",
+  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
+  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
   "subjects": [
-    "adventure",
-    "memoir",
-    "nonfiction"
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-12",
-  "title": "The Lodger",
-  "author": "Marie Belloc Lowndes",
-  "summary": "A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.",
-  "coverUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-lodger/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-lodger",
+  "date": "2025-09-13",
+  "title": "Clouds of Witness",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,107 +165,104 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-12",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-09-13",
+  "title": "Representative Men",
+  "author": "Ralph Waldo Emerson",
+  "summary": "A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.",
+  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-12",
-  "title": "The Servile State",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state",
+  "date": "2025-09-13",
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "summary": "Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-12",
-  "title": "Victory Odes",
-  "author": "Pindar",
-  "summary": "A collection of lyric poems celebrating the triumphs of ancient Greek athletes in various sporting events.",
-  "coverUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way",
+  "date": "2025-09-13",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "poetry"
+    "poetry",
+    "satire"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-09-12",
-  "title": "Candide",
-  "author": "Voltaire",
-  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
+  "date": "2025-09-13",
+  "title": "Dodsworth",
+  "author": "Sinclair Lewis",
+  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
   "subjects": [
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-12",
-  "title": "Islands of Space",
-  "author": "John W. Campbell",
-  "summary": "Four men become the first humans to travel to other galaxies.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
+  "date": "2025-09-13",
+  "title": "Short Fiction",
+  "author": "H. Beam Piper",
+  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-12",
-  "title": "Lord Arthur Savile’s Crime and Other Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s short mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories",
+  "date": "2025-09-13",
+  "title": "Short Fiction",
+  "author": "Frank Belknap Long",
+  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
   "subjects": [
-    "fiction",
+    "horror",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-12",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-09-13",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-12",
+  "date": "2025-09-13",
   "title": "Roughing It",
   "author": "Mark Twain",
   "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
