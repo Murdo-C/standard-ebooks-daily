@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-14",
+  "date": "2025-09-15",
   "title": "Winnie-the-Pooh",
   "author": "A. A. Milne",
   "summary": "A father tells stories to his son about the son’s stuffed animals come to life.",
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-14",
-  "title": "Lord Tony’s Wife",
-  "author": "Baroness Orczy",
-  "summary": "A young woman and her father are kidnapped by a man intent on revenge for his father’s death.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife",
+  "date": "2025-09-15",
+  "title": "The Splendid Spur",
+  "author": "Arthur Quiller-Couch",
+  "summary": "Events force a young man to act for the Royalist side in the English Civil War, bringing many adventures in consequence.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/the-splendid-spur/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/the-splendid-spur",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,39 +28,40 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-14",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2025-09-15",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-14",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2025-09-15",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-14",
-  "title": "Treasure Island",
+  "date": "2025-09-15",
+  "title": "Catriona",
   "author": "Robert Louis Stevenson",
-  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
     "adventure",
     "childrens",
@@ -70,7 +71,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-14",
+  "date": "2025-09-15",
   "title": "School Stories",
   "author": "P. G. Wodehouse",
   "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
@@ -85,12 +86,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-09-14",
-  "title": "The Eumenides",
+  "date": "2025-09-15",
+  "title": "The Libation Bearers",
   "author": "Aeschylus",
-  "summary": "A man is pursued by wrathful goddesses for avenging his father’s murder, and finds refuge in Athens where a trial determines his fate.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray",
+  "summary": "A man is ordered by a god to avenge his father’s murder by killing his mother and her lover.",
+  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray",
   "subjects": [
     "drama"
   ]
@@ -98,12 +99,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-14",
-  "title": "Thuvia, Maid of Mars",
+  "date": "2025-09-15",
+  "title": "The Warlord of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "When the beautiful Princess Thuvia of Ptarth is kidnapped, suspicion falls on John Carter’s son Carthoris, who sets out to rescue the woman he loves.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars",
+  "summary": "John Carter, an Earth-man transported to Mars, must rescue his beloved princess from imprisonment in the Martian Temple of the Sun.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -111,7 +112,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-14",
+  "date": "2025-09-15",
   "title": "The Woman in White",
   "author": "Wilkie Collins",
   "summary": "A young drawing teacher falls in love with his aristocratic pupil, who falls victim to a devious plot to acquire her considerable fortune.",
@@ -124,26 +125,27 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-09-14",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+  "date": "2025-09-15",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
     "horror",
-    "mystery"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-14",
-  "title": "Incidents in the Life of a Slave Girl",
-  "author": "Linda Brent",
-  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
-  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
+  "date": "2025-09-15",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -152,12 +154,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-14",
-  "title": "The Leavenworth Case",
-  "author": "Anna Katharine Green",
-  "summary": "A young New York lawyer becomes embroiled in the investigation of the mysterious murder of a wealthy man.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-katharine-green/the-leavenworth-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-katharine-green/the-leavenworth-case",
+  "date": "2025-09-15",
+  "title": "Mystery at Lynden Sands",
+  "author": "J. J. Connington",
+  "summary": "A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,42 +168,40 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-14",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-09-15",
+  "title": "Yashka",
+  "author": "Maria Bochkareva",
+  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
   "subjects": [
     "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-14",
-  "title": "The Crowd",
-  "author": "Gustave Le Bon",
-  "summary": "Le Bon explores the psychology, motivations, and dangers of crowds of people.",
-  "coverUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+  "date": "2025-09-15",
+  "title": "What’s Wrong with the World",
+  "author": "G. K. Chesterton",
+  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-14",
-  "title": "New Hampshire",
+  "date": "2025-09-15",
+  "title": "North of Boston",
   "author": "Robert Frost",
-  "summary": "Robert Frost’s Pulitzer-winning book of poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire",
+  "summary": "A collection of Frost’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston",
   "subjects": [
     "poetry"
   ]
@@ -209,27 +209,31 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-09-14",
-  "title": "The Luck of Barry Lyndon",
-  "author": "William Makepeace Thackeray",
-  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
+  "date": "2025-09-15",
+  "title": "Candide",
+  "author": "Voltaire",
+  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-14",
+  "date": "2025-09-15",
   "title": "Short Fiction",
-  "author": "Frederik Pohl",
-  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
     "science_fiction",
     "shorts"
   ]
@@ -237,46 +241,43 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-14",
-  "title": "Zuni Folktales",
-  "author": "Frank Hamilton Cushing",
-  "summary": "A collection of folktales from the Zuni culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
+  "date": "2025-09-15",
+  "title": "The Black Mask",
+  "author": "E. W. Hornung",
+  "summary": "The thieving duo of Raffles and Manders return in this second collection of A. J. Raffles short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-black-mask/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-black-mask",
   "subjects": [
-    "fantasy",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-14",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-09-15",
+  "title": "The Pilgrim Kamanita",
+  "author": "Karl Gjellerup",
+  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
+  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-14",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2025-09-15",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "comedy",
+    "fiction",
     "travel"
   ]
 }
