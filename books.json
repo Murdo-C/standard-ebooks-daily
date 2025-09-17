@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-16",
-  "title": "The Mother",
-  "author": "Pearl S. Buck",
-  "summary": "In a remote Chinese village, a devoted mother’s fierce love for her family is tested as she struggles to keep them fed, healthy, and together in the face of grinding poverty and looming change.",
-  "coverUrl": "https://standardebooks.org/ebooks/pearl-s-buck/the-mother/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pearl-s-buck/the-mother",
+  "date": "2025-09-17",
+  "title": "Magnificent Obsession",
+  "author": "Lloyd C. Douglas",
+  "summary": "A brain surgeon’s secret obsession is discovered and adopted by the wealthy young man involved in his death.",
+  "coverUrl": "https://standardebooks.org/ebooks/lloyd-c-douglas/magnificent-obsession/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lloyd-c-douglas/magnificent-obsession",
   "subjects": [
     "fiction"
   ]
@@ -14,54 +14,53 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-16",
-  "title": "The Lost World",
+  "date": "2025-09-17",
+  "title": "The Maracot Deep",
   "author": "Arthur Conan Doyle",
-  "summary": "A team of scientists and adventurers explores a prehistoric land.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
   "subjects": [
     "adventure",
-    "fantasy"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-16",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
+  "date": "2025-09-17",
+  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
+  "author": "Black Hawk",
+  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
+  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-16",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-09-17",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-16",
-  "title": "Kidnapped",
-  "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "date": "2025-09-17",
+  "title": "The Coral Island",
+  "author": "R. M. Ballantyne",
+  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
   "subjects": [
     "adventure",
     "childrens",
@@ -71,12 +70,25 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-16",
-  "title": "Getting Married",
-  "author": "George Bernard Shaw",
-  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
+  "date": "2025-09-17",
+  "title": "English as She Is Spoke",
+  "author": "Pedro Carolino",
+  "summary": "A phrasebook of unintentionally hilarious English.",
+  "coverUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke",
+  "subjects": [
+    "comedy"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2025-09-17",
+  "title": "Tartuffe",
+  "author": "Molière",
+  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
+  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
   "subjects": [
     "comedy",
     "drama"
@@ -84,26 +96,13 @@
 }
 ,
 {
-  "genre": "drama",
-  "date": "2025-09-16",
-  "title": "Agamemnon",
-  "author": "Aeschylus",
-  "summary": "The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
   "genre": "fantasy",
-  "date": "2025-09-16",
-  "title": "Lilith",
-  "author": "George MacDonald",
-  "summary": "After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith",
+  "date": "2025-09-17",
+  "title": "The Gods of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -111,12 +110,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-16",
-  "title": "The Thirty-Nine Steps",
+  "date": "2025-09-17",
+  "title": "The Courts of the Morning",
   "author": "John Buchan",
-  "summary": "An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps",
+  "summary": "A Scottish laird foments rebellion in a South American country threatened by a hostile regime.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-courts-of-the-morning/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-courts-of-the-morning",
   "subjects": [
     "adventure",
     "fiction"
@@ -125,40 +124,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-09-16",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
+  "date": "2025-09-17",
+  "title": "The Magician",
+  "author": "W. Somerset Maugham",
+  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
   "subjects": [
-    "fiction",
     "horror",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-16",
-  "title": "The Hashish Eater",
-  "author": "Fitz Hugh Ludlow",
-  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
-  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
+  "date": "2025-09-17",
+  "title": "A Personal Record",
+  "author": "Joseph Conrad",
+  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
   "subjects": [
-    "memoir"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-16",
-  "title": "The Man in the Queue",
-  "author": "Josephine Tey",
-  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
-  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
+  "date": "2025-09-17",
+  "title": "Murder in the Gunroom",
+  "author": "H. Beam Piper",
+  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,26 +166,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-16",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2025-09-17",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
   "subjects": [
-    "memoir",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-16",
-  "title": "The Everlasting Man",
+  "date": "2025-09-17",
+  "title": "Heretics",
   "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
   "subjects": [
     "nonfiction",
     "philosophy",
@@ -196,28 +195,27 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-16",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+  "date": "2025-09-17",
+  "title": "Victory Odes",
+  "author": "Pindar",
+  "summary": "A collection of lyric poems celebrating the triumphs of ancient Greek athletes in various sporting events.",
+  "coverUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-09-16",
-  "title": "Sartor Resartus",
-  "author": "Thomas Carlyle",
-  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
+  "date": "2025-09-17",
+  "title": "Sunshine Sketches of a Little Town",
+  "author": "Stephen Leacock",
+  "summary": "A humorous account of life in the fictional small town of Mariposa.",
+  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -225,62 +223,57 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-16",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2025-09-17",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
   "subjects": [
-    "adventure",
-    "comedy",
     "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-16",
-  "title": "The Amateur Cracksman",
-  "author": "E. W. Hornung",
-  "summary": "A British cricketer and his friend steal valuables in this first collection of A. J. Raffles short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman",
+  "date": "2025-09-17",
+  "title": "Legends of Vancouver",
+  "author": "E. Pauline Johnson",
+  "summary": "E. Pauline Johnson’s collection of legends and myths of the Squamish people.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-16",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2025-09-17",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "fiction",
-    "poetry",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-16",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2025-09-17",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
