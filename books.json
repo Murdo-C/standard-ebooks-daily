@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-17",
+  "date": "2025-09-18",
   "title": "Magnificent Obsession",
   "author": "Lloyd C. Douglas",
   "summary": "A brain surgeon’s secret obsession is discovered and adopted by the wealthy young man involved in his death.",
@@ -14,55 +14,55 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-17",
-  "title": "The Maracot Deep",
-  "author": "Arthur Conan Doyle",
-  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
+  "date": "2025-09-18",
+  "title": "The Prisoner of Zenda",
+  "author": "Anthony Hope",
+  "summary": "King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-17",
-  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
-  "author": "Black Hawk",
-  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
-  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
+  "date": "2025-09-18",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-09-17",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2025-09-17",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "genre": "biography",
+  "date": "2025-09-18",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
-    "adventure",
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-09-18",
+  "title": "The Gold Bat",
+  "author": "P. G. Wodehouse",
+  "summary": "The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat",
+  "subjects": [
     "childrens",
     "fiction"
   ]
@@ -70,39 +70,40 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-17",
-  "title": "English as She Is Spoke",
-  "author": "Pedro Carolino",
-  "summary": "A phrasebook of unintentionally hilarious English.",
-  "coverUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke",
+  "date": "2025-09-18",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
-    "comedy"
+    "comedy",
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-09-17",
-  "title": "Tartuffe",
-  "author": "Molière",
-  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
-  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
+  "date": "2025-09-18",
+  "title": "Six Characters in Search of an Author",
+  "author": "Luigi Pirandello",
+  "summary": "An absurdist comedy that contrasts illusion with reality, in which six characters arrive on a rehearsal stage filled with actors and demand the chance to speak their lines and act out the story of their lives.",
+  "coverUrl": "https://standardebooks.org/ebooks/luigi-pirandello/six-characters-in-search-of-an-author/edward-storer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/luigi-pirandello/six-characters-in-search-of-an-author/edward-storer",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-17",
-  "title": "The Gods of Mars",
-  "author": "Edgar Rice Burroughs",
-  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
+  "date": "2025-09-18",
+  "title": "Master Flea",
+  "author": "E. T. A. Hoffmann",
+  "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
   "subjects": [
     "fantasy"
   ]
@@ -110,12 +111,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-17",
-  "title": "The Courts of the Morning",
+  "date": "2025-09-18",
+  "title": "Mr. Standfast",
   "author": "John Buchan",
-  "summary": "A Scottish laird foments rebellion in a South American country threatened by a hostile regime.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-courts-of-the-morning/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-courts-of-the-morning",
+  "summary": "An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast",
   "subjects": [
     "adventure",
     "fiction"
@@ -124,40 +125,43 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-09-17",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "date": "2025-09-18",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
     "horror",
-    "mystery"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-17",
-  "title": "A Personal Record",
-  "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
+  "date": "2025-09-18",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
+    "autobiography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-17",
-  "title": "Murder in the Gunroom",
-  "author": "H. Beam Piper",
-  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
+  "date": "2025-09-18",
+  "title": "Clouds of Witness",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,28 +170,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-17",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2025-09-18",
+  "title": "Democracy and Education",
+  "author": "John Dewey",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-17",
-  "title": "Heretics",
+  "date": "2025-09-18",
+  "title": "Orthodoxy",
   "author": "G. K. Chesterton",
-  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
+  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -195,12 +198,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-17",
-  "title": "Victory Odes",
-  "author": "Pindar",
-  "summary": "A collection of lyric poems celebrating the triumphs of ancient Greek athletes in various sporting events.",
-  "coverUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way",
+  "date": "2025-09-18",
+  "title": "Poems on Various Subjects, Religious and Moral",
+  "author": "Phillis Wheatley",
+  "summary": "Phillis Wheatley’s only published collection of poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral",
   "subjects": [
     "poetry"
   ]
@@ -208,14 +211,13 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-09-17",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2025-09-18",
+  "title": "Main Street",
+  "author": "Sinclair Lewis",
+  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -223,57 +225,57 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-17",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2025-09-18",
+  "title": "R.U.R.",
+  "author": "Karel Čapek",
+  "summary": "The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
   "subjects": [
-    "horror",
+    "drama",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-17",
-  "title": "Legends of Vancouver",
-  "author": "E. Pauline Johnson",
-  "summary": "E. Pauline Johnson’s collection of legends and myths of the Squamish people.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver",
+  "date": "2025-09-18",
+  "title": "Jungle Tales of Tarzan",
+  "author": "Edgar Rice Burroughs",
+  "summary": "A collection of short stories about Tarzan growing up in the jungle.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan",
   "subjects": [
-    "nonfiction",
+    "adventure",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-17",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2025-09-18",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
     "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-17",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2025-09-18",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
-    "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
