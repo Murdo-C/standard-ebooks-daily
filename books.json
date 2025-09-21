@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-20",
+  "date": "2025-09-21",
   "title": "Misalliance",
   "author": "George Bernard Shaw",
   "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
@@ -15,71 +15,68 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-20",
-  "title": "The Nibelungenlied",
-  "author": "Anonymous",
-  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+  "date": "2025-09-21",
+  "title": "The Defiant Agents",
+  "author": "Andre Norton",
+  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
   "subjects": [
     "adventure",
-    "poetry"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-20",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-09-21",
+  "title": "Yashka",
+  "author": "Maria Bochkareva",
+  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
   "subjects": [
     "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-09-20",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "biography",
+  "date": "2025-09-21",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "subjects": [
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2025-09-20",
-  "title": "Children’s Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s children’s stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories",
+  "date": "2025-09-21",
+  "title": "The Blue Bird",
+  "author": "Maurice Maeterlinck",
+  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
   "subjects": [
     "childrens",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-20",
-  "title": "An Ideal Husband",
-  "author": "Oscar Wilde",
-  "summary": "Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband",
+  "date": "2025-09-21",
+  "title": "Tartuffe",
+  "author": "Molière",
+  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
+  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
   "subjects": [
     "comedy",
     "drama"
@@ -88,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-09-20",
-  "title": "The Unicorn from the Stars",
-  "author": "Lady Gregory",
-  "summary": "A young man’s visions disrupt the peace of his community.",
-  "coverUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars",
+  "date": "2025-09-21",
+  "title": "The Mule-Bone",
+  "author": "Langston Hughes",
+  "summary": "A guitarist and a dancer compete for the same woman’s affection.",
+  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone",
   "subjects": [
     "drama"
   ]
@@ -101,54 +98,58 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-20",
-  "title": "The House of Arden",
-  "author": "E. Nesbit",
-  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "date": "2025-09-21",
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "fantasy",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-20",
-  "title": "Manhattan Transfer",
-  "author": "John Dos Passos",
-  "summary": "Several characters strive for happiness and excitement in early twentieth century New York City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dos-passos/manhattan-transfer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dos-passos/manhattan-transfer",
+  "date": "2025-09-21",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
-    "fiction"
+    "fiction",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-09-20",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "date": "2025-09-21",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "summary": "Ten short stories of madness, hauntings, romance, and art.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-20",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2025-09-21",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -156,12 +157,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-20",
-  "title": "Clouds of Witness",
-  "author": "Dorothy L. Sayers",
-  "summary": "An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness",
+  "date": "2025-09-21",
+  "title": "Mystery at Lynden Sands",
+  "author": "J. J. Connington",
+  "summary": "A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,26 +171,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-20",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2025-09-21",
+  "title": "Democracy and Education",
+  "author": "John Dewey",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-20",
-  "title": "Principia Ethica",
-  "author": "G. E. Moore",
-  "summary": "An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica",
+  "date": "2025-09-21",
+  "title": "Thus Spake Zarathustra",
+  "author": "Friedrich Nietzsche",
+  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
   "subjects": [
     "philosophy"
   ]
@@ -197,59 +198,54 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-20",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2025-09-21",
+  "title": "Poetry",
+  "author": "Oscar Wilde",
+  "summary": "A collection of poems by Oscar Wilde.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
   "subjects": [
-    "drama",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-09-20",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2025-09-21",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "comedy",
-    "fantasy",
+    "poetry",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-20",
-  "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "date": "2025-09-21",
+  "title": "The Time Traders",
+  "author": "Andre Norton",
+  "summary": "A young criminal volunteers for a government project at a secret base.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-time-traders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-time-traders",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-20",
-  "title": "Short Fiction",
-  "author": "Beatrix Potter",
-  "summary": "A collection of Beatrix Potter’s short stories for children, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction",
+  "date": "2025-09-21",
+  "title": "The League of the Scarlet Pimpernel",
+  "author": "Baroness Orczy",
+  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
   "subjects": [
-    "childrens",
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -257,27 +253,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-20",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+  "date": "2025-09-21",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "summary": "Prose poems of offering translated by the author from the original Bengali.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
   "subjects": [
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-20",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2025-09-21",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "shorts",
+    "adventure",
+    "nonfiction",
     "travel"
   ]
 }
