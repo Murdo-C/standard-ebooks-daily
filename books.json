@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-22",
+  "date": "2025-09-23",
   "title": "Short Fiction",
-  "author": "Clifford D. Simak",
-  "summary": "A collection of short fiction by Clifford D. Simak, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
+  "author": "Robert Sheckley",
+  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -15,54 +15,55 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-22",
-  "title": "The Man in the Brown Suit",
-  "author": "Agatha Christie",
-  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
+  "date": "2025-09-23",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
     "adventure",
-    "fiction",
-    "mystery"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-22",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "date": "2025-09-23",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-22",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-09-23",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-22",
-  "title": "The Prince and the Pauper",
-  "author": "Mark Twain",
-  "summary": "The Prince of England and a pauper find their identities switched.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper",
+  "date": "2025-09-23",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,27 +72,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-22",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2025-09-23",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
     "comedy",
-    "fiction",
-    "travel"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-09-22",
-  "title": "The Duchess of Malfi",
-  "author": "John Webster",
-  "summary": "A widow marries beneath her station and against her brothers’ orders and, enraged, they take their revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi",
+  "date": "2025-09-23",
+  "title": "The Playboy of the Western World",
+  "author": "J. M. Synge",
+  "summary": "A young man in the west coast of Ireland is lionized after he claims to have killed his father.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world",
   "subjects": [
     "drama"
   ]
@@ -99,12 +100,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-22",
-  "title": "Vathek",
-  "author": "William Beckford",
-  "summary": "A powerful caliph embarks on a quest to harness the powers of darkness.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley",
+  "date": "2025-09-23",
+  "title": "The Wood Beyond the World",
+  "author": "William Morris",
+  "summary": "An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world",
   "subjects": [
     "fantasy"
   ]
@@ -112,40 +113,38 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-22",
-  "title": "The Thirty-Nine Steps",
-  "author": "John Buchan",
-  "summary": "An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps",
+  "date": "2025-09-23",
+  "title": "Savrola",
+  "author": "Winston Churchill",
+  "summary": "An idealistic opposition leader struggles to restrain his party while scheming to overthrow a widely-despised president and navigating a secret romance as the nation teeters toward revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/winston-churchill/savrola/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/winston-churchill/savrola",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-09-22",
-  "title": "The King in Yellow",
-  "author": "Robert W. Chambers",
-  "summary": "Ten short stories of madness, hauntings, romance, and art.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+  "date": "2025-09-23",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
-    "horror",
-    "shorts"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-22",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2025-09-23",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -154,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-22",
-  "title": "The Dain Curse",
-  "author": "Dashiell Hammett",
-  "summary": "A detective assigned to investigate a diamond theft finds himself entangled by a family curse.",
-  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-dain-curse/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-dain-curse",
+  "date": "2025-09-23",
+  "title": "The Lodger",
+  "author": "Marie Belloc Lowndes",
+  "summary": "A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.",
+  "coverUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-lodger/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-lodger",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,26 +167,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-22",
-  "title": "Human Nature and Conduct",
-  "author": "John Dewey",
-  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+  "date": "2025-09-23",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
     "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-22",
-  "title": "The Genealogy of Morals",
-  "author": "Friedrich Nietzsche",
-  "summary": "Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+  "date": "2025-09-23",
+  "title": "Discourses",
+  "author": "Epictetus",
+  "summary": "Epictetus instructs his students how to live the life of a Stoic.",
+  "coverUrl": "https://standardebooks.org/ebooks/epictetus/discourses/george-long/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/epictetus/discourses/george-long",
   "subjects": [
     "philosophy"
   ]
@@ -195,25 +195,27 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-22",
-  "title": "Poetry",
-  "author": "Mina Loy",
-  "summary": "A collection of poems by Mina Loy.",
-  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
+  "date": "2025-09-23",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
-    "poetry"
+    "fiction",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-09-22",
-  "title": "The Little Nugget",
+  "date": "2025-09-23",
+  "title": "The Coming of Bill",
   "author": "P. G. Wodehouse",
-  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
     "satire"
   ]
@@ -221,55 +223,55 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-22",
-  "title": "The Moon Pool",
-  "author": "A. Merritt",
-  "summary": "A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool",
+  "date": "2025-09-23",
+  "title": "Short Fiction",
+  "author": "Poul Anderson",
+  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-22",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2025-09-23",
+  "title": "The Memoirs of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
     "fiction",
-    "horror",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-22",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2025-09-23",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
   "subjects": [
-    "drama",
-    "poetry",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-22",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2025-09-23",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
     "memoir",
     "nonfiction",
