@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-25",
-  "title": "The Economic Consequences of the Peace",
-  "author": "John Maynard Keynes",
-  "summary": "Keynes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace",
+  "date": "2025-09-26",
+  "title": "Pericles",
+  "author": "William Shakespeare",
+  "summary": "A Tyrian prince flees after he discovers a terrible secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles",
   "subjects": [
-    "nonfiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-25",
-  "title": "The Four Just Men",
-  "author": "Edgar Wallace",
-  "summary": "To prevent the passage of a controversial government bill, four vigilantes take the law into their own hands.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men",
+  "date": "2025-09-26",
+  "title": "The Fur Country",
+  "author": "Jules Verne",
+  "summary": "A group of colonists attempt to settle in the Arctic Circle.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,28 +28,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-25",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2025-09-26",
+  "title": "Confessions of an English Opium-Eater",
+  "author": "Thomas De Quincey",
+  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
   "subjects": [
-    "adventure",
     "autobiography",
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-25",
-  "title": "Queen Victoria",
+  "date": "2025-09-26",
+  "title": "Eminent Victorians",
   "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -58,26 +56,26 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-25",
-  "title": "Dorothy and the Wizard in Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz",
+  "date": "2025-09-26",
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-25",
-  "title": "The Man of Destiny",
+  "date": "2025-09-26",
+  "title": "Misalliance",
   "author": "George Bernard Shaw",
-  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
+  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
   "subjects": [
     "comedy",
     "drama"
@@ -86,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-09-25",
-  "title": "Exiles",
-  "author": "James Joyce",
-  "summary": "An unmarried couple in early twentieth-century Dublin struggle with the consequences of their respective infidelities.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/exiles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/exiles",
+  "date": "2025-09-26",
+  "title": "The Two Gentlemen of Verona",
+  "author": "William Shakespeare",
+  "summary": "Two best friends become involved in a love triangle.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona",
   "subjects": [
     "drama"
   ]
@@ -99,68 +97,69 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-25",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2025-09-26",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
+    "comedy",
     "fantasy",
-    "horror"
+    "satire"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-25",
-  "title": "The Return of Sherlock Holmes",
-  "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective returns to London after having faked his death some years before, and investigates a series of baffling mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+  "date": "2025-09-26",
+  "title": "Dr. Mabuse, the Gambler",
+  "author": "Norbert Jacques",
+  "summary": "A detective hunts a criminal mastermind and hypnotist in the gambling dens of post-Great-War Munich.",
+  "coverUrl": "https://standardebooks.org/ebooks/norbert-jacques/dr-mabuse-the-gambler/lilian-a-clare/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/norbert-jacques/dr-mabuse-the-gambler/lilian-a-clare",
   "subjects": [
-    "fiction",
-    "mystery",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-09-25",
-  "title": "The Case of Charles Dexter Ward",
+  "date": "2025-09-26",
+  "title": "At the Mountains of Madness",
   "author": "H. P. Lovecraft",
-  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "horror"
+    "adventure",
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-09-25",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2025-09-26",
+  "title": "Incidents in the Life of a Slave Girl",
+  "author": "Linda Brent",
+  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
+  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
   "subjects": [
     "memoir",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-09-25",
-  "title": "A Study in Scarlet",
-  "author": "Arthur Conan Doyle",
-  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
+  "date": "2025-09-26",
+  "title": "The Secret Adversary",
+  "author": "Agatha Christie",
+  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,12 +168,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-09-25",
-  "title": "The Conscience of a Conservative",
-  "author": "Barry Goldwater",
-  "summary": "A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.",
-  "coverUrl": "https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative",
+  "date": "2025-09-26",
+  "title": "Aspects of the Novel",
+  "author": "E. M. Forster",
+  "summary": "E. M. Forster offers an analysis of aspects of the novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
   "subjects": [
     "nonfiction"
   ]
@@ -182,26 +181,25 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-09-25",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-09-26",
+  "title": "An Enquiry Concerning Human Understanding",
+  "author": "David Hume",
+  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
   "subjects": [
-    "biography",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-09-25",
-  "title": "Songs of the Cattle Trail and Cow Camp",
-  "author": "John A. Lomax",
-  "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp",
+  "date": "2025-09-26",
+  "title": "The Columbiad",
+  "author": "Joel Barlow",
+  "summary": "Columbus is shown a history of the western hemisphere since his discoveries.",
+  "coverUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad",
   "subjects": [
     "poetry"
   ]
@@ -209,7 +207,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-09-25",
+  "date": "2025-09-26",
   "title": "Lady Windermere’s Fan",
   "author": "Oscar Wilde",
   "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
@@ -224,12 +222,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-09-25",
-  "title": "Stand by for Mars!",
-  "author": "Carey Rockwell",
-  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
-  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
+  "date": "2025-09-26",
+  "title": "The Maracot Deep",
+  "author": "Arthur Conan Doyle",
+  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
   "subjects": [
     "adventure",
     "science_fiction"
@@ -238,43 +236,44 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-09-25",
+  "date": "2025-09-26",
   "title": "Short Fiction",
-  "author": "Nella Larsen",
-  "summary": "A collection of Nella Larsen’s short fiction by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/nella-larsen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/nella-larsen/short-fiction",
+  "author": "H. G. Wells",
+  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
   "subjects": [
-    "fiction",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-09-25",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2025-09-26",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
     "fiction",
-    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-09-25",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2025-09-26",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
-    "nonfiction",
+    "comedy",
+    "fiction",
+    "spirituality",
     "travel"
   ]
 }
