@@ -1,97 +1,93 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-09-27",
-  "title": "Orlando Furioso",
-  "author": "Ludovico Ariosto",
-  "summary": "A beautiful woman lures a knight away from his duty to protect Europe from invaders.",
-  "coverUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose",
+  "date": "2025-09-28",
+  "title": "The Charwoman’s Shadow",
+  "author": "Lord Dunsany",
+  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
   "subjects": [
-    "poetry"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-09-27",
-  "title": "Catriona",
-  "author": "Robert Louis Stevenson",
-  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "date": "2025-09-28",
+  "title": "Kim",
+  "author": "Rudyard Kipling",
+  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-09-27",
-  "title": "Confessions of an English Opium-Eater",
-  "author": "Thomas De Quincey",
-  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "date": "2025-09-28",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "summary": "The autobiography of American President Theodore Roosevelt.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-09-27",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2025-09-28",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-09-27",
-  "title": "Dorothy and the Wizard in Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz",
+  "date": "2025-09-28",
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-09-27",
-  "title": "Jeeves Stories",
+  "date": "2025-09-28",
+  "title": "Leave It to Psmith",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
+  "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith",
   "subjects": [
-    "comedy",
-    "fiction",
-    "shorts"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-09-27",
-  "title": "The Tempest",
+  "date": "2025-09-28",
+  "title": "The Two Gentlemen of Verona",
   "author": "William Shakespeare",
-  "summary": "A magic-induced tempest shipwrecks the king of Naples and his crew on an island inhabited by the usurped duke of Milan.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-tempest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-tempest",
+  "summary": "Two best friends become involved in a love triangle.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona",
   "subjects": [
     "drama"
   ]
@@ -99,27 +95,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-09-27",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2025-09-28",
+  "title": "Short Fiction",
+  "author": "R. A. Lafferty",
+  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
   "subjects": [
-    "comedy",
     "fantasy",
-    "satire"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-09-27",
-  "title": "Toilers of the Sea",
-  "author": "Victor Hugo",
-  "summary": "A man from Guernsey offers his help in a dangerous trial to salvage a wrecked ship.",
-  "coverUrl": "https://standardebooks.org/ebooks/victor-hugo/toilers-of-the-sea/william-moy-thomas/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/victor-hugo/toilers-of-the-sea/william-moy-thomas",
+  "date": "2025-09-28",
+  "title": "The Jungle",
+  "author": "Upton Sinclair",
+  "summary": "A working-class Lithuanian immigrant family’s struggle to make a living in the turn-of-the-century Chicago stockyards.",
+  "coverUrl": "https://standardebooks.org/ebooks/upton-sinclair/the-jungle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/upton-sinclair/the-jungle",
   "subjects": [
     "fiction"
   ]
@@ -127,120 +123,12 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-09-27",
-  "title": "The Turn of the Screw",
-  "author": "Henry James",
-  "summary": "A governess moves in to a haunted manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
-  "subjects": [
-    "fiction",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2025-09-27",
-  "title": "Incidents in the Life of a Slave Girl",
-  "author": "Linda Brent",
-  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
-  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-09-27",
-  "title": "Monsieur Lecoq",
-  "author": "Émile Gaboriau",
-  "summary": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-09-27",
-  "title": "The New Freedom",
-  "author": "Woodrow Wilson",
-  "summary": "The 28th president of the United States presents the risks and opportunities for freedom and democracy through a series of campaign speeches.",
-  "coverUrl": "https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2025-09-27",
-  "title": "An Enquiry Concerning Human Understanding",
-  "author": "David Hume",
-  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2025-09-27",
-  "title": "A Cycle of the West",
-  "author": "John G. Neihardt",
-  "summary": "A series of epic poems that recounts the history, legends, and mythology of the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2025-09-27",
-  "title": "The Little Nugget",
-  "author": "P. G. Wodehouse",
-  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
-  "subjects": [
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2025-09-27",
-  "title": "The Maracot Deep",
-  "author": "Arthur Conan Doyle",
-  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
-  "subjects": [
-    "adventure",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2025-09-27",
+  "date": "2025-09-28",
   "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "author": "Frank Belknap Long",
+  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
   "subjects": [
     "horror",
     "science_fiction",
@@ -249,13 +137,123 @@
 }
 ,
 {
+  "genre": "memoir",
+  "date": "2025-09-28",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-09-28",
+  "title": "Ralestone Luck",
+  "author": "Andre Norton",
+  "summary": "The descendants of a noble family, and of pirates, seek to restore their fortunes by locating the “luck” of their family.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/ralestone-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/ralestone-luck",
+  "subjects": [
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-09-28",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-09-28",
+  "title": "A Voyage to Arcturus",
+  "author": "David Lindsay",
+  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
+  "subjects": [
+    "fantasy",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2025-09-28",
+  "title": "Songs of the Cattle Trail and Cow Camp",
+  "author": "John A. Lomax",
+  "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2025-09-28",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "subjects": [
+    "comedy",
+    "drama",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2025-09-28",
+  "title": "Voodoo Planet",
+  "author": "Andre Norton",
+  "summary": "Dane Thorson travels to the safari planet Khatka and encounters an evil witch doctor.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/voodoo-planet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/voodoo-planet",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2025-09-28",
+  "title": "Vikram and the Vampire",
+  "author": "Richard F. Burton",
+  "summary": "King Vikram becomes trapped in a cycle of stories as he tries to capture a cunning vampire.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire",
+  "subjects": [
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "spirituality",
-  "date": "2025-09-27",
-  "title": "The Everlasting Man",
+  "date": "2025-09-28",
+  "title": "Heretics",
   "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
   "subjects": [
     "nonfiction",
     "philosophy",
@@ -265,16 +263,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-09-27",
-  "title": "The Four Men",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "date": "2025-09-28",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "comedy",
+    "adventure",
     "fiction",
-    "spirituality",
     "travel"
   ]
 }
