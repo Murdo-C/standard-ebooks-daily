@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-01",
+  "date": "2025-10-02",
   "title": "The Demi-Gods",
   "author": "James Stephens",
   "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
@@ -15,68 +15,69 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-01",
-  "title": "Allan Quatermain Stories",
-  "author": "H. Rider Haggard",
-  "summary": "A collection of short stories about a legendary hunter.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
+  "date": "2025-10-02",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
     "adventure",
-    "fiction",
-    "shorts"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-01",
-  "title": "The Story of My Life",
-  "author": "Helen Keller",
-  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
+  "date": "2025-10-02",
+  "title": "Our Nig",
+  "author": "Harriet E. Wilson",
+  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-10-01",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-10-02",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-01",
-  "title": "Peter and Wendy",
-  "author": "J. M. Barrie",
-  "summary": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy",
+  "date": "2025-10-02",
+  "title": "Ragged Dick",
+  "author": "Horatio Alger Jr.",
+  "summary": "A young shoeshiner rises the social ladder thanks to his wits, his work ethic, his honesty, and a bit of luck.",
+  "coverUrl": "https://standardebooks.org/ebooks/horatio-alger-jr/ragged-dick/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/horatio-alger-jr/ragged-dick",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-01",
-  "title": "The Small Bachelor",
+  "date": "2025-10-02",
+  "title": "Indiscretions of Archie",
   "author": "P. G. Wodehouse",
-  "summary": "A struggling artist and his dream girl set off on a series of comedic misadventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor",
+  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,38 +86,41 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-10-01",
-  "title": "Electra",
-  "author": "Sophocles",
-  "summary": "A woman seeks revenge against her mother for the murder of her father.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/electra/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/electra/francis-storr",
+  "date": "2025-10-02",
+  "title": "The Cherry Orchard",
+  "author": "Anton Chekhov",
+  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-01",
-  "title": "Lud-in-the-Mist",
-  "author": "Hope Mirrlees",
-  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
-  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
+  "date": "2025-10-02",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "fantasy"
+    "childrens",
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-01",
-  "title": "Against the Grain",
-  "author": "J.-K. Huysmans",
-  "summary": "Ailing, neurotic, and bored with the world, a French nobleman retreats to a secluded cottage in the countryside to create an artificial paradise for himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux",
+  "date": "2025-10-02",
+  "title": "The Damnation of Theron Ware",
+  "author": "Harold Frederic",
+  "summary": "A small-town pastor is tempted into a life of worldly knowledge.",
+  "coverUrl": "https://standardebooks.org/ebooks/harold-frederic/the-damnation-of-theron-ware/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harold-frederic/the-damnation-of-theron-ware",
   "subjects": [
     "fiction"
   ]
@@ -124,40 +128,41 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-10-01",
-  "title": "The Beetle",
-  "author": "Richard Marsh",
-  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
+  "date": "2025-10-02",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "summary": "A tragic scientist creates a monster in his laboratory.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
   "subjects": [
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-01",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2025-10-02",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
+    "autobiography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-01",
-  "title": "The Mystery of the Blue Train",
+  "date": "2025-10-02",
+  "title": "The Murder on the Links",
   "author": "Agatha Christie",
-  "summary": "A retired detective finds himself at the scene of a murder aboard a French locomotive.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mystery-of-the-blue-train/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mystery-of-the-blue-train",
+  "summary": "A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,7 +171,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-01",
+  "date": "2025-10-02",
   "title": "The Conscience of a Conservative",
   "author": "Barry Goldwater",
   "summary": "A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.",
@@ -179,12 +184,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-01",
-  "title": "Principia Ethica",
-  "author": "G. E. Moore",
-  "summary": "An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica",
+  "date": "2025-10-02",
+  "title": "Thus Spake Zarathustra",
+  "author": "Friedrich Nietzsche",
+  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
   "subjects": [
     "philosophy"
   ]
@@ -192,12 +197,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-01",
-  "title": "Poetry",
-  "author": "James Joyce",
-  "summary": "A collection of James Joyce’s poetry, ordered by date of first publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/poetry",
+  "date": "2025-10-02",
+  "title": "The Odyssey",
+  "author": "Homer",
+  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
+  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
   "subjects": [
     "poetry"
   ]
@@ -205,26 +210,25 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-01",
-  "title": "Zuleika Dobson",
-  "author": "Max Beerbohm",
-  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+  "date": "2025-10-02",
+  "title": "The Coming of Bill",
+  "author": "P. G. Wodehouse",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-01",
-  "title": "The Stainless Steel Rat",
-  "author": "Harry Harrison",
-  "summary": "An intergalactic thief tries life on the side of the law.",
-  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat",
+  "date": "2025-10-02",
+  "title": "Plague of Pythons",
+  "author": "Frederik Pohl",
+  "summary": "A man navigates a world torn apart by bouts of spontaneous, unexplained possessions.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
   "subjects": [
     "science_fiction"
   ]
@@ -232,27 +236,27 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-01",
-  "title": "Just So Stories",
-  "author": "Rudyard Kipling",
-  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
+  "date": "2025-10-02",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
-    "childrens",
     "fiction",
+    "horror",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-01",
-  "title": "Tao Te Ching",
-  "author": "Laozi",
-  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+  "date": "2025-10-02",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
     "philosophy",
     "spirituality"
@@ -261,7 +265,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-10-01",
+  "date": "2025-10-02",
   "title": "The Four Men",
   "author": "Hilaire Belloc",
   "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
