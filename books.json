@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-03",
-  "title": "Poetry",
-  "author": "Voltairine de Cleyre",
-  "summary": "A collection of Voltairine de Cleyre’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry",
+  "date": "2025-10-04",
+  "title": "Oil!",
+  "author": "Upton Sinclair",
+  "summary": "A wealthy oil tycoon’s son grapples with his father’s unethical business practices as he forms alliances with oilfield workers and socialists in Southern California.",
+  "coverUrl": "https://standardebooks.org/ebooks/upton-sinclair/oil/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/upton-sinclair/oil",
   "subjects": [
-    "poetry"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-03",
-  "title": "Typee",
-  "author": "Herman Melville",
-  "summary": "Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.",
-  "coverUrl": "https://standardebooks.org/ebooks/herman-melville/typee/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herman-melville/typee",
+  "date": "2025-10-04",
+  "title": "Bulldog Drummond",
+  "author": "H. C. McNeile",
+  "summary": "A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,25 +28,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-03",
-  "title": "Geronimo’s Story of His Life",
-  "author": "Geronimo",
-  "summary": "The Apache war chief Geronimo recounts the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
+  "date": "2025-10-04",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-10-03",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-10-04",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -55,27 +56,42 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-03",
-  "title": "Darby O’Gill and the Good People",
-  "author": "Herminie Templeton Kavanagh",
-  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
-  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
+  "date": "2025-10-04",
+  "title": "The Secret of the Caves",
+  "author": "Franklin W. Dixon",
+  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
   "subjects": [
+    "adventure",
     "childrens",
-    "fantasy",
-    "shorts"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-03",
-  "title": "Misalliance",
-  "author": "George Bernard Shaw",
-  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
+  "date": "2025-10-04",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2025-10-04",
+  "title": "Tartuffe",
+  "author": "Molière",
+  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
+  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
   "subjects": [
     "comedy",
     "drama"
@@ -83,26 +99,13 @@
 }
 ,
 {
-  "genre": "drama",
-  "date": "2025-10-03",
-  "title": "Electra",
-  "author": "Sophocles",
-  "summary": "A woman seeks revenge against her mother for the murder of her father.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/electra/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/electra/francis-storr",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
   "genre": "fantasy",
-  "date": "2025-10-03",
-  "title": "The Shaving of Shagpat",
-  "author": "George Meredith",
-  "summary": "A Persian barber embarks on a quest to save a city from the clutches of a tyrant and his magical hair.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-meredith/the-shaving-of-shagpat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-meredith/the-shaving-of-shagpat",
+  "date": "2025-10-04",
+  "title": "Phantastes",
+  "author": "George MacDonald",
+  "summary": "A young man awakes in Fairy Land, where he takes part in a series of strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes",
   "subjects": [
     "fantasy"
   ]
@@ -110,39 +113,67 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-03",
-  "title": "Bleak House",
-  "author": "Charles Dickens",
-  "summary": "A young woman of uncertain parentage is taken in by a kindly guardian, while her fate and that of two other young people hinge on the outcome of an interminable legal case.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/bleak-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/bleak-house",
+  "date": "2025-10-04",
+  "title": "The Three Hostages",
+  "author": "John Buchan",
+  "summary": "A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-03",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2025-10-04",
+  "title": "The Case of Charles Dexter Ward",
+  "author": "H. P. Lovecraft",
+  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-03",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2025-10-04",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-10-04",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie",
+  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
+  "subjects": [
+    "mystery",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-10-04",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -151,41 +182,13 @@
 }
 ,
 {
-  "genre": "mystery",
-  "date": "2025-10-03",
-  "title": "The Mysterious Affair at Styles",
-  "author": "Agatha Christie",
-  "summary": "A fastidious Belgian detective solves the mystery of a murder in an English country manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-10-03",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "philosophy",
-  "date": "2025-10-03",
-  "title": "The Genealogy of Morals",
-  "author": "Friedrich Nietzsche",
-  "summary": "Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+  "date": "2025-10-04",
+  "title": "Discourses",
+  "author": "Epictetus",
+  "summary": "Epictetus instructs his students how to live the life of a Stoic.",
+  "coverUrl": "https://standardebooks.org/ebooks/epictetus/discourses/george-long/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/epictetus/discourses/george-long",
   "subjects": [
     "philosophy"
   ]
@@ -193,12 +196,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-03",
-  "title": "Mirèio",
-  "author": "Frédéric Mistral",
-  "summary": "Two young Provençal lovers are kept apart by their social class.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston",
+  "date": "2025-10-04",
+  "title": "Poetry",
+  "author": "Frances Ellen Watkins Harper",
+  "summary": "A collection of poems by Frances Ellen Watkins Harper.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
   "subjects": [
     "poetry"
   ]
@@ -206,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-03",
-  "title": "Martin Eden",
-  "author": "Jack London",
-  "summary": "A young working-class man sets out to become a bourgeois writer.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
+  "date": "2025-10-04",
+  "title": "Point Counter Point",
+  "author": "Aldous Huxley",
+  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
   "subjects": [
     "fiction",
     "satire"
@@ -220,58 +223,54 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-03",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "date": "2025-10-04",
+  "title": "The Skylark of Space",
+  "author": "E. E. Smith",
+  "summary": "A scientist accidentally creates a way to travel to other star systems, while a rival scientist tries to steal all of his work.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-03",
+  "date": "2025-10-04",
   "title": "Short Fiction",
-  "author": "Clifford D. Simak",
-  "summary": "A collection of short fiction by Clifford D. Simak, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
+  "author": "Anthony Trollope",
+  "summary": "A collection of Anthony Trollope’s short stories, ordered by date of first publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction",
   "subjects": [
-    "science_fiction",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-03",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2025-10-04",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
     "fiction",
-    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-03",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2025-10-04",
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
