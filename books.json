@@ -1,53 +1,55 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-05",
-  "title": "Phantastes",
-  "author": "George MacDonald",
-  "summary": "A young man awakes in Fairy Land, where he takes part in a series of strange adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes",
+  "date": "2025-10-06",
+  "title": "The History of Henry Esmond",
+  "author": "William Makepeace Thackeray",
+  "summary": "A young nobleman of obscure birth sacrifices his own interests to uphold the honor of his patrons’ family.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-history-of-henry-esmond/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-history-of-henry-esmond",
   "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2025-10-05",
-  "title": "The Blue Lagoon",
-  "author": "H. de Vere Stacpoole",
-  "summary": "After a shipwreck, two surviving children are stranded on an island paradise, experiencing its bounties and resources, facing the dangers of the natural world, and undergoing their own maturation and romance.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-de-vere-stacpoole/the-blue-lagoon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-de-vere-stacpoole/the-blue-lagoon",
-  "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2025-10-06",
+  "title": "The Secret of the Caves",
+  "author": "Franklin W. Dixon",
+  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "subjects": [
+    "adventure",
+    "childrens",
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
   "genre": "autobiography",
-  "date": "2025-10-05",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2025-10-06",
+  "title": "Pointed Roofs",
+  "author": "Dorothy M. Richardson",
+  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-10-05",
-  "title": "Queen Victoria",
+  "date": "2025-10-06",
+  "title": "Eminent Victorians",
   "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,12 +58,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-05",
-  "title": "A Little Princess",
+  "date": "2025-10-06",
+  "title": "Little Lord Fauntleroy",
   "author": "Frances Hodgson Burnett",
-  "summary": "A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess",
+  "summary": "A poor young boy unexpectedly inherits a peerage and travels to England to live with his grandfather, an Earl.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/little-lord-fauntleroy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/little-lord-fauntleroy",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,26 +72,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-05",
-  "title": "The Way of the World",
-  "author": "William Congreve",
-  "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world",
+  "date": "2025-10-06",
+  "title": "Mr. Mulliner Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-10-05",
-  "title": "Uncle Vanya",
-  "author": "Anton Chekhov",
-  "summary": "An elderly professor and his young wife return to their country estate, where their family’s simmering resentments boil over.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett",
+  "date": "2025-10-06",
+  "title": "The Power of Darkness",
+  "author": "Leo Tolstoy",
+  "summary": "Two Russian peasants tragically succumb to selfish, immoral temptations.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
   "subjects": [
     "drama"
   ]
@@ -97,64 +100,63 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-05",
-  "title": "Zuni Folktales",
-  "author": "Frank Hamilton Cushing",
-  "summary": "A collection of folktales from the Zuni culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
+  "date": "2025-10-06",
+  "title": "Khaled",
+  "author": "F. Marion Crawford",
+  "summary": "A powerful genie is condemned to live the life of a man, unless he can find true love.",
+  "coverUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-05",
-  "title": "Pelle the Conqueror",
-  "author": "Martin Andersen Nexø",
-  "summary": "As a poor boy grows up to be a man, he becomes determined to solve the plight of his fellow men.",
-  "coverUrl": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir_bernard-miall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir_bernard-miall",
+  "date": "2025-10-06",
+  "title": "Short Fiction",
+  "author": "F. Scott Fitzgerald",
+  "summary": "A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction",
   "subjects": [
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-05",
-  "title": "At the Mountains of Madness",
-  "author": "H. P. Lovecraft",
-  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
+  "date": "2025-10-06",
+  "title": "The Turn of the Screw",
+  "author": "Henry James",
+  "summary": "A governess moves in to a haunted manor.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
   "subjects": [
-    "adventure",
-    "horror",
-    "science_fiction"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-05",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2025-10-06",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-05",
+  "date": "2025-10-06",
   "title": "The Valley of Fear",
   "author": "Arthur Conan Doyle",
   "summary": "The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.",
@@ -168,12 +170,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-05",
-  "title": "The Diary",
-  "author": "Samuel Pepys",
-  "summary": "The diary of a man living in London in the 17th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
+  "date": "2025-10-06",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -182,25 +184,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-05",
-  "title": "Short Works",
-  "author": "Epictetus",
-  "summary": "A collection of Epictetus’s short works.",
-  "coverUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long",
+  "date": "2025-10-06",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
+    "biography",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-05",
-  "title": "Poetry",
-  "author": "Fernando Pessoa",
-  "summary": "A collection of Fernando Pessoa’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+  "date": "2025-10-06",
+  "title": "Sonnets from the Portuguese",
+  "author": "Elizabeth Barrett Browning",
+  "summary": "A collection of 44 love sonnets.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese",
   "subjects": [
     "poetry"
   ]
@@ -208,12 +211,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-05",
-  "title": "Democracy",
-  "author": "Henry Adams",
-  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
+  "date": "2025-10-06",
+  "title": "Captain Jinks, Hero",
+  "author": "Ernest Howard Crosby",
+  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
   "subjects": [
     "fiction",
     "satire"
@@ -222,39 +225,40 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-05",
-  "title": "Triplanetary",
-  "author": "E. E. Smith",
-  "summary": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
+  "date": "2025-10-06",
+  "title": "Short Fiction",
+  "author": "Fritz Leiber",
+  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-05",
+  "date": "2025-10-06",
   "title": "Short Fiction",
-  "author": "Anthony Trollope",
-  "summary": "A collection of Anthony Trollope’s short stories, ordered by date of first publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction",
+  "author": "Fritz Leiber",
+  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
   "subjects": [
-    "fiction",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-05",
-  "title": "The Everlasting Man",
+  "date": "2025-10-06",
+  "title": "Heretics",
   "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
   "subjects": [
     "nonfiction",
     "philosophy",
@@ -264,13 +268,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-10-05",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2025-10-06",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
+    "adventure",
     "nonfiction",
     "travel"
   ]
