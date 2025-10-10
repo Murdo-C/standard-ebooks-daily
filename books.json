@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-09",
-  "title": "Candida",
-  "author": "George Bernard Shaw",
-  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+  "date": "2025-10-10",
+  "title": "Brewster’s Millions",
+  "author": "George Barr McCutcheon",
+  "summary": "A young man stands to gain a fortune—but only if he loses one first.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions",
   "subjects": [
-    "drama"
+    "comedy",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-09",
-  "title": "The Three Just Men",
+  "date": "2025-10-10",
+  "title": "The Square Emerald",
   "author": "Edgar Wallace",
-  "summary": "A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men",
+  "summary": "Scotland Yard’s first female investigator sets out to prove the innocence of a convicted forger.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-square-emerald/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-square-emerald",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-09",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2025-10-10",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "summary": "The autobiography of English philosopher John Stuart Mill.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
   "subjects": [
     "autobiography"
   ]
@@ -41,21 +42,62 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-10-09",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2025-10-10",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-09",
+  "date": "2025-10-10",
+  "title": "Five Children and It",
+  "author": "E. Nesbit",
+  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "subjects": [
+    "childrens",
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2025-10-10",
+  "title": "Getting Married",
+  "author": "George Bernard Shaw",
+  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2025-10-10",
+  "title": "The Power of Darkness",
+  "author": "Leo Tolstoy",
+  "summary": "Two Russian peasants tragically succumb to selfish, immoral temptations.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2025-10-10",
   "title": "The Magic City",
   "author": "E. Nesbit",
   "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
@@ -68,67 +110,27 @@
 }
 ,
 {
-  "genre": "comedy",
-  "date": "2025-10-09",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2025-10-09",
-  "title": "Uncle Vanya",
-  "author": "Anton Chekhov",
-  "summary": "An elderly professor and his young wife return to their country estate, where their family’s simmering resentments boil over.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2025-10-09",
-  "title": "Kai Lung’s Golden Hours",
-  "author": "Ernest Bramah",
-  "summary": "An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
   "genre": "fiction",
-  "date": "2025-10-09",
-  "title": "Howards End",
-  "author": "E. M. Forster",
-  "summary": "The lives of three families of different classes intertwine in Edwardian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/howards-end/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/howards-end",
+  "date": "2025-10-10",
+  "title": "The Council of Justice",
+  "author": "Edgar Wallace",
+  "summary": "The Four Just Men match wits with the Red Hundred, an anarchist group bent on raising havoc in Britain.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-09",
-  "title": "The Three Impostors",
-  "author": "Arthur Machen",
-  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "date": "2025-10-10",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "summary": "An ancient undead monster terrorizes Victorian London.",
+  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
   "subjects": [
     "fiction",
     "horror"
@@ -137,26 +139,28 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-09",
-  "title": "The Bolshevik Myth",
-  "author": "Alexander Berkman",
-  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
+  "date": "2025-10-10",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-09",
-  "title": "The Bellamy Trial",
-  "author": "Frances Noyes Hart",
-  "summary": "A man and a woman are on trial for the murder of his wife, her friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
+  "date": "2025-10-10",
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle",
+  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
   "subjects": [
     "fiction",
     "mystery"
@@ -165,40 +169,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-09",
-  "title": "Leviathan",
-  "author": "Thomas Hobbes",
-  "summary": "Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
+  "date": "2025-10-10",
+  "title": "Confessions of an English Opium-Eater",
+  "author": "Thomas De Quincey",
+  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-09",
-  "title": "A Voyage to Arcturus",
-  "author": "David Lindsay",
-  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
+  "date": "2025-10-10",
+  "title": "Tusculan Disputations",
+  "author": "Cicero",
+  "summary": "Cicero gives practical guidance for living wisely and well by adopting a Stoic outlook and concentrating on the virtues.",
+  "coverUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge",
   "subjects": [
-    "fantasy",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-09",
+  "date": "2025-10-10",
   "title": "Poetry",
-  "author": "Wilfred Owen",
-  "summary": "A collection of Wilfred Owen’s published poems.",
-  "coverUrl": "https://standardebooks.org/ebooks/wilfred-owen/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/wilfred-owen/poetry",
+  "author": "Matthew Arnold",
+  "summary": "A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/poetry",
   "subjects": [
     "poetry"
   ]
@@ -206,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-09",
-  "title": "Martin Eden",
-  "author": "Jack London",
-  "summary": "A young working-class man sets out to become a bourgeois writer.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
+  "date": "2025-10-10",
+  "title": "Democracy",
+  "author": "Henry Adams",
+  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
   "subjects": [
     "fiction",
     "satire"
@@ -220,20 +223,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-09",
-  "title": "Search the Sky",
-  "author": "Frederik Pohl",
-  "summary": "A man visits several worlds as he attempts to discover why humanity is dying out.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2025-10-09",
+  "date": "2025-10-10",
   "title": "Short Fiction",
   "author": "Fritz Leiber",
   "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
@@ -246,28 +236,45 @@
 }
 ,
 {
-  "genre": "spirituality",
-  "date": "2025-10-09",
-  "title": "The Pursuit of God",
-  "author": "A. W. Tozer",
-  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
+  "genre": "shorts",
+  "date": "2025-10-10",
+  "title": "The Wisdom of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "Amateur detective and Catholic priest Father Brown solves mysteries in this second collection of Father Brown short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-wisdom-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-wisdom-of-father-brown",
   "subjects": [
+    "fiction",
+    "mystery",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2025-10-10",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
+  "subjects": [
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-09",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2025-10-10",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
+    "nonfiction",
     "travel"
   ]
 }
