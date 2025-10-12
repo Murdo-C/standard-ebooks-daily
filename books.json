@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-11",
-  "title": "Principia Ethica",
-  "author": "G. E. Moore",
-  "summary": "An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica",
+  "date": "2025-10-12",
+  "title": "The Phantom of the Opera",
+  "author": "Gaston Leroux",
+  "summary": "A mysterious presence terrorizes the Paris Opera.",
+  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
   "subjects": [
-    "philosophy"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-11",
-  "title": "The Door with Seven Locks",
+  "date": "2025-10-12",
+  "title": "The Just Men of Cordova",
   "author": "Edgar Wallace",
-  "summary": "A soon-to-retire Scotland Yard investigator, insulted when asked to investigate the theft of a library book, finds that it’s a case he can’t put down.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-door-with-seven-locks/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-door-with-seven-locks",
+  "summary": "The Four Just Men travel to Spain to bring justice to criminals operating in aristocratic high finance.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-just-men-of-cordova/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-just-men-of-cordova",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-11",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2025-10-12",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,26 +43,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-10-11",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2025-10-12",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-11",
-  "title": "Pollyanna Grows Up",
+  "date": "2025-10-12",
+  "title": "Pollyanna",
   "author": "Eleanor H. Porter",
-  "summary": "Pollyanna recovers from an automobile accident with the help of a nearby dowager, before leaving the country to later return to rural Vermont.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up",
+  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
+  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
   "subjects": [
     "childrens"
   ]
@@ -69,7 +70,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-11",
+  "date": "2025-10-12",
   "title": "The Conscious Lovers",
   "author": "Richard Steele",
   "summary": "A rich young man tries to avoid the marriage his father has arranged.",
@@ -83,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-10-11",
-  "title": "The Man of Destiny",
-  "author": "George Bernard Shaw",
-  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
+  "date": "2025-10-12",
+  "title": "The Cherry Orchard",
+  "author": "Anton Chekhov",
+  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
   "subjects": [
     "comedy",
     "drama"
@@ -97,26 +98,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-11",
-  "title": "Five Children and It",
-  "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "date": "2025-10-12",
+  "title": "The Warlord of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "John Carter, an Earth-man transported to Mars, must rescue his beloved princess from imprisonment in the Martian Temple of the Sun.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-11",
-  "title": "The Melody of Death",
+  "date": "2025-10-12",
+  "title": "The Council of Justice",
   "author": "Edgar Wallace",
-  "summary": "A recently disinherited man-about-town devises a scheme to provide for his newly wedded wife.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-melody-of-death/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-melody-of-death",
+  "summary": "The Four Just Men match wits with the Red Hundred, an anarchist group bent on raising havoc in Britain.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice",
   "subjects": [
     "adventure",
     "fiction"
@@ -125,13 +125,14 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-10-11",
+  "date": "2025-10-12",
   "title": "Short Fiction",
-  "author": "H. P. Lovecraft",
-  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "author": "Arthur Machen",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
   "subjects": [
+    "fiction",
     "horror",
     "shorts"
   ]
@@ -139,28 +140,26 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-11",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2025-10-12",
+  "title": "The Life of Buffalo Bill",
+  "author": "William F. Cody",
+  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
   "subjects": [
-    "biography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-11",
-  "title": "The Casebook of Sherlock Holmes",
+  "date": "2025-10-12",
+  "title": "The Memoirs of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
     "fiction",
     "mystery",
@@ -170,12 +169,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-11",
-  "title": "Bulfinch’s Mythology",
-  "author": "Thomas Bulfinch",
-  "summary": "An American classicist collects and explains myths and legends ranging from those of the ancient Greeks and Romans, through stories of King Arthur, to the legends of Charlemagne.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology",
+  "date": "2025-10-12",
+  "title": "The Rough Riders",
+  "author": "Theodore Roosevelt",
+  "summary": "The First United States Volunteer Cavalry fights in the Spanish–American War.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders",
   "subjects": [
     "nonfiction"
   ]
@@ -183,20 +182,21 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-11",
-  "title": "Women and Economics",
-  "author": "Charlotte Perkins Gilman",
-  "summary": "Gilman explores the transformation of the role of women in society and the necessity for women to achieve economic independence.",
-  "coverUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics",
+  "date": "2025-10-12",
+  "title": "The Consolation of Philosophy",
+  "author": "Boethius",
+  "summary": "A Roman statesman awaiting execution is visited by the personification of philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james",
   "subjects": [
-    "philosophy"
+    "philosophy",
+    "poetry"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-11",
+  "date": "2025-10-12",
   "title": "Nonsense Books",
   "author": "Edward Lear",
   "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
@@ -211,13 +211,14 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-11",
-  "title": "Captain Jinks, Hero",
-  "author": "Ernest Howard Crosby",
-  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
+  "date": "2025-10-12",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -225,12 +226,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-11",
-  "title": "The Big Time",
-  "author": "Fritz Leiber",
-  "summary": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
+  "date": "2025-10-12",
+  "title": "At the Earth’s Core",
+  "author": "Edgar Rice Burroughs",
+  "summary": "Two explorers burrow deep into the planet’s crust and emerge in a savage land inside a hollow Earth, where they have many adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
   "subjects": [
     "science_fiction"
   ]
@@ -238,12 +239,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-11",
+  "date": "2025-10-12",
   "title": "Short Fiction",
-  "author": "Gustave Flaubert",
-  "summary": "A collection of short stories by Gustave Flaubert.",
-  "coverUrl": "https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne",
+  "author": "Ivan Bunin",
+  "summary": "A collection of Ivan Bunin’s translated short stories, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/ivan-bunin/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ivan-bunin/short-fiction/various-translators",
   "subjects": [
     "fiction",
     "shorts"
@@ -252,31 +253,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-11",
-  "title": "The Four Men",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "date": "2025-10-12",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
-    "comedy",
-    "fiction",
-    "spirituality",
-    "travel"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-11",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2025-10-12",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "comedy",
-    "fiction",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
