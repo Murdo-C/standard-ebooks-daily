@@ -1,81 +1,83 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-14",
-  "title": "Gladiator",
-  "author": "Philip Wylie",
-  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
+  "date": "2025-10-15",
+  "title": "The Secret History",
+  "author": "Procopius",
+  "summary": "Procopius recounts the supposed true history of Justinian’s reign.",
+  "coverUrl": "https://standardebooks.org/ebooks/procopius/the-secret-history/richard-atwater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/procopius/the-secret-history/richard-atwater",
   "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2025-10-14",
-  "title": "The League of the Scarlet Pimpernel",
-  "author": "Baroness Orczy",
-  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
-  "subjects": [
-    "adventure",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-10-14",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
-  "subjects": [
-    "autobiography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-10-14",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2025-10-14",
-  "title": "The Adventures of Pinocchio",
-  "author": "Carlo Collodi",
-  "summary": "A wooden puppet comes to life and goes on adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
+  "genre": "adventure",
+  "date": "2025-10-15",
+  "title": "The Elusive Pimpernel",
+  "author": "Baroness Orczy",
+  "summary": "A French official schemes to finally catch the Scarlet Pimpernel.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel",
   "subjects": [
-    "childrens"
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2025-10-15",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2025-10-15",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-10-15",
+  "title": "The Gold Bat",
+  "author": "P. G. Wodehouse",
+  "summary": "The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat",
+  "subjects": [
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-14",
-  "title": "Man and Superman",
+  "date": "2025-10-15",
+  "title": "Fanny’s First Play",
   "author": "George Bernard Shaw",
-  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
+  "summary": "A young woman writes a play to shock her father, in which two respectable families deal with their with disreputable children.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play",
   "subjects": [
     "comedy",
     "drama"
@@ -84,51 +86,55 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-10-14",
-  "title": "Pygmalion",
-  "author": "George Bernard Shaw",
-  "summary": "An arrogant upper-class professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/pygmalion/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/pygmalion",
+  "date": "2025-10-15",
+  "title": "A Midsummer Night’s Dream",
+  "author": "William Shakespeare",
+  "summary": "This comedy follows four lovers and a thespian who become bewitched by fairies.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-14",
-  "title": "A Princess of Mars",
+  "date": "2025-10-15",
+  "title": "Beyond Thirty",
   "author": "Edgar Rice Burroughs",
-  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
+  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
   "subjects": [
-    "fantasy"
+    "adventure",
+    "fantasy",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-14",
-  "title": "The Iron Heel",
-  "author": "Jack London",
-  "summary": "In the far future, a long-lost manuscript describes how the United States descended into a tyranny ruled by oligarchic plutocrats.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-iron-heel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-iron-heel",
+  "date": "2025-10-15",
+  "title": "Understood Betsy",
+  "author": "Dorothy Canfield Fisher",
+  "summary": "A young girl discovers independence, responsibility, and newfound confidence after being sent to live in a farmhouse with her extended family.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy",
   "subjects": [
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-14",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2025-10-15",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
     "fiction",
     "horror",
@@ -138,56 +144,55 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-14",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2025-10-15",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-14",
-  "title": "Murder in the Maze",
-  "author": "J. J. Connington",
-  "summary": "Twin brothers are found murdered in a maze, and the local Chief Constable must solve the crime.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze",
+  "date": "2025-10-15",
+  "title": "The Innocence of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-14",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2025-10-15",
+  "title": "History of the Peloponnesian War",
+  "author": "Thucydides",
+  "summary": "A contemporary history of the ancient Greek war between Athens and Sparta and their allies.",
+  "coverUrl": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley",
   "subjects": [
-    "adventure",
-    "autobiography",
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-14",
-  "title": "The Problems of Philosophy",
+  "date": "2025-10-15",
+  "title": "Roads to Freedom",
   "author": "Bertrand Russell",
-  "summary": "A beginner’s guide to problems in various fields of philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
+  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -196,12 +201,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-14",
-  "title": "Poetry",
-  "author": "Langston Hughes",
-  "summary": "A collection of poems by Langston Hughes.",
-  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry",
+  "date": "2025-10-15",
+  "title": "The Canterbury Tales",
+  "author": "Geoffrey Chaucer",
+  "summary": "A group of pilgrims trade tales as they travel through medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales",
   "subjects": [
     "poetry"
   ]
@@ -209,13 +214,14 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-14",
-  "title": "Captain Jinks, Hero",
-  "author": "Ernest Howard Crosby",
-  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
+  "date": "2025-10-15",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -223,12 +229,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-14",
-  "title": "Short Fiction",
+  "date": "2025-10-15",
+  "title": "The Big Time",
   "author": "Fritz Leiber",
-  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
+  "summary": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2025-10-15",
+  "title": "Short Fiction",
+  "author": "Mack Reynolds",
+  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -236,42 +255,31 @@
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2025-10-14",
-  "title": "Short Fiction",
-  "author": "Selma Lagerlöf",
-  "summary": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2025-10-14",
-  "title": "Practical Mysticism",
-  "author": "Evelyn Underhill",
-  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
-  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
+  "date": "2025-10-15",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
-    "nonfiction",
-    "spirituality"
+    "comedy",
+    "fiction",
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-14",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2025-10-15",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
+    "memoir",
     "nonfiction",
     "travel"
   ]
