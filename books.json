@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-17",
-  "title": "A Christmas Carol",
-  "author": "Charles Dickens",
-  "summary": "A miserly moneylender is visited by four ghosts who help him see how to honor Christmas in his heart all year round.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol",
+  "date": "2025-10-18",
+  "title": "The Phantom of the Opera",
+  "author": "Gaston Leroux",
+  "summary": "A mysterious presence terrorizes the Paris Opera.",
+  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-17",
-  "title": "Pimpernel and Rosemary",
+  "date": "2025-10-18",
+  "title": "El Dorado",
   "author": "Baroness Orczy",
-  "summary": "A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary",
+  "summary": "Two separate interests want to free the imprisoned Dauphin of France.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-17",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "date": "2025-10-18",
+  "title": "Twenty Years at Hull House",
+  "author": "Jane Addams",
+  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
   "subjects": [
     "autobiography"
   ]
@@ -41,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-10-17",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-10-18",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -55,26 +56,28 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-17",
-  "title": "The Wind in the Willows",
-  "author": "Kenneth Grahame",
-  "summary": "Four animals adventure through the bucolic English countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows",
+  "date": "2025-10-18",
+  "title": "Hunting for Hidden Gold",
+  "author": "Franklin W. Dixon",
+  "summary": "Two boy sleuths unravel a mystery about stolen gold.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold",
   "subjects": [
+    "adventure",
     "childrens",
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-17",
-  "title": "Brewster’s Millions",
-  "author": "George Barr McCutcheon",
-  "summary": "A young man stands to gain a fortune—but only if he loses one first.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions",
+  "date": "2025-10-18",
+  "title": "The Young Visiters",
+  "author": "Daisy Ashford",
+  "summary": "A nine-year-old girl’s humorous depiction of high society, exactly as written in her notebook.",
+  "coverUrl": "https://standardebooks.org/ebooks/daisy-ashford/the-young-visiters/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/daisy-ashford/the-young-visiters",
   "subjects": [
     "comedy",
     "fiction"
@@ -83,12 +86,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-10-17",
-  "title": "Titus Andronicus",
+  "date": "2025-10-18",
+  "title": "Troilus and Cressida",
   "author": "William Shakespeare",
-  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
+  "summary": "A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida",
   "subjects": [
     "drama"
   ]
@@ -96,66 +99,69 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-17",
-  "title": "The Lost Continent",
-  "author": "C. J. Cutcliffe Hyne",
-  "summary": "A swashbuckling adventure on the fabled continent of Atlantis.",
-  "coverUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent",
+  "date": "2025-10-18",
+  "title": "The Lost World",
+  "author": "Arthur Conan Doyle",
+  "summary": "A team of scientists and adventurers explores a prehistoric land.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
   "subjects": [
+    "adventure",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-17",
-  "title": "William—An Englishman",
-  "author": "Cicely Hamilton",
-  "summary": "A young activist couple’s lives turn for the worse when the unexpected arrival of foreign soldiers interrupts their honeymoon.",
-  "coverUrl": "https://standardebooks.org/ebooks/cicely-hamilton/william-an-englishman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/cicely-hamilton/william-an-englishman",
+  "date": "2025-10-18",
+  "title": "Kate Plus 10",
+  "author": "Edgar Wallace",
+  "summary": "A police inspector investigates an enigmatic young woman and her connection with various criminal activities.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-17",
-  "title": "Short Fiction",
-  "author": "M. R. James",
-  "summary": "A collection of ghost stories written by M. R. James.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
+  "date": "2025-10-18",
+  "title": "The Room in the Dragon Volant",
+  "author": "J. Sheridan Le Fanu",
+  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
   "subjects": [
     "horror",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-17",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2025-10-18",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-17",
-  "title": "The Mystery of the Yellow Room",
-  "author": "Gaston Leroux",
-  "summary": "A young reporter struggles to investigate a seemingly impossible crime, in which an assailant has escaped from a locked bedroom completely unseen.",
-  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos",
+  "date": "2025-10-18",
+  "title": "The Midnight Guest",
+  "author": "Fred M. White",
+  "summary": "A brilliant lord struggles to hold his personal life together after his friend’s murder set off a chain of events that threatens to expose his dark secrets.",
+  "coverUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
   "subjects": [
     "fiction",
     "mystery"
@@ -164,25 +170,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-17",
-  "title": "Bashan and I",
-  "author": "Thomas Mann",
-  "summary": "A renowned novelist describes the unique relation that links him to his dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer",
+  "date": "2025-10-18",
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "summary": "Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-17",
-  "title": "Nicomachean Ethics",
-  "author": "Aristotle",
-  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+  "date": "2025-10-18",
+  "title": "The Kural",
+  "author": "Thiruvalluvar",
+  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
+  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
   "subjects": [
     "philosophy"
   ]
@@ -190,39 +197,54 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-17",
-  "title": "Sonnets from the Portuguese",
-  "author": "Elizabeth Barrett Browning",
-  "summary": "A collection of 44 love sonnets.",
-  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese",
+  "date": "2025-10-18",
+  "title": "Eugene Onegin",
+  "author": "Alexander Pushkin",
+  "summary": "A jaded Russian fop’s disdain for the world catches up with him.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding",
   "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-10-17",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
+  "date": "2025-10-18",
+  "title": "A Woman of No Importance",
+  "author": "Oscar Wilde",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-17",
-  "title": "Short Fiction",
+  "date": "2025-10-18",
+  "title": "The Big Time",
   "author": "Fritz Leiber",
-  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
+  "summary": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2025-10-18",
+  "title": "Short Fiction",
+  "author": "Mack Reynolds",
+  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -230,42 +252,31 @@
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2025-10-17",
-  "title": "The Jungle Book",
-  "author": "Rudyard Kipling",
-  "summary": "Seven fable-like tales about jungle animals in India and the humans who live on the edges of their realm.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2025-10-17",
-  "title": "Siddhartha",
-  "author": "Hermann Hesse",
-  "summary": "A man embarks on a spiritual journey through India.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
+  "date": "2025-10-18",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
     "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-17",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2025-10-18",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
+    "memoir",
     "nonfiction",
     "travel"
   ]
