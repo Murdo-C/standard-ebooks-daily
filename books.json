@@ -1,180 +1,39 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-19",
-  "title": "The Mystery of the Yellow Room",
-  "author": "Gaston Leroux",
-  "summary": "A young reporter struggles to investigate a seemingly impossible crime, in which an assailant has escaped from a locked bedroom completely unseen.",
-  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos",
+  "date": "2025-10-20",
+  "title": "Mansfield Park",
+  "author": "Jane Austen",
+  "summary": "A young girl is sent to live with her wealthy relatives at a country estate, where she must navigate adolescence and young adulthood.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/mansfield-park/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/mansfield-park",
   "subjects": [
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-19",
-  "title": "I Will Repay",
-  "author": "Baroness Orczy",
-  "summary": "A young woman pursues revenge against the man who killed her brother in a duel years before.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay",
+  "date": "2025-10-20",
+  "title": "The Lost World",
+  "author": "Arthur Conan Doyle",
+  "summary": "A team of scientists and adventurers explores a prehistoric land.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
   "subjects": [
     "adventure",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-19",
-  "title": "The Autobiography of John Stuart Mill",
-  "author": "John Stuart Mill",
-  "summary": "The autobiography of English philosopher John Stuart Mill.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
-  "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-10-19",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2025-10-19",
-  "title": "Bambi",
-  "author": "Felix Salten",
-  "summary": "A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.",
-  "coverUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers",
-  "subjects": [
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2025-10-19",
-  "title": "Gentlemen Prefer Blondes",
-  "author": "Anita Loos",
-  "summary": "The comic diary of a young woman recounting her escapades and romances in 1920s New York and Europe.",
-  "coverUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2025-10-19",
-  "title": "The Winter’s Tale",
-  "author": "William Shakespeare",
-  "summary": "A king’s unfounded jealousy destroys his family and kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2025-10-19",
-  "title": "Russian Folktales",
-  "author": "A. N. Afanasyev",
-  "summary": "A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus",
-  "subjects": [
-    "fantasy",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2025-10-19",
-  "title": "The Monster",
-  "author": "Edgar Saltus",
-  "summary": "Fleeing a terrible truth, a woman remarries, but her first husband comes back for answers.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-monster/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-monster",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2025-10-19",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
-  "subjects": [
-    "fantasy",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2025-10-19",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-10-19",
-  "title": "The Secret of the Caves",
-  "author": "Franklin W. Dixon",
-  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
-  "subjects": [
-    "adventure",
-    "childrens",
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-10-19",
-  "title": "Confessions of an English Opium-Eater",
-  "author": "Thomas De Quincey",
-  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "date": "2025-10-20",
+  "title": "Struggles and Triumphs",
+  "author": "P. T. Barnum",
+  "summary": "The world’s greatest showman tells the story of his life.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -182,8 +41,149 @@
 }
 ,
 {
+  "genre": "biography",
+  "date": "2025-10-20",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "subjects": [
+    "biography",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-10-20",
+  "title": "Old Indian Legends",
+  "author": "Zitkála-Šá",
+  "summary": "A collection of Dakota legends retold by Zitkála-Šá.",
+  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+  "subjects": [
+    "childrens",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2025-10-20",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "subjects": [
+    "comedy",
+    "fantasy",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2025-10-20",
+  "title": "Timon of Athens",
+  "author": "William Shakespeare",
+  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2025-10-20",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "subjects": [
+    "comedy",
+    "fantasy",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2025-10-20",
+  "title": "Blue Hand",
+  "author": "Edgar Wallace",
+  "summary": "A law clerk takes an interest in the disappearance of a well-known woman and her infant daughter, just as their fortune is about to be distributed to a notorious client.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2025-10-20",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "summary": "A tragic scientist creates a monster in his laboratory.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "subjects": [
+    "horror",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2025-10-20",
+  "title": "The House of the Dead",
+  "author": "Fyodor Dostoevsky",
+  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
+  "subjects": [
+    "fiction",
+    "memoir"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-10-20",
+  "title": "The Mystery of a Hansom Cab",
+  "author": "Fergus Hume",
+  "summary": "A man is found dead in a hansom cab in the city of Melbourne, Australia, and a young man is accused of his murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/fergus-hume/the-mystery-of-a-hansom-cab/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fergus-hume/the-mystery-of-a-hansom-cab",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-10-20",
+  "title": "The Rough Riders",
+  "author": "Theodore Roosevelt",
+  "summary": "The First United States Volunteer Cavalry fights in the Spanish–American War.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "philosophy",
-  "date": "2025-10-19",
+  "date": "2025-10-20",
   "title": "The Age of Reason",
   "author": "Thomas Paine",
   "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
@@ -196,7 +196,7 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-19",
+  "date": "2025-10-20",
   "title": "Poetry",
   "author": "Wilfred Owen",
   "summary": "A collection of Wilfred Owen’s published poems.",
@@ -209,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-19",
-  "title": "Dodsworth",
-  "author": "Sinclair Lewis",
-  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
+  "date": "2025-10-20",
+  "title": "Sartor Resartus",
+  "author": "Thomas Carlyle",
+  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
   "subjects": [
     "fiction",
     "satire"
@@ -223,27 +223,28 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-19",
-  "title": "At the Earth’s Core",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Two explorers burrow deep into the planet’s crust and emerge in a savage land inside a hollow Earth, where they have many adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
+  "date": "2025-10-20",
+  "title": "Short Fiction",
+  "author": "Algis Budrys",
+  "summary": "Science fiction short stories by author Algis Budrys.",
+  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-19",
-  "title": "Golf Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
+  "date": "2025-10-20",
+  "title": "Allan Quatermain Stories",
+  "author": "H. Rider Haggard",
+  "summary": "A collection of short stories about a legendary hunter.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
   "subjects": [
-    "comedy",
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -251,27 +252,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-19",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2025-10-20",
+  "title": "Demian",
+  "author": "Hermann Hesse",
+  "summary": "A boy goes on a journey of spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
   "subjects": [
-    "poetry",
+    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-19",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2025-10-20",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
+    "adventure",
     "nonfiction",
     "travel"
   ]
