@@ -1,68 +1,71 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-21",
-  "title": "Dorothy and the Wizard in Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz",
+  "date": "2025-10-22",
+  "title": "Ben Hur",
+  "author": "Lew Wallace",
+  "summary": "A young Jewish man’s family is falsely imprisoned and he is sent to the galleys; when he is released, he swears revenge on the Romans.",
+  "coverUrl": "https://standardebooks.org/ebooks/lew-wallace/ben-hur/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lew-wallace/ben-hur",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-21",
-  "title": "The Maracot Deep",
-  "author": "Arthur Conan Doyle",
-  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
+  "date": "2025-10-22",
+  "title": "The Prisoner of Zenda",
+  "author": "Anthony Hope",
+  "summary": "King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-21",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2025-10-22",
+  "title": "Personal Memoirs of Ulysses S. Grant",
+  "author": "Ulysses S. Grant",
+  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
+  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-10-21",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2025-10-21",
-  "title": "Green Forest Stories",
-  "author": "Thornton W. Burgess",
-  "summary": "A collection of four animal tales featuring the denizens of the Green Forest.",
-  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories",
+  "genre": "biography",
+  "date": "2025-10-22",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-10-22",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "subjects": [
+    "adventure",
     "childrens",
     "fiction"
   ]
@@ -70,7 +73,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-21",
+  "date": "2025-10-22",
   "title": "The Surprising Adventures of Baron Munchausen",
   "author": "Rudolph Erich Raspe",
   "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
@@ -85,12 +88,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-10-21",
-  "title": "The Tempest",
+  "date": "2025-10-22",
+  "title": "The Two Gentlemen of Verona",
   "author": "William Shakespeare",
-  "summary": "A magic-induced tempest shipwrecks the king of Naples and his crew on an island inhabited by the usurped duke of Milan.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-tempest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-tempest",
+  "summary": "Two best friends become involved in a love triangle.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona",
   "subjects": [
     "drama"
   ]
@@ -98,48 +101,48 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-21",
-  "title": "Through the Looking-Glass",
-  "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
+  "date": "2025-10-22",
+  "title": "The Gods of Pegāna",
+  "author": "Lord Dunsany",
+  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-21",
-  "title": "Kate Plus 10",
-  "author": "Edgar Wallace",
-  "summary": "A police inspector investigates an enigmatic young woman and her connection with various criminal activities.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10",
+  "date": "2025-10-22",
+  "title": "The Monster",
+  "author": "Edgar Saltus",
+  "summary": "Fleeing a terrible truth, a woman remarries, but her first husband comes back for answers.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-monster/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-monster",
   "subjects": [
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-21",
-  "title": "The Case of Charles Dexter Ward",
+  "date": "2025-10-22",
+  "title": "At the Mountains of Madness",
   "author": "H. P. Lovecraft",
-  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "horror"
+    "adventure",
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-21",
+  "date": "2025-10-22",
   "title": "The Story of My Experiments with Truth",
   "author": "Mahatma Gandhi",
   "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
@@ -156,21 +159,22 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-21",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+  "date": "2025-10-22",
+  "title": "The Incredulity of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
   "subjects": [
-    "horror",
-    "mystery"
+    "fiction",
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-21",
+  "date": "2025-10-22",
   "title": "Twelve Years a Slave",
   "author": "Solomon Northup",
   "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
@@ -184,12 +188,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-21",
-  "title": "The American Crisis",
+  "date": "2025-10-22",
+  "title": "Essays",
   "author": "Thomas Paine",
-  "summary": "A collection of articles written during the American Revolutionary War that outline Paine’s support for a self-governing America.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis",
+  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
   "subjects": [
     "philosophy"
   ]
@@ -197,55 +201,55 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-21",
-  "title": "Poetry",
-  "author": "Matthew Arnold",
-  "summary": "A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/poetry",
+  "date": "2025-10-22",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
   "subjects": [
-    "poetry"
+    "comedy",
+    "poetry",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-10-21",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2025-10-22",
+  "title": "The Little Nugget",
+  "author": "P. G. Wodehouse",
+  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
   "subjects": [
-    "comedy",
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-21",
-  "title": "Short Fiction",
-  "author": "Charles Beaumont",
-  "summary": "A collection of short fiction by Charles Beaumont.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
+  "date": "2025-10-22",
+  "title": "Omega",
+  "author": "Camille Flammarion",
+  "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-21",
-  "title": "Irish Fairy Tales",
-  "author": "James Stephens",
-  "summary": "Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales",
+  "date": "2025-10-22",
+  "title": "The Son of the Wolf",
+  "author": "Jack London",
+  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
   "subjects": [
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -253,22 +257,21 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-21",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2025-10-22",
+  "title": "Polynesian Mythology",
+  "author": "George Grey",
+  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
   "subjects": [
     "nonfiction",
-    "spirituality",
-    "travel"
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-21",
+  "date": "2025-10-22",
   "title": "Scrambles Amongst the Alps in the Years 1860–69",
   "author": "Edward Whymper",
   "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
