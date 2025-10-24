@@ -1,69 +1,71 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-23",
-  "title": "Poetry",
-  "author": "Oscar Wilde",
-  "summary": "A collection of poems by Oscar Wilde.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
+  "date": "2025-10-24",
+  "title": "The Virginian",
+  "author": "Owen Wister",
+  "summary": "A cowboy working on a Wyoming Territory cattle ranch in the 1880s embraces the spirit of the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/owen-wister/the-virginian/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/owen-wister/the-virginian",
   "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2025-10-23",
-  "title": "The Defiant Agents",
-  "author": "Andre Norton",
-  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
-  "subjects": [
-    "adventure",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-10-23",
-  "title": "Elizabeth and Her German Garden",
-  "author": "Elizabeth von Arnim",
-  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
-  "subjects": [
-    "autobiography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2025-10-24",
+  "title": "The Three Musketeers",
+  "author": "Alexandre Dumas",
+  "summary": "A young Gascon moves to Paris to join the King’s Musketeers where he starts to investigate the kidnapping of his landlord’s wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2025-10-24",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "subjects": [
+    "autobiography",
+    "memoir",
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2025-10-23",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2025-10-24",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-23",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "date": "2025-10-24",
+  "title": "Stover at Yale",
+  "author": "Owen Johnson",
+  "summary": "A young prep school football star arrives at Yale, where he grows and develops on the football field and off.",
+  "coverUrl": "https://standardebooks.org/ebooks/owen-johnson/stover-at-yale/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/owen-johnson/stover-at-yale",
   "subjects": [
-    "adventure",
     "childrens",
     "fiction"
   ]
@@ -71,12 +73,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-23",
-  "title": "The School for Scandal",
-  "author": "Richard Brinsley Sheridan",
-  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
+  "date": "2025-10-24",
+  "title": "Tartuffe",
+  "author": "Molière",
+  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
+  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
   "subjects": [
     "comedy",
     "drama"
@@ -85,12 +87,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-10-23",
-  "title": "The Merry Wives of Windsor",
+  "date": "2025-10-24",
+  "title": "The Taming of the Shrew",
   "author": "William Shakespeare",
-  "summary": "Sir John Falstaff runs astray of the denizens of Windsor by trying to seduce several local wives at once.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor",
+  "summary": "An unmarriageable shrew receives a marriage proposal.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew",
   "subjects": [
     "drama"
   ]
@@ -98,12 +100,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-23",
-  "title": "Domnei",
-  "author": "James Branch Cabell",
-  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
+  "date": "2025-10-24",
+  "title": "The Gods of Pegāna",
+  "author": "Lord Dunsany",
+  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
   "subjects": [
     "fantasy"
   ]
@@ -111,41 +113,44 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-23",
-  "title": "The Benson Murder Case",
-  "author": "S. S. Van Dine",
-  "summary": "A Manhattanite art connoisseur becomes an amateur detective as he assists his good friend, the District Attorney, in solving an unusual murder case.",
-  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case",
+  "date": "2025-10-24",
+  "title": "Dodsworth",
+  "author": "Sinclair Lewis",
+  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
   "subjects": [
     "fiction",
-    "mystery"
+    "satire"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-23",
-  "title": "The Turn of the Screw",
-  "author": "Henry James",
-  "summary": "A governess moves in to a haunted manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
+  "date": "2025-10-24",
+  "title": "Short Fiction",
+  "author": "Frank Belknap Long",
+  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-23",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2025-10-24",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -153,12 +158,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-23",
-  "title": "The Lerouge Case",
+  "date": "2025-10-24",
+  "title": "The Mystery of Orcival",
   "author": "Émile Gaboriau",
-  "summary": "A widow is found dead under mysterious circumstances, and Monsieur Lecoq of the police arranges to have his mentor brought in to help solve the crime.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company",
+  "summary": "A countess is murdered and suspects are quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,21 +172,21 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-23",
-  "title": "A Yankee in the Trenches",
-  "author": "Robert Derby Holmes",
-  "summary": "An American describes his experiences in the British Army in the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "date": "2025-10-24",
+  "title": "Essays",
+  "author": "Ralph Waldo Emerson",
+  "summary": "A collection of Ralph Waldo Emerson’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "title": "The Wealth of Nations",
   "author": "Adam Smith",
   "summary": "Adam Smith lays the foundation of classical economics.",
@@ -194,12 +199,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-23",
-  "title": "North of Boston",
-  "author": "Robert Frost",
-  "summary": "A collection of Frost’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston",
+  "date": "2025-10-24",
+  "title": "Songs of a Sourdough",
+  "author": "Robert W. Service",
+  "summary": "A collection of poems about the Klondike Gold Rush.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough",
   "subjects": [
     "poetry"
   ]
@@ -207,12 +212,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-23",
-  "title": "Martin Eden",
-  "author": "Jack London",
-  "summary": "A young working-class man sets out to become a bourgeois writer.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
+  "date": "2025-10-24",
+  "title": "Democracy",
+  "author": "Henry Adams",
+  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
   "subjects": [
     "fiction",
     "satire"
@@ -221,7 +226,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "title": "The Inheritors",
   "author": "Joseph Conrad",
   "summary": "A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.",
@@ -234,7 +239,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "title": "Allan Quatermain Stories",
   "author": "H. Rider Haggard",
   "summary": "A collection of short stories about a legendary hunter.",
@@ -249,20 +254,24 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-23",
-  "title": "A Day at a Time",
-  "author": "Archibald Alexander",
-  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
+  "date": "2025-10-24",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
+    "autobiography",
+    "memoir",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "title": "The Four Men",
   "author": "Hilaire Belloc",
   "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
