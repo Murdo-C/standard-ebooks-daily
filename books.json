@@ -1,81 +1,82 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-25",
-  "title": "Poetry",
+  "date": "2025-10-26",
+  "title": "The Importance of Being Earnest",
   "author": "Oscar Wilde",
-  "summary": "A collection of poems by Oscar Wilde.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
-    "poetry"
+    "comedy",
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-25",
-  "title": "Ashenden",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
+  "date": "2025-10-26",
+  "title": "The Four Just Men",
+  "author": "Edgar Wallace",
+  "summary": "To prevent the passage of a controversial government bill, four vigilantes take the law into their own hands.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men",
   "subjects": [
     "adventure",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-10-25",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-10-25",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
-  "subjects": [
-    "biography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2025-10-26",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2025-10-26",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2025-10-25",
-  "title": "Children’s Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s children’s stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories",
+  "date": "2025-10-26",
+  "title": "The Blue Bird",
+  "author": "Maurice Maeterlinck",
+  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
   "subjects": [
     "childrens",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-25",
-  "title": "The Cords of Vanity",
-  "author": "James Branch Cabell",
-  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "date": "2025-10-26",
+  "title": "David Harum",
+  "author": "Edward Noyes Westcott",
+  "summary": "An aimless young man leaves the city for a small village to work for a horse-trading country banker.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum",
   "subjects": [
     "comedy",
     "fiction"
@@ -84,52 +85,53 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-10-25",
-  "title": "The Comedy of Errors",
+  "date": "2025-10-26",
+  "title": "The Merchant of Venice",
   "author": "William Shakespeare",
-  "summary": "Two sets of identical twins are mistaken for their lost siblings.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors",
+  "summary": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-25",
-  "title": "Domnei",
-  "author": "James Branch Cabell",
-  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
+  "date": "2025-10-26",
+  "title": "Zuni Folktales",
+  "author": "Frank Hamilton Cushing",
+  "summary": "A collection of folktales from the Zuni culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-25",
-  "title": "The Benson Murder Case",
-  "author": "S. S. Van Dine",
-  "summary": "A Manhattanite art connoisseur becomes an amateur detective as he assists his good friend, the District Attorney, in solving an unusual murder case.",
-  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case",
+  "date": "2025-10-26",
+  "title": "The Club of Queer Trades",
+  "author": "G. K. Chesterton",
+  "summary": "Two friends, solving a perceived crime, stumble upon a club for people who have invented their own method of employment.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-club-of-queer-trades/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-club-of-queer-trades",
   "subjects": [
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-25",
-  "title": "The Three Impostors",
-  "author": "Arthur Machen",
-  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "date": "2025-10-26",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "summary": "An ancient undead monster terrorizes Victorian London.",
+  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
   "subjects": [
     "fiction",
     "horror"
@@ -138,26 +140,26 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-25",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2025-10-26",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-25",
-  "title": "The Slaves of Paris",
-  "author": "Émile Gaboriau",
-  "summary": "A group of blackmailers play a long game on several families.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+  "date": "2025-10-26",
+  "title": "Kate Plus 10",
+  "author": "Edgar Wallace",
+  "summary": "A police inspector investigates an enigmatic young woman and her connection with various criminal activities.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,26 +168,25 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-25",
-  "title": "Memoirs of a Revolutionist",
-  "author": "Peter Kropotkin",
-  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
+  "date": "2025-10-26",
+  "title": "The Book of Tea",
+  "author": "Okakura Kakuzō",
+  "summary": "The Book of Tea is a long essay exploring the relationship between teaism, taoism, and the aesthetics of Japanese culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea",
   "subjects": [
-    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-25",
-  "title": "The Theory of Moral Sentiments",
-  "author": "Adam Smith",
-  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
+  "date": "2025-10-26",
+  "title": "The Kural",
+  "author": "Thiruvalluvar",
+  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
+  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
   "subjects": [
     "philosophy"
   ]
@@ -193,27 +194,27 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-25",
-  "title": "The Nibelungenlied",
-  "author": "Anonymous",
-  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+  "date": "2025-10-26",
+  "title": "The Kalevala",
+  "author": "Elias Lönnrot",
+  "summary": "The Finnish national epic poem recounting the creation of the Earth and the adventures of its mythical heroes.",
+  "coverUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford",
   "subjects": [
-    "adventure",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-10-25",
-  "title": "Captain Jinks, Hero",
-  "author": "Ernest Howard Crosby",
-  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
+  "date": "2025-10-26",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -221,12 +222,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-25",
+  "date": "2025-10-26",
   "title": "Short Fiction",
-  "author": "Robert Sheckley",
-  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+  "author": "Frederik Pohl",
+  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -235,45 +236,41 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-25",
-  "title": "Darby O’Gill and the Good People",
-  "author": "Herminie Templeton Kavanagh",
-  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
-  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
+  "date": "2025-10-26",
+  "title": "While the Billy Boils",
+  "author": "Henry Lawson",
+  "summary": "A short story collection based on Australian colonial life in 1890s.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
   "subjects": [
-    "childrens",
-    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-25",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2025-10-26",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
     "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-10-25",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2025-10-26",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "adventure",
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
