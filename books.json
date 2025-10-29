@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-10-28",
-  "title": "The Virginian",
-  "author": "Owen Wister",
-  "summary": "A cowboy working on a Wyoming Territory cattle ranch in the 1880s embraces the spirit of the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/owen-wister/the-virginian/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/owen-wister/the-virginian",
+  "date": "2025-10-29",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
   "subjects": [
-    "fiction"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-10-28",
-  "title": "Sir Percy Hits Back",
-  "author": "Baroness Orczy",
-  "summary": "A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back",
+  "date": "2025-10-29",
+  "title": "The Three Just Men",
+  "author": "Edgar Wallace",
+  "summary": "A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,7 +29,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "title": "Confessions of an English Opium-Eater",
   "author": "Thomas De Quincey",
   "summary": "A portrait of the life of a drug addict in Georgian-era London.",
@@ -42,56 +43,54 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-10-28",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2025-10-29",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-10-28",
-  "title": "Dorothy and the Wizard in Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz",
+  "date": "2025-10-29",
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-10-28",
-  "title": "The Seagull",
-  "author": "Anton Chekhov",
-  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
+  "date": "2025-10-29",
+  "title": "David Harum",
+  "author": "Edward Noyes Westcott",
+  "summary": "An aimless young man leaves the city for a small village to work for a horse-trading country banker.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-10-28",
-  "title": "Romeo and Juliet",
+  "date": "2025-10-29",
+  "title": "Richard II",
   "author": "William Shakespeare",
-  "summary": "The children of two opposing houses fall in love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet",
+  "summary": "King Richard II’s wasteful spending habits drive his supporters to revolt.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii",
   "subjects": [
     "drama"
   ]
@@ -99,63 +98,64 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-10-28",
-  "title": "The Demi-Gods",
-  "author": "James Stephens",
-  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
+  "date": "2025-10-29",
+  "title": "Harding’s Luck",
+  "author": "E. Nesbit",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
   "subjects": [
-    "fantasy",
-    "philosophy"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-10-28",
-  "title": "The Council of Justice",
-  "author": "Edgar Wallace",
-  "summary": "The Four Just Men match wits with the Red Hundred, an anarchist group bent on raising havoc in Britain.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice",
+  "date": "2025-10-29",
+  "title": "The Plastic Age",
+  "author": "Percy Marks",
+  "summary": "A student at an upscale liberal arts college navigates challenges, pitfalls, disillusionment, and the possibilities of his undergraduate experience in Jazz Age New England.",
+  "coverUrl": "https://standardebooks.org/ebooks/percy-marks/the-plastic-age/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/percy-marks/the-plastic-age",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-10-28",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2025-10-29",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-10-28",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2025-10-29",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "title": "Unnatural Death",
   "author": "Dorothy L. Sayers",
   "summary": "An amateur detective’s investigation of the suspiciously-early death of an elderly lady triggers a series of deadly events.",
@@ -169,7 +169,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "title": "The New State",
   "author": "Mary Parker Follett",
   "summary": "The theory of group organization is formulated and applied in an attempt to design a truly democratic political state.",
@@ -183,12 +183,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-10-28",
-  "title": "Mutual Aid",
-  "author": "Peter Kropotkin",
-  "summary": "Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid",
+  "date": "2025-10-29",
+  "title": "The Kural",
+  "author": "Thiruvalluvar",
+  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
+  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
   "subjects": [
     "philosophy"
   ]
@@ -196,12 +196,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-10-28",
-  "title": "Pan Tadeusz",
-  "author": "Adam Mickiewicz",
-  "summary": "A young nobleman explores romance, feuding families, politics, and national identity during a period of social upheaval and Russian occupation.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-mickiewicz/pan-tadeusz/maude-ashurst-biggs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-mickiewicz/pan-tadeusz/maude-ashurst-biggs",
+  "date": "2025-10-29",
+  "title": "Poetry",
+  "author": "Taras Shevchenko",
+  "summary": "A collection of Taras Shevchenko’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators",
   "subjects": [
     "poetry"
   ]
@@ -209,26 +209,27 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-10-28",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
+  "date": "2025-10-29",
+  "title": "A Woman of No Importance",
+  "author": "Oscar Wilde",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "title": "Short Fiction",
-  "author": "Robert Sheckley",
-  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+  "author": "Frederik Pohl",
+  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -237,21 +238,21 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-10-28",
-  "title": "Short Fiction",
-  "author": "Ernest Hemingway",
-  "summary": "A collection of Ernest Hemingway’s short stories and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
+  "date": "2025-10-29",
+  "title": "Ashenden",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
   "subjects": [
-    "fiction",
+    "adventure",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "title": "Festus",
   "author": "Philip James Bailey",
   "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
@@ -266,7 +267,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "title": "The Path to Rome",
   "author": "Hilaire Belloc",
   "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
