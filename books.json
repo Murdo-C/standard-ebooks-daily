@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-01",
-  "title": "The Playboy of the Western World",
-  "author": "J. M. Synge",
-  "summary": "A young man in the west coast of Ireland is lionized after he claims to have killed his father.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world",
+  "date": "2025-11-02",
+  "title": "The Little White Bird",
+  "author": "J. M. Barrie",
+  "summary": "A series of adventures in London, including those of the narrator and a little boy named David, and Peter Pan.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird",
   "subjects": [
-    "drama"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-01",
-  "title": "Five Weeks in a Balloon",
+  "date": "2025-11-02",
+  "title": "Around the World in Eighty Days",
   "author": "Jules Verne",
-  "summary": "Three men attempt to cross Africa by balloon.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland",
+  "summary": "On a bet, an eccentric Victorian gentleman races to circumnavigate the globe.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-01",
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
-  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
+  "date": "2025-11-02",
+  "title": "Pointed Roofs",
+  "author": "Dorothy M. Richardson",
+  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-11-01",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-11-02",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-01",
-  "title": "Heidi",
+  "date": "2025-11-02",
+  "title": "Cornelli",
   "author": "Johanna Spyri",
-  "summary": "A small girl is left with her grandfather and falls in love with his alpine home.",
-  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork",
+  "summary": "A young girl’s emotional hurt requires time and love to heal.",
+  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,12 +70,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-01",
-  "title": "Leave It to Psmith",
+  "date": "2025-11-02",
+  "title": "Mike",
   "author": "P. G. Wodehouse",
-  "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith",
+  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
   "subjects": [
     "comedy"
   ]
@@ -83,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-11-01",
-  "title": "The Man of Destiny",
-  "author": "George Bernard Shaw",
-  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
+  "date": "2025-11-02",
+  "title": "The Cherry Orchard",
+  "author": "Anton Chekhov",
+  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
   "subjects": [
     "comedy",
     "drama"
@@ -97,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-01",
-  "title": "Sylvie and Bruno",
-  "author": "Lewis Carroll",
-  "summary": "Two siblings alternate between fantasy and the real world after their father is the victim of a political conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno",
+  "date": "2025-11-02",
+  "title": "A Connecticut Yankee in King Arthur’s Court",
+  "author": "Mark Twain",
+  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
   "subjects": [
     "fantasy"
   ]
@@ -110,42 +110,42 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-01",
-  "title": "The Innocence of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
+  "date": "2025-11-02",
+  "title": "Clouds of Witness",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness",
   "subjects": [
     "fiction",
-    "mystery",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-11-01",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2025-11-02",
+  "title": "The Case of Charles Dexter Ward",
+  "author": "H. P. Lovecraft",
+  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-01",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2025-11-02",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -153,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-01",
-  "title": "That Affair Next Door",
-  "author": "Anna Katharine Green",
-  "summary": "Mysterious midnight visitors to a New York mansion are observed by a spinster living next door.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door",
+  "date": "2025-11-02",
+  "title": "The Crimson Circle",
+  "author": "Edgar Wallace",
+  "summary": "A police inspector and an unusual private detective investigate a devious blackmail plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-crimson-circle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-crimson-circle",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,65 +167,68 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-01",
-  "title": "The Conscience of a Conservative",
-  "author": "Barry Goldwater",
-  "summary": "A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.",
-  "coverUrl": "https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative",
+  "date": "2025-11-02",
+  "title": "A Voice from the South",
+  "author": "Anna Julia Cooper",
+  "summary": "A Black woman from the American South philosophizes on various subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-01",
-  "title": "Essays",
-  "author": "Thomas Paine",
-  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
+  "date": "2025-11-02",
+  "title": "Darkwater",
+  "author": "W. E. B. Du Bois",
+  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-01",
-  "title": "Metamorphoses",
-  "author": "Ovid",
-  "summary": "A collection of Greek and Roman myths that involve various forms of transformation.",
-  "coverUrl": "https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators",
+  "date": "2025-11-02",
+  "title": "Verses on Various Occasions",
+  "author": "John Henry Newman",
+  "summary": "A collection of poems by John Henry Newman.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
   "subjects": [
-    "poetry"
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-11-01",
-  "title": "Northanger Abbey",
-  "author": "Jane Austen",
-  "summary": "A young girl with an overactive imagination comes of age.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+  "date": "2025-11-02",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-01",
-  "title": "The World Set Free",
+  "date": "2025-11-02",
+  "title": "The Food of the Gods",
   "author": "H. G. Wells",
-  "summary": "Facing the devastation of a nuclear world war, humanity unites under a world government.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-world-set-free/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-world-set-free",
+  "summary": "Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
   "subjects": [
     "science_fiction"
   ]
@@ -233,40 +236,40 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-01",
+  "date": "2025-11-02",
   "title": "Short Fiction",
-  "author": "Stanley G. Weinbaum",
-  "summary": "Six classic science fiction short stories by Stanley Weinbaum.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of P. G. Wodehouse’s short fiction.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
   "subjects": [
-    "science_fiction",
+    "comedy",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-01",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2025-11-02",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-01",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2025-11-02",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
     "nonfiction",
