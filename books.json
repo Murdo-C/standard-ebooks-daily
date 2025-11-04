@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-03",
-  "title": "Short Plays",
-  "author": "J. M. Synge",
-  "summary": "A collection of three short plays by J. M. Synge.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
+  "date": "2025-11-04",
+  "title": "The Stainless Steel Rat",
+  "author": "Harry Harrison",
+  "summary": "An intergalactic thief tries life on the side of the law.",
+  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat",
   "subjects": [
-    "drama"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-03",
-  "title": "Huntingtower",
-  "author": "John Buchan",
-  "summary": "A retired grocer seeking a change in his mundane life finds more than he bargained for when he’s asked to aid in the rescue of an imprisoned Russian princess.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/huntingtower/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/huntingtower",
+  "date": "2025-11-04",
+  "title": "The Last of the Mohicans",
+  "author": "James Fenimore Cooper",
+  "summary": "Frontiersmen and Native Americans help transport a colonel’s daughters through upper New York during the French and Indian War.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,68 +28,67 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-03",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2025-11-04",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "summary": "The autobiography of American President Theodore Roosevelt.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-11-03",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2025-11-04",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-03",
-  "title": "Peter and Wendy",
-  "author": "J. M. Barrie",
-  "summary": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy",
+  "date": "2025-11-04",
+  "title": "Ragged Dick",
+  "author": "Horatio Alger Jr.",
+  "summary": "A young shoeshiner rises the social ladder thanks to his wits, his work ethic, his honesty, and a bit of luck.",
+  "coverUrl": "https://standardebooks.org/ebooks/horatio-alger-jr/ragged-dick/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/horatio-alger-jr/ragged-dick",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-03",
-  "title": "Mike",
+  "date": "2025-11-04",
+  "title": "Right Ho, Jeeves",
   "author": "P. G. Wodehouse",
-  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
+  "summary": "Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
   "subjects": [
-    "comedy"
+    "comedy",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-11-03",
-  "title": "The Cherry Orchard",
-  "author": "Anton Chekhov",
-  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
+  "date": "2025-11-04",
+  "title": "Misalliance",
+  "author": "George Bernard Shaw",
+  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
   "subjects": [
     "comedy",
     "drama"
@@ -98,97 +97,96 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-03",
-  "title": "Wet Magic",
-  "author": "E. Nesbit",
-  "summary": "A group of children visiting the seaside free a captive mermaid and visit her domain.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic",
+  "date": "2025-11-04",
+  "title": "The Sketchbook of Geoffrey Crayon, Gent.",
+  "author": "Washington Irving",
+  "summary": "A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”",
+  "coverUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-03",
-  "title": "A Damsel in Distress",
-  "author": "P. G. Wodehouse",
-  "summary": "A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress",
+  "date": "2025-11-04",
+  "title": "The Rasp",
+  "author": "Philip MacDonald",
+  "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
   "subjects": [
-    "comedy",
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-11-03",
-  "title": "At the Mountains of Madness",
-  "author": "H. P. Lovecraft",
-  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
+  "date": "2025-11-04",
+  "title": "The Turn of the Screw",
+  "author": "Henry James",
+  "summary": "A governess moves in to a haunted manor.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
   "subjects": [
-    "adventure",
-    "horror",
-    "science_fiction"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-03",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2025-11-04",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-03",
-  "title": "The Big Four",
+  "date": "2025-11-04",
+  "title": "The Secret of Chimneys",
   "author": "Agatha Christie",
-  "summary": "A famous detective must use all his little grey cells to stop an immensely powerful and ruthless organization from taking over the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four",
+  "summary": "A murder at a country house embroils its weekend guests in an international regicide, while a famous jewel thief may be lurking among them.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-of-chimneys/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-of-chimneys",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-03",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2025-11-04",
+  "title": "Democracy and Education",
+  "author": "John Dewey",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
-    "memoir",
     "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-03",
-  "title": "The Age of Reason",
+  "date": "2025-11-04",
+  "title": "The American Crisis",
   "author": "Thomas Paine",
-  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+  "summary": "A collection of articles written during the American Revolutionary War that outline Paine’s support for a self-governing America.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis",
   "subjects": [
     "philosophy"
   ]
@@ -196,54 +194,56 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-03",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2025-11-04",
+  "title": "Poetry",
+  "author": "Georgia Douglas Johnson",
+  "summary": "A collection of poems by Georgia Douglas Johnson.",
+  "coverUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
   "subjects": [
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-11-03",
-  "title": "Crome Yellow",
-  "author": "Aldous Huxley",
-  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
+  "date": "2025-11-04",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-03",
-  "title": "Metropolis",
-  "author": "Thea von Harbou",
-  "summary": "In a futuristic dystopian city, the son of the city’s mastermind falls in love with a revolutionary activist.",
-  "coverUrl": "https://standardebooks.org/ebooks/thea-von-harbou/metropolis/the-readers-library/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thea-von-harbou/metropolis/the-readers-library",
+  "date": "2025-11-04",
+  "title": "Short Fiction",
+  "author": "Poul Anderson",
+  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-03",
-  "title": "The Confessions of Arsène Lupin",
-  "author": "Maurice Leblanc",
-  "summary": "The gentleman-thief relates stories of his outwitting the Parisian detectives.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos",
+  "date": "2025-11-04",
+  "title": "Household Tales",
+  "author": "Jacob Grimm",
+  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
   "subjects": [
+    "childrens",
     "fiction",
     "shorts"
   ]
@@ -251,15 +251,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-03",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-11-04",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "autobiography",
-    "memoir",
     "nonfiction",
     "philosophy",
     "spirituality"
@@ -268,13 +266,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-11-03",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2025-11-04",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
+    "memoir",
     "nonfiction",
     "travel"
   ]
