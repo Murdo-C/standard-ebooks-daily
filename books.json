@@ -1,99 +1,98 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-05",
-  "title": "Pierre and Jean",
-  "author": "Guy de Maupassant",
-  "summary": "A doctor, jealous of his brother’s sudden wealth, starts questioning its provenance.",
-  "coverUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/pierre-and-jean/clara-bell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/pierre-and-jean/clara-bell",
+  "date": "2025-11-06",
+  "title": "Russian Folktales",
+  "author": "A. N. Afanasyev",
+  "summary": "A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus",
   "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2025-11-05",
-  "title": "The Son of the Wolf",
-  "author": "Jack London",
-  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
-  "subjects": [
-    "adventure",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-11-05",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
-  "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-11-05",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
-  "subjects": [
-    "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2025-11-05",
-  "title": "Darby O’Gill and the Good People",
-  "author": "Herminie Templeton Kavanagh",
-  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
-  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
-  "subjects": [
-    "childrens",
     "fantasy",
     "shorts"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2025-11-06",
+  "title": "White Fang",
+  "author": "Jack London",
+  "summary": "A wild half-wolf survives a harsh existence before finding love and domestication in civilization.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/white-fang/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/white-fang",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2025-11-06",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2025-11-06",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2025-11-06",
+  "title": "The Secret of the Caves",
+  "author": "Franklin W. Dixon",
+  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "subjects": [
+    "adventure",
+    "childrens",
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
   "genre": "comedy",
-  "date": "2025-11-05",
-  "title": "School Stories",
+  "date": "2025-11-06",
+  "title": "Something New",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
     "comedy",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-11-05",
-  "title": "Agamemnon",
-  "author": "Aeschylus",
-  "summary": "The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray",
+  "date": "2025-11-06",
+  "title": "Saint Joan",
+  "author": "George Bernard Shaw",
+  "summary": "Joan of Arc’s life story is retold, from her early life, to her campaigns, and beyond.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan",
   "subjects": [
     "drama"
   ]
@@ -101,54 +100,54 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-05",
-  "title": "The Phoenix and the Carpet",
-  "author": "E. Nesbit",
-  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+  "date": "2025-11-06",
+  "title": "The Charwoman’s Shadow",
+  "author": "Lord Dunsany",
+  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-05",
-  "title": "The Pit",
-  "author": "Frank Norris",
-  "summary": "A couple in turn-of-the-century Chicago navigates the murky waters of greed, ambition, and loss against the backdrop of the Board of Trade’s wheat speculation pits.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-norris/the-pit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-norris/the-pit",
+  "date": "2025-11-06",
+  "title": "Kidnapped",
+  "author": "Robert Louis Stevenson",
+  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
   "subjects": [
+    "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-11-05",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "date": "2025-11-06",
+  "title": "The Three Impostors",
+  "author": "Arthur Machen",
+  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-05",
-  "title": "Incidents in the Life of a Slave Girl",
-  "author": "Linda Brent",
-  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
-  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
+  "date": "2025-11-06",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -157,12 +156,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-05",
-  "title": "The Viaduct Murder",
-  "author": "Ronald A. Knox",
-  "summary": "A foursome of friends out golfing try to unravel the mystery surrounding a corpse found on the links.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder",
+  "date": "2025-11-06",
+  "title": "The Middle Temple Murder",
+  "author": "J. S. Fletcher",
+  "summary": "A murder in London’s Middle Temple uncovers a twenty year old conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder",
   "subjects": [
     "fiction",
     "mystery"
@@ -171,12 +170,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-05",
-  "title": "On the Art of Writing",
-  "author": "Arthur Quiller-Couch",
-  "summary": "Quiller-Couch surveys the history of English prose while dispensing advice for writing tastefully.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing",
+  "date": "2025-11-06",
+  "title": "Table-Talk",
+  "author": "William Hazlitt",
+  "summary": "A collection of essays on art, literature, philosophy, society, and culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk",
   "subjects": [
     "nonfiction"
   ]
@@ -184,12 +183,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-05",
-  "title": "The Rights of Man",
-  "author": "Thomas Paine",
-  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
+  "date": "2025-11-06",
+  "title": "The Wealth of Nations",
+  "author": "Adam Smith",
+  "summary": "Adam Smith lays the foundation of classical economics.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
   "subjects": [
     "philosophy"
   ]
@@ -197,12 +196,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-05",
-  "title": "Poetry",
-  "author": "Ambrose Bierce",
-  "summary": "A collection of Ambrose Bierce’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
+  "date": "2025-11-06",
+  "title": "The Odyssey",
+  "author": "Homer",
+  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
+  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
   "subjects": [
     "poetry"
   ]
@@ -210,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-05",
-  "title": "Main Street",
-  "author": "Sinclair Lewis",
-  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
+  "date": "2025-11-06",
+  "title": "The Mercy of Allah",
+  "author": "Hilaire Belloc",
+  "summary": "An entrepreneurial businessman satirically relates to his nephews how he became the wealthiest man in Baghdad.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah",
   "subjects": [
     "fiction",
     "satire"
@@ -224,12 +223,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-05",
+  "date": "2025-11-06",
   "title": "Short Fiction",
-  "author": "Mack Reynolds",
-  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
+  "author": "Philip K. Dick",
+  "summary": "A collection of short works by science fiction legend Philip K. Dick.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -238,13 +237,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-05",
-  "title": "Lost Face",
-  "author": "Jack London",
-  "summary": "A collection of short stories by Jack London.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/lost-face/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/lost-face",
+  "date": "2025-11-06",
+  "title": "The Law of the Four Just Men",
+  "author": "Edgar Wallace",
+  "summary": "A group of wealthy vigilantes continue their quest to bring justice to those criminals beyond the reach of conventional law.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men",
   "subjects": [
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -252,26 +252,25 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-05",
-  "title": "Unspoken Sermons",
-  "author": "George MacDonald",
-  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
+  "date": "2025-11-06",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis",
+  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-05",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2025-11-06",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
     "nonfiction",
     "travel"
