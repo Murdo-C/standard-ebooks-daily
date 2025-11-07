@@ -1,26 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-06",
-  "title": "Russian Folktales",
-  "author": "A. N. Afanasyev",
-  "summary": "A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus",
+  "date": "2025-11-07",
+  "title": "Trent’s Last Case",
+  "author": "E. C. Bentley",
+  "summary": "A journalist investigates the murder of a Wall Street kingpin.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-c-bentley/trents-last-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-c-bentley/trents-last-case",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-06",
-  "title": "White Fang",
+  "date": "2025-11-07",
+  "title": "The Sea-Wolf",
   "author": "Jack London",
-  "summary": "A wild half-wolf survives a harsh existence before finding love and domestication in civilization.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/white-fang/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/white-fang",
+  "summary": "Literary critic Humphrey Van Weyden is pressed into service aboard a seal-hunting schooner by its cruel, ruthless, but intelligent captain.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,7 +29,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-06",
+  "date": "2025-11-07",
   "title": "The Diary",
   "author": "Samuel Pepys",
   "summary": "The diary of a man living in London in the 17th century.",
@@ -43,12 +43,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-11-06",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2025-11-07",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -57,23 +57,21 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-06",
-  "title": "The Secret of the Caves",
-  "author": "Franklin W. Dixon",
-  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "date": "2025-11-07",
+  "title": "Little Lord Fauntleroy",
+  "author": "Frances Hodgson Burnett",
+  "summary": "A poor young boy unexpectedly inherits a peerage and travels to England to live with his grandfather, an Earl.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/little-lord-fauntleroy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/little-lord-fauntleroy",
   "subjects": [
-    "adventure",
     "childrens",
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-06",
+  "date": "2025-11-07",
   "title": "Something New",
   "author": "P. G. Wodehouse",
   "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
@@ -87,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-11-06",
-  "title": "Saint Joan",
-  "author": "George Bernard Shaw",
-  "summary": "Joan of Arc’s life story is retold, from her early life, to her campaigns, and beyond.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan",
+  "date": "2025-11-07",
+  "title": "The Eumenides",
+  "author": "Aeschylus",
+  "summary": "A man is pursued by wrathful goddesses for avenging his father’s murder, and finds refuge in Athens where a trial determines his fate.",
+  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray",
   "subjects": [
     "drama"
   ]
@@ -100,68 +98,69 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-06",
-  "title": "The Charwoman’s Shadow",
-  "author": "Lord Dunsany",
-  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "date": "2025-11-07",
+  "title": "Figures of Earth",
+  "author": "James Branch Cabell",
+  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
   "subjects": [
+    "comedy",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-06",
-  "title": "Kidnapped",
-  "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "date": "2025-11-07",
+  "title": "The Rasp",
+  "author": "Philip MacDonald",
+  "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
   "subjects": [
-    "adventure",
-    "childrens",
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-11-06",
-  "title": "The Three Impostors",
-  "author": "Arthur Machen",
-  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "date": "2025-11-07",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-06",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2025-11-07",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-06",
-  "title": "The Middle Temple Murder",
-  "author": "J. S. Fletcher",
-  "summary": "A murder in London’s Middle Temple uncovers a twenty year old conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-temple-murder",
+  "date": "2025-11-07",
+  "title": "Lady Audley’s Secret",
+  "author": "M. E. Braddon",
+  "summary": "When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,25 +169,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-06",
-  "title": "Table-Talk",
-  "author": "William Hazlitt",
-  "summary": "A collection of essays on art, literature, philosophy, society, and culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk",
+  "date": "2025-11-07",
+  "title": "A Pluralistic Universe",
+  "author": "William James",
+  "summary": "A philosopher gives an introduction to radical empiricism and how it relates to the experienced world.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-06",
-  "title": "The Wealth of Nations",
+  "date": "2025-11-07",
+  "title": "The Theory of Moral Sentiments",
   "author": "Adam Smith",
-  "summary": "Adam Smith lays the foundation of classical economics.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
   "subjects": [
     "philosophy"
   ]
@@ -196,12 +196,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-06",
-  "title": "The Odyssey",
-  "author": "Homer",
-  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
+  "date": "2025-11-07",
+  "title": "Mirèio",
+  "author": "Frédéric Mistral",
+  "summary": "Two young Provençal lovers are kept apart by their social class.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston",
   "subjects": [
     "poetry"
   ]
@@ -209,21 +209,20 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-06",
-  "title": "The Mercy of Allah",
-  "author": "Hilaire Belloc",
-  "summary": "An entrepreneurial businessman satirically relates to his nephews how he became the wealthiest man in Baghdad.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah",
+  "date": "2025-11-07",
+  "title": "The Indiscreet Jewels",
+  "author": "Denis Diderot",
+  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
+  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-06",
+  "date": "2025-11-07",
   "title": "Short Fiction",
   "author": "Philip K. Dick",
   "summary": "A collection of short works by science fiction legend Philip K. Dick.",
@@ -237,41 +236,44 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-06",
-  "title": "The Law of the Four Just Men",
-  "author": "Edgar Wallace",
-  "summary": "A group of wealthy vigilantes continue their quest to bring justice to those criminals beyond the reach of conventional law.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men",
+  "date": "2025-11-07",
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
   "subjects": [
-    "adventure",
-    "fiction",
+    "fantasy",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-06",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+  "date": "2025-11-07",
+  "title": "Festus",
+  "author": "Philip James Bailey",
+  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
   "subjects": [
+    "drama",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-06",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2025-11-07",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
+    "adventure",
     "nonfiction",
     "travel"
   ]
