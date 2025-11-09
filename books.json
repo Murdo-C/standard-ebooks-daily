@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-08",
+  "date": "2025-11-09",
   "title": "The School for Scandal",
   "author": "Richard Brinsley Sheridan",
   "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
@@ -15,12 +15,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-08",
-  "title": "Maiwa’s Revenge",
+  "date": "2025-11-09",
+  "title": "Cleopatra",
   "author": "H. Rider Haggard",
-  "summary": "A famed hunter aids a tribe in their plot for revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/maiwas-revenge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/maiwas-revenge",
+  "summary": "An Egyptian patriot relates the tale of the fall of Cleopatra.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/cleopatra/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/cleopatra",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-08",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2025-11-09",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
     "autobiography"
   ]
@@ -42,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-11-08",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-11-09",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,53 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-08",
-  "title": "The Railway Children",
+  "date": "2025-11-09",
+  "title": "The Magic City",
   "author": "E. Nesbit",
-  "summary": "After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children",
-  "subjects": [
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2025-11-08",
-  "title": "Uneasy Money",
-  "author": "P. G. Wodehouse",
-  "summary": "When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2025-11-08",
-  "title": "The Alchemist",
-  "author": "Ben Jonson",
-  "summary": "A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.",
-  "coverUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2025-11-08",
-  "title": "The Princess and the Goblin",
-  "author": "George MacDonald",
-  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
+  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
   "subjects": [
     "childrens",
     "fantasy"
@@ -110,8 +69,49 @@
 }
 ,
 {
+  "genre": "comedy",
+  "date": "2025-11-09",
+  "title": "Jurgen",
+  "author": "James Branch Cabell",
+  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
+  "subjects": [
+    "comedy",
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2025-11-09",
+  "title": "The Seagull",
+  "author": "Anton Chekhov",
+  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2025-11-09",
+  "title": "Lilith",
+  "author": "George MacDonald",
+  "summary": "After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
   "genre": "fiction",
-  "date": "2025-11-08",
+  "date": "2025-11-09",
   "title": "The Rasp",
   "author": "Philip MacDonald",
   "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
@@ -125,68 +125,69 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-11-08",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2025-11-09",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-08",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2025-11-09",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-08",
-  "title": "Uncle Silas",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "An heiress becomes ward to her disreputable uncle with an unsavory past, tainted by the apparent suicide of a man to whom he owed a large gambling debt, and must help clear his name.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas",
+  "date": "2025-11-09",
+  "title": "Murder in the Gunroom",
+  "author": "H. Beam Piper",
+  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-08",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2025-11-09",
+  "title": "The Economic Consequences of the Peace",
+  "author": "John Maynard Keynes",
+  "summary": "Keynes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace",
   "subjects": [
-    "biography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-08",
-  "title": "The Kural",
-  "author": "Thiruvalluvar",
-  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
+  "date": "2025-11-09",
+  "title": "Mutual Aid",
+  "author": "Peter Kropotkin",
+  "summary": "Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid",
   "subjects": [
     "philosophy"
   ]
@@ -194,12 +195,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-08",
+  "date": "2025-11-09",
   "title": "Poetry",
-  "author": "Frances Ellen Watkins Harper",
-  "summary": "A collection of poems by Frances Ellen Watkins Harper.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
+  "author": "Fernando Pessoa",
+  "summary": "A collection of Fernando Pessoa’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
   "subjects": [
     "poetry"
   ]
@@ -207,31 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-08",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2025-11-09",
+  "title": "The Luck of Barry Lyndon",
+  "author": "William Makepeace Thackeray",
+  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
   "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-08",
-  "title": "Gladiator",
-  "author": "Philip Wylie",
-  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
+  "date": "2025-11-09",
+  "title": "Search the Sky",
+  "author": "Frederik Pohl",
+  "summary": "A man visits several worlds as he attempts to discover why humanity is dying out.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
   "subjects": [
     "science_fiction"
   ]
@@ -239,13 +235,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-08",
-  "title": "American Indian Stories",
+  "date": "2025-11-09",
+  "title": "Old Indian Legends",
   "author": "Zitkála-Šá",
-  "summary": "A collection of stories about Dakota Indians.",
-  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories",
+  "summary": "A collection of Dakota legends retold by Zitkála-Šá.",
+  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
   "subjects": [
+    "childrens",
     "fiction",
     "shorts"
   ]
@@ -253,29 +250,31 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-08",
-  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
-  "author": "Jonathan Dymond",
-  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+  "date": "2025-11-09",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
-    "philosophy",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-08",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2025-11-09",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "comedy",
+    "fiction",
+    "spirituality",
     "travel"
   ]
 }
