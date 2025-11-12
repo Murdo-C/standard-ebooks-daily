@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-11",
-  "title": "Wired Love",
-  "author": "Ella Cheever Thayer",
-  "summary": "A romance begins over the wire between two telegraph operators.",
-  "coverUrl": "https://standardebooks.org/ebooks/ella-cheever-thayer/wired-love/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ella-cheever-thayer/wired-love",
+  "date": "2025-11-12",
+  "title": "Short Fiction",
+  "author": "Robert Sheckley",
+  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
   "subjects": [
-    "fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-11",
-  "title": "Allan Quatermain",
-  "author": "H. Rider Haggard",
-  "summary": "Adventurer Allan Quatermain sets out on a mission to Africa to locate a mysterious tribe of white-skinned people.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain",
+  "date": "2025-11-12",
+  "title": "The Sea-Wolf",
+  "author": "Jack London",
+  "summary": "Literary critic Humphrey Van Weyden is pressed into service aboard a seal-hunting schooner by its cruel, ruthless, but intelligent captain.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-11",
-  "title": "The Autobiography of Mark Twain",
-  "author": "Mark Twain",
-  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
+  "date": "2025-11-12",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,26 +43,28 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-11-11",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-11-12",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "philosophy"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-11",
-  "title": "Pollyanna Grows Up",
+  "date": "2025-11-12",
+  "title": "Pollyanna",
   "author": "Eleanor H. Porter",
-  "summary": "Pollyanna recovers from an automobile accident with the help of a nearby dowager, before leaving the country to later return to rural Vermont.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up",
+  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
+  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
   "subjects": [
     "childrens"
   ]
@@ -69,26 +72,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-11",
-  "title": "Indiscretions of Archie",
-  "author": "P. G. Wodehouse",
-  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2025-11-11",
-  "title": "The Seagull",
-  "author": "Anton Chekhov",
-  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
+  "date": "2025-11-12",
+  "title": "Misalliance",
+  "author": "George Bernard Shaw",
+  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
   "subjects": [
     "comedy",
     "drama"
@@ -96,8 +85,21 @@
 }
 ,
 {
+  "genre": "drama",
+  "date": "2025-11-12",
+  "title": "Pericles",
+  "author": "William Shakespeare",
+  "summary": "A Tyrian prince flees after he discovers a terrible secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
   "genre": "fantasy",
-  "date": "2025-11-11",
+  "date": "2025-11-12",
   "title": "Master Flea",
   "author": "E. T. A. Hoffmann",
   "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
@@ -110,12 +112,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-11",
-  "title": "Winesburg, Ohio",
-  "author": "Sherwood Anderson",
-  "summary": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
-  "coverUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio",
+  "date": "2025-11-12",
+  "title": "Short Fiction",
+  "author": "Ernest Hemingway",
+  "summary": "A collection of Ernest Hemingway’s short stories and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -124,55 +126,56 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-11-11",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2025-11-12",
+  "title": "Short Fiction",
+  "author": "H. P. Lovecraft",
+  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
   "subjects": [
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-11",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2025-11-12",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-11",
-  "title": "The Big Bow Mystery",
-  "author": "Israel Zangwill",
-  "summary": "A seemingly impossible murder committed during the trade union movement becomes the obsession of London’s Bow district.",
-  "coverUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery",
+  "date": "2025-11-12",
+  "title": "The Crime at Black Dudley",
+  "author": "Margery Allingham",
+  "summary": "The attendees of a party at a old mansion are threatened by a criminal kingpin.",
+  "coverUrl": "https://standardebooks.org/ebooks/margery-allingham/the-crime-at-black-dudley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/margery-allingham/the-crime-at-black-dudley",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-11",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2025-11-12",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "adventure",
     "nonfiction",
     "travel"
   ]
@@ -180,12 +183,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-11",
-  "title": "Dialogues",
-  "author": "Plato",
-  "summary": "A collection of Plato’s dialogues.",
-  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+  "date": "2025-11-12",
+  "title": "The Prince",
+  "author": "Niccolò Machiavelli",
+  "summary": "The classic treatise on how to tyrannize one’s subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott",
   "subjects": [
     "philosophy"
   ]
@@ -193,12 +196,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-11",
-  "title": "Spoon River Anthology",
-  "author": "Edgar Lee Masters",
-  "summary": "A collection of short poems recounting the lives and deaths of the residents of a small Illinois town.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology",
+  "date": "2025-11-12",
+  "title": "Poetry",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
   "subjects": [
     "poetry"
   ]
@@ -206,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-11",
-  "title": "The History of Rasselas, Prince of Abyssinia",
-  "author": "Samuel Johnson",
-  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
+  "date": "2025-11-12",
+  "title": "Candide",
+  "author": "Voltaire",
+  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
   "subjects": [
     "satire"
   ]
@@ -219,26 +222,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-11",
-  "title": "Short Fiction",
+  "date": "2025-11-12",
+  "title": "The Big Time",
   "author": "Fritz Leiber",
-  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
+  "summary": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-11",
-  "title": "Short Fiction",
-  "author": "Vsevolod Garshin",
-  "summary": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith",
+  "date": "2025-11-12",
+  "title": "Suspiria de Profundis",
+  "author": "Thomas De Quincey",
+  "summary": "A collection of prose poems inspired by De Quincey’s opium dreams.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis",
   "subjects": [
     "fiction",
     "shorts"
@@ -247,14 +249,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-11",
-  "title": "Heretics",
+  "date": "2025-11-12",
+  "title": "Orthodoxy",
   "author": "G. K. Chesterton",
-  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
+  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -262,14 +263,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-11-11",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2025-11-12",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "shorts",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
