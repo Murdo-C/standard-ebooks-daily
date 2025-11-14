@@ -1,26 +1,27 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-13",
-  "title": "The Triumph of the Scarlet Pimpernel",
+  "date": "2025-11-14",
+  "title": "The League of the Scarlet Pimpernel",
   "author": "Baroness Orczy",
-  "summary": "A woman is kidnapped in order to trap her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel",
+  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
   "subjects": [
     "adventure",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-13",
-  "title": "The Secret of the Old Mill",
+  "date": "2025-11-14",
+  "title": "Hunting for Hidden Gold",
   "author": "Franklin W. Dixon",
-  "summary": "The police are out of their depth as counterfeit bills circulate through the city, but two amateur sleuths are on the case.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill",
+  "summary": "Two boy sleuths unravel a mystery about stolen gold.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold",
   "subjects": [
     "adventure",
     "childrens",
@@ -31,12 +32,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-13",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2025-11-14",
+  "title": "Geronimo’s Story of His Life",
+  "author": "Geronimo",
+  "summary": "The Apache war chief Geronimo recounts the story of his life.",
+  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
   "subjects": [
     "autobiography"
   ]
@@ -44,39 +45,40 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-11-13",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-11-14",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-13",
-  "title": "Pollyanna",
-  "author": "Eleanor H. Porter",
-  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
+  "date": "2025-11-14",
+  "title": "Understood Betsy",
+  "author": "Dorothy Canfield Fisher",
+  "summary": "A young girl discovers independence, responsibility, and newfound confidence after being sent to live in a farmhouse with her extended family.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy",
   "subjects": [
-    "childrens"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-13",
-  "title": "Something New",
+  "date": "2025-11-14",
+  "title": "Indiscretions of Archie",
   "author": "P. G. Wodehouse",
-  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
+  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,12 +87,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-11-13",
-  "title": "Henry IV, Part I",
+  "date": "2025-11-14",
+  "title": "Henry IV, Part II",
   "author": "William Shakespeare",
-  "summary": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+  "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
   "subjects": [
     "drama"
   ]
@@ -98,12 +100,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-13",
-  "title": "The Water of the Wondrous Isles",
-  "author": "William Morris",
-  "summary": "A beautiful woman escapes a life of servitude under an evil witch to adventure through a series of magical islands.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles",
+  "date": "2025-11-14",
+  "title": "The Wonderful Visit",
+  "author": "H. G. Wells",
+  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
   "subjects": [
     "fantasy"
   ]
@@ -111,12 +113,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-13",
-  "title": "Crime and Punishment",
+  "date": "2025-11-14",
+  "title": "Notes from Underground",
   "author": "Fyodor Dostoevsky",
-  "summary": "Inflated by his own ambition, an ex-student murders a pawnbroker, then faces the inevitable consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett",
+  "summary": "A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett",
   "subjects": [
     "fiction"
   ]
@@ -124,26 +126,28 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-11-13",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2025-11-14",
+  "title": "Short Fiction",
+  "author": "H. P. Lovecraft",
+  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
   "subjects": [
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-13",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2025-11-14",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
     "autobiography",
     "memoir",
     "nonfiction"
@@ -152,25 +156,26 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-13",
-  "title": "Uncle Silas",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "An heiress becomes ward to her disreputable uncle with an unsavory past, tainted by the apparent suicide of a man to whom he owed a large gambling debt, and must help clear his name.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas",
+  "date": "2025-11-14",
+  "title": "Murder in the Gunroom",
+  "author": "H. Beam Piper",
+  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-13",
-  "title": "The Public and Its Problems",
+  "date": "2025-11-14",
+  "title": "Democracy and Education",
   "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -179,26 +184,25 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-13",
-  "title": "A Vindication of the Rights of Woman",
-  "author": "Mary Wollstonecraft",
-  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
+  "date": "2025-11-14",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "summary": "The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-13",
-  "title": "The Odyssey",
-  "author": "Homer",
-  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
+  "date": "2025-11-14",
+  "title": "Poetry",
+  "author": "Fernando Pessoa",
+  "summary": "A collection of Fernando Pessoa’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
   "subjects": [
     "poetry"
   ]
@@ -206,7 +210,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "title": "The Indiscreet Jewels",
   "author": "Denis Diderot",
   "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
@@ -219,12 +223,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-13",
+  "date": "2025-11-14",
+  "title": "The Night Land",
+  "author": "William Hope Hodgson",
+  "summary": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2025-11-14",
   "title": "Short Fiction",
-  "author": "Walter M. Miller Jr.",
-  "summary": "A collection of short fiction by Walter M. Miller Jr., ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
+  "author": "Stanley G. Weinbaum",
+  "summary": "Six classic science fiction short stories by Stanley Weinbaum.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -232,41 +249,26 @@
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2025-11-13",
-  "title": "A Thief in the Night",
-  "author": "E. W. Hornung",
-  "summary": "The gentleman thief’s pal reminisces on past adventures in this third collection of A. J. Raffles stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2025-11-13",
-  "title": "Orthodoxy",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+  "date": "2025-11-14",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis",
+  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
   "subjects": [
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-13",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2025-11-14",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
     "nonfiction",
