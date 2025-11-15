@@ -1,22 +1,20 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-14",
-  "title": "The League of the Scarlet Pimpernel",
-  "author": "Baroness Orczy",
-  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
+  "date": "2025-11-15",
+  "title": "Victory",
+  "author": "Joseph Conrad",
+  "summary": "A reclusive man rescues a mistreated young woman, but their romantic life on a remote island is soon disturbed.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/victory/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/victory",
   "subjects": [
-    "adventure",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-14",
+  "date": "2025-11-15",
   "title": "Hunting for Hidden Gold",
   "author": "Franklin W. Dixon",
   "summary": "Two boy sleuths unravel a mystery about stolen gold.",
@@ -32,12 +30,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-14",
-  "title": "Geronimo’s Story of His Life",
-  "author": "Geronimo",
-  "summary": "The Apache war chief Geronimo recounts the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
+  "date": "2025-11-15",
+  "title": "You Can’t Win",
+  "author": "Jack Black",
+  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
   "subjects": [
     "autobiography"
   ]
@@ -45,7 +43,7 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-11-14",
+  "date": "2025-11-15",
   "title": "Eminent Victorians",
   "author": "Lytton Strachey",
   "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
@@ -59,35 +57,35 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-14",
-  "title": "Understood Betsy",
-  "author": "Dorothy Canfield Fisher",
-  "summary": "A young girl discovers independence, responsibility, and newfound confidence after being sent to live in a farmhouse with her extended family.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy",
+  "date": "2025-11-15",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "summary": "A wooden puppet comes to life and goes on adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
   "subjects": [
-    "childrens",
-    "fiction"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-14",
-  "title": "Indiscretions of Archie",
+  "date": "2025-11-15",
+  "title": "Golf Stories",
   "author": "P. G. Wodehouse",
-  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-11-14",
+  "date": "2025-11-15",
   "title": "Henry IV, Part II",
   "author": "William Shakespeare",
   "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
@@ -100,68 +98,68 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-14",
-  "title": "The Wonderful Visit",
-  "author": "H. G. Wells",
-  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
+  "date": "2025-11-15",
+  "title": "The Story of the Amulet",
+  "author": "E. Nesbit",
+  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-14",
-  "title": "Notes from Underground",
-  "author": "Fyodor Dostoevsky",
-  "summary": "A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett",
+  "date": "2025-11-15",
+  "title": "The Thirty-Nine Steps",
+  "author": "John Buchan",
+  "summary": "An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-11-14",
-  "title": "Short Fiction",
-  "author": "H. P. Lovecraft",
-  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "date": "2025-11-15",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "summary": "A tragic scientist creates a monster in his laboratory.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
   "subjects": [
     "horror",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-14",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2025-11-15",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "adventure",
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-14",
-  "title": "Murder in the Gunroom",
-  "author": "H. Beam Piper",
-  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
+  "date": "2025-11-15",
+  "title": "The Insidious Dr. Fu-Manchu",
+  "author": "Sax Rohmer",
+  "summary": "An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,39 +168,46 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-14",
-  "title": "Democracy and Education",
-  "author": "John Dewey",
-  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
+  "date": "2025-11-15",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
+    "autobiography",
+    "memoir",
     "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-14",
-  "title": "Meditations",
-  "author": "Marcus Aurelius",
-  "summary": "The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long",
+  "date": "2025-11-15",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
-    "philosophy"
+    "autobiography",
+    "memoir",
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-14",
-  "title": "Poetry",
-  "author": "Fernando Pessoa",
-  "summary": "A collection of Fernando Pessoa’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+  "date": "2025-11-15",
+  "title": "Spoon River Anthology",
+  "author": "Edgar Lee Masters",
+  "summary": "A collection of short poems recounting the lives and deaths of the residents of a small Illinois town.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology",
   "subjects": [
     "poetry"
   ]
@@ -210,38 +215,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-14",
-  "title": "The Indiscreet Jewels",
-  "author": "Denis Diderot",
-  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
-  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
+  "date": "2025-11-15",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
   "subjects": [
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2025-11-14",
-  "title": "The Night Land",
-  "author": "William Hope Hodgson",
-  "summary": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
-  "subjects": [
+    "satire",
     "science_fiction"
   ]
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2025-11-14",
+  "genre": "science_fiction",
+  "date": "2025-11-15",
   "title": "Short Fiction",
-  "author": "Stanley G. Weinbaum",
-  "summary": "Six classic science fiction short stories by Stanley Weinbaum.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction",
+  "author": "Walter M. Miller Jr.",
+  "summary": "A collection of short fiction by Walter M. Miller Jr., ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -249,28 +242,43 @@
 }
 ,
 {
-  "genre": "spirituality",
-  "date": "2025-11-14",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+  "genre": "shorts",
+  "date": "2025-11-15",
+  "title": "The Confessions of Arsène Lupin",
+  "author": "Maurice Leblanc",
+  "summary": "The gentleman-thief relates stories of his outwitting the Parisian detectives.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos",
   "subjects": [
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2025-11-15",
+  "title": "The Pilgrim Kamanita",
+  "author": "Karl Gjellerup",
+  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
+  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "subjects": [
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-14",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2025-11-15",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
