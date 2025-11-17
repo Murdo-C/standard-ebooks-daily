@@ -1,27 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-16",
-  "title": "The Mirror of the Sea",
+  "date": "2025-11-17",
+  "title": "Heart of Darkness",
   "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "summary": "A steamer captain in the heart of Africa witnesses the final days of a brutal ivory trader.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness",
   "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-16",
-  "title": "Tarzan, Lord of the Jungle",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle",
+  "date": "2025-11-17",
+  "title": "Riders of the Purple Sage",
+  "author": "Zane Grey",
+  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
   "subjects": [
     "adventure",
     "fiction"
@@ -30,54 +28,54 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-16",
-  "title": "Geronimo’s Story of His Life",
-  "author": "Geronimo",
-  "summary": "The Apache war chief Geronimo recounts the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
+  "date": "2025-11-17",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-11-16",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "biography",
+  "date": "2025-11-17",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "subjects": [
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2025-11-16",
-  "title": "Short Fiction",
-  "author": "Beatrix Potter",
-  "summary": "A collection of Beatrix Potter’s short stories for children, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction",
+  "date": "2025-11-17",
+  "title": "The Wonderful Adventures of Nils",
+  "author": "Selma Lagerlöf",
+  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
   "subjects": [
     "childrens",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-16",
-  "title": "Leave It to Psmith",
+  "date": "2025-11-17",
+  "title": "Mike",
   "author": "P. G. Wodehouse",
-  "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith",
+  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
   "subjects": [
     "comedy"
   ]
@@ -85,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-11-16",
-  "title": "Henry V",
+  "date": "2025-11-17",
+  "title": "Henry VI, Part I",
   "author": "William Shakespeare",
-  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
+  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
   "subjects": [
     "drama"
   ]
@@ -98,12 +96,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-16",
-  "title": "Wet Magic",
+  "date": "2025-11-17",
+  "title": "The Phoenix and the Carpet",
   "author": "E. Nesbit",
-  "summary": "A group of children visiting the seaside free a captive mermaid and visit her domain.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic",
+  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
   "subjects": [
     "childrens",
     "fantasy"
@@ -112,12 +110,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-16",
-  "title": "Mystery at Lynden Sands",
-  "author": "J. J. Connington",
-  "summary": "A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
+  "date": "2025-11-17",
+  "title": "A Bid for Fortune",
+  "author": "Guy Boothby",
+  "summary": "A young Australian man struggles to reclaim his love from the clutches of an evil mastermind.",
+  "coverUrl": "https://standardebooks.org/ebooks/guy-boothby/a-bid-for-fortune/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/guy-boothby/a-bid-for-fortune",
   "subjects": [
     "fiction",
     "mystery"
@@ -126,21 +124,21 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-11-16",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2025-11-17",
+  "title": "The Room in the Dragon Volant",
+  "author": "J. Sheridan Le Fanu",
+  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
   "subjects": [
     "horror",
-    "science_fiction"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-16",
+  "date": "2025-11-17",
   "title": "Recollections of Full Years",
   "author": "Helen Herron Taft",
   "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
@@ -156,40 +154,42 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-16",
-  "title": "The Insidious Dr. Fu-Manchu",
-  "author": "Sax Rohmer",
-  "summary": "An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu",
+  "date": "2025-11-17",
+  "title": "Call Mr. Fortune",
+  "author": "H. C. Bailey",
+  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-16",
-  "title": "Liberalism",
-  "author": "L. T. Hobhouse",
-  "summary": "An early twentieth century description of the philosophy of liberal socialism.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
+  "date": "2025-11-17",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
     "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-16",
-  "title": "Tractatus Logico-Philosophicus",
-  "author": "Ludwig Wittgenstein",
-  "summary": "One of the most important texts of 20th century philosophy, in which the nature of the philosophy, language, understanding, and logical atomism are explored.",
-  "coverUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden",
+  "date": "2025-11-17",
+  "title": "No Treason",
+  "author": "Lysander Spooner",
+  "summary": "Lawyer and political philosopher Lysander Spooner presents his case for the invalidity of the United States Constitution.",
+  "coverUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason",
   "subjects": [
     "philosophy"
   ]
@@ -197,12 +197,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-16",
-  "title": "Poetry",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
+  "date": "2025-11-17",
+  "title": "Lyrical Ballads",
+  "author": "William Wordsworth",
+  "summary": "A collection of pastoral poems that is considered the defining text for the beginning of Romantic-era literature.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads",
   "subjects": [
     "poetry"
   ]
@@ -210,40 +210,42 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-16",
-  "title": "The Indiscreet Jewels",
-  "author": "Denis Diderot",
-  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
-  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
+  "date": "2025-11-17",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-16",
-  "title": "The Night Land",
-  "author": "William Hope Hodgson",
-  "summary": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
+  "date": "2025-11-17",
+  "title": "Short Science Fiction",
+  "author": "Isaac Asimov",
+  "summary": "A collection of short science fiction by Isaac Asimov, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-16",
-  "title": "Household Tales",
-  "author": "Jacob Grimm",
-  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
-  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
+  "date": "2025-11-17",
+  "title": "Lost Face",
+  "author": "Jack London",
+  "summary": "A collection of short stories by Jack London.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/lost-face/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/lost-face",
   "subjects": [
-    "childrens",
     "fiction",
     "shorts"
   ]
@@ -251,30 +253,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-16",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2025-11-17",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "nonfiction",
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-16",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2025-11-17",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
