@@ -1,68 +1,70 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-18",
-  "title": "Lay Down Your Arms",
-  "author": "Bertha von Suttner",
-  "summary": "A woman relates how war has impacted her life and destroyed what she holds dear.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertha-von-suttner/lay-down-your-arms/t-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertha-von-suttner/lay-down-your-arms/t-holmes",
+  "date": "2025-11-19",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
-    "fiction"
+    "comedy",
+    "fiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-18",
-  "title": "After London",
-  "author": "Richard Jefferies",
-  "summary": "A young man tries to understand his place in the world as he explores a post-apocalyptic England.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
+  "date": "2025-11-19",
+  "title": "Riders of the Purple Sage",
+  "author": "Zane Grey",
+  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-18",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2025-11-19",
+  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
+  "author": "Black Hawk",
+  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
+  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-11-18",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-11-19",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "philosophy"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-18",
-  "title": "The Wonderful Adventures of Nils",
-  "author": "Selma Lagerlöf",
-  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
+  "date": "2025-11-19",
+  "title": "A Little Princess",
+  "author": "Frances Hodgson Burnett",
+  "summary": "A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,12 +73,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-18",
-  "title": "Right Ho, Jeeves",
+  "date": "2025-11-19",
+  "title": "Something New",
   "author": "P. G. Wodehouse",
-  "summary": "Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,7 +87,7 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "title": "Henry VI, Part II",
   "author": "William Shakespeare",
   "summary": "King Henry VI marries Margaret of Anjou and further stokes discord within his court.",
@@ -98,7 +100,7 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "title": "The Charwoman’s Shadow",
   "author": "Lord Dunsany",
   "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
@@ -111,12 +113,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-18",
-  "title": "The Country of the Pointed Firs",
-  "author": "Sarah Orne Jewett",
-  "summary": "A series of sketches of a writer’s life in a small fishing village in Maine.",
-  "coverUrl": "https://standardebooks.org/ebooks/sarah-orne-jewett/the-country-of-the-pointed-firs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sarah-orne-jewett/the-country-of-the-pointed-firs",
+  "date": "2025-11-19",
+  "title": "The Dead Secret",
+  "author": "Wilkie Collins",
+  "summary": "A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.",
+  "coverUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret",
   "subjects": [
     "fiction"
   ]
@@ -124,7 +126,7 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "title": "The Vampire",
   "author": "John William Polidori",
   "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
@@ -137,7 +139,7 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "title": "Scrambles Amongst the Alps in the Years 1860–69",
   "author": "Edward Whymper",
   "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
@@ -152,7 +154,7 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "title": "File No. 113",
   "author": "Émile Gaboriau",
   "summary": "A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.",
@@ -166,40 +168,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-18",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2025-11-19",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
-    "memoir",
+    "biography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-18",
-  "title": "Liberalism",
-  "author": "L. T. Hobhouse",
-  "summary": "An early twentieth century description of the philosophy of liberal socialism.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
+  "date": "2025-11-19",
+  "title": "No Treason",
+  "author": "Lysander Spooner",
+  "summary": "Lawyer and political philosopher Lysander Spooner presents his case for the invalidity of the United States Constitution.",
+  "coverUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-18",
-  "title": "Poetry",
-  "author": "W. B. Yeats",
-  "summary": "A collection of poems by W. B. Yeats.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-b-yeats/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-b-yeats/poetry",
+  "date": "2025-11-19",
+  "title": "Beowulf",
+  "author": "Anonymous",
+  "summary": "A hero is hired to kill a monster that has been plaguing the land.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/beowulf/john-lesslie-hall/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/beowulf/john-lesslie-hall",
   "subjects": [
     "poetry"
   ]
@@ -207,34 +208,36 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-18",
-  "title": "Main Street",
-  "author": "Sinclair Lewis",
-  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
+  "date": "2025-11-19",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-18",
-  "title": "The Survivors",
-  "author": "Tom Godwin",
-  "summary": "A group of humans stranded on a deadly planet try to survive the harsh conditions and take revenge on the aliens that left them there.",
-  "coverUrl": "https://standardebooks.org/ebooks/tom-godwin/the-survivors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/tom-godwin/the-survivors",
+  "date": "2025-11-19",
+  "title": "Short Fiction",
+  "author": "Clifford D. Simak",
+  "summary": "A collection of short fiction by Clifford D. Simak, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "title": "The Law of the Four Just Men",
   "author": "Edgar Wallace",
   "summary": "A group of wealthy vigilantes continue their quest to bring justice to those criminals beyond the reach of conventional law.",
@@ -249,28 +252,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-18",
-  "title": "Unspoken Sermons",
-  "author": "George MacDonald",
-  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
+  "date": "2025-11-19",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
-    "nonfiction",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-18",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2025-11-19",
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
