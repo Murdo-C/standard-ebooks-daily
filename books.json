@@ -1,25 +1,27 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-22",
-  "title": "Some Do Not …",
-  "author": "Ford Madox Ford",
-  "summary": "As World War I looms, a stiff English statistician and a suffragette fall in love.",
-  "coverUrl": "https://standardebooks.org/ebooks/ford-madox-ford/some-do-not/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ford-madox-ford/some-do-not",
+  "date": "2025-11-23",
+  "title": "Ukridge Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
   "subjects": [
-    "fiction"
+    "comedy",
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-22",
-  "title": "Around the World in Eighty Days",
-  "author": "Jules Verne",
-  "summary": "On a bet, an eccentric Victorian gentleman races to circumnavigate the globe.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle",
+  "date": "2025-11-23",
+  "title": "Riders of the Purple Sage",
+  "author": "Zane Grey",
+  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +30,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-22",
-  "title": "A Yankee in the Trenches",
-  "author": "Robert Derby Holmes",
-  "summary": "An American describes his experiences in the British Army in the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "date": "2025-11-23",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,12 +44,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-11-22",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2025-11-23",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,12 +58,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-22",
-  "title": "Driven Back to Eden",
-  "author": "Edward Payson Roe",
-  "summary": "A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden",
+  "date": "2025-11-23",
+  "title": "The Enchanted Castle",
+  "author": "E. Nesbit",
+  "summary": "Three children discover a wonderful garden and castle, and come into possession of a magic ring which entangles them in many strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,29 +72,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-22",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2025-11-23",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
     "comedy",
     "fiction",
-    "satire",
-    "shorts",
     "travel"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-11-22",
-  "title": "The Second Mrs. Tanqueray",
-  "author": "Arthur W. Pinero",
-  "summary": "A gentleman remarries a woman of questionable character and tries to redeem her, but her past revisits the family in unexpected and tragic ways.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-w-pinero/the-second-mrs-tanqueray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-w-pinero/the-second-mrs-tanqueray",
+  "date": "2025-11-23",
+  "title": "The Trachiniae",
+  "author": "Sophocles",
+  "summary": "A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.",
+  "coverUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr",
   "subjects": [
     "drama"
   ]
@@ -100,50 +100,49 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-22",
-  "title": "The House of Arden",
-  "author": "E. Nesbit",
-  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "date": "2025-11-23",
+  "title": "Lilith",
+  "author": "George MacDonald",
+  "summary": "After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-22",
-  "title": "Catriona",
-  "author": "Robert Louis Stevenson",
-  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "date": "2025-11-23",
+  "title": "Waverley",
+  "author": "Walter Scott",
+  "summary": "A young English officer becomes involved in the Jacobite rebellion.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-scott/waverley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-scott/waverley",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-11-22",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2025-11-23",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "title": "The Interesting Narrative of the Life of Olaudah Equiano",
   "author": "Olaudah Equiano",
   "summary": "An autobiography of an ex-slave in the mid 1700s.",
@@ -157,12 +156,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-22",
-  "title": "The Poisoned Chocolates Case",
-  "author": "Anthony Berkeley",
-  "summary": "A club of amateur sleuths attempts to solve a crime whose solution has eluded Scotland Yard.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case",
+  "date": "2025-11-23",
+  "title": "The Insidious Dr. Fu-Manchu",
+  "author": "Sax Rohmer",
+  "summary": "An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu",
   "subjects": [
     "fiction",
     "mystery"
@@ -171,39 +170,41 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-22",
-  "title": "Liberalism",
-  "author": "L. T. Hobhouse",
-  "summary": "An early twentieth century description of the philosophy of liberal socialism.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
+  "date": "2025-11-23",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "biography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-22",
-  "title": "What Is Art?",
+  "date": "2025-11-23",
+  "title": "The Kingdom of God Is Within You",
   "author": "Leo Tolstoy",
-  "summary": "Leo Tolstoy outlines his philosophy of aesthetics.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
-    "philosophy"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "title": "Poetry",
-  "author": "Ameen Rihani",
-  "summary": "A collection of Ameen Rihani’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
+  "author": "Ambrose Bierce",
+  "summary": "A collection of Ambrose Bierce’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
   "subjects": [
     "poetry"
   ]
@@ -211,21 +212,20 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-11-22",
-  "title": "Looking Backward",
-  "author": "Edward Bellamy",
-  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
+  "date": "2025-11-23",
+  "title": "The Indiscreet Jewels",
+  "author": "Denis Diderot",
+  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
+  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
   "subjects": [
-    "satire",
-    "science_fiction"
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "title": "Short Fiction",
   "author": "Mack Reynolds",
   "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
@@ -239,7 +239,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "title": "Short Fiction",
   "author": "Hjalmar Söderberg",
   "summary": "A collection of Hjalmar Söderberg’s short stories, ordered by date of their translation.",
@@ -253,28 +253,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-22",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2025-11-23",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
-    "nonfiction",
-    "philosophy",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-22",
-  "title": "To Cuba and Back",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
+  "date": "2025-11-23",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
+    "adventure",
+    "nonfiction",
     "travel"
   ]
 }
