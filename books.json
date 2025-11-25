@@ -1,69 +1,67 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-24",
-  "title": "Ukridge Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
+  "date": "2025-11-25",
+  "title": "The Comedy of Errors",
+  "author": "William Shakespeare",
+  "summary": "Two sets of identical twins are mistaken for their lost siblings.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors",
   "subjects": [
-    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "adventure",
+  "date": "2025-11-25",
+  "title": "The Son of the Wolf",
+  "author": "Jack London",
+  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
+  "subjects": [
+    "adventure",
     "fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "adventure",
-  "date": "2025-11-24",
-  "title": "After London",
-  "author": "Richard Jefferies",
-  "summary": "A young man tries to understand his place in the world as he explores a post-apocalyptic England.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
-  "subjects": [
-    "adventure",
-    "science_fiction"
-  ]
-}
-,
-{
   "genre": "autobiography",
-  "date": "2025-11-24",
-  "title": "Pointed Roofs",
-  "author": "Dorothy M. Richardson",
-  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
+  "date": "2025-11-25",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-11-24",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2025-11-25",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "fiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-24",
-  "title": "Driven Back to Eden",
-  "author": "Edward Payson Roe",
-  "summary": "A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden",
+  "date": "2025-11-25",
+  "title": "The Wonderful Adventures of Nils",
+  "author": "Selma Lagerlöf",
+  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
   "subjects": [
     "childrens",
     "fiction"
@@ -72,157 +70,156 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-24",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2025-11-25",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
     "comedy",
     "fiction",
+    "spirituality",
     "travel"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-11-24",
-  "title": "The Libation Bearers",
-  "author": "Aeschylus",
-  "summary": "A man is ordered by a god to avenge his father’s murder by killing his mother and her lover.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray",
+  "date": "2025-11-25",
+  "title": "The Seagull",
+  "author": "Anton Chekhov",
+  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-24",
-  "title": "The House of Arden",
-  "author": "E. Nesbit",
-  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "date": "2025-11-25",
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "fantasy",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-24",
-  "title": "Waverley",
-  "author": "Walter Scott",
-  "summary": "A young English officer becomes involved in the Jacobite rebellion.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-scott/waverley/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-scott/waverley",
+  "date": "2025-11-25",
+  "title": "The End of the Tether",
+  "author": "Joseph Conrad",
+  "summary": "An aging captain, having made a name for himself in the age of sail, is forced by circumstance to do a final run on a steamer.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-11-24",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2025-11-25",
+  "title": "John Silence Stories",
+  "author": "Algernon Blackwood",
+  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
+  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
   "subjects": [
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-24",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-11-25",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-24",
-  "title": "The Insidious Dr. Fu-Manchu",
-  "author": "Sax Rohmer",
-  "summary": "An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu",
+  "date": "2025-11-25",
+  "title": "Call Mr. Fortune",
+  "author": "H. C. Bailey",
+  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-24",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2025-11-25",
+  "title": "Liberalism",
+  "author": "L. T. Hobhouse",
+  "summary": "An early twentieth century description of the philosophy of liberal socialism.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
   "subjects": [
-    "autobiography",
-    "memoir",
     "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-11-25",
+  "title": "A Confession",
+  "author": "Leo Tolstoy",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+  "subjects": [
     "philosophy",
     "spirituality"
   ]
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2025-11-24",
-  "title": "What Is Art?",
-  "author": "Leo Tolstoy",
-  "summary": "Leo Tolstoy outlines his philosophy of aesthetics.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2025-11-24",
-  "title": "Poetry",
-  "author": "Ameen Rihani",
-  "summary": "A collection of Ameen Rihani’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
+  "date": "2025-11-25",
+  "title": "Eugene Onegin",
+  "author": "Alexander Pushkin",
+  "summary": "A jaded Russian fop’s disdain for the world catches up with him.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding",
   "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-11-24",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2025-11-25",
+  "title": "Main Street",
+  "author": "Sinclair Lewis",
+  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -230,41 +227,43 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-24",
-  "title": "Short Fiction",
-  "author": "Philip K. Dick",
-  "summary": "A collection of short works by science fiction legend Philip K. Dick.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+  "date": "2025-11-25",
+  "title": "Gladiator",
+  "author": "Philip Wylie",
+  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-24",
-  "title": "Short Fiction",
-  "author": "Fyodor Sologub",
-  "summary": "A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators",
+  "date": "2025-11-25",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
   "subjects": [
-    "fiction",
+    "comedy",
+    "poetry",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-24",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2025-11-25",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
+    "autobiography",
+    "memoir",
     "nonfiction",
     "philosophy",
     "spirituality"
@@ -273,14 +272,13 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-11-24",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2025-11-25",
+  "title": "To Cuba and Back",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
   "subjects": [
-    "shorts",
     "travel"
   ]
 }
