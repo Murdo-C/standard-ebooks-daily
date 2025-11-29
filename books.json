@@ -1,81 +1,83 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-11-28",
-  "title": "The First Men in the Moon",
+  "date": "2025-11-29",
+  "title": "Kipps",
   "author": "H. G. Wells",
-  "summary": "Two British men become the first humans to reach the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
+  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
   "subjects": [
-    "science_fiction"
+    "comedy",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-11-28",
-  "title": "At the Mountains of Madness",
-  "author": "H. P. Lovecraft",
-  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
+  "date": "2025-11-29",
+  "title": "Bulldog Drummond",
+  "author": "H. C. McNeile",
+  "summary": "A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond",
   "subjects": [
     "adventure",
-    "horror",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-11-28",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2025-11-29",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-11-28",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-11-29",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-11-28",
-  "title": "Smoky the Cowhorse",
-  "author": "Will James",
-  "summary": "Smoky, a gray-colored horse, grows into adulthood on the ranges of the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse",
+  "date": "2025-11-29",
+  "title": "Hindu Tales from the Sanskrit",
+  "author": "S. M. Mitra",
+  "summary": "Short stories and fables from the Sanskrit tradition.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit",
   "subjects": [
     "childrens",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-11-28",
-  "title": "Manalive",
-  "author": "G. K. Chesterton",
-  "summary": "An eccentric man brings chaos and happiness to a house of litigious lodgers.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive",
+  "date": "2025-11-29",
+  "title": "A Damsel in Distress",
+  "author": "P. G. Wodehouse",
+  "summary": "A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress",
   "subjects": [
     "comedy",
     "fiction"
@@ -84,39 +86,41 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-11-28",
-  "title": "Edward II",
-  "author": "Christopher Marlowe",
-  "summary": "Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.",
-  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii",
+  "date": "2025-11-29",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
-    "drama"
+    "comedy",
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-11-28",
-  "title": "The Blazing World",
-  "author": "Margaret Cavendish",
-  "summary": "A young lady is abducted and finds herself the empress of a strange new world.",
-  "coverUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world",
+  "date": "2025-11-29",
+  "title": "The Book of Wonder",
+  "author": "Lord Dunsany",
+  "summary": "A collection of fantastical short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
   "subjects": [
     "fantasy",
-    "philosophy"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-11-28",
-  "title": "Niels Lyhne",
-  "author": "J. P. Jacobsen",
-  "summary": "A young, disillusioned poet struggles to find love and meaning in 19th century Denmark.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-p-jacobsen/niels-lyhne/hanna-astrup-larsen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-p-jacobsen/niels-lyhne/hanna-astrup-larsen",
+  "date": "2025-11-29",
+  "title": "Noli Me Tangere",
+  "author": "José Rizal",
+  "summary": "After years away studying in Europe, a man returns to his hometown in the Philippines, and plans to build a school for the improvement of the local population.",
+  "coverUrl": "https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire",
   "subjects": [
     "fiction"
   ]
@@ -124,54 +128,54 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-11-28",
-  "title": "The Private Memoirs and Confessions of a Justified Sinner",
-  "author": "James Hogg",
-  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "date": "2025-11-29",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "summary": "Ten short stories of madness, hauntings, romance, and art.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-11-28",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2025-11-29",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-11-28",
-  "title": "The D’Arblay Mystery",
-  "author": "R. Austin Freeman",
-  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
+  "date": "2025-11-29",
+  "title": "Scarhaven Keep",
+  "author": "J. S. Fletcher",
+  "summary": "A famous actor goes missing on the northern English sea coast.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/scarhaven-keep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/scarhaven-keep",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-11-28",
-  "title": "The Subjection of Women",
-  "author": "John Stuart Mill",
-  "summary": "John Stuart Mill argues for the social and legal equality of men and women.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-subjection-of-women/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-subjection-of-women",
+  "date": "2025-11-29",
+  "title": "The Economic Consequences of the Peace",
+  "author": "John Maynard Keynes",
+  "summary": "Keynes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace",
   "subjects": [
     "nonfiction"
   ]
@@ -179,55 +183,53 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-11-28",
-  "title": "On Liberty",
-  "author": "John Stuart Mill",
-  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+  "date": "2025-11-29",
+  "title": "The Public and Its Problems",
+  "author": "John Dewey",
+  "summary": "A discussion of the political philosophy of a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-11-28",
-  "title": "Nonsense Books",
-  "author": "Edward Lear",
-  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
+  "date": "2025-11-29",
+  "title": "Poetry",
+  "author": "T. S. Eliot",
+  "summary": "A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”",
+  "coverUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
   "subjects": [
-    "comedy",
-    "poetry",
-    "shorts"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-11-28",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2025-11-29",
+  "title": "The Works of Max Beerbohm",
+  "author": "Max Beerbohm",
+  "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm",
   "subjects": [
-    "comedy",
-    "fantasy",
-    "satire"
+    "satire",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-11-28",
-  "title": "The Big Time",
-  "author": "Fritz Leiber",
-  "summary": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
+  "date": "2025-11-29",
+  "title": "At the Earth’s Core",
+  "author": "Edgar Rice Burroughs",
+  "summary": "Two explorers burrow deep into the planet’s crust and emerge in a savage land inside a hollow Earth, where they have many adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
   "subjects": [
     "science_fiction"
   ]
@@ -235,41 +237,40 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-11-28",
+  "date": "2025-11-29",
   "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "author": "Aleksandr Kuprin",
+  "summary": "A collection of Aleksandr Kuprin’s translated short stories, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators",
   "subjects": [
-    "horror",
-    "science_fiction",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-11-28",
-  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
-  "author": "Jonathan Dymond",
-  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+  "date": "2025-11-29",
+  "title": "Polynesian Mythology",
+  "author": "George Grey",
+  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
   "subjects": [
-    "philosophy",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-11-28",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2025-11-29",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
