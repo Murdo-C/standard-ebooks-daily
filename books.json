@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-04",
-  "title": "The Trachiniae",
-  "author": "Sophocles",
-  "summary": "A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr",
+  "date": "2025-12-05",
+  "title": "Poetry",
+  "author": "Thomas Gray",
+  "summary": "A collection of poems by Thomas Gray.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry",
   "subjects": [
-    "drama"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-04",
-  "title": "The Return of Tarzan",
+  "date": "2025-12-05",
+  "title": "Tarzan the Untamed",
   "author": "Edgar Rice Burroughs",
-  "summary": "Tarzan attempts to leave behind life in the jungle but rapidly discovers that life among humans contains just as many dangers.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-return-of-tarzan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-return-of-tarzan",
+  "summary": "Tarzan embarks on a perilous journey through war-torn Africa to exact revenge against those who wronged him.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-the-untamed/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-the-untamed",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,7 +28,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "title": "My Reminiscences",
   "author": "Rabindranath Tagore",
   "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
@@ -41,12 +41,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-12-04",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2025-12-05",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -55,35 +55,37 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-04",
-  "title": "Peter and Wendy",
-  "author": "J. M. Barrie",
-  "summary": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy",
+  "date": "2025-12-05",
+  "title": "Household Tales",
+  "author": "Jacob Grimm",
+  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-04",
-  "title": "The Cherry Orchard",
-  "author": "Anton Chekhov",
-  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
+  "date": "2025-12-05",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "title": "Henry VI, Part III",
   "author": "William Shakespeare",
   "summary": "Henry VI is overthrown and Edward Plantagenet becomes the new King of England.",
@@ -96,41 +98,40 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-04",
-  "title": "Vathek",
-  "author": "William Beckford",
-  "summary": "A powerful caliph embarks on a quest to harness the powers of darkness.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley",
+  "date": "2025-12-05",
+  "title": "The Return",
+  "author": "Walter de la Mare",
+  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "horror"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-04",
-  "title": "Doctor Syn",
-  "author": "Russell Thorndike",
-  "summary": "A king’s enforcer searching for smugglers uncovers the dark past of the inhabitants of a small English town.",
-  "coverUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn",
+  "date": "2025-12-05",
+  "title": "Downstream",
+  "author": "Sigfrid Siwertz",
+  "summary": "Five bourgeois Swedish siblings, linked by their ancestral home, attempt to forge different paths in life.",
+  "coverUrl": "https://standardebooks.org/ebooks/sigfrid-siwertz/downstream/e-classen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sigfrid-siwertz/downstream/e-classen",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-12-04",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2025-12-05",
+  "title": "John Silence Stories",
+  "author": "Algernon Blackwood",
+  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
+  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
   "subjects": [
-    "fiction",
     "horror",
     "shorts"
   ]
@@ -138,68 +139,68 @@
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-04",
-  "title": "Now It Can Be Told",
-  "author": "Philip Gibbs",
-  "summary": "A British war correspondent recalls his experiences during the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "date": "2025-12-05",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-04",
-  "title": "The Mysterious Affair at Styles",
+  "date": "2025-12-05",
+  "title": "The Big Four",
   "author": "Agatha Christie",
-  "summary": "A fastidious Belgian detective solves the mystery of a murder in an English country manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles",
+  "summary": "A famous detective must use all his little grey cells to stop an immensely powerful and ruthless organization from taking over the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-04",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2025-12-05",
+  "title": "Legends of Vancouver",
+  "author": "E. Pauline Johnson",
+  "summary": "E. Pauline Johnson’s collection of legends and myths of the Squamish people.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver",
   "subjects": [
-    "memoir",
-    "nonfiction"
+    "nonfiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-04",
-  "title": "The Social Contract",
-  "author": "Jean-Jacques Rousseau",
-  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+  "date": "2025-12-05",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
-    "nonfiction",
+    "comedy",
+    "fantasy",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-04",
-  "title": "Poetry",
-  "author": "Frances Ellen Watkins Harper",
-  "summary": "A collection of poems by Frances Ellen Watkins Harper.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
+  "date": "2025-12-05",
+  "title": "The Book of Jade",
+  "author": "David Park Barnitz",
+  "summary": "A collection of decadent poetry by David Park Barnitz.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade",
   "subjects": [
     "poetry"
   ]
@@ -207,26 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-04",
-  "title": "The Mercy of Allah",
-  "author": "Hilaire Belloc",
-  "summary": "An entrepreneurial businessman satirically relates to his nephews how he became the wealthiest man in Baghdad.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah",
+  "date": "2025-12-05",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "fiction",
+    "poetry",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
     "horror",
     "science_fiction",
@@ -236,36 +237,36 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-04",
-  "title": "The King in Yellow",
-  "author": "Robert W. Chambers",
-  "summary": "Ten short stories of madness, hauntings, romance, and art.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+  "date": "2025-12-05",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
   "subjects": [
-    "horror",
+    "childrens",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-04",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2025-12-05",
+  "title": "Siddhartha",
+  "author": "Hermann Hesse",
+  "summary": "A man embarks on a spiritual journey through India.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
   "subjects": [
-    "nonfiction",
-    "spirituality",
-    "travel"
+    "fiction",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
   "author": "Mary Wollstonecraft",
   "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
