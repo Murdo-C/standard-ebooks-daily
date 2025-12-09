@@ -1,72 +1,66 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-08",
-  "title": "Sartor Resartus",
-  "author": "Thomas Carlyle",
-  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
+  "date": "2025-12-09",
+  "title": "Sister Carrie",
+  "author": "Theodore Dreiser",
+  "summary": "A young woman moves to Chicago to chase her dream of being somebody.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-dreiser/sister-carrie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-dreiser/sister-carrie",
   "subjects": [
-    "fiction",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2025-12-08",
-  "title": "Jungle Tales of Tarzan",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A collection of short stories about Tarzan growing up in the jungle.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan",
-  "subjects": [
-    "adventure",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-12-08",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
-  "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-12-08",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
-  "subjects": [
-    "biography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2025-12-09",
+  "title": "Behind That Curtain",
+  "author": "Earl Derr Biggers",
+  "summary": "A Chinese detective is asked to assist in the solution of a missing woman and the murder of a detective from Scotland Yard.",
+  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/behind-that-curtain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/behind-that-curtain",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2025-12-09",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "summary": "The autobiography of English philosopher John Stuart Mill.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2025-12-09",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "subjects": [
+    "biography",
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2025-12-08",
-  "title": "The Princess and the Goblin",
+  "date": "2025-12-09",
+  "title": "At the Back of the North Wind",
   "author": "George MacDonald",
-  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
+  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
   "subjects": [
     "childrens",
     "fantasy"
@@ -75,26 +69,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-08",
-  "title": "Tartuffe",
-  "author": "Molière",
-  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
-  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
+  "date": "2025-12-09",
+  "title": "Jurgen",
+  "author": "James Branch Cabell",
+  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
   "subjects": [
     "comedy",
-    "drama"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-12-08",
-  "title": "King John",
+  "date": "2025-12-09",
+  "title": "Henry V",
   "author": "William Shakespeare",
-  "summary": "King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john",
+  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
   "subjects": [
     "drama"
   ]
@@ -102,12 +96,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-08",
-  "title": "The King of Elfland’s Daughter",
+  "date": "2025-12-09",
+  "title": "The Gods of Pegāna",
   "author": "Lord Dunsany",
-  "summary": "The people of Erl want magic, and get their wish.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter",
+  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
   "subjects": [
     "fantasy"
   ]
@@ -115,12 +109,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-08",
-  "title": "The Bridal Wreath",
-  "author": "Sigrid Undset",
-  "summary": "In 14th-century Norway, a nobleman’s daughter grows up and faces passion, sin, and filial piety.",
-  "coverUrl": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott",
+  "date": "2025-12-09",
+  "title": "Clarissa",
+  "author": "Samuel Richardson",
+  "summary": "A beautiful and virtuous young lady is entangled in the snares of a handsome but unscrupulous rake.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-richardson/clarissa/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-richardson/clarissa",
   "subjects": [
     "fiction"
   ]
@@ -128,57 +122,56 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-12-08",
-  "title": "The House on the Borderland",
-  "author": "William Hope Hodgson",
-  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "date": "2025-12-09",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2025-12-08",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-12-08",
-  "title": "Poirot Investigates",
-  "author": "Agatha Christie",
-  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
-  "subjects": [
-    "mystery",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "nonfiction",
-  "date": "2025-12-08",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "genre": "memoir",
+  "date": "2025-12-09",
+  "title": "The Hashish Eater",
+  "author": "Fitz Hugh Ludlow",
+  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
+  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
   "subjects": [
-    "memoir",
+    "memoir"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-12-09",
+  "title": "The Man in Lower Ten",
+  "author": "Mary Roberts Rinehart",
+  "summary": "A young attorney is on his way to deliver evidence for a forgery case when he’s accused of killing a fellow train passenger.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-man-in-lower-ten/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-man-in-lower-ten",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-12-09",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "subjects": [
+    "adventure",
     "nonfiction",
     "travel"
   ]
@@ -186,25 +179,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-08",
-  "title": "The Crowd",
-  "author": "Gustave Le Bon",
-  "summary": "Le Bon explores the psychology, motivations, and dangers of crowds of people.",
-  "coverUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+  "date": "2025-12-09",
+  "title": "What’s Wrong with the World",
+  "author": "G. K. Chesterton",
+  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "title": "Poetry",
-  "author": "Ambrose Bierce",
-  "summary": "A collection of Ambrose Bierce’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
+  "author": "Ameen Rihani",
+  "summary": "A collection of Ameen Rihani’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
   "subjects": [
     "poetry"
   ]
@@ -212,12 +206,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-08",
-  "title": "Dodsworth",
-  "author": "Sinclair Lewis",
-  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
+  "date": "2025-12-09",
+  "title": "The Luck of Barry Lyndon",
+  "author": "William Makepeace Thackeray",
+  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
   "subjects": [
     "fiction",
     "satire"
@@ -226,26 +220,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-08",
-  "title": "Short Fiction",
-  "author": "Andre Norton",
-  "summary": "A collection of fantasy and science fiction short fiction by Andre Norton.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
+  "date": "2025-12-09",
+  "title": "Triplanetary",
+  "author": "E. E. Smith",
+  "summary": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-08",
-  "title": "Ukridge Stories",
+  "date": "2025-12-09",
+  "title": "School Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
+  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -255,29 +248,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-08",
-  "title": "Orthodoxy",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+  "date": "2025-12-09",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
-    "philosophy",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-12-08",
-  "title": "The Four Men",
+  "date": "2025-12-09",
+  "title": "The Path to Rome",
   "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
-    "comedy",
-    "fiction",
+    "nonfiction",
     "spirituality",
     "travel"
   ]
