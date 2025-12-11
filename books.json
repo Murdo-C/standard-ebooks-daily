@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-10",
-  "title": "Short Works",
-  "author": "Epictetus",
-  "summary": "A collection of Epictetus’s short works.",
-  "coverUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long",
+  "date": "2025-12-11",
+  "title": "Early Autumn",
+  "author": "Louis Bromfield",
+  "summary": "An old money family in Massachusetts faces a rapidly changing environment after World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/louis-bromfield/early-autumn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/louis-bromfield/early-autumn",
   "subjects": [
-    "philosophy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-10",
-  "title": "Stand by for Mars!",
-  "author": "Carey Rockwell",
-  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
-  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
+  "date": "2025-12-11",
+  "title": "The Defiant Agents",
+  "author": "Andre Norton",
+  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
   "subjects": [
     "adventure",
     "science_fiction"
@@ -28,26 +28,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-10",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2025-12-11",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-12-10",
-  "title": "Eminent Victorians",
+  "date": "2025-12-11",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,148 +56,21 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-10",
-  "title": "The Story of the Amulet",
+  "date": "2025-12-11",
+  "title": "The Story of the Treasure Seekers",
   "author": "E. Nesbit",
-  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
+  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "adventure",
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-10",
-  "title": "Figures of Earth",
-  "author": "James Branch Cabell",
-  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
-  "subjects": [
-    "comedy",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2025-12-10",
-  "title": "Henry VI, Part I",
-  "author": "William Shakespeare",
-  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2025-12-10",
-  "title": "The Book of Wonder",
-  "author": "Lord Dunsany",
-  "summary": "A collection of fantastical short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
-  "subjects": [
-    "fantasy",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2025-12-10",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
-  "subjects": [
-    "fiction",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2025-12-10",
-  "title": "Short Fiction",
-  "author": "Henry Kuttner",
-  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
-  "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2025-12-10",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
-  "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-12-10",
-  "title": "File No. 113",
-  "author": "Émile Gaboriau",
-  "summary": "A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2025-12-10",
-  "title": "A Journal of the Plague Year",
-  "author": "Daniel Defoe",
-  "summary": "An account of one man’s survival in London during the Great Plague of 1665.",
-  "coverUrl": "https://standardebooks.org/ebooks/daniel-defoe/a-journal-of-the-plague-year/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/daniel-defoe/a-journal-of-the-plague-year",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2025-12-10",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
-  "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2025-12-10",
+  "date": "2025-12-11",
   "title": "Nonsense Books",
   "author": "Edward Lear",
   "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
@@ -211,27 +84,147 @@
 }
 ,
 {
-  "genre": "satire",
-  "date": "2025-12-10",
-  "title": "The Luck of Barry Lyndon",
-  "author": "William Makepeace Thackeray",
-  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
+  "genre": "drama",
+  "date": "2025-12-11",
+  "title": "Henry VI, Part II",
+  "author": "William Shakespeare",
+  "summary": "King Henry VI marries Margaret of Anjou and further stokes discord within his court.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2025-12-11",
+  "title": "The Charwoman’s Shadow",
+  "author": "Lord Dunsany",
+  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2025-12-11",
+  "title": "Erewhon Revisited",
+  "author": "Samuel Butler",
+  "summary": "A traveler returns to the country of Erewhon to find out what has happened in the twenty years since he last visited.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-butler/erewhon-revisited/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-butler/erewhon-revisited",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2025-12-11",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "subjects": [
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2025-12-11",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-12-11",
+  "title": "The Sign of the Four",
+  "author": "Arthur Conan Doyle",
+  "summary": "An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four",
   "subjects": [
     "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2025-12-11",
+  "title": "The Origin of Species",
+  "author": "Charles Darwin",
+  "summary": "A distinguished amateur scientist lays out the evidence for the origin of species by means of natural selection.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-12-11",
+  "title": "Heretics",
+  "author": "G. K. Chesterton",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
+  "subjects": [
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2025-12-11",
+  "title": "Poetry",
+  "author": "T. S. Eliot",
+  "summary": "A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”",
+  "coverUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2025-12-11",
+  "title": "Candide",
+  "author": "Voltaire",
+  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
+  "subjects": [
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-10",
-  "title": "Uller Uprising",
-  "author": "H. Beam Piper",
-  "summary": "450 years in the future, a shrewd general must quell an alien rebellion on a remote colonized planet.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising",
+  "date": "2025-12-11",
+  "title": "Plague of Pythons",
+  "author": "Frederik Pohl",
+  "summary": "A man navigates a world torn apart by bouts of spontaneous, unexplained possessions.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
   "subjects": [
     "science_fiction"
   ]
@@ -239,12 +232,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-10",
-  "title": "Short Fiction",
+  "date": "2025-12-11",
+  "title": "Mr. Mulliner Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "summary": "A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -254,12 +247,12 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-10",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2025-12-11",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
   "subjects": [
     "nonfiction",
     "spirituality"
@@ -268,14 +261,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-12-10",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2025-12-11",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
