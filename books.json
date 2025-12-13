@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-12",
+  "date": "2025-12-13",
   "title": "Don Quixote",
   "author": "Miguel de Cervantes Saavedra",
   "summary": "A mad knight-errant and his down-to-earth squire encounter adventure in the Spanish countryside.",
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-12",
+  "date": "2025-12-13",
   "title": "A High Wind in Jamaica",
   "author": "Richard Hughes",
   "summary": "After their parents’ plantation in Jamaica is destroyed by a hurricane, a group of children returning to England are kidnapped by pirates.",
@@ -28,40 +28,41 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-12",
-  "title": "Pointed Roofs",
-  "author": "Dorothy M. Richardson",
-  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
+  "date": "2025-12-13",
+  "title": "Passages from the Life of a Philosopher",
+  "author": "Charles Babbage",
+  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-12-12",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2025-12-13",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-12",
-  "title": "The House of Arden",
+  "date": "2025-12-13",
+  "title": "The Magic City",
   "author": "E. Nesbit",
-  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
   "subjects": [
     "childrens",
     "fantasy"
@@ -70,12 +71,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-12",
-  "title": "Uneasy Money",
-  "author": "P. G. Wodehouse",
-  "summary": "When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money",
+  "date": "2025-12-13",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
   "subjects": [
     "comedy",
     "fiction"
@@ -84,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-12-12",
-  "title": "Henry VIII",
+  "date": "2025-12-13",
+  "title": "Edward III",
   "author": "William Shakespeare",
-  "summary": "King Henry VIII plans to divorce his first wife for Anne Bullen.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii",
+  "summary": "Edward III declares himself the true heir of France, which launches the Hundred Years’ War.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii",
   "subjects": [
     "drama"
   ]
@@ -97,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-12",
-  "title": "Through the Looking-Glass",
-  "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
+  "date": "2025-12-13",
+  "title": "Peter and Wendy",
+  "author": "J. M. Barrie",
+  "summary": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy",
   "subjects": [
     "childrens",
     "fantasy"
@@ -111,74 +112,69 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-12",
-  "title": "Magnificent Obsession",
-  "author": "Lloyd C. Douglas",
-  "summary": "A brain surgeon’s secret obsession is discovered and adopted by the wealthy young man involved in his death.",
-  "coverUrl": "https://standardebooks.org/ebooks/lloyd-c-douglas/magnificent-obsession/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lloyd-c-douglas/magnificent-obsession",
+  "date": "2025-12-13",
+  "title": "The Memoirs of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2025-12-12",
-  "title": "At the Mountains of Madness",
-  "author": "H. P. Lovecraft",
-  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
-  "subjects": [
-    "adventure",
-    "horror",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2025-12-12",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2025-12-12",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
-  "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
+    "fiction",
     "mystery",
-    "satire",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
+  "genre": "horror",
+  "date": "2025-12-13",
+  "title": "The Turn of the Screw",
+  "author": "Henry James",
+  "summary": "A governess moves in to a haunted manor.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2025-12-13",
+  "title": "Incidents in the Life of a Slave Girl",
+  "author": "Linda Brent",
+  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
+  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2025-12-13",
+  "title": "Lady Audley’s Secret",
+  "author": "M. E. Braddon",
+  "summary": "When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
   "genre": "nonfiction",
-  "date": "2025-12-12",
-  "title": "The Voyage of the Beagle",
-  "author": "Charles Darwin",
-  "summary": "Darwin’s personal account of his 1831 voyage around the world investigating the geology, botany, and zoology of various lands.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle",
+  "date": "2025-12-13",
+  "title": "Disenchantment",
+  "author": "C. E. Montague",
+  "summary": "A World War I veteran analyzes how the war affected the collective British psyche.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-e-montague/disenchantment/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-e-montague/disenchantment",
   "subjects": [
     "nonfiction"
   ]
@@ -186,26 +182,25 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-12",
-  "title": "Orthodoxy",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+  "date": "2025-12-13",
+  "title": "Principia Ethica",
+  "author": "G. E. Moore",
+  "summary": "An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica",
   "subjects": [
-    "philosophy",
-    "spirituality"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-12",
-  "title": "Poetry",
-  "author": "James Weldon Johnson",
-  "summary": "A collection of poems by James Weldon Johnson.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
+  "date": "2025-12-13",
+  "title": "Magnolia Leaves",
+  "author": "Mary Weston Fordham",
+  "summary": "A collection of poems by Mary Weston Fordham.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves",
   "subjects": [
     "poetry"
   ]
@@ -213,13 +208,14 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-12",
-  "title": "Sartor Resartus",
-  "author": "Thomas Carlyle",
-  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
+  "date": "2025-12-13",
+  "title": "Sunshine Sketches of a Little Town",
+  "author": "Stephen Leacock",
+  "summary": "A humorous account of life in the fictional small town of Mariposa.",
+  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -227,7 +223,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-12",
+  "date": "2025-12-13",
   "title": "First Lensman",
   "author": "E. E. Smith",
   "summary": "Virgil Samms, the first individual to receive a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.",
@@ -240,14 +236,13 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-12",
-  "title": "Golf Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
+  "date": "2025-12-13",
+  "title": "Lord Arthur Savile’s Crime and Other Stories",
+  "author": "Oscar Wilde",
+  "summary": "A collection of Oscar Wilde’s short mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories",
   "subjects": [
-    "comedy",
     "fiction",
     "shorts"
   ]
@@ -255,27 +250,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-12",
-  "title": "A Day at a Time",
-  "author": "Archibald Alexander",
-  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
+  "date": "2025-12-13",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-12-12",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2025-12-13",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
