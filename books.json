@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-14",
+  "date": "2025-12-15",
   "title": "The Tempest",
   "author": "William Shakespeare",
   "summary": "A magic-induced tempest shipwrecks the king of Naples and his crew on an island inhabited by the usurped duke of Milan.",
@@ -14,40 +14,41 @@
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-14",
-  "title": "Ashenden",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
+  "date": "2025-12-15",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
     "adventure",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-12-14",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
-  "subjects": [
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2025-12-15",
+  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
+  "author": "Black Hawk",
+  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
+  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2025-12-14",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-12-15",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,40 +57,40 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-14",
-  "title": "The Phoenix and the Carpet",
+  "date": "2025-12-15",
+  "title": "The Railway Children",
   "author": "E. Nesbit",
-  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+  "summary": "After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children",
   "subjects": [
     "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2025-12-14",
-  "title": "David Harum",
-  "author": "Edward Noyes Westcott",
-  "summary": "An aimless young man leaves the city for a small village to work for a horse-trading country banker.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum",
-  "subjects": [
-    "comedy",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "comedy",
+  "date": "2025-12-15",
+  "title": "The Man of Destiny",
+  "author": "George Bernard Shaw",
+  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
   "genre": "drama",
-  "date": "2025-12-14",
-  "title": "Hamlet",
+  "date": "2025-12-15",
+  "title": "Henry IV, Part I",
   "author": "William Shakespeare",
-  "summary": "The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet",
+  "summary": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
   "subjects": [
     "drama"
   ]
@@ -97,14 +98,13 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-14",
-  "title": "The Crock of Gold",
+  "date": "2025-12-15",
+  "title": "The Demi-Gods",
   "author": "James Stephens",
-  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
   "subjects": [
-    "comedy",
     "fantasy",
     "philosophy"
   ]
@@ -112,83 +112,84 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-14",
-  "title": "He Knew He Was Right",
-  "author": "Anthony Trollope",
-  "summary": "An older lothario interferes in the lives of a young married couple, driving them apart as each maintains their own innocence.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/he-knew-he-was-right/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/he-knew-he-was-right",
+  "date": "2025-12-15",
+  "title": "The Prisoner of Zenda",
+  "author": "Anthony Hope",
+  "summary": "King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-12-14",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "date": "2025-12-15",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
+    "adventure",
     "horror",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-14",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2025-12-15",
+  "title": "My Four Weeks in France",
+  "author": "Ring Lardner",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
-    "autobiography",
+    "comedy",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-14",
-  "title": "The Man in the Queue",
-  "author": "Josephine Tey",
-  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
-  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
+  "date": "2025-12-15",
+  "title": "The Murders in Praed Street",
+  "author": "John Rhode",
+  "summary": "An eccentric scientist investigates a series of shocking murders that terrorize London.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-14",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2025-12-15",
+  "title": "The Problems of Philosophy",
+  "author": "Bertrand Russell",
+  "summary": "A beginner’s guide to problems in various fields of philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
   "subjects": [
-    "biography",
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-14",
-  "title": "The Genealogy of Morals",
+  "date": "2025-12-15",
+  "title": "Thus Spake Zarathustra",
   "author": "Friedrich Nietzsche",
-  "summary": "Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
   "subjects": [
     "philosophy"
   ]
@@ -196,59 +197,54 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-14",
-  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
-  "author": "Robert Williams Wood",
-  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
+  "date": "2025-12-15",
+  "title": "North of Boston",
+  "author": "Robert Frost",
+  "summary": "A collection of Frost’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston",
   "subjects": [
-    "poetry",
-    "satire"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-12-14",
-  "title": "The History of Rasselas, Prince of Abyssinia",
-  "author": "Samuel Johnson",
-  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
+  "date": "2025-12-15",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
+    "comedy",
+    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-14",
-  "title": "Looking Backward",
-  "author": "Edward Bellamy",
-  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
+  "date": "2025-12-15",
+  "title": "The Moon Maid",
+  "author": "Edgar Rice Burroughs",
+  "summary": "A young man travels to the moon with a group of companions and discovers that it’s inhabited; in subsequent centuries, reincarnations of the same man deal with an invasion of the Earth by the malevolent inhabitants of the Moon.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid",
   "subjects": [
-    "satire",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-14",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2025-12-15",
+  "title": "Short Science Fiction",
+  "author": "Isaac Asimov",
+  "summary": "A collection of short science fiction by Isaac Asimov, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
   "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
-    "mystery",
-    "satire",
     "science_fiction",
     "shorts"
   ]
@@ -256,14 +252,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-14",
-  "title": "The Kingdom of God Is Within You",
-  "author": "Leo Tolstoy",
-  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+  "date": "2025-12-15",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -271,17 +266,13 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-12-14",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2025-12-15",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
     "travel"
   ]
 }
