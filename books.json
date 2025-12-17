@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-16",
-  "title": "Richard II",
-  "author": "William Shakespeare",
-  "summary": "King Richard II’s wasteful spending habits drive his supporters to revolt.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii",
+  "date": "2025-12-17",
+  "title": "Green Forest Stories",
+  "author": "Thornton W. Burgess",
+  "summary": "A collection of four animal tales featuring the denizens of the Green Forest.",
+  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories",
   "subjects": [
-    "drama"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-16",
-  "title": "The Purple Land",
-  "author": "W. H. Hudson",
-  "summary": "An Englishman becomes embroiled in adventure, politics, and romance in 19th-century Uruguay.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land",
+  "date": "2025-12-17",
+  "title": "A High Wind in Jamaica",
+  "author": "Richard Hughes",
+  "summary": "After their parents’ plantation in Jamaica is destroyed by a hurricane, a group of children returning to England are kidnapped by pirates.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-hughes/a-high-wind-in-jamaica/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-hughes/a-high-wind-in-jamaica",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,7 +29,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-16",
+  "date": "2025-12-17",
   "title": "Twenty Years at Hull House",
   "author": "Jane Addams",
   "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
@@ -41,40 +42,40 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-12-16",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2025-12-17",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-16",
-  "title": "Five Children and It",
+  "date": "2025-12-17",
+  "title": "The Enchanted Castle",
   "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "summary": "Three children discover a wonderful garden and castle, and come into possession of a magic ring which entangles them in many strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-16",
-  "title": "Misalliance",
+  "date": "2025-12-17",
+  "title": "Getting Married",
   "author": "George Bernard Shaw",
-  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
+  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
   "subjects": [
     "comedy",
     "drama"
@@ -83,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-12-16",
-  "title": "Henry IV, Part II",
+  "date": "2025-12-17",
+  "title": "Coriolanus",
   "author": "William Shakespeare",
-  "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
+  "summary": "A famous Roman general wants to run for consul.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/coriolanus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/coriolanus",
   "subjects": [
     "drama"
   ]
@@ -96,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-16",
-  "title": "Lud-in-the-Mist",
-  "author": "Hope Mirrlees",
-  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
-  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
+  "date": "2025-12-17",
+  "title": "The Gods of Pegāna",
+  "author": "Lord Dunsany",
+  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
   "subjects": [
     "fantasy"
   ]
@@ -109,12 +110,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-16",
-  "title": "Barchester Towers",
+  "date": "2025-12-17",
+  "title": "Framley Parsonage",
   "author": "Anthony Trollope",
-  "summary": "The affections of a young widow are at play while rival clerical factions contend for control over church matters in the cathedral city of Barchester.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/barchester-towers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/barchester-towers",
+  "summary": "A young vicar with an aristocratic patron foolishly becomes mired in debt.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage",
   "subjects": [
     "fiction"
   ]
@@ -122,40 +123,42 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-12-16",
-  "title": "The Beetle",
-  "author": "Richard Marsh",
-  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
+  "date": "2025-12-17",
+  "title": "The Magician",
+  "author": "W. Somerset Maugham",
+  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
   "subjects": [
-    "horror"
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-16",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2025-12-17",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-16",
-  "title": "Murder in the Maze",
-  "author": "J. J. Connington",
-  "summary": "Twin brothers are found murdered in a maze, and the local Chief Constable must solve the crime.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze",
+  "date": "2025-12-17",
+  "title": "The Man in the Queue",
+  "author": "Josephine Tey",
+  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
+  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
   "subjects": [
     "fiction",
     "mystery"
@@ -164,12 +167,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-16",
-  "title": "The Practice and Theory of Bolshevism",
-  "author": "Bertrand Russell",
-  "summary": "Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
+  "date": "2025-12-17",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-12-17",
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "summary": "A collection of essays by Errico Malatesta.",
+  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -177,26 +194,13 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2025-12-16",
-  "title": "Beyond Good and Evil",
-  "author": "Friedrich Nietzsche",
-  "summary": "Nietzsche’s philosophical treatise on the ambiguity of traditional morality.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2025-12-16",
-  "title": "The Kalevala",
-  "author": "Elias Lönnrot",
-  "summary": "The Finnish national epic poem recounting the creation of the Earth and the adventures of its mythical heroes.",
-  "coverUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford",
+  "date": "2025-12-17",
+  "title": "The Rubáiyát of Omar Khayyám",
+  "author": "Omar Khayyám",
+  "summary": "Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.",
+  "coverUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald",
   "subjects": [
     "poetry"
   ]
@@ -204,7 +208,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-16",
+  "date": "2025-12-17",
   "title": "The Little Nugget",
   "author": "P. G. Wodehouse",
   "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
@@ -217,7 +221,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-16",
+  "date": "2025-12-17",
   "title": "Omega",
   "author": "Camille Flammarion",
   "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
@@ -230,7 +234,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-16",
+  "date": "2025-12-17",
   "title": "Short Fiction",
   "author": "Selma Lagerlöf",
   "summary": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
@@ -244,28 +248,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-16",
-  "title": "The Pursuit of God",
-  "author": "A. W. Tozer",
-  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
+  "date": "2025-12-17",
+  "title": "Demian",
+  "author": "Hermann Hesse",
+  "summary": "A boy goes on a journey of spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
   "subjects": [
+    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-12-16",
-  "title": "The Giant Raft",
-  "author": "Jules Verne",
-  "summary": "An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
+  "date": "2025-12-17",
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
-    "adventure",
-    "fiction",
+    "nonfiction",
     "travel"
   ]
 }
