@@ -1,53 +1,55 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-17",
-  "title": "Green Forest Stories",
-  "author": "Thornton W. Burgess",
-  "summary": "A collection of four animal tales featuring the denizens of the Green Forest.",
-  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories",
+  "date": "2025-12-18",
+  "title": "The Incredulity of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
   "subjects": [
-    "childrens",
-    "fiction"
+    "fiction",
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-17",
-  "title": "A High Wind in Jamaica",
-  "author": "Richard Hughes",
-  "summary": "After their parents’ plantation in Jamaica is destroyed by a hurricane, a group of children returning to England are kidnapped by pirates.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-hughes/a-high-wind-in-jamaica/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-hughes/a-high-wind-in-jamaica",
+  "date": "2025-12-18",
+  "title": "Ashenden",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
   "subjects": [
     "adventure",
-    "fiction"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-17",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2025-12-18",
+  "title": "Personal Memoirs of Ulysses S. Grant",
+  "author": "Ulysses S. Grant",
+  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
+  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-12-17",
-  "title": "Eminent Victorians",
+  "date": "2025-12-18",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,26 +58,25 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-17",
-  "title": "The Enchanted Castle",
-  "author": "E. Nesbit",
-  "summary": "Three children discover a wonderful garden and castle, and come into possession of a magic ring which entangles them in many strange adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle",
+  "date": "2025-12-18",
+  "title": "The Water-Babies",
+  "author": "Charles Kingsley",
+  "summary": "A young, uneducated, and mistreated chimney sweep is reborn as a denizen of the fairy world, beginning a journey of moral and spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies",
   "subjects": [
-    "childrens",
-    "fiction"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-17",
-  "title": "Getting Married",
+  "date": "2025-12-18",
+  "title": "You Never Can Tell",
   "author": "George Bernard Shaw",
-  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
+  "summary": "A family recently returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-12-17",
-  "title": "Coriolanus",
+  "date": "2025-12-18",
+  "title": "Cymbeline",
   "author": "William Shakespeare",
-  "summary": "A famous Roman general wants to run for consul.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/coriolanus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/coriolanus",
+  "summary": "A British princess marries a poor gentleman against her father the King’s wishes.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline",
   "subjects": [
     "drama"
   ]
@@ -97,20 +98,21 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-17",
-  "title": "The Gods of Pegāna",
+  "date": "2025-12-18",
+  "title": "The Book of Wonder",
   "author": "Lord Dunsany",
-  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
+  "summary": "A collection of fantastical short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-17",
+  "date": "2025-12-18",
   "title": "Framley Parsonage",
   "author": "Anthony Trollope",
   "summary": "A young vicar with an aristocratic patron foolishly becomes mired in debt.",
@@ -123,29 +125,28 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-12-17",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "date": "2025-12-18",
+  "title": "The Return",
+  "author": "Walter de la Mare",
+  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
   "subjects": [
-    "horror",
-    "mystery"
+    "fantasy",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-17",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2025-12-18",
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
   "subjects": [
     "adventure",
-    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -153,12 +154,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-17",
-  "title": "The Man in the Queue",
-  "author": "Josephine Tey",
-  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
-  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
+  "date": "2025-12-18",
+  "title": "The Jade God",
+  "author": "Alan Sullivan",
+  "summary": "Two years after a mysterious murder, a brother and sister move into a countryside manor and begin to notice strange occurrences.",
+  "coverUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,21 +168,20 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-17",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2025-12-18",
+  "title": "Aspects of the Novel",
+  "author": "E. M. Forster",
+  "summary": "E. M. Forster offers an analysis of aspects of the novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
   "subjects": [
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-17",
+  "date": "2025-12-18",
   "title": "Essays",
   "author": "Errico Malatesta",
   "summary": "A collection of essays by Errico Malatesta.",
@@ -195,12 +195,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-17",
-  "title": "The Rubáiyát of Omar Khayyám",
-  "author": "Omar Khayyám",
-  "summary": "Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.",
-  "coverUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald",
+  "date": "2025-12-18",
+  "title": "Poetry",
+  "author": "William Carlos Williams",
+  "summary": "An anthology of William Carlos Williams’ poetry collections, combining The Tempers (1913), Al Que Quiere! (1917), and Sour Grapes (1921).",
+  "coverUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,25 +208,27 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-17",
-  "title": "The Little Nugget",
-  "author": "P. G. Wodehouse",
-  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
+  "date": "2025-12-18",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-17",
-  "title": "Omega",
-  "author": "Camille Flammarion",
-  "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
+  "date": "2025-12-18",
+  "title": "We",
+  "author": "Yevgeny Zamyatin",
+  "summary": "A thousand years in the future, the builder of a spaceship discovers his emotions.",
+  "coverUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg",
   "subjects": [
     "science_fiction"
   ]
@@ -234,7 +236,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-17",
+  "date": "2025-12-18",
   "title": "Short Fiction",
   "author": "Selma Lagerlöf",
   "summary": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
@@ -248,27 +250,26 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-17",
-  "title": "Demian",
-  "author": "Hermann Hesse",
-  "summary": "A boy goes on a journey of spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
+  "date": "2025-12-18",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
     "fiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-12-17",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2025-12-18",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
     "nonfiction",
     "travel"
