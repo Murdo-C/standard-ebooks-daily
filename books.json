@@ -1,36 +1,34 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-18",
-  "title": "The Incredulity of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
+  "date": "2025-12-19",
+  "title": "The Absolute at Large",
+  "author": "Karel Čapek",
+  "summary": "An inventor builds an atomic engine which converts matter into energy, but has the unfortunate side-effect of liberating divinity into the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova",
   "subjects": [
-    "fiction",
-    "mystery",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-18",
-  "title": "Ashenden",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
+  "date": "2025-12-19",
+  "title": "Bulldog Drummond",
+  "author": "H. C. McNeile",
+  "summary": "A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond",
   "subjects": [
     "adventure",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-18",
+  "date": "2025-12-19",
   "title": "Personal Memoirs of Ulysses S. Grant",
   "author": "Ulysses S. Grant",
   "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
@@ -44,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-12-18",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2025-12-19",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -58,25 +56,26 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-18",
-  "title": "The Water-Babies",
-  "author": "Charles Kingsley",
-  "summary": "A young, uneducated, and mistreated chimney sweep is reborn as a denizen of the fairy world, beginning a journey of moral and spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies",
+  "date": "2025-12-19",
+  "title": "The Story of the Amulet",
+  "author": "E. Nesbit",
+  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
   "subjects": [
-    "childrens"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-18",
-  "title": "You Never Can Tell",
+  "date": "2025-12-19",
+  "title": "Man and Superman",
   "author": "George Bernard Shaw",
-  "summary": "A family recently returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
     "comedy",
     "drama"
@@ -85,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-12-18",
-  "title": "Cymbeline",
+  "date": "2025-12-19",
+  "title": "Henry IV, Part II",
   "author": "William Shakespeare",
-  "summary": "A British princess marries a poor gentleman against her father the King’s wishes.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline",
+  "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
   "subjects": [
     "drama"
   ]
@@ -98,26 +97,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-18",
-  "title": "The Book of Wonder",
-  "author": "Lord Dunsany",
-  "summary": "A collection of fantastical short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
+  "date": "2025-12-19",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
+    "comedy",
     "fantasy",
-    "shorts"
+    "satire"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-18",
-  "title": "Framley Parsonage",
-  "author": "Anthony Trollope",
-  "summary": "A young vicar with an aristocratic patron foolishly becomes mired in debt.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage",
+  "date": "2025-12-19",
+  "title": "Steppenwolf",
+  "author": "Hermann Hesse",
+  "summary": "A man is forced to reconcile different aspects of his personality and find purpose in life.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/steppenwolf/basil-creighton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/steppenwolf/basil-creighton",
   "subjects": [
     "fiction"
   ]
@@ -125,55 +125,54 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-12-18",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2025-12-19",
+  "title": "Short Fiction",
+  "author": "H. P. Lovecraft",
+  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
   "subjects": [
-    "fantasy",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-18",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "date": "2025-12-19",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "adventure",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-18",
-  "title": "The Jade God",
-  "author": "Alan Sullivan",
-  "summary": "Two years after a mysterious murder, a brother and sister move into a countryside manor and begin to notice strange occurrences.",
-  "coverUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god",
+  "date": "2025-12-19",
+  "title": "The Mystery of 31, New Inn",
+  "author": "R. Austin Freeman",
+  "summary": "A detective investigates a potentially spurious will and a man’s mysterious death.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-18",
-  "title": "Aspects of the Novel",
-  "author": "E. M. Forster",
-  "summary": "E. M. Forster offers an analysis of aspects of the novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
+  "date": "2025-12-19",
+  "title": "Histories",
+  "author": "Herodotus",
+  "summary": "Herodotus recounts the history and geography of the ancient world.",
+  "coverUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
   "subjects": [
     "nonfiction"
   ]
@@ -181,7 +180,7 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-18",
+  "date": "2025-12-19",
   "title": "Essays",
   "author": "Errico Malatesta",
   "summary": "A collection of essays by Errico Malatesta.",
@@ -195,12 +194,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-18",
-  "title": "Poetry",
-  "author": "William Carlos Williams",
-  "summary": "An anthology of William Carlos Williams’ poetry collections, combining The Tempers (1913), Al Que Quiere! (1917), and Sour Grapes (1921).",
-  "coverUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
+  "date": "2025-12-19",
+  "title": "A Cycle of the West",
+  "author": "John G. Neihardt",
+  "summary": "A series of epic poems that recounts the history, legends, and mythology of the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
   "subjects": [
     "poetry"
   ]
@@ -208,70 +207,74 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-18",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "date": "2025-12-19",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
     "comedy",
-    "drama",
+    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-18",
-  "title": "We",
-  "author": "Yevgeny Zamyatin",
-  "summary": "A thousand years in the future, the builder of a spaceship discovers his emotions.",
-  "coverUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg",
+  "date": "2025-12-19",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
-    "science_fiction"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-18",
-  "title": "Short Fiction",
-  "author": "Selma Lagerlöf",
-  "summary": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators",
+  "date": "2025-12-19",
+  "title": "Russian Folktales",
+  "author": "A. N. Afanasyev",
+  "summary": "A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus",
   "subjects": [
-    "fiction",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-18",
-  "title": "The Pilgrim’s Progress",
-  "author": "John Bunyan",
-  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
+  "date": "2025-12-19",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "fiction",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-12-18",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2025-12-19",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "nonfiction",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
