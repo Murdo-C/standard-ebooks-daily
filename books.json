@@ -1,12 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-21",
-  "title": "Tarzan, Lord of the Jungle",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle",
+  "date": "2025-12-22",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
+  "genre": "adventure",
+  "date": "2025-12-22",
+  "title": "The Four Just Men",
+  "author": "Edgar Wallace",
+  "summary": "To prevent the passage of a controversial government bill, four vigilantes take the law into their own hands.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men",
   "subjects": [
     "adventure",
     "fiction"
@@ -14,40 +27,27 @@
 }
 ,
 {
-  "genre": "adventure",
-  "date": "2025-12-21",
-  "title": "The Story of the Treasure Seekers",
-  "author": "E. Nesbit",
-  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
-  "subjects": [
-    "adventure",
-    "childrens"
-  ]
-}
-,
-{
   "genre": "autobiography",
-  "date": "2025-12-21",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2025-12-22",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-12-21",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2025-12-22",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-21",
-  "title": "The Magic City",
+  "date": "2025-12-22",
+  "title": "The Phoenix and the Carpet",
   "author": "E. Nesbit",
-  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
+  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
   "subjects": [
     "childrens",
     "fantasy"
@@ -70,26 +70,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-21",
-  "title": "Arms and the Man",
-  "author": "George Bernard Shaw",
-  "summary": "A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man",
+  "date": "2025-12-22",
+  "title": "Brewster’s Millions",
+  "author": "George Barr McCutcheon",
+  "summary": "A young man stands to gain a fortune—but only if he loses one first.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-12-21",
-  "title": "Cymbeline",
+  "date": "2025-12-22",
+  "title": "Antony and Cleopatra",
   "author": "William Shakespeare",
-  "summary": "A British princess marries a poor gentleman against her father the King’s wishes.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline",
+  "summary": "Mark Antony, a Roman triumvir, and Cleopatra, the Queen of Egypt, become embroiled in a deadly love affair.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/antony-and-cleopatra/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/antony-and-cleopatra",
   "subjects": [
     "drama"
   ]
@@ -97,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-21",
-  "title": "The King of Elfland’s Daughter",
+  "date": "2025-12-22",
+  "title": "The Gods of Pegāna",
   "author": "Lord Dunsany",
-  "summary": "The people of Erl want magic, and get their wish.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter",
+  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
   "subjects": [
     "fantasy"
   ]
@@ -110,56 +110,55 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-21",
-  "title": "Short Fiction",
-  "author": "Kate Chopin",
-  "summary": "A collection of Kate Chopin’s short stories, ordered by date of writing.",
-  "coverUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction",
+  "date": "2025-12-22",
+  "title": "Scarlet Sister Mary",
+  "author": "Julia Peterkin",
+  "summary": "A young woman struggles to choose between living as a member in good standing in the church or embracing a life of sin and pleasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/julia-peterkin/scarlet-sister-mary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julia-peterkin/scarlet-sister-mary",
   "subjects": [
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-12-21",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2025-12-22",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "fiction",
+    "adventure",
     "horror",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-21",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "date": "2025-12-22",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
-    "adventure",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-21",
-  "title": "The Powerhouse",
-  "author": "John Buchan",
-  "summary": "A secret criminal organization is uncovered after an M.P.’s friend goes missing.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-powerhouse/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-powerhouse",
+  "date": "2025-12-22",
+  "title": "The Canary Murder Case",
+  "author": "S. S. Van Dine",
+  "summary": "A Manhattan art connoisseur turned amateur detective gets involved in a murder investigation when a theatrical starlet is found dead in her apartment.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-canary-murder-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-canary-murder-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,12 +167,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-21",
-  "title": "What’s Wrong with the World",
+  "date": "2025-12-22",
+  "title": "The Everlasting Man",
   "author": "G. K. Chesterton",
-  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "subjects": [
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2025-12-22",
+  "title": "The Problems of Philosophy",
+  "author": "Bertrand Russell",
+  "summary": "A beginner’s guide to problems in various fields of philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -181,26 +195,13 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2025-12-21",
-  "title": "An Enquiry Concerning Human Understanding",
-  "author": "David Hume",
-  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2025-12-21",
+  "date": "2025-12-22",
   "title": "Poetry",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
+  "author": "Ring Lardner",
+  "summary": "A collection of poems by Ring Lardner.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,70 +209,69 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-21",
-  "title": "The Little Nugget",
-  "author": "P. G. Wodehouse",
-  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
+  "date": "2025-12-22",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-21",
-  "title": "Star Hunter",
-  "author": "Andre Norton",
-  "summary": "On the unexplored jungle world of Jumala the sole survivor of a spaceship crash is heir to a fortune, or has been made to believe so.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter",
+  "date": "2025-12-22",
+  "title": "Short Fiction",
+  "author": "Algis Budrys",
+  "summary": "Science fiction short stories by author Algis Budrys.",
+  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-21",
-  "title": "Fables",
-  "author": "Aesop",
-  "summary": "Aesop’s classic Fables of behavior and consequence.",
-  "coverUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones",
+  "date": "2025-12-22",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie",
+  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
   "subjects": [
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-21",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2025-12-22",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis",
+  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
   "subjects": [
-    "fiction",
-    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2025-12-21",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2025-12-22",
+  "title": "To Cuba and Back",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
   "subjects": [
-    "biography",
-    "memoir",
-    "nonfiction",
     "travel"
   ]
 }
