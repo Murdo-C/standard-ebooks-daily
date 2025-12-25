@@ -1,39 +1,42 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-24",
-  "title": "Edward II",
-  "author": "Christopher Marlowe",
-  "summary": "Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.",
-  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii",
+  "date": "2025-12-25",
+  "title": "Trent’s Last Case",
+  "author": "E. C. Bentley",
+  "summary": "A journalist investigates the murder of a Wall Street kingpin.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-c-bentley/trents-last-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-c-bentley/trents-last-case",
   "subjects": [
-    "drama"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-24",
-  "title": "The Black Arrow",
-  "author": "Robert Louis Stevenson",
-  "summary": "During the War of the Roses, a young knight must rescue his lady and find out who killed his father.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow",
+  "date": "2025-12-25",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
     "adventure",
-    "fiction"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-24",
-  "title": "An Autobiography",
-  "author": "Theodore Roosevelt",
-  "summary": "The autobiography of American President Theodore Roosevelt.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "date": "2025-12-25",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
     "autobiography"
   ]
@@ -41,12 +44,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2025-12-24",
-  "title": "Eminent Victorians",
+  "date": "2025-12-25",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -55,12 +58,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-24",
-  "title": "Five Children and It",
+  "date": "2025-12-25",
+  "title": "The Phoenix and the Carpet",
   "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
   "subjects": [
     "childrens",
     "fantasy"
@@ -69,12 +72,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-24",
-  "title": "Indiscretions of Archie",
+  "date": "2025-12-25",
+  "title": "A Damsel in Distress",
   "author": "P. G. Wodehouse",
-  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
+  "summary": "A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress",
   "subjects": [
     "comedy",
     "fiction"
@@ -83,7 +86,7 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "title": "A Midsummer Night’s Dream",
   "author": "William Shakespeare",
   "summary": "This comedy follows four lovers and a thespian who become bewitched by fairies.",
@@ -97,101 +100,107 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-24",
-  "title": "The Charwoman’s Shadow",
+  "date": "2025-12-25",
+  "title": "The Book of Wonder",
   "author": "Lord Dunsany",
-  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "summary": "A collection of fantastical short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-24",
-  "title": "Soldiers’ Pay",
-  "author": "William Faulkner",
-  "summary": "American soldiers returning from the First World War meet a scarred and lethargic comrade and help him reach home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-faulkner/soldiers-pay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-faulkner/soldiers-pay",
+  "date": "2025-12-25",
+  "title": "Tarzan, Lord of the Jungle",
+  "author": "Edgar Rice Burroughs",
+  "summary": "Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-12-24",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2025-12-25",
+  "title": "The Magician",
+  "author": "W. Somerset Maugham",
+  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
   "subjects": [
-    "fantasy",
-    "horror"
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-24",
-  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
-  "author": "Olaudah Equiano",
-  "summary": "An autobiography of an ex-slave in the mid 1700s.",
-  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
+  "date": "2025-12-25",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
+    "autobiography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-24",
-  "title": "The Mystery of 31, New Inn",
-  "author": "R. Austin Freeman",
-  "summary": "A detective investigates a potentially spurious will and a man’s mysterious death.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn",
+  "date": "2025-12-25",
+  "title": "The Crimson Circle",
+  "author": "Edgar Wallace",
+  "summary": "A police inspector and an unusual private detective investigate a devious blackmail plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-crimson-circle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-crimson-circle",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-24",
-  "title": "The National Being",
-  "author": "George William Russell",
-  "summary": "An Irish writer presents his vision of an independent Irish nation.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being",
+  "date": "2025-12-25",
+  "title": "Polynesian Mythology",
+  "author": "George Grey",
+  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-24",
-  "title": "The Practice and Theory of Bolshevism",
-  "author": "Bertrand Russell",
-  "summary": "Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
+  "date": "2025-12-25",
+  "title": "A General View of Positivism",
+  "author": "Auguste Comte",
+  "summary": "A brief overview of the goals and methods of the Positivist philosophical movement.",
+  "coverUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "title": "Metamorphoses",
   "author": "Ovid",
   "summary": "A collection of Greek and Roman myths that involve various forms of transformation.",
@@ -204,7 +213,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "title": "A Woman of No Importance",
   "author": "Oscar Wilde",
   "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
@@ -219,37 +228,34 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-24",
-  "title": "Triplanetary",
-  "author": "E. E. Smith",
-  "summary": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
+  "date": "2025-12-25",
+  "title": "Short Fiction",
+  "author": "Algis Budrys",
+  "summary": "Science fiction short stories by author Algis Budrys.",
+  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-24",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2025-12-25",
+  "title": "Fables",
+  "author": "Aesop",
+  "summary": "Aesop’s classic Fables of behavior and consequence.",
+  "coverUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
-    "travel"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "title": "Unspoken Sermons",
   "author": "George MacDonald",
   "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
@@ -263,7 +269,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "title": "South!",
   "author": "Ernest Shackleton",
   "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
