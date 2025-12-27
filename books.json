@@ -1,95 +1,98 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-26",
-  "title": "Thuvia, Maid of Mars",
-  "author": "Edgar Rice Burroughs",
-  "summary": "When the beautiful Princess Thuvia of Ptarth is kidnapped, suspicion falls on John Carter’s son Carthoris, who sets out to rescue the woman he loves.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars",
+  "date": "2025-12-27",
+  "title": "The Monster",
+  "author": "Edgar Saltus",
+  "summary": "Fleeing a terrible truth, a woman remarries, but her first husband comes back for answers.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-monster/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-monster",
   "subjects": [
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-26",
-  "title": "Waverley",
-  "author": "Walter Scott",
-  "summary": "A young English officer becomes involved in the Jacobite rebellion.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-scott/waverley/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-scott/waverley",
+  "date": "2025-12-27",
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
   "subjects": [
     "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-12-26",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
-  "subjects": [
-    "autobiography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2025-12-26",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2025-12-27",
+  "title": "The Autobiography of an Idea",
+  "author": "Louis H. Sullivan",
+  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2025-12-27",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2025-12-26",
-  "title": "The Railway Children",
+  "date": "2025-12-27",
+  "title": "Five Children and It",
   "author": "E. Nesbit",
-  "summary": "After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children",
+  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-26",
-  "title": "A Gentleman of Leisure",
+  "date": "2025-12-27",
+  "title": "Golf Stories",
   "author": "P. G. Wodehouse",
-  "summary": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-12-26",
-  "title": "All’s Well That Ends Well",
-  "author": "William Shakespeare",
-  "summary": "A woman tricks her husband into fulfilling his marriage demands.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well",
+  "date": "2025-12-27",
+  "title": "The Way of the World",
+  "author": "William Congreve",
+  "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world",
   "subjects": [
     "comedy",
     "drama"
@@ -98,95 +101,97 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-26",
-  "title": "The Charwoman’s Shadow",
-  "author": "Lord Dunsany",
-  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "date": "2025-12-27",
+  "title": "Through the Looking-Glass",
+  "author": "Lewis Carroll",
+  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-26",
-  "title": "Riders of the Purple Sage",
-  "author": "Zane Grey",
-  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
+  "date": "2025-12-27",
+  "title": "Soldiers’ Pay",
+  "author": "William Faulkner",
+  "summary": "American soldiers returning from the First World War meet a scarred and lethargic comrade and help him reach home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-faulkner/soldiers-pay/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-faulkner/soldiers-pay",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2025-12-26",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "date": "2025-12-27",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-26",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2025-12-27",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-26",
-  "title": "The Clue",
-  "author": "Carolyn Wells",
-  "summary": "A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-wells/the-clue/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-wells/the-clue",
+  "date": "2025-12-27",
+  "title": "His Last Bow",
+  "author": "Arthur Conan Doyle",
+  "summary": "The world’s first consulting detective and his faithful biographer tackle more mysterious cases.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-26",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2025-12-27",
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "summary": "A collection of essays by Errico Malatesta.",
+  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-26",
-  "title": "Nicomachean Ethics",
-  "author": "Aristotle",
-  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+  "date": "2025-12-27",
+  "title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
   "subjects": [
     "philosophy"
   ]
@@ -194,71 +199,68 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-26",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2025-12-27",
+  "title": "The Odyssey",
+  "author": "Homer",
+  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
+  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-12-26",
-  "title": "Zuleika Dobson",
+  "date": "2025-12-27",
+  "title": "The Works of Max Beerbohm",
   "author": "Max Beerbohm",
-  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+  "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm",
   "subjects": [
-    "fiction",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2025-12-26",
-  "title": "Short Fiction",
-  "author": "Andre Norton",
-  "summary": "A collection of fantasy and science fiction short fiction by Andre Norton.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
-  "subjects": [
-    "science_fiction",
+    "satire",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2025-12-26",
-  "title": "Poirot Investigates",
-  "author": "Agatha Christie",
-  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
+  "genre": "science_fiction",
+  "date": "2025-12-27",
+  "title": "Uller Uprising",
+  "author": "H. Beam Piper",
+  "summary": "450 years in the future, a shrewd general must quell an alien rebellion on a remote colonized planet.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising",
   "subjects": [
-    "mystery",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2025-12-27",
+  "title": "Short Fiction",
+  "author": "Anthony Trollope",
+  "summary": "A collection of Anthony Trollope’s short stories, ordered by date of first publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction",
+  "subjects": [
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-26",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+  "date": "2025-12-27",
+  "title": "Festus",
+  "author": "Philip James Bailey",
+  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
   "subjects": [
-    "fiction",
+    "drama",
     "poetry",
     "spirituality"
   ]
@@ -266,14 +268,13 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-12-26",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2025-12-27",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "nonfiction",
     "travel"
   ]
 }
