@@ -1,77 +1,79 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-29",
-  "title": "Honeycomb",
-  "author": "Dorothy M. Richardson",
-  "summary": "Our protagonist takes a new position as governess for a wealthy family.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/honeycomb/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/honeycomb",
+  "date": "2025-12-30",
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle",
+  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-29",
-  "title": "Kim",
-  "author": "Rudyard Kipling",
-  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+  "date": "2025-12-30",
+  "title": "The House on the Cliff",
+  "author": "Franklin W. Dixon",
+  "summary": "After visiting a suspected haunted house, two brothers and their friends embark on an adventure to see if there’s trouble afoot.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff",
   "subjects": [
     "adventure",
-    "fiction"
+    "childrens",
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2025-12-29",
-  "title": "Memoirs of a Revolutionist",
-  "author": "Peter Kropotkin",
-  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
+  "date": "2025-12-30",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2025-12-29",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2025-12-30",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "fiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-29",
-  "title": "Short Fiction",
-  "author": "Beatrix Potter",
-  "summary": "A collection of Beatrix Potter’s short stories for children, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction",
+  "date": "2025-12-30",
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "summary": "A father tells stories to his son about the son’s stuffed animals come to life.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh",
   "subjects": [
-    "childrens",
-    "fiction",
-    "shorts"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-29",
+  "date": "2025-12-30",
   "title": "The Crock of Gold",
   "author": "James Stephens",
   "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
@@ -86,12 +88,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2025-12-29",
-  "title": "The Trachiniae",
+  "date": "2025-12-30",
+  "title": "Philoctetes",
   "author": "Sophocles",
-  "summary": "A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr",
+  "summary": "A wounded warrior, abandoned on a deserted island, is visited by former comrades who ask for his help in winning a war.",
+  "coverUrl": "https://standardebooks.org/ebooks/sophocles/philoctetes/francis-storr/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sophocles/philoctetes/francis-storr",
   "subjects": [
     "drama"
   ]
@@ -99,26 +101,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-29",
-  "title": "The Demi-Gods",
-  "author": "James Stephens",
-  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
+  "date": "2025-12-30",
+  "title": "Lud-in-the-Mist",
+  "author": "Hope Mirrlees",
+  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
+  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
   "subjects": [
-    "fantasy",
-    "philosophy"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-29",
-  "title": "The Dead Secret",
-  "author": "Wilkie Collins",
-  "summary": "A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.",
-  "coverUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret",
+  "date": "2025-12-30",
+  "title": "The Secret Agent",
+  "author": "Joseph Conrad",
+  "summary": "A spy in London is ordered to stage a bombing to foment political and social chaos.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent",
   "subjects": [
     "fiction"
   ]
@@ -126,40 +127,41 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-12-29",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2025-12-30",
+  "title": "The Room in the Dragon Volant",
+  "author": "J. Sheridan Le Fanu",
+  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
   "subjects": [
     "horror",
-    "science_fiction"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-29",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2025-12-30",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-29",
-  "title": "The Mysterious Affair at Styles",
+  "date": "2025-12-30",
+  "title": "The Mystery of the Blue Train",
   "author": "Agatha Christie",
-  "summary": "A fastidious Belgian detective solves the mystery of a murder in an English country manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles",
+  "summary": "A retired detective finds himself at the scene of a murder aboard a French locomotive.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mystery-of-the-blue-train/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mystery-of-the-blue-train",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,25 +170,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-29",
-  "title": "Aspects of the Novel",
-  "author": "E. M. Forster",
-  "summary": "E. M. Forster offers an analysis of aspects of the novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
+  "date": "2025-12-30",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-29",
-  "title": "Tractatus Logico-Philosophicus",
-  "author": "Ludwig Wittgenstein",
-  "summary": "One of the most important texts of 20th century philosophy, in which the nature of the philosophy, language, understanding, and logical atomism are explored.",
-  "coverUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden",
+  "date": "2025-12-30",
+  "title": "Some Thoughts Concerning Education",
+  "author": "John Locke",
+  "summary": "John Locke outlines his philosophy of childhood education.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-locke/some-thoughts-concerning-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-locke/some-thoughts-concerning-education",
   "subjects": [
     "philosophy"
   ]
@@ -194,25 +198,27 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-29",
-  "title": "Mirèio",
-  "author": "Frédéric Mistral",
-  "summary": "Two young Provençal lovers are kept apart by their social class.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston",
+  "date": "2025-12-30",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
-    "poetry"
+    "fiction",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-12-29",
-  "title": "Northanger Abbey",
-  "author": "Jane Austen",
-  "summary": "A young girl with an overactive imagination comes of age.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+  "date": "2025-12-30",
+  "title": "Democracy",
+  "author": "Henry Adams",
+  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
   "subjects": [
     "fiction",
     "satire"
@@ -221,34 +227,35 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-29",
-  "title": "The Survivors",
-  "author": "Tom Godwin",
-  "summary": "A group of humans stranded on a deadly planet try to survive the harsh conditions and take revenge on the aliens that left them there.",
-  "coverUrl": "https://standardebooks.org/ebooks/tom-godwin/the-survivors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/tom-godwin/the-survivors",
+  "date": "2025-12-30",
+  "title": "Short Fiction",
+  "author": "Clifford D. Simak",
+  "summary": "A collection of short fiction by Clifford D. Simak, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-29",
-  "title": "Fifty-One Tales",
-  "author": "Lord Dunsany",
-  "summary": "A series of otherworldly short stories ranging from the moral to the whimsical.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales",
+  "date": "2025-12-30",
+  "title": "Short Fiction",
+  "author": "Selma Lagerlöf",
+  "summary": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators",
   "subjects": [
-    "fantasy",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-29",
+  "date": "2025-12-30",
   "title": "A Confession",
   "author": "Leo Tolstoy",
   "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
@@ -262,7 +269,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-12-29",
+  "date": "2025-12-30",
   "title": "The Innocents Abroad",
   "author": "Mark Twain",
   "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
