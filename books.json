@@ -1,50 +1,50 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2025-12-31",
-  "title": "Black Beauty",
-  "author": "Anna Sewell",
-  "summary": "A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty",
+  "date": "2026-01-01",
+  "title": "The Economic Consequences of the Peace",
+  "author": "John Maynard Keynes",
+  "summary": "Keynes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace",
   "subjects": [
-    "childrens",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2025-12-31",
-  "title": "The Man in the Brown Suit",
-  "author": "Agatha Christie",
-  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
+  "date": "2026-01-01",
+  "title": "The Mucker",
+  "author": "Edgar Rice Burroughs",
+  "summary": "A street tough undergoes a transformation as he navigates the dangerous worlds of Chicago’s slums, a South Pacific island, and the wilds of Mexico.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker",
   "subjects": [
     "adventure",
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2025-12-31",
-  "title": "Our Nig",
-  "author": "Harriet E. Wilson",
-  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
-  "subjects": [
-    "autobiography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-01-01",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "subjects": [
+    "adventure",
+    "autobiography",
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2025-12-31",
+  "date": "2026-01-01",
   "title": "Eminent Victorians",
   "author": "Lytton Strachey",
   "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
@@ -58,54 +58,55 @@
 ,
 {
   "genre": "childrens",
-  "date": "2025-12-31",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "date": "2026-01-01",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
   "subjects": [
-    "adventure",
     "childrens",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2025-12-31",
-  "title": "Kipps",
-  "author": "H. G. Wells",
-  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
+  "date": "2026-01-01",
+  "title": "You Never Can Tell",
+  "author": "George Bernard Shaw",
+  "summary": "A family recently returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell",
   "subjects": [
     "comedy",
-    "fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2025-12-31",
-  "title": "Oedipus Rex",
-  "author": "Sophocles",
-  "summary": "A king tries to save his citizens from a devastating plague.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/oedipus-rex/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/oedipus-rex/francis-storr",
+  "date": "2026-01-01",
+  "title": "The Way of the World",
+  "author": "William Congreve",
+  "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2025-12-31",
-  "title": "The Wonderful Visit",
-  "author": "H. G. Wells",
-  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
+  "date": "2026-01-01",
+  "title": "A Connecticut Yankee in King Arthur’s Court",
+  "author": "Mark Twain",
+  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
   "subjects": [
     "fantasy"
   ]
@@ -113,12 +114,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2025-12-31",
-  "title": "His Last Bow",
+  "date": "2026-01-01",
+  "title": "The Memoirs of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective and his faithful biographer tackle more mysterious cases.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
     "fiction",
     "mystery",
@@ -128,56 +129,60 @@
 ,
 {
   "genre": "horror",
-  "date": "2025-12-31",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-01-01",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "horror"
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2025-12-31",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-01-01",
+  "title": "Now It Can Be Told",
+  "author": "Philip Gibbs",
+  "summary": "A British war correspondent recalls his experiences during the Great War.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2025-12-31",
-  "title": "The Paradise Mystery",
-  "author": "J. S. Fletcher",
-  "summary": "A young doctor attempts to turn a mysterious death to his romantic advantage.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery",
+  "date": "2026-01-01",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie",
+  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
   "subjects": [
-    "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2025-12-31",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-01-01",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "adventure",
     "nonfiction",
     "travel"
   ]
@@ -185,12 +190,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2025-12-31",
-  "title": "A Pluralistic Universe",
-  "author": "William James",
-  "summary": "A philosopher gives an introduction to radical empiricism and how it relates to the experienced world.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe",
+  "date": "2026-01-01",
+  "title": "The New State",
+  "author": "Mary Parker Follett",
+  "summary": "The theory of group organization is formulated and applied in an attempt to design a truly democratic political state.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -199,70 +204,68 @@
 ,
 {
   "genre": "poetry",
-  "date": "2025-12-31",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2026-01-01",
+  "title": "Idylls of the King",
+  "author": "Alfred, Lord Tennyson",
+  "summary": "Twelve poems detailing the adventures of Arthur’s round table.",
+  "coverUrl": "https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2025-12-31",
-  "title": "Evelina",
-  "author": "Fanny Burney",
-  "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
-  "coverUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina",
+  "date": "2026-01-01",
+  "title": "Lady Windermere’s Fan",
+  "author": "Oscar Wilde",
+  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2025-12-31",
-  "title": "Short Fiction",
-  "author": "Poul Anderson",
-  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
+  "date": "2026-01-01",
+  "title": "Four-Day Planet",
+  "author": "H. Beam Piper",
+  "summary": "A young reporter gets caught up in intrigue and adventure chasing tallow-wax bounties with the monster hunters on Fenris, a planet with a two-thousand-hour day and four-day year.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/four-day-planet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/four-day-planet",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2025-12-31",
-  "title": "Short Fiction",
-  "author": "Herman Melville",
-  "summary": "A collection of Herman Melville’s short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/herman-melville/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herman-melville/short-fiction",
+  "date": "2026-01-01",
+  "title": "The Madman",
+  "author": "Khalil Gibran",
+  "summary": "The first collection of poetry and short stories by Lebanese author Khalil Gibran.",
+  "coverUrl": "https://standardebooks.org/ebooks/khalil-gibran/the-madman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/khalil-gibran/the-madman",
   "subjects": [
-    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2025-12-31",
-  "title": "Tao Te Ching",
-  "author": "Laozi",
-  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+  "date": "2026-01-01",
+  "title": "The Everlasting Man",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
   "subjects": [
+    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -270,14 +273,13 @@
 ,
 {
   "genre": "travel",
-  "date": "2025-12-31",
-  "title": "My Four Weeks in France",
-  "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "date": "2026-01-01",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
-    "comedy",
     "memoir",
     "nonfiction",
     "travel"
