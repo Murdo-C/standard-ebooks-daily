@@ -1,34 +1,35 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-02",
-  "title": "Mark Rutherford’s Deliverance",
-  "author": "Mark Rutherford",
-  "summary": "A man struggles to makes sense of his experiences in his hard-pressed London life.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance",
+  "date": "2026-01-03",
+  "title": "Short Fiction",
+  "author": "Thomas Hardy",
+  "summary": "A collection of Thomas Hardy’s short stories, mostly ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-hardy/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-hardy/short-fiction",
   "subjects": [
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-02",
-  "title": "The Lost World",
-  "author": "Arthur Conan Doyle",
-  "summary": "A team of scientists and adventurers explores a prehistoric land.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+  "date": "2026-01-03",
+  "title": "The Special Correspondent",
+  "author": "Jules Verne",
+  "summary": "A Parisian news reporter is assigned to travel across Asia by train and report on the sights, experiences, and interesting characters along the way.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper",
   "subjects": [
     "adventure",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "Confessions of an English Opium-Eater",
   "author": "Thomas De Quincey",
   "summary": "A portrait of the life of a drug addict in Georgian-era London.",
@@ -42,12 +43,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-01-02",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-01-03",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,7 +57,7 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "Darby O’Gill and the Good People",
   "author": "Herminie Templeton Kavanagh",
   "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
@@ -71,12 +72,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-01-02",
-  "title": "Man and Superman",
+  "date": "2026-01-03",
+  "title": "Fanny’s First Play",
   "author": "George Bernard Shaw",
-  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
+  "summary": "A young woman writes a play to shock her father, in which two respectable families deal with their with disreputable children.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play",
   "subjects": [
     "comedy",
     "drama"
@@ -85,21 +86,20 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-01-02",
-  "title": "Our American Cousin",
-  "author": "Tom Taylor",
-  "summary": "A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.",
-  "coverUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin",
+  "date": "2026-01-03",
+  "title": "The Trachiniae",
+  "author": "Sophocles",
+  "summary": "A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.",
+  "coverUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "Dorothy and the Wizard in Oz",
   "author": "L. Frank Baum",
   "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
@@ -113,7 +113,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "Modeste Mignon",
   "author": "Honoré de Balzac",
   "summary": "A young daughter seeks independence on her own terms.",
@@ -126,37 +126,36 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-01-02",
-  "title": "Melmoth the Wanderer",
-  "author": "Charles Robert Maturin",
-  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
+  "date": "2026-01-03",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
-    "fiction",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-02",
-  "title": "My Four Weeks in France",
-  "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "date": "2026-01-03",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
-    "comedy",
+    "adventure",
+    "autobiography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "The Memoirs of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
   "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
@@ -171,7 +170,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "The Lives of the Caesars",
   "author": "Suetonius",
   "summary": "The lives of the twelve emperors called Caesar are described in detail by a near-contemporary Roman historian.",
@@ -184,12 +183,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-02",
-  "title": "Culture and Anarchy",
-  "author": "Matthew Arnold",
-  "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy",
+  "date": "2026-01-03",
+  "title": "A Vindication of the Rights of Woman",
+  "author": "Mary Wollstonecraft",
+  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -198,21 +197,20 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-02",
-  "title": "Eugene Onegin",
-  "author": "Alexander Pushkin",
-  "summary": "A jaded Russian fop’s disdain for the world catches up with him.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding",
+  "date": "2026-01-03",
+  "title": "Poetry",
+  "author": "Wilfred Owen",
+  "summary": "A collection of Wilfred Owen’s published poems.",
+  "coverUrl": "https://standardebooks.org/ebooks/wilfred-owen/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/wilfred-owen/poetry",
   "subjects": [
-    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "Sartor Resartus",
   "author": "Thomas Carlyle",
   "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
@@ -226,27 +224,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-02",
-  "title": "Beyond Thirty",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
+  "date": "2026-01-03",
+  "title": "A Strange Manuscript Found in a Copper Cylinder",
+  "author": "James De Mille",
+  "summary": "A shipwrecked sailor travels through a portal to a lost world populated by fantastic creatures and a strange civilization.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder",
   "subjects": [
-    "adventure",
-    "fantasy",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-02",
-  "title": "The Conjure Woman",
-  "author": "Charles W. Chesnutt",
-  "summary": "Former slave Julius tells fantastical tales about plantation life to the incredulous Northerners who have just moved in.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-w-chesnutt/the-conjure-woman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-w-chesnutt/the-conjure-woman",
+  "date": "2026-01-03",
+  "title": "Short Fiction",
+  "author": "Xavier de Maistre",
+  "summary": "A collection of Xavier de Maistre’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/xavier-de-maistre/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/xavier-de-maistre/short-fiction/various-translators",
   "subjects": [
     "fiction",
     "shorts"
@@ -255,14 +251,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-02",
-  "title": "Heretics",
+  "date": "2026-01-03",
+  "title": "Orthodoxy",
   "author": "G. K. Chesterton",
-  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
+  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -270,7 +265,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "title": "The Four Men",
   "author": "Hilaire Belloc",
   "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
