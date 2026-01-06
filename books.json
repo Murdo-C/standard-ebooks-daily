@@ -1,28 +1,27 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-05",
-  "title": "The Iliad",
-  "author": "Homer",
-  "summary": "The epic poem which follows a Greek warrior who refuses to give up his prize of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant",
+  "date": "2026-01-06",
+  "title": "Payment Deferred",
+  "author": "C. S. Forester",
+  "summary": "A family man desperate for money murders a rich relative, and has to deal with the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred",
   "subjects": [
-    "poetry"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-05",
-  "title": "The House on the Cliff",
-  "author": "Franklin W. Dixon",
-  "summary": "After visiting a suspected haunted house, two brothers and their friends embark on an adventure to see if there’s trouble afoot.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff",
+  "date": "2026-01-06",
+  "title": "The Man in the Brown Suit",
+  "author": "Agatha Christie",
+  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction",
     "mystery"
   ]
@@ -30,26 +29,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-05",
-  "title": "The Diary",
-  "author": "Samuel Pepys",
-  "summary": "The diary of a man living in London in the 17th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
+  "date": "2026-01-06",
+  "title": "My Reminiscences",
+  "author": "Rabindranath Tagore",
+  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-01-05",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-01-06",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -58,186 +56,7 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-01-05",
-  "title": "The Story of the Treasure Seekers",
-  "author": "E. Nesbit",
-  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
-  "subjects": [
-    "adventure",
-    "childrens"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-01-05",
-  "title": "Brewster’s Millions",
-  "author": "George Barr McCutcheon",
-  "summary": "A young man stands to gain a fortune—but only if he loses one first.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-01-05",
-  "title": "Oedipus Rex",
-  "author": "Sophocles",
-  "summary": "A king tries to save his citizens from a devastating plague.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/oedipus-rex/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/oedipus-rex/francis-storr",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-01-05",
-  "title": "The Chessmen of Mars",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-01-05",
-  "title": "Albert Savarus",
-  "author": "Honoré de Balzac",
-  "summary": "A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-01-05",
-  "title": "The Case of Charles Dexter Ward",
-  "author": "H. P. Lovecraft",
-  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
-  "subjects": [
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-01-05",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-01-05",
-  "title": "A Bid for Fortune",
-  "author": "Guy Boothby",
-  "summary": "A young Australian man struggles to reclaim his love from the clutches of an evil mastermind.",
-  "coverUrl": "https://standardebooks.org/ebooks/guy-boothby/a-bid-for-fortune/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/guy-boothby/a-bid-for-fortune",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-01-05",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
-  "subjects": [
-    "adventure",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-01-05",
-  "title": "The Rights of Man",
-  "author": "Thomas Paine",
-  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-01-05",
-  "title": "Poetry",
-  "author": "T. S. Eliot",
-  "summary": "A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”",
-  "coverUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-01-05",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
-  "subjects": [
-    "comedy",
-    "drama",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-01-05",
-  "title": "Short Fiction",
-  "author": "Ray Bradbury",
-  "summary": "A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
-  "subjects": [
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-01-05",
+  "date": "2026-01-06",
   "title": "Children’s Stories",
   "author": "Oscar Wilde",
   "summary": "A collection of Oscar Wilde’s children’s stories.",
@@ -250,28 +69,206 @@
 }
 ,
 {
-  "genre": "spirituality",
-  "date": "2026-01-05",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+  "genre": "comedy",
+  "date": "2026-01-06",
+  "title": "Indiscretions of Archie",
+  "author": "P. G. Wodehouse",
+  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
   "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-01-06",
+  "title": "Agamemnon",
+  "author": "Aeschylus",
+  "summary": "The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance.",
+  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-01-06",
+  "title": "A Princess of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-01-06",
+  "title": "Albert Savarus",
+  "author": "Honoré de Balzac",
+  "summary": "A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-01-06",
+  "title": "Short Fiction",
+  "author": "Arthur Machen",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "subjects": [
+    "fiction",
+    "horror",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-01-06",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-01-06",
+  "title": "The Slaves of Paris",
+  "author": "Émile Gaboriau",
+  "summary": "A group of blackmailers play a long game on several families.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-01-06",
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "summary": "An ancient Chinese classic discussing the art of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-01-06",
+  "title": "What Is Property?",
+  "author": "Pierre-Joseph Proudhon",
+  "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
+  "coverUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-01-06",
+  "title": "Leaves of Grass",
+  "author": "Walt Whitman",
+  "summary": "The definitive collection of Walt Whitman’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-01-06",
+  "title": "Lady Windermere’s Fan",
+  "author": "Oscar Wilde",
+  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "subjects": [
+    "comedy",
+    "drama",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-01-06",
+  "title": "Short Fiction",
+  "author": "Philip K. Dick",
+  "summary": "A collection of short works by science fiction legend Philip K. Dick.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+  "subjects": [
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-01-06",
+  "title": "Short Fiction",
+  "author": "H. P. Lovecraft",
+  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "subjects": [
+    "horror",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-01-06",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
+  "subjects": [
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-01-05",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-01-06",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
