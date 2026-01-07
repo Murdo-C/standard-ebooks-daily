@@ -1,27 +1,28 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-06",
-  "title": "Payment Deferred",
-  "author": "C. S. Forester",
-  "summary": "A family man desperate for money murders a rich relative, and has to deal with the consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred",
+  "date": "2026-01-07",
+  "title": "Triplanetary",
+  "author": "E. E. Smith",
+  "summary": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/triplanetary",
   "subjects": [
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-06",
-  "title": "The Man in the Brown Suit",
-  "author": "Agatha Christie",
-  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
+  "date": "2026-01-07",
+  "title": "The Missing Chums",
+  "author": "Franklin W. Dixon",
+  "summary": "Two friends go missing on a boat trip, and the Hardy Boys investigate.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums",
   "subjects": [
     "adventure",
+    "childrens",
     "fiction",
     "mystery"
   ]
@@ -29,53 +30,55 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-06",
-  "title": "My Reminiscences",
-  "author": "Rabindranath Tagore",
-  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
+  "date": "2026-01-07",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-01-06",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-01-07",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "fiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-01-06",
-  "title": "Children’s Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s children’s stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories",
+  "date": "2026-01-07",
+  "title": "Household Tales",
+  "author": "Jacob Grimm",
+  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
   "subjects": [
     "childrens",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-01-06",
-  "title": "Indiscretions of Archie",
-  "author": "P. G. Wodehouse",
-  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
+  "date": "2026-01-07",
+  "title": "David Harum",
+  "author": "Edward Noyes Westcott",
+  "summary": "An aimless young man leaves the city for a small village to work for a horse-trading country banker.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum",
   "subjects": [
     "comedy",
     "fiction"
@@ -84,12 +87,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-01-06",
-  "title": "Agamemnon",
-  "author": "Aeschylus",
-  "summary": "The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray",
+  "date": "2026-01-07",
+  "title": "Ajax",
+  "author": "Sophocles",
+  "summary": "A great warrior descends into madness after being denied magical armor.",
+  "coverUrl": "https://standardebooks.org/ebooks/sophocles/ajax/francis-storr/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sophocles/ajax/francis-storr",
   "subjects": [
     "drama"
   ]
@@ -97,53 +100,55 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-01-06",
-  "title": "A Princess of Mars",
-  "author": "Edgar Rice Burroughs",
-  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
+  "date": "2026-01-07",
+  "title": "Jurgen",
+  "author": "James Branch Cabell",
+  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
   "subjects": [
+    "comedy",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-06",
-  "title": "Albert Savarus",
-  "author": "Honoré de Balzac",
-  "summary": "A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage",
+  "date": "2026-01-07",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
   "subjects": [
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-01-06",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2026-01-07",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "fiction",
+    "adventure",
     "horror",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-06",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2026-01-07",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -152,13 +157,15 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-01-06",
-  "title": "The Slaves of Paris",
-  "author": "Émile Gaboriau",
-  "summary": "A group of blackmailers play a long game on several families.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+  "date": "2026-01-07",
+  "title": "The Secret of the Caves",
+  "author": "Franklin W. Dixon",
+  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
   "subjects": [
+    "adventure",
+    "childrens",
     "fiction",
     "mystery"
   ]
@@ -166,25 +173,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-06",
-  "title": "The Art of War",
-  "author": "Sun Tzu",
-  "summary": "An ancient Chinese classic discussing the art of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles",
+  "date": "2026-01-07",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-06",
-  "title": "What Is Property?",
-  "author": "Pierre-Joseph Proudhon",
-  "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
-  "coverUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+  "date": "2026-01-07",
+  "title": "No Treason",
+  "author": "Lysander Spooner",
+  "summary": "Lawyer and political philosopher Lysander Spooner presents his case for the invalidity of the United States Constitution.",
+  "coverUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason",
   "subjects": [
     "philosophy"
   ]
@@ -192,12 +200,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-06",
-  "title": "Leaves of Grass",
-  "author": "Walt Whitman",
-  "summary": "The definitive collection of Walt Whitman’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass",
+  "date": "2026-01-07",
+  "title": "Poetry",
+  "author": "Voltairine de Cleyre",
+  "summary": "A collection of Voltairine de Cleyre’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry",
   "subjects": [
     "poetry"
   ]
@@ -205,12 +213,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-01-06",
-  "title": "Lady Windermere’s Fan",
+  "date": "2026-01-07",
+  "title": "A Woman of No Importance",
   "author": "Oscar Wilde",
-  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
   "subjects": [
     "comedy",
     "drama",
@@ -220,40 +228,40 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-06",
-  "title": "Short Fiction",
-  "author": "Philip K. Dick",
-  "summary": "A collection of short works by science fiction legend Philip K. Dick.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+  "date": "2026-01-07",
+  "title": "Gladiator",
+  "author": "Philip Wylie",
+  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-06",
-  "title": "Short Fiction",
-  "author": "H. P. Lovecraft",
-  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "date": "2026-01-07",
+  "title": "Household Tales",
+  "author": "Jacob Grimm",
+  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
   "subjects": [
-    "horror",
+    "childrens",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-06",
-  "title": "Practical Mysticism",
-  "author": "Evelyn Underhill",
-  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
-  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
+  "date": "2026-01-07",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
     "nonfiction",
     "spirituality"
@@ -262,14 +270,13 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-01-06",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2026-01-07",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "nonfiction",
     "travel"
   ]
 }
