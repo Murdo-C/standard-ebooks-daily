@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-10",
-  "title": "Futility",
-  "author": "William Gerhardie",
-  "summary": "An English man befriends three young women from a soon-to-be-wealthy Russian family.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-gerhardie/futility/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-gerhardie/futility",
+  "date": "2026-01-11",
+  "title": "Bulldog Drummond",
+  "author": "H. C. McNeile",
+  "summary": "A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-10",
-  "title": "The Man Who Knew",
-  "author": "Edgar Wallace",
-  "summary": "A English millionaire with a seedy past in Africa discovers that his worst fears have come true.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-man-who-knew/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-man-who-knew",
+  "date": "2026-01-11",
+  "title": "When the World Shook",
+  "author": "H. Rider Haggard",
+  "summary": "A writer of adventure stories indulges in a sudden urge to travel to the islands of the Pacific, and soon finds himself shipwrecked on a remote South Sea island.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/when-the-world-shook/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/when-the-world-shook",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,55 +29,28 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-10",
-  "title": "The Autobiography of John Stuart Mill",
-  "author": "John Stuart Mill",
-  "summary": "The autobiography of English philosopher John Stuart Mill.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
+  "date": "2026-01-11",
+  "title": "A Daughter of the Samurai",
+  "author": "Etsu Inagaki Sugimoto",
+  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
+  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-01-10",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2026-01-10",
-  "title": "Wet Magic",
-  "author": "E. Nesbit",
-  "summary": "A group of children visiting the seaside free a captive mermaid and visit her domain.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic",
+  "genre": "biography",
+  "date": "2026-01-11",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-01-10",
-  "title": "My Four Weeks in France",
-  "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
-  "subjects": [
-    "comedy",
+    "biography",
     "memoir",
     "nonfiction",
     "travel"
@@ -84,13 +58,48 @@
 }
 ,
 {
+  "genre": "childrens",
+  "date": "2026-01-11",
+  "title": "The Mystery of Cabin Island",
+  "author": "Franklin W. Dixon",
+  "summary": "A group of amateur detectives unravel the mystery of a missing stamps collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island",
+  "subjects": [
+    "adventure",
+    "childrens",
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-01-11",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "subjects": [
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "drama",
-  "date": "2026-01-10",
-  "title": "The Two Gentlemen of Verona",
-  "author": "William Shakespeare",
-  "summary": "Two best friends become involved in a love triangle.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona",
+  "date": "2026-01-11",
+  "title": "Ajax",
+  "author": "Sophocles",
+  "summary": "A great warrior descends into madness after being denied magical armor.",
+  "coverUrl": "https://standardebooks.org/ebooks/sophocles/ajax/francis-storr/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sophocles/ajax/francis-storr",
   "subjects": [
     "drama"
   ]
@@ -98,27 +107,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-01-10",
-  "title": "Short Fiction",
-  "author": "R. A. Lafferty",
-  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "date": "2026-01-11",
+  "title": "Phantastes",
+  "author": "George MacDonald",
+  "summary": "A young man awakes in Fairy Land, where he takes part in a series of strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-10",
-  "title": "A Tangled Tale",
-  "author": "Lewis Carroll",
-  "summary": "Ten mathematical puzzles presented as comedic short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/a-tangled-tale/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/a-tangled-tale",
+  "date": "2026-01-11",
+  "title": "The Bridal Wreath",
+  "author": "Sigrid Undset",
+  "summary": "In 14th-century Norway, a nobleman’s daughter grows up and faces passion, sin, and filial piety.",
+  "coverUrl": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott",
   "subjects": [
     "fiction"
   ]
@@ -126,36 +133,35 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-01-10",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-01-11",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-10",
-  "title": "The Mirror of the Sea",
+  "date": "2026-01-11",
+  "title": "A Personal Record",
   "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-01-10",
+  "date": "2026-01-11",
   "title": "The Insidious Dr. Fu-Manchu",
   "author": "Sax Rohmer",
   "summary": "An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.",
@@ -169,39 +175,40 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-10",
-  "title": "The Book of Tea",
-  "author": "Okakura Kakuzō",
-  "summary": "The Book of Tea is a long essay exploring the relationship between teaism, taoism, and the aesthetics of Japanese culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea",
+  "date": "2026-01-11",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
   "subjects": [
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-10",
-  "title": "The Public and Its Problems",
-  "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+  "date": "2026-01-11",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-10",
-  "title": "The Columbiad",
-  "author": "Joel Barlow",
-  "summary": "Columbus is shown a history of the western hemisphere since his discoveries.",
-  "coverUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad",
+  "date": "2026-01-11",
+  "title": "Poetry",
+  "author": "Georgia Douglas Johnson",
+  "summary": "A collection of poems by Georgia Douglas Johnson.",
+  "coverUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
   "subjects": [
     "poetry"
   ]
@@ -209,12 +216,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-01-10",
-  "title": "Gulliver’s Travels",
-  "author": "Jonathan Swift",
-  "summary": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
+  "date": "2026-01-11",
+  "title": "Northanger Abbey",
+  "author": "Jane Austen",
+  "summary": "A young girl with an overactive imagination comes of age.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
   "subjects": [
     "fiction",
     "satire"
@@ -223,12 +230,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-10",
-  "title": "The War of the Worlds",
-  "author": "H. G. Wells",
-  "summary": "The first-person narrative of the Martian invasion of 19th-century Earth.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+  "date": "2026-01-11",
+  "title": "The Inheritors",
+  "author": "Joseph Conrad",
+  "summary": "A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors",
   "subjects": [
     "science_fiction"
   ]
@@ -236,22 +243,21 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-10",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2026-01-11",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie",
+  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
   "subjects": [
-    "fiction",
-    "horror",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-10",
+  "date": "2026-01-11",
   "title": "The Story of My Experiments with Truth",
   "author": "Mahatma Gandhi",
   "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
@@ -268,7 +274,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-01-10",
+  "date": "2026-01-11",
   "title": "My Four Weeks in France",
   "author": "Ring Lardner",
   "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
