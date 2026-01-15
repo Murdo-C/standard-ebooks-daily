@@ -1,172 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-14",
-  "title": "The Black Moth",
-  "author": "Georgette Heyer",
-  "summary": "An earl turned highwayman repeatedly foils a rake in his attempted pursuit of a young woman.",
-  "coverUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-black-moth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-black-moth",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-01-14",
-  "title": "King Solomon’s Mines",
-  "author": "H. Rider Haggard",
-  "summary": "Allan Quatermain leads a group of adventurers into an unknown region of Africa in a search for fame and glory.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/king-solomons-mines/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/king-solomons-mines",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-01-14",
-  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
-  "author": "Black Hawk",
-  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
-  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
-  "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-01-14",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
-  "subjects": [
-    "biography",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-01-14",
-  "title": "The Story of Doctor Dolittle",
-  "author": "Hugh Lofting",
-  "summary": "A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.",
-  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle",
-  "subjects": [
-    "adventure",
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-01-14",
-  "title": "Twelfth Night",
-  "author": "William Shakespeare",
-  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
-  "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-01-14",
-  "title": "The Two Gentlemen of Verona",
-  "author": "William Shakespeare",
-  "summary": "Two best friends become involved in a love triangle.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-01-14",
-  "title": "Master Flea",
-  "author": "E. T. A. Hoffmann",
-  "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-01-14",
-  "title": "The Way of All Flesh",
-  "author": "Samuel Butler",
-  "summary": "Four generations of the Pontifex family grow to adulthood in Victorian England, encountering challenges that satirize the era along the way.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-butler/the-way-of-all-flesh/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-butler/the-way-of-all-flesh",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-01-14",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
-  "subjects": [
-    "horror",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-01-14",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-01-14",
-  "title": "The Circular Staircase",
-  "author": "Mary Roberts Rinehart",
-  "summary": "A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-01-14",
+  "date": "2026-01-15",
   "title": "Culture and Anarchy",
   "author": "Matthew Arnold",
   "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
@@ -179,27 +14,190 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-01-14",
-  "title": "Human Nature and Conduct",
-  "author": "John Dewey",
-  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+  "genre": "adventure",
+  "date": "2026-01-15",
+  "title": "Allan Quatermain Stories",
+  "author": "H. Rider Haggard",
+  "summary": "A collection of short stories about a legendary hunter.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
+  "subjects": [
+    "adventure",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-01-15",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-01-15",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-01-15",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
+  "subjects": [
+    "childrens",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-01-15",
+  "title": "The Merchant of Venice",
+  "author": "William Shakespeare",
+  "summary": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-01-15",
+  "title": "The Winter’s Tale",
+  "author": "William Shakespeare",
+  "summary": "A king’s unfounded jealousy destroys his family and kingdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-01-15",
+  "title": "Master Flea",
+  "author": "E. T. A. Hoffmann",
+  "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-01-15",
+  "title": "His Masterpiece",
+  "author": "Émile Zola",
+  "summary": "A groundbreaking painter struggles to leave his mark on the bohemian art world of 19th-century Paris.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-01-15",
+  "title": "The Vampire",
+  "author": "John William Polidori",
+  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "subjects": [
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-01-15",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-01-15",
+  "title": "The Mystery at Lilac Inn",
+  "author": "Carolyn Keene",
+  "summary": "A young amateur detective attempts to recover her friend’s stolen diamonds.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn",
+  "subjects": [
+    "childrens",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-01-15",
+  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+  "author": "Mary Wollstonecraft",
+  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
   "subjects": [
     "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-01-15",
+  "title": "Tusculan Disputations",
+  "author": "Cicero",
+  "summary": "Cicero gives practical guidance for living wisely and well by adopting a Stoic outlook and concentrating on the virtues.",
+  "coverUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge",
+  "subjects": [
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-14",
-  "title": "Beowulf",
+  "date": "2026-01-15",
+  "title": "Gudrun",
   "author": "Anonymous",
-  "summary": "A hero is hired to kill a monster that has been plaguing the land.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/beowulf/john-lesslie-hall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/beowulf/john-lesslie-hall",
+  "summary": "A princess is captured by a jealous prince from a rival kingdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/gudrun/mary-pickering-nichols/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/gudrun/mary-pickering-nichols",
   "subjects": [
     "poetry"
   ]
@@ -207,12 +205,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-01-14",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
+  "date": "2026-01-15",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
   "subjects": [
     "fiction",
     "satire"
@@ -221,54 +219,57 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-14",
-  "title": "The Time Machine",
-  "author": "H. G. Wells",
-  "summary": "A mysterious inventor travels to a land far off in time.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine",
+  "date": "2026-01-15",
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
   "subjects": [
-    "science_fiction"
+    "fantasy",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-14",
-  "title": "Fifty-One Tales",
-  "author": "Lord Dunsany",
-  "summary": "A series of otherworldly short stories ranging from the moral to the whimsical.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales",
+  "date": "2026-01-15",
+  "title": "Short Fiction",
+  "author": "Selma Lagerlöf",
+  "summary": "A collection of Selma Lagerlöf’s translated short stories, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/short-fiction/various-translators",
   "subjects": [
-    "fantasy",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-14",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "date": "2026-01-15",
+  "title": "Verses on Various Occasions",
+  "author": "John Henry Newman",
+  "summary": "A collection of poems by John Henry Newman.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
   "subjects": [
-    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-01-14",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2026-01-15",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
+    "memoir",
     "nonfiction",
     "travel"
   ]
