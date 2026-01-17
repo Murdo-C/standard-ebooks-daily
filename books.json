@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-16",
+  "date": "2026-01-17",
   "title": "Culture and Anarchy",
   "author": "Matthew Arnold",
   "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
@@ -15,40 +15,42 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-16",
-  "title": "The Blue Lagoon",
-  "author": "H. de Vere Stacpoole",
-  "summary": "After a shipwreck, two surviving children are stranded on an island paradise, experiencing its bounties and resources, facing the dangers of the natural world, and undergoing their own maturation and romance.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-de-vere-stacpoole/the-blue-lagoon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-de-vere-stacpoole/the-blue-lagoon",
+  "date": "2026-01-17",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
     "adventure",
-    "fiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-16",
-  "title": "Memoirs of a Revolutionist",
-  "author": "Peter Kropotkin",
-  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
+  "date": "2026-01-17",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-01-16",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-01-17",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -57,26 +59,26 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-01-16",
-  "title": "Anne of Green Gables",
-  "author": "L. M. Montgomery",
-  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
+  "date": "2026-01-17",
+  "title": "Harding’s Luck",
+  "author": "E. Nesbit",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-01-16",
-  "title": "As You Like It",
+  "date": "2026-01-17",
+  "title": "A Midsummer Night’s Dream",
   "author": "William Shakespeare",
-  "summary": "Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
+  "summary": "This comedy follows four lovers and a thespian who become bewitched by fairies.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream",
   "subjects": [
     "comedy",
     "drama"
@@ -85,12 +87,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-01-16",
-  "title": "Timon of Athens",
+  "date": "2026-01-17",
+  "title": "Titus Andronicus",
   "author": "William Shakespeare",
-  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
   "subjects": [
     "drama"
   ]
@@ -98,26 +100,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-01-16",
-  "title": "The Lost World",
-  "author": "Arthur Conan Doyle",
-  "summary": "A team of scientists and adventurers explores a prehistoric land.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+  "date": "2026-01-17",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
-    "adventure",
-    "fantasy"
+    "comedy",
+    "fantasy",
+    "satire"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-16",
-  "title": "His Masterpiece",
+  "date": "2026-01-17",
+  "title": "Germinal",
   "author": "Émile Zola",
-  "summary": "A groundbreaking painter struggles to leave his mark on the bohemian art world of 19th-century Paris.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly",
+  "summary": "A new resident of a poor coal mining town in 1860s France begins learning about socialist principles, and convinces the town to go on strike.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-zola/germinal/havelock-ellis/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-zola/germinal/havelock-ellis",
   "subjects": [
     "fiction"
   ]
@@ -125,68 +128,72 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-01-16",
-  "title": "The Private Memoirs and Confessions of a Justified Sinner",
-  "author": "James Hogg",
-  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "date": "2026-01-17",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
     "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-16",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-01-17",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
+    "nonfiction",
     "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-01-16",
-  "title": "The Mystery at Lilac Inn",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective attempts to recover her friend’s stolen diamonds.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn",
+  "date": "2026-01-17",
+  "title": "The Memoirs of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
-    "childrens",
-    "mystery"
+    "fiction",
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-16",
-  "title": "A Vindication of the Rights of Woman",
-  "author": "Mary Wollstonecraft",
-  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
+  "date": "2026-01-17",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-16",
-  "title": "Roads to Freedom",
-  "author": "Bertrand Russell",
-  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
+  "date": "2026-01-17",
+  "title": "A Voice from the South",
+  "author": "Anna Julia Cooper",
+  "summary": "A Black woman from the American South philosophizes on various subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -195,35 +202,38 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-16",
-  "title": "The Luzumiyat",
-  "author": "Abu al-ʻAlaʼ al-Maʻarri",
-  "summary": "A collection of quatrains by Abu al-ʻAlaʼ al-Maʻarri.",
-  "coverUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani",
+  "date": "2026-01-17",
+  "title": "Cane",
+  "author": "Jean Toomer",
+  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
   "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-01-16",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2026-01-17",
+  "title": "Jack Keefe Stories",
+  "author": "Ring Lardner",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
   "subjects": [
     "comedy",
     "fiction",
-    "satire"
+    "satire",
+    "shorts",
+    "travel"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-16",
+  "date": "2026-01-17",
   "title": "The Coming Race",
   "author": "Edward Bulwer-Lytton",
   "summary": "While exploring a mine, a man falls through a chasm into an underground world populated by a mysterious race.",
@@ -236,7 +246,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-16",
+  "date": "2026-01-17",
   "title": "Short Fiction",
   "author": "Herman Melville",
   "summary": "A collection of Herman Melville’s short stories, ordered by date of publication.",
@@ -250,28 +260,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-16",
-  "title": "Siddhartha",
-  "author": "Hermann Hesse",
-  "summary": "A man embarks on a spiritual journey through India.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
+  "date": "2026-01-17",
+  "title": "The Everlasting Man",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
   "subjects": [
-    "fiction",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-01-16",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-01-17",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
