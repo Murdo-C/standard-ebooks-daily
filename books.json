@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-17",
+  "date": "2026-01-18",
   "title": "Culture and Anarchy",
   "author": "Matthew Arnold",
   "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
@@ -15,135 +15,35 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-17",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-01-18",
+  "title": "The Square Emerald",
+  "author": "Edgar Wallace",
+  "summary": "Scotland Yard’s first female investigator sets out to prove the innocence of a convicted forger.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-square-emerald/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-square-emerald",
   "subjects": [
     "adventure",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-01-17",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
-  "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-01-17",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-01-17",
-  "title": "Harding’s Luck",
-  "author": "E. Nesbit",
-  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
-  "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-01-17",
-  "title": "A Midsummer Night’s Dream",
-  "author": "William Shakespeare",
-  "summary": "This comedy follows four lovers and a thespian who become bewitched by fairies.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream",
-  "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-01-17",
-  "title": "Titus Andronicus",
-  "author": "William Shakespeare",
-  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-01-17",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
-  "subjects": [
-    "comedy",
-    "fantasy",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-01-17",
-  "title": "Germinal",
-  "author": "Émile Zola",
-  "summary": "A new resident of a poor coal mining town in 1860s France begins learning about socialist principles, and convinces the town to go on strike.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-zola/germinal/havelock-ellis/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-zola/germinal/havelock-ellis",
-  "subjects": [
     "fiction"
   ]
 }
 ,
 {
-  "genre": "horror",
-  "date": "2026-01-17",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
+  "genre": "autobiography",
+  "date": "2026-01-18",
+  "title": "Our Nig",
+  "author": "Harriet E. Wilson",
+  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
   "subjects": [
-    "fiction",
-    "horror",
-    "shorts"
+    "autobiography",
+    "fiction"
   ]
 }
 ,
 {
-  "genre": "memoir",
-  "date": "2026-01-17",
+  "genre": "biography",
+  "date": "2026-01-18",
   "title": "Recollections of Full Years",
   "author": "Helen Herron Taft",
   "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
@@ -158,28 +58,124 @@
 }
 ,
 {
-  "genre": "mystery",
-  "date": "2026-01-17",
-  "title": "The Memoirs of Sherlock Holmes",
-  "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
+  "genre": "childrens",
+  "date": "2026-01-18",
+  "title": "The Secret of the Old Clock",
+  "author": "Carolyn Keene",
+  "summary": "The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
+  "subjects": [
+    "childrens",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-01-18",
+  "title": "All’s Well That Ends Well",
+  "author": "William Shakespeare",
+  "summary": "A woman tricks her husband into fulfilling his marriage demands.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-01-18",
+  "title": "The Merchant of Venice",
+  "author": "William Shakespeare",
+  "summary": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-01-18",
+  "title": "Harding’s Luck",
+  "author": "E. Nesbit",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
+  "subjects": [
+    "childrens",
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-01-18",
+  "title": "Howards End",
+  "author": "E. M. Forster",
+  "summary": "The lives of three families of different classes intertwine in Edwardian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/howards-end/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/howards-end",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-01-18",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "summary": "An ancient undead monster terrorizes Victorian London.",
+  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
   "subjects": [
     "fiction",
-    "mystery",
-    "shorts"
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-01-18",
+  "title": "The Life of Buffalo Bill",
+  "author": "William F. Cody",
+  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-01-18",
+  "title": "The Lerouge Case",
+  "author": "Émile Gaboriau",
+  "summary": "A widow is found dead under mysterious circumstances, and Monsieur Lecoq of the police arranges to have his mentor brought in to help solve the crime.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company",
+  "subjects": [
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-17",
-  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
-  "author": "Mary Seacole",
-  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
+  "date": "2026-01-18",
+  "title": "Yashka",
+  "author": "Maria Bochkareva",
+  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -188,86 +184,83 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-17",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "date": "2026-01-18",
+  "title": "Essays",
+  "author": "Thomas Paine",
+  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-17",
-  "title": "Cane",
-  "author": "Jean Toomer",
-  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
+  "date": "2026-01-18",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
   "subjects": [
-    "fiction",
-    "poetry"
+    "comedy",
+    "poetry",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-01-17",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-01-18",
+  "title": "Main Street",
+  "author": "Sinclair Lewis",
+  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
   "subjects": [
-    "comedy",
     "fiction",
-    "satire",
-    "shorts",
-    "travel"
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-17",
-  "title": "The Coming Race",
-  "author": "Edward Bulwer-Lytton",
-  "summary": "While exploring a mine, a man falls through a chasm into an underground world populated by a mysterious race.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race",
+  "date": "2026-01-18",
+  "title": "The Maracot Deep",
+  "author": "Arthur Conan Doyle",
+  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
   "subjects": [
+    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-17",
-  "title": "Short Fiction",
-  "author": "Herman Melville",
-  "summary": "A collection of Herman Melville’s short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/herman-melville/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herman-melville/short-fiction",
+  "date": "2026-01-18",
+  "title": "Zuni Folktales",
+  "author": "Frank Hamilton Cushing",
+  "summary": "A collection of folktales from the Zuni culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
   "subjects": [
-    "fiction",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-17",
-  "title": "The Everlasting Man",
+  "date": "2026-01-18",
+  "title": "Orthodoxy",
   "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -275,14 +268,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-01-17",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-01-18",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
-    "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
