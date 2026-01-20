@@ -1,53 +1,53 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-19",
-  "title": "Silas Marner",
-  "author": "George Eliot",
-  "summary": "A miserly weaver’s isolated life is transformed by the theft of his precious money and the sudden appearance of an abandoned infant, whom he adopts and raises.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-eliot/silas-marner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-eliot/silas-marner",
+  "date": "2026-01-20",
+  "title": "Short Plays",
+  "author": "George Bernard Shaw",
+  "summary": "A collection of sixteen short plays by George Bernard Shaw.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/short-plays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/short-plays",
   "subjects": [
-    "fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-19",
-  "title": "Blue Hand",
-  "author": "Edgar Wallace",
-  "summary": "A law clerk takes an interest in the disappearance of a well-known woman and her infant daughter, just as their fortune is about to be distributed to a notorious client.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand",
+  "date": "2026-01-20",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
     "adventure",
-    "fiction"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-19",
-  "title": "Personal Memoirs of Ulysses S. Grant",
-  "author": "Ulysses S. Grant",
-  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
-  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
+  "date": "2026-01-20",
+  "title": "You Can’t Win",
+  "author": "Jack Black",
+  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-01-19",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-01-20",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-01-19",
-  "title": "Emily of New Moon",
+  "date": "2026-01-20",
+  "title": "Anne of Green Gables",
   "author": "L. M. Montgomery",
-  "summary": "A budding poetess and orphan goes to live with her estranged aunts.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,12 +70,28 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-01-19",
-  "title": "The Apple Cart",
+  "date": "2026-01-20",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "subjects": [
+    "comedy",
+    "fiction",
+    "spirituality",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-01-20",
+  "title": "The Man of Destiny",
   "author": "George Bernard Shaw",
-  "summary": "An English king challenges his popular prime minister and cabinet.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart",
+  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
   "subjects": [
     "comedy",
     "drama"
@@ -83,79 +99,72 @@
 }
 ,
 {
-  "genre": "drama",
-  "date": "2026-01-19",
-  "title": "The Doctor’s Dilemma",
-  "author": "George Bernard Shaw",
-  "summary": "A doctor must decide which patient is worthy of his newly discovered cure: a talented but amoral artist, or a good-hearted but undistinguished public servant.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-doctors-dilemma/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-doctors-dilemma",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
   "genre": "fantasy",
-  "date": "2026-01-19",
-  "title": "A Connecticut Yankee in King Arthur’s Court",
-  "author": "Mark Twain",
-  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
+  "date": "2026-01-20",
+  "title": "The Blazing World",
+  "author": "Margaret Cavendish",
+  "summary": "A young lady is abducted and finds herself the empress of a strange new world.",
+  "coverUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-19",
-  "title": "The Spy in Black",
+  "date": "2026-01-20",
+  "title": "Simon",
   "author": "J. Storer Clouston",
-  "summary": "A German submarine officer risks his life liaising with British informers during the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-storer-clouston/the-spy-in-black/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-storer-clouston/the-spy-in-black",
+  "summary": "A small town is plunged into confused gossip when the esteemed client of a Scottish lawyer is murdered.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-storer-clouston/simon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-storer-clouston/simon",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-01-19",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-01-20",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
-    "horror"
+    "fiction",
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-19",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-01-20",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
+    "nonfiction",
     "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-01-19",
-  "title": "Tragedy at Ravensthorpe",
+  "date": "2026-01-20",
+  "title": "Mystery at Lynden Sands",
   "author": "J. J. Connington",
-  "summary": "Chief Constable Sir Clinton Driffield investigates the theft of valuables from a country estate after a masquerade ball.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe",
+  "summary": "A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
   "subjects": [
     "fiction",
     "mystery"
@@ -164,21 +173,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-19",
-  "title": "The Land of Little Rain",
-  "author": "Mary Austin",
-  "summary": "Short stories and essays detailing the landscape and inhabitants of the American Southwest.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain",
-  "subjects": [
-    "nonfiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-01-19",
+  "date": "2026-01-20",
   "title": "The Story of Utopias",
   "author": "Lewis Mumford",
   "summary": "An American historian reviews the literature surrounding utopias and how they relate to contemporary society.",
@@ -191,27 +186,43 @@
 }
 ,
 {
-  "genre": "poetry",
-  "date": "2026-01-19",
-  "title": "The Luzumiyat",
-  "author": "Abu al-ʻAlaʼ al-Maʻarri",
-  "summary": "A collection of quatrains by Abu al-ʻAlaʼ al-Maʻarri.",
-  "coverUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani",
+  "genre": "philosophy",
+  "date": "2026-01-20",
+  "title": "Democracy and Social Ethics",
+  "author": "Jane Addams",
+  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
   "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-01-20",
+  "title": "Cane",
+  "author": "Jean Toomer",
+  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
+  "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-01-19",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-01-20",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -219,55 +230,53 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-19",
-  "title": "Short Fiction",
-  "author": "Henry Kuttner",
-  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "date": "2026-01-20",
+  "title": "Star Hunter",
+  "author": "Andre Norton",
+  "summary": "On the unexplored jungle world of Jumala the sole survivor of a spaceship crash is heir to a fortune, or has been made to believe so.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-19",
-  "title": "John Silence Stories",
-  "author": "Algernon Blackwood",
-  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
-  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
+  "date": "2026-01-20",
+  "title": "Fables",
+  "author": "Aesop",
+  "summary": "Aesop’s classic Fables of behavior and consequence.",
+  "coverUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones",
   "subjects": [
-    "horror",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-19",
-  "title": "Siddhartha",
-  "author": "Hermann Hesse",
-  "summary": "A man embarks on a spiritual journey through India.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
+  "date": "2026-01-20",
+  "title": "The Everlasting Man",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
   "subjects": [
-    "fiction",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-01-19",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-01-20",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
     "adventure",
     "nonfiction",
