@@ -1,162 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-22",
-  "title": "Tarzan, Lord of the Jungle",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-01-22",
-  "title": "The Scarlet Pimpernel",
-  "author": "Baroness Orczy",
-  "summary": "A daring Englishman with a secret identity rescues French aristocrats from the guillotine during the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-01-22",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
-  "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-01-22",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-01-22",
-  "title": "The House at Pooh Corner",
-  "author": "A. A. Milne",
-  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
-  "subjects": [
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-01-22",
-  "title": "Twelfth Night",
-  "author": "William Shakespeare",
-  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
-  "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-01-22",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
-  "subjects": [
-    "comedy",
-    "drama",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-01-22",
-  "title": "The Roots of the Mountains",
-  "author": "William Morris",
-  "summary": "The peoples of the dales and woods must unite to defeat a foe intent on enslaving them.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-01-22",
-  "title": "The Last Post",
-  "author": "Ford Madox Ford",
-  "summary": "An invalid and his family reflect on recent events in the years after the close of the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-last-post/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-last-post",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-01-22",
-  "title": "John Silence Stories",
-  "author": "Algernon Blackwood",
-  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
-  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
-  "subjects": [
-    "horror",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-01-22",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
-  "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-01-22",
+  "date": "2026-01-23",
   "title": "The Crimson Circle",
   "author": "Edgar Wallace",
   "summary": "A police inspector and an unusual private detective investigate a devious blackmail plot.",
@@ -169,13 +14,167 @@
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2026-01-23",
+  "title": "The Splendid Spur",
+  "author": "Arthur Quiller-Couch",
+  "summary": "Events force a young man to act for the Royalist side in the English Civil War, bringing many adventures in consequence.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/the-splendid-spur/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/the-splendid-spur",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-01-23",
+  "title": "Our Nig",
+  "author": "Harriet E. Wilson",
+  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
+  "subjects": [
+    "autobiography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-01-23",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "subjects": [
+    "biography",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-01-23",
+  "title": "The Water-Babies",
+  "author": "Charles Kingsley",
+  "summary": "A young, uneducated, and mistreated chimney sweep is reborn as a denizen of the fairy world, beginning a journey of moral and spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies",
+  "subjects": [
+    "childrens"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-01-23",
+  "title": "A Midsummer Night’s Dream",
+  "author": "William Shakespeare",
+  "summary": "This comedy follows four lovers and a thespian who become bewitched by fairies.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/a-midsummer-nights-dream",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-01-23",
+  "title": "A Woman of No Importance",
+  "author": "Oscar Wilde",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "subjects": [
+    "comedy",
+    "drama",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-01-23",
+  "title": "The Roots of the Mountains",
+  "author": "William Morris",
+  "summary": "The peoples of the dales and woods must unite to defeat a foe intent on enslaving them.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-01-23",
+  "title": "McTeague",
+  "author": "Frank Norris",
+  "summary": "A San Francisco dentist and his wife descend into avarice, obsession, and violence.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-norris/mcteague/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-norris/mcteague",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-01-23",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "subjects": [
+    "horror",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-01-23",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "subjects": [
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-01-23",
+  "title": "Clouds of Witness",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
   "genre": "nonfiction",
-  "date": "2026-01-22",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "date": "2026-01-23",
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "summary": "Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -184,43 +183,41 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-22",
-  "title": "Demian",
-  "author": "Hermann Hesse",
-  "summary": "A boy goes on a journey of spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
+  "date": "2026-01-23",
+  "title": "The New State",
+  "author": "Mary Parker Follett",
+  "summary": "The theory of group organization is formulated and applied in an attempt to design a truly democratic political state.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state",
   "subjects": [
-    "fiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-22",
-  "title": "Nonsense Books",
-  "author": "Edward Lear",
-  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
+  "date": "2026-01-23",
+  "title": "Poetry",
+  "author": "James Weldon Johnson",
+  "summary": "A collection of poems by James Weldon Johnson.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
   "subjects": [
-    "comedy",
-    "poetry",
-    "shorts"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-01-22",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-01-23",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
     "fiction",
     "satire"
   ]
@@ -228,27 +225,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-22",
-  "title": "Beyond Thirty",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
+  "date": "2026-01-23",
+  "title": "Invaders from the Infinite",
+  "author": "John W. Campbell",
+  "summary": "Three scientists join with an alien race to defeat an attacking force.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite",
   "subjects": [
-    "adventure",
-    "fantasy",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-22",
-  "title": "Irish Fairy Tales",
-  "author": "James Stephens",
-  "summary": "Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales",
+  "date": "2026-01-23",
+  "title": "Lost Face",
+  "author": "Jack London",
+  "summary": "A collection of short stories by Jack London.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/lost-face/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/lost-face",
   "subjects": [
     "fiction",
     "shorts"
@@ -257,28 +252,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-22",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2026-01-23",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-01-22",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-01-23",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
+    "nonfiction",
     "travel"
   ]
 }
