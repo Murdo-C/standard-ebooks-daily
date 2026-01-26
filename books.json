@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-25",
-  "title": "Little Dorrit",
-  "author": "Charles Dickens",
-  "summary": "After returning home from a long period spent working in China, a man tries to assist a family forced to live in a debtor’s prison.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/little-dorrit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/little-dorrit",
+  "date": "2026-01-26",
+  "title": "The Dead Secret",
+  "author": "Wilkie Collins",
+  "summary": "A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.",
+  "coverUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret",
   "subjects": [
     "fiction"
   ]
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "title": "The Square Emerald",
   "author": "Edgar Wallace",
   "summary": "Scotland Yard’s first female investigator sets out to prove the innocence of a convicted forger.",
@@ -28,7 +28,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "title": "The Diary",
   "author": "Samuel Pepys",
   "summary": "The diary of a man living in London in the 17th century.",
@@ -42,7 +42,103 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-01-25",
+  "date": "2026-01-26",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "subjects": [
+    "biography",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-01-26",
+  "title": "Ozma of Oz",
+  "author": "L. Frank Baum",
+  "summary": "A girl gets whisked away to a fairy land and helps restore the proper rulers to the throne.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz",
+  "subjects": [
+    "childrens",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-01-26",
+  "title": "Indiscretions of Archie",
+  "author": "P. G. Wodehouse",
+  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-01-26",
+  "title": "Henry VI, Part I",
+  "author": "William Shakespeare",
+  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-01-26",
+  "title": "The Charwoman’s Shadow",
+  "author": "Lord Dunsany",
+  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-01-26",
+  "title": "Tracks in the Snow",
+  "author": "Godfrey R. Benson",
+  "summary": "A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-01-26",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "subjects": [
+    "horror",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-01-26",
   "title": "Recollections of Full Years",
   "author": "Helen Herron Taft",
   "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
@@ -57,139 +153,41 @@
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2026-01-25",
-  "title": "The Road to Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+  "genre": "mystery",
+  "date": "2026-01-26",
+  "title": "The Secret of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "The fourth set of stories of a Catholic priest who is also an amateur detective.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-secret-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-secret-of-father-brown",
   "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-01-25",
-  "title": "Golf Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
-  "subjects": [
-    "comedy",
     "fiction",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "drama",
-  "date": "2026-01-25",
-  "title": "Henry VI, Part III",
-  "author": "William Shakespeare",
-  "summary": "Henry VI is overthrown and Edward Plantagenet becomes the new King of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-01-25",
-  "title": "The King of Elfland’s Daughter",
-  "author": "Lord Dunsany",
-  "summary": "The people of Erl want magic, and get their wish.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-01-25",
-  "title": "Tracks in the Snow",
-  "author": "Godfrey R. Benson",
-  "summary": "A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-01-25",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
-  "subjects": [
-    "horror",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-01-25",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-01-25",
-  "title": "A Bid for Fortune",
-  "author": "Guy Boothby",
-  "summary": "A young Australian man struggles to reclaim his love from the clutches of an evil mastermind.",
-  "coverUrl": "https://standardebooks.org/ebooks/guy-boothby/a-bid-for-fortune/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/guy-boothby/a-bid-for-fortune",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
   "genre": "nonfiction",
-  "date": "2026-01-25",
-  "title": "The Bolshevik Myth",
-  "author": "Alexander Berkman",
-  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
+  "date": "2026-01-26",
+  "title": "The Federalist Papers",
+  "author": "Alexander Hamilton",
+  "summary": "Eighty-five articles written by a group of U.S. Founding Fathers on why the proposed U.S. Constitution should be approved.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers",
   "subjects": [
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-25",
-  "title": "The Religion of Nature Delineated",
-  "author": "William Wollaston",
-  "summary": "Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated",
+  "date": "2026-01-26",
+  "title": "Pragmatism",
+  "author": "William James",
+  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -198,34 +196,36 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-25",
-  "title": "Eugene Onegin",
-  "author": "Alexander Pushkin",
-  "summary": "A jaded Russian fop’s disdain for the world catches up with him.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding",
+  "date": "2026-01-26",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
     "fiction",
-    "poetry"
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-01-25",
-  "title": "Candide",
-  "author": "Voltaire",
-  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
+  "date": "2026-01-26",
+  "title": "Sartor Resartus",
+  "author": "Thomas Carlyle",
+  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
   "subjects": [
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "title": "Looking Backward",
   "author": "Edward Bellamy",
   "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
@@ -239,7 +239,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "title": "The Law of the Four Just Men",
   "author": "Edgar Wallace",
   "summary": "A group of wealthy vigilantes continue their quest to bring justice to those criminals beyond the reach of conventional law.",
@@ -254,26 +254,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-25",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+  "date": "2026-01-26",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-01-25",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2026-01-26",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
     "nonfiction",
     "travel"
