@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-29",
-  "title": "The Masqueraders",
-  "author": "Georgette Heyer",
-  "summary": "Two siblings, disguised as members of the opposite sex, navigate the intrigues of 18th-century London while falling in love with unsuspecting suitors.",
-  "coverUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-masqueraders/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-masqueraders",
+  "date": "2026-01-30",
+  "title": "The National Being",
+  "author": "George William Russell",
+  "summary": "An Irish writer presents his vision of an independent Irish nation.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being",
   "subjects": [
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-29",
-  "title": "The Square Emerald",
+  "date": "2026-01-30",
+  "title": "The Three Just Men",
   "author": "Edgar Wallace",
-  "summary": "Scotland Yard’s first female investigator sets out to prove the innocence of a convicted forger.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-square-emerald/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-square-emerald",
+  "summary": "A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-29",
-  "title": "Confessions of an English Opium-Eater",
-  "author": "Thomas De Quincey",
-  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "date": "2026-01-30",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "summary": "The autobiography of American President Theodore Roosevelt.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-01-29",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-01-30",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +55,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-01-29",
-  "title": "Dorothy and the Wizard in Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz",
+  "date": "2026-01-30",
+  "title": "Through the Looking-Glass",
+  "author": "Lewis Carroll",
+  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
   "subjects": [
     "childrens",
     "fantasy"
@@ -70,25 +69,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-01-29",
-  "title": "English as She Is Spoke",
-  "author": "Pedro Carolino",
-  "summary": "A phrasebook of unintentionally hilarious English.",
-  "coverUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke",
+  "date": "2026-01-30",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
-    "comedy"
+    "comedy",
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-01-29",
-  "title": "Henry VIII",
+  "date": "2026-01-30",
+  "title": "Henry V",
   "author": "William Shakespeare",
-  "summary": "King Henry VIII plans to divorce his first wife for Anne Bullen.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii",
+  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
   "subjects": [
     "drama"
   ]
@@ -96,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-01-29",
-  "title": "Fifty-One Tales",
+  "date": "2026-01-30",
+  "title": "The Book of Wonder",
   "author": "Lord Dunsany",
-  "summary": "A series of otherworldly short stories ranging from the moral to the whimsical.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales",
+  "summary": "A collection of fantastical short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
   "subjects": [
     "fantasy",
     "shorts"
@@ -110,7 +111,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-29",
+  "date": "2026-01-30",
   "title": "The Elusive Pimpernel",
   "author": "Baroness Orczy",
   "summary": "A French official schemes to finally catch the Scarlet Pimpernel.",
@@ -124,26 +125,29 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-01-29",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2026-01-30",
+  "title": "The Return",
+  "author": "Walter de la Mare",
+  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
   "subjects": [
+    "fantasy",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-29",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2026-01-30",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -151,27 +155,27 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-01-29",
-  "title": "At the Villa Rose",
-  "author": "A. E. W. Mason",
-  "summary": "A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose",
+  "date": "2026-01-30",
+  "title": "The Murder at the Vicarage",
+  "author": "Agatha Christie",
+  "summary": "A vicar attempts to unravel the mystery of a murder that took place in his study, while his neighbor—an elderly spinster—takes an interest.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-29",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-01-30",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
-    "biography",
     "memoir",
     "nonfiction",
     "travel"
@@ -180,12 +184,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-29",
-  "title": "The Theory of the Leisure Class",
-  "author": "Thorstein Veblen",
-  "summary": "Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.",
-  "coverUrl": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class",
+  "date": "2026-01-30",
+  "title": "The American Crisis",
+  "author": "Thomas Paine",
+  "summary": "A collection of articles written during the American Revolutionary War that outline Paine’s support for a self-governing America.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis",
   "subjects": [
     "philosophy"
   ]
@@ -193,12 +197,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-29",
-  "title": "A Cycle of the West",
-  "author": "John G. Neihardt",
-  "summary": "A series of epic poems that recounts the history, legends, and mythology of the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
+  "date": "2026-01-30",
+  "title": "Songs of the Cattle Trail and Cow Camp",
+  "author": "John A. Lomax",
+  "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp",
   "subjects": [
     "poetry"
   ]
@@ -206,26 +210,25 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-01-29",
-  "title": "Dodsworth",
-  "author": "Sinclair Lewis",
-  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
+  "date": "2026-01-30",
+  "title": "The History of Rasselas, Prince of Abyssinia",
+  "author": "Samuel Johnson",
+  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-29",
-  "title": "The Moon Maid",
+  "date": "2026-01-30",
+  "title": "Pellucidar",
   "author": "Edgar Rice Burroughs",
-  "summary": "A young man travels to the moon with a group of companions and discovers that it’s inhabited; in subsequent centuries, reincarnations of the same man deal with an invasion of the Earth by the malevolent inhabitants of the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid",
+  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
   "subjects": [
     "science_fiction"
   ]
@@ -233,7 +236,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-29",
+  "date": "2026-01-30",
   "title": "Lord Peter Views the Body",
   "author": "Dorothy L. Sayers",
   "summary": "A collection of short stories in which an aristocratic amateur detective solves a variety of crimes.",
@@ -248,15 +251,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-29",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-01-30",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
-    "autobiography",
-    "memoir",
     "nonfiction",
     "philosophy",
     "spirituality"
@@ -265,14 +266,17 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-01-29",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2026-01-30",
+  "title": "Jack Keefe Stories",
+  "author": "Ring Lardner",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
   "subjects": [
-    "nonfiction",
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts",
     "travel"
   ]
 }
