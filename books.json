@@ -1,95 +1,96 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-30",
-  "title": "The National Being",
-  "author": "George William Russell",
-  "summary": "An Irish writer presents his vision of an independent Irish nation.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being",
+  "date": "2026-01-31",
+  "title": "The Prime Minister",
+  "author": "Anthony Trollope",
+  "summary": "A duke leads a coalition government while doubting his capacity to do so.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/the-prime-minister/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/the-prime-minister",
   "subjects": [
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-30",
-  "title": "The Three Just Men",
+  "date": "2026-01-31",
+  "title": "The Mind of Mr. J. G. Reeder",
   "author": "Edgar Wallace",
-  "summary": "A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men",
+  "summary": "A meek and unassuming employee at the Department of Public Prosecutions exercises his remarkable skills to solve puzzling crimes.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-mind-of-mr-j-g-reeder/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-mind-of-mr-j-g-reeder",
   "subjects": [
     "adventure",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-01-30",
-  "title": "An Autobiography",
-  "author": "Theodore Roosevelt",
-  "summary": "The autobiography of American President Theodore Roosevelt.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "date": "2026-01-31",
+  "title": "Memoirs of a Foxhunting Man",
+  "author": "Siegfried Sassoon",
+  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
+  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-01-30",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
-  "subjects": [
-    "biography",
+    "autobiography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "biography",
+  "date": "2026-01-31",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2026-01-30",
-  "title": "Through the Looking-Glass",
+  "date": "2026-01-31",
+  "title": "Alice’s Adventures in Wonderland",
   "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
+  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-01-30",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "date": "2026-01-31",
+  "title": "Something New",
+  "author": "P. G. Wodehouse",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-01-30",
-  "title": "Henry V",
+  "date": "2026-01-31",
+  "title": "Hamlet",
   "author": "William Shakespeare",
-  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
+  "summary": "The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet",
   "subjects": [
     "drama"
   ]
@@ -97,26 +98,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-01-30",
-  "title": "The Book of Wonder",
-  "author": "Lord Dunsany",
-  "summary": "A collection of fantastical short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
+  "date": "2026-01-31",
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-30",
-  "title": "The Elusive Pimpernel",
+  "date": "2026-01-31",
+  "title": "The First Sir Percy",
   "author": "Baroness Orczy",
-  "summary": "A French official schemes to finally catch the Scarlet Pimpernel.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel",
+  "summary": "A man and his followers try again to overthrow the Stadtholder of the Netherlands.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy",
   "subjects": [
     "adventure",
     "fiction"
@@ -125,29 +126,26 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-01-30",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2026-01-31",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "fantasy",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-30",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-01-31",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
-    "adventure",
-    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -155,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-01-30",
-  "title": "The Murder at the Vicarage",
-  "author": "Agatha Christie",
-  "summary": "A vicar attempts to unravel the mystery of a murder that took place in his study, while his neighbor—an elderly spinster—takes an interest.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage",
+  "date": "2026-01-31",
+  "title": "The Lerouge Case",
+  "author": "Émile Gaboriau",
+  "summary": "A widow is found dead under mysterious circumstances, and Monsieur Lecoq of the police arranges to have his mentor brought in to help solve the crime.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,12 +167,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-01-30",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2026-01-31",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -184,12 +182,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-01-30",
-  "title": "The American Crisis",
+  "date": "2026-01-31",
+  "title": "The Rights of Man",
   "author": "Thomas Paine",
-  "summary": "A collection of articles written during the American Revolutionary War that outline Paine’s support for a self-governing America.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis",
+  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
   "subjects": [
     "philosophy"
   ]
@@ -197,7 +195,7 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-01-30",
+  "date": "2026-01-31",
   "title": "Songs of the Cattle Trail and Cow Camp",
   "author": "John A. Lomax",
   "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
@@ -210,55 +208,57 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-01-30",
-  "title": "The History of Rasselas, Prince of Abyssinia",
-  "author": "Samuel Johnson",
-  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
+  "date": "2026-01-31",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
+    "comedy",
+    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-30",
-  "title": "Pellucidar",
+  "date": "2026-01-31",
+  "title": "Beyond Thirty",
   "author": "Edgar Rice Burroughs",
-  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
+  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
   "subjects": [
+    "adventure",
+    "fantasy",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-30",
-  "title": "Lord Peter Views the Body",
-  "author": "Dorothy L. Sayers",
-  "summary": "A collection of short stories in which an aristocratic amateur detective solves a variety of crimes.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/lord-peter-views-the-body/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/lord-peter-views-the-body",
+  "date": "2026-01-31",
+  "title": "Short Fiction",
+  "author": "Daphne du Maurier",
+  "summary": "A collection of short stories by Daphne du Maurier.",
+  "coverUrl": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction",
   "subjects": [
     "fiction",
-    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-30",
-  "title": "The Kingdom of God Is Within You",
+  "date": "2026-01-31",
+  "title": "A Confession",
   "author": "Leo Tolstoy",
-  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -266,17 +266,16 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-01-30",
-  "title": "Jack Keefe Stories",
+  "date": "2026-01-31",
+  "title": "My Four Weeks in France",
   "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire",
-    "shorts",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
