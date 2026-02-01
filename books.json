@@ -1,49 +1,48 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-01-31",
-  "title": "The Prime Minister",
-  "author": "Anthony Trollope",
-  "summary": "A duke leads a coalition government while doubting his capacity to do so.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/the-prime-minister/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/the-prime-minister",
+  "date": "2026-02-01",
+  "title": "The Murder of Roger Ackroyd",
+  "author": "Agatha Christie",
+  "summary": "A legendary Belgian detective comes out of retirement to investigate a friend’s murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd",
   "subjects": [
-    "fiction"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-01-31",
-  "title": "The Mind of Mr. J. G. Reeder",
-  "author": "Edgar Wallace",
-  "summary": "A meek and unassuming employee at the Department of Public Prosecutions exercises his remarkable skills to solve puzzling crimes.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-mind-of-mr-j-g-reeder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-mind-of-mr-j-g-reeder",
+  "date": "2026-02-01",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
   "subjects": [
     "adventure",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-01-31",
-  "title": "Memoirs of a Foxhunting Man",
-  "author": "Siegfried Sassoon",
-  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
-  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
-  "subjects": [
-    "autobiography",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-02-01",
+  "title": "My Reminiscences",
+  "author": "Rabindranath Tagore",
+  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "title": "Queen Victoria",
   "author": "Lytton Strachey",
   "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
@@ -57,12 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-01-31",
-  "title": "Alice’s Adventures in Wonderland",
-  "author": "Lewis Carroll",
-  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
+  "date": "2026-02-01",
+  "title": "The Blue Bird",
+  "author": "Maurice Maeterlinck",
+  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,26 +70,25 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-01-31",
-  "title": "Something New",
+  "date": "2026-02-01",
+  "title": "Leave It to Psmith",
   "author": "P. G. Wodehouse",
-  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
+  "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith",
   "subjects": [
-    "comedy",
-    "fiction"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-01-31",
-  "title": "Hamlet",
-  "author": "William Shakespeare",
-  "summary": "The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet",
+  "date": "2026-02-01",
+  "title": "The Eumenides",
+  "author": "Aeschylus",
+  "summary": "A man is pursued by wrathful goddesses for avenging his father’s murder, and finds refuge in Athens where a trial determines his fate.",
+  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray",
   "subjects": [
     "drama"
   ]
@@ -98,81 +96,52 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-01-31",
-  "title": "The Road to Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+  "date": "2026-02-01",
+  "title": "Domnei",
+  "author": "James Branch Cabell",
+  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-01-31",
-  "title": "The First Sir Percy",
-  "author": "Baroness Orczy",
-  "summary": "A man and his followers try again to overthrow the Stadtholder of the Netherlands.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy",
+  "date": "2026-02-01",
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "summary": "A man seeks revenge for having been falsely imprisoned years earlier.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-01-31",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2026-02-01",
+  "title": "Melmoth the Wanderer",
+  "author": "Charles Robert Maturin",
+  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
   "subjects": [
+    "fiction",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-01-31",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-01-31",
-  "title": "The Lerouge Case",
-  "author": "Émile Gaboriau",
-  "summary": "A widow is found dead under mysterious circumstances, and Monsieur Lecoq of the police arranges to have his mentor brought in to help solve the crime.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-01-31",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-02-01",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -181,70 +150,103 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-01-31",
-  "title": "The Rights of Man",
-  "author": "Thomas Paine",
-  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
+  "genre": "mystery",
+  "date": "2026-02-01",
+  "title": "The Rasp",
+  "author": "Philip MacDonald",
+  "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
   "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-02-01",
+  "title": "Democracy and Social Ethics",
+  "author": "Jane Addams",
+  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
-  "genre": "poetry",
-  "date": "2026-01-31",
-  "title": "Songs of the Cattle Trail and Cow Camp",
-  "author": "John A. Lomax",
-  "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp",
+  "genre": "philosophy",
+  "date": "2026-02-01",
+  "title": "The City of God",
+  "author": "Augustine of Hippo",
+  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
+  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
   "subjects": [
-    "poetry"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-02-01",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "subjects": [
+    "fiction",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-01-31",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-02-01",
+  "title": "Jack Keefe Stories",
+  "author": "Ring Lardner",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
   "subjects": [
     "comedy",
-    "fantasy",
-    "satire"
+    "fiction",
+    "satire",
+    "shorts",
+    "travel"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-01-31",
-  "title": "Beyond Thirty",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
+  "date": "2026-02-01",
+  "title": "The Food of the Gods",
+  "author": "H. G. Wells",
+  "summary": "Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
   "subjects": [
-    "adventure",
-    "fantasy",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-01-31",
-  "title": "Short Fiction",
-  "author": "Daphne du Maurier",
-  "summary": "A collection of short stories by Daphne du Maurier.",
-  "coverUrl": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction",
+  "date": "2026-02-01",
+  "title": "Ukridge Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
   "subjects": [
+    "comedy",
     "fiction",
     "shorts"
   ]
@@ -252,30 +254,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-01-31",
-  "title": "A Confession",
-  "author": "Leo Tolstoy",
-  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+  "date": "2026-02-01",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
   "subjects": [
-    "philosophy",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-01-31",
-  "title": "My Four Weeks in France",
-  "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "date": "2026-02-01",
+  "title": "To Cuba and Back",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
   "subjects": [
-    "comedy",
-    "memoir",
-    "nonfiction",
     "travel"
   ]
 }
