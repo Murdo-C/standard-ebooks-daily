@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-02",
-  "title": "The Murder on the Links",
+  "date": "2026-02-03",
+  "title": "The Mysterious Affair at Styles",
   "author": "Agatha Christie",
-  "summary": "A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links",
+  "summary": "A fastidious Belgian detective solves the mystery of a murder in an English country manor.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles",
   "subjects": [
     "fiction",
     "mystery"
@@ -15,26 +15,27 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-02",
-  "title": "Kim",
-  "author": "Rudyard Kipling",
-  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+  "date": "2026-02-03",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
   "subjects": [
     "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-02",
-  "title": "Struggles and Triumphs",
-  "author": "P. T. Barnum",
-  "summary": "The world’s greatest showman tells the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
+  "date": "2026-02-03",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -43,26 +44,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-02-02",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2026-02-03",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-02",
-  "title": "The Prince and the Pauper",
+  "date": "2026-02-03",
+  "title": "The Adventures of Huckleberry Finn",
   "author": "Mark Twain",
-  "summary": "The Prince of England and a pauper find their identities switched.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper",
+  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,26 +72,25 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-02",
-  "title": "Love Among the Chickens",
+  "date": "2026-02-03",
+  "title": "Mike",
   "author": "P. G. Wodehouse",
-  "summary": "Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens",
+  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
   "subjects": [
-    "comedy",
-    "fiction"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-02-02",
-  "title": "The Libation Bearers",
-  "author": "Aeschylus",
-  "summary": "A man is ordered by a god to avenge his father’s murder by killing his mother and her lover.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray",
+  "date": "2026-02-03",
+  "title": "Short Plays",
+  "author": "J. M. Synge",
+  "summary": "A collection of three short plays by J. M. Synge.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
   "subjects": [
     "drama"
   ]
@@ -98,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-02",
-  "title": "Figures of Earth",
+  "date": "2026-02-03",
+  "title": "Jurgen",
   "author": "James Branch Cabell",
-  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
+  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
   "subjects": [
     "comedy",
     "fantasy"
@@ -112,25 +112,26 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-02",
-  "title": "Yama",
-  "author": "Aleksandr Kuprin",
-  "summary": "An account of the lives of a group of prostitutes in a brothel in southern Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/yama/bernard-guilbert-guerney/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/yama/bernard-guilbert-guerney",
+  "date": "2026-02-03",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
   "subjects": [
-    "fiction"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-02-02",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2026-02-03",
+  "title": "The Three Impostors",
+  "author": "Arthur Machen",
+  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
   "subjects": [
     "fiction",
     "horror"
@@ -139,13 +140,14 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-02-02",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2026-02-03",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -153,65 +155,68 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-02",
-  "title": "The Patient in Room 18",
-  "author": "Mignon G. Eberhart",
-  "summary": "A nurse helps a detective investigate a murder in a hospital.",
-  "coverUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
+  "date": "2026-02-03",
+  "title": "Lady Audley’s Secret",
+  "author": "M. E. Braddon",
+  "summary": "When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-02",
-  "title": "How the Other Half Lives",
-  "author": "Jacob Riis",
-  "summary": "A social reformer documents the living conditions of the poor in the tenements of New York City.",
-  "coverUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives",
+  "date": "2026-02-03",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-02",
-  "title": "Nicomachean Ethics",
-  "author": "Aristotle",
-  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+  "date": "2026-02-03",
+  "title": "A Voice from the South",
+  "author": "Anna Julia Cooper",
+  "summary": "A Black woman from the American South philosophizes on various subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-02",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2026-02-03",
+  "title": "Poetry",
+  "author": "John Keats",
+  "summary": "A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-keats/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-keats/poetry",
   "subjects": [
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-02-02",
-  "title": "The Little Nugget",
+  "date": "2026-02-03",
+  "title": "The Coming of Bill",
   "author": "P. G. Wodehouse",
-  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
     "satire"
   ]
@@ -219,25 +224,26 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-02",
-  "title": "The First Men in the Moon",
+  "date": "2026-02-03",
+  "title": "Short Fiction",
   "author": "H. G. Wells",
-  "summary": "Two British men become the first humans to reach the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
+  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-02",
-  "title": "School Stories",
+  "date": "2026-02-03",
+  "title": "Short Fiction",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
+  "summary": "A collection of P. G. Wodehouse’s short fiction.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
   "subjects": [
     "comedy",
     "fiction",
@@ -247,28 +253,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-02",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2026-02-03",
+  "title": "The Pursuit of God",
+  "author": "A. W. Tozer",
+  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
   "subjects": [
-    "fiction",
-    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-02-02",
-  "title": "Two Years Before the Mast",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
+  "date": "2026-02-03",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
