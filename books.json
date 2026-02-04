@@ -1,21 +1,21 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-03",
-  "title": "The Mysterious Affair at Styles",
-  "author": "Agatha Christie",
-  "summary": "A fastidious Belgian detective solves the mystery of a murder in an English country manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles",
+  "date": "2026-02-04",
+  "title": "The Sea Hawk",
+  "author": "Rafael Sabatini",
+  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
   "subjects": [
-    "fiction",
-    "mystery"
+    "adventure",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "title": "Treasure Island",
   "author": "Robert Louis Stevenson",
   "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
@@ -30,12 +30,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-03",
-  "title": "Memoirs of a Revolutionist",
-  "author": "Peter Kropotkin",
-  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
+  "date": "2026-02-04",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -44,26 +44,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-02-03",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-02-04",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-03",
-  "title": "The Adventures of Huckleberry Finn",
-  "author": "Mark Twain",
-  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
+  "date": "2026-02-04",
+  "title": "Emily of New Moon",
+  "author": "L. M. Montgomery",
+  "summary": "A budding poetess and orphan goes to live with her estranged aunts.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon",
   "subjects": [
     "childrens",
     "fiction"
@@ -72,7 +72,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "title": "Mike",
   "author": "P. G. Wodehouse",
   "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
@@ -85,82 +85,82 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-02-03",
-  "title": "Short Plays",
-  "author": "J. M. Synge",
-  "summary": "A collection of three short plays by J. M. Synge.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
+  "date": "2026-02-04",
+  "title": "The Seagull",
+  "author": "Anton Chekhov",
+  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-03",
-  "title": "Jurgen",
-  "author": "James Branch Cabell",
-  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
+  "date": "2026-02-04",
+  "title": "Lud-in-the-Mist",
+  "author": "Hope Mirrlees",
+  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
+  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
   "subjects": [
-    "comedy",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-03",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-02-04",
+  "title": "The Duel",
+  "author": "Aleksandr Kuprin",
+  "summary": "A Russian officer battles disillusionment and unrequited love.",
+  "coverUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin",
   "subjects": [
-    "fiction",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-02-03",
-  "title": "The Three Impostors",
+  "date": "2026-02-04",
+  "title": "Short Fiction",
   "author": "Arthur Machen",
-  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
   "subjects": [
     "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-02-03",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2026-02-04",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-03",
-  "title": "Lady Audley’s Secret",
-  "author": "M. E. Braddon",
-  "summary": "When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret",
+  "date": "2026-02-04",
+  "title": "Lost Man’s Lane",
+  "author": "Anna Katharine Green",
+  "summary": "A citizen detective investigates mysterious disappearances in an isolated village.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-katharine-green/lost-mans-lane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-katharine-green/lost-mans-lane",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,7 +169,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "title": "The Path to Rome",
   "author": "Hilaire Belloc",
   "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
@@ -184,26 +184,25 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-03",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "date": "2026-02-04",
+  "title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-03",
-  "title": "Poetry",
-  "author": "John Keats",
-  "summary": "A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-keats/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-keats/poetry",
+  "date": "2026-02-04",
+  "title": "A Cycle of the West",
+  "author": "John G. Neihardt",
+  "summary": "A series of epic poems that recounts the history, legends, and mythology of the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
   "subjects": [
     "poetry"
   ]
@@ -211,7 +210,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "title": "The Coming of Bill",
   "author": "P. G. Wodehouse",
   "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
@@ -224,7 +223,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "title": "Short Fiction",
   "author": "H. G. Wells",
   "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
@@ -238,12 +237,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-03",
-  "title": "Short Fiction",
+  "date": "2026-02-04",
+  "title": "School Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -253,20 +252,22 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-03",
-  "title": "The Pursuit of God",
-  "author": "A. W. Tozer",
-  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
+  "date": "2026-02-04",
+  "title": "The City of God",
+  "author": "Augustine of Hippo",
+  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
+  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
   "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "title": "A Negro Explorer at the North Pole",
   "author": "Matthew Henson",
   "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
