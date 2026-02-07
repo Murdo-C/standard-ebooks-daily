@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "title": "At the Mountains of Madness",
   "author": "H. P. Lovecraft",
   "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
@@ -16,26 +16,27 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-06",
-  "title": "Kim",
-  "author": "Rudyard Kipling",
-  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+  "date": "2026-02-07",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
   "subjects": [
     "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-06",
-  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
-  "author": "Mary Seacole",
-  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
+  "date": "2026-02-07",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -44,26 +45,28 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-02-06",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-02-07",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-06",
-  "title": "Emily of New Moon",
+  "date": "2026-02-07",
+  "title": "Anne of Green Gables",
   "author": "L. M. Montgomery",
-  "summary": "A budding poetess and orphan goes to live with her estranged aunts.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
   "subjects": [
     "childrens",
     "fiction"
@@ -72,147 +75,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-06",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
-  "subjects": [
-    "comedy",
-    "fantasy",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-02-06",
-  "title": "Troilus and Cressida",
-  "author": "William Shakespeare",
-  "summary": "A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-02-06",
-  "title": "The Wonderful Visit",
-  "author": "H. G. Wells",
-  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-02-06",
-  "title": "The Mystery of Orcival",
-  "author": "Émile Gaboriau",
-  "summary": "A countess is murdered and suspects are quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-02-06",
-  "title": "The King in Yellow",
-  "author": "Robert W. Chambers",
-  "summary": "Ten short stories of madness, hauntings, romance, and art.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
-  "subjects": [
-    "horror",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-02-06",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-02-06",
-  "title": "Murder in the Gunroom",
-  "author": "H. Beam Piper",
-  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-02-06",
-  "title": "The Public and Its Problems",
-  "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-02-06",
-  "title": "Essays",
-  "author": "Ralph Waldo Emerson",
-  "summary": "A collection of Ralph Waldo Emerson’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-02-06",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
-  "subjects": [
-    "poetry",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "title": "Jack Keefe Stories",
   "author": "Ring Lardner",
   "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
@@ -228,13 +91,152 @@
 }
 ,
 {
-  "genre": "science_fiction",
-  "date": "2026-02-06",
-  "title": "Space Viking",
+  "genre": "drama",
+  "date": "2026-02-07",
+  "title": "Twelfth Night",
+  "author": "William Shakespeare",
+  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-02-07",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
+  "subjects": [
+    "childrens",
+    "fantasy",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-02-07",
+  "title": "The Mystery of Orcival",
+  "author": "Émile Gaboriau",
+  "summary": "A countess is murdered and suspects are quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-02-07",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "summary": "Ten short stories of madness, hauntings, romance, and art.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+  "subjects": [
+    "horror",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-02-07",
+  "title": "Essays",
+  "author": "Henry David Thoreau",
+  "summary": "A collection of Henry David Thoreau’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "subjects": [
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-02-07",
+  "title": "Murder in the Gunroom",
   "author": "H. Beam Piper",
-  "summary": "A tragic starfarer seeks revenge in this epic space opera.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/space-viking/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/space-viking",
+  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-02-07",
+  "title": "Human Nature and Conduct",
+  "author": "John Dewey",
+  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-02-07",
+  "title": "Dialogues",
+  "author": "Plato",
+  "summary": "A collection of Plato’s dialogues.",
+  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-02-07",
+  "title": "Poetry",
+  "author": "John Keats",
+  "summary": "A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-keats/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-keats/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-02-07",
+  "title": "The Little Nugget",
+  "author": "P. G. Wodehouse",
+  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
+  "subjects": [
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-02-07",
+  "title": "Four-Day Planet",
+  "author": "H. Beam Piper",
+  "summary": "A young reporter gets caught up in intrigue and adventure chasing tallow-wax bounties with the monster hunters on Fenris, a planet with a two-thousand-hour day and four-day year.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/four-day-planet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/four-day-planet",
   "subjects": [
     "science_fiction"
   ]
@@ -242,7 +244,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "title": "Short Fiction",
   "author": "P. G. Wodehouse",
   "summary": "A collection of P. G. Wodehouse’s short fiction.",
@@ -257,28 +259,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-06",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-02-07",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
-    "drama",
-    "poetry",
-    "spirituality"
+    "nonfiction",
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-02-06",
-  "title": "Two Years Before the Mast",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
+  "date": "2026-02-07",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
