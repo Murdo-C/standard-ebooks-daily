@@ -1,21 +1,20 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-10",
-  "title": "Allan Quatermain",
-  "author": "H. Rider Haggard",
-  "summary": "Adventurer Allan Quatermain sets out on a mission to Africa to locate a mysterious tribe of white-skinned people.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain",
+  "date": "2026-02-11",
+  "title": "A Popular Schoolgirl",
+  "author": "Angela Brazil",
+  "summary": "A schoolgirl navigates a difficult year after a new girl has inadvertently assumed her mantle.",
+  "coverUrl": "https://standardebooks.org/ebooks/angela-brazil/a-popular-schoolgirl/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/angela-brazil/a-popular-schoolgirl",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "title": "The Black Arrow",
   "author": "Robert Louis Stevenson",
   "summary": "During the War of the Roses, a young knight must rescue his lady and find out who killed his father.",
@@ -29,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-10",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "date": "2026-02-11",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "summary": "The autobiography of English philosopher John Stuart Mill.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
   "subjects": [
     "autobiography"
   ]
@@ -42,12 +41,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-02-10",
-  "title": "Queen Victoria",
+  "date": "2026-02-11",
+  "title": "Eminent Victorians",
   "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,40 +55,41 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-10",
-  "title": "Ozma of Oz",
+  "date": "2026-02-11",
+  "title": "Dorothy and the Wizard in Oz",
   "author": "L. Frank Baum",
-  "summary": "A girl gets whisked away to a fairy land and helps restore the proper rulers to the throne.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz",
+  "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-10",
-  "title": "Uneasy Money",
+  "date": "2026-02-11",
+  "title": "Ukridge Stories",
   "author": "P. G. Wodehouse",
-  "summary": "When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money",
+  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-02-10",
-  "title": "The Winter’s Tale",
+  "date": "2026-02-11",
+  "title": "Timon of Athens",
   "author": "William Shakespeare",
-  "summary": "A king’s unfounded jealousy destroys his family and kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale",
+  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
   "subjects": [
     "drama"
   ]
@@ -97,56 +97,55 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-10",
-  "title": "Lilith",
+  "date": "2026-02-11",
+  "title": "At the Back of the North Wind",
   "author": "George MacDonald",
-  "summary": "After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith",
+  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-10",
-  "title": "The Mystery of Orcival",
-  "author": "Émile Gaboriau",
-  "summary": "A countess is murdered and suspects are quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams",
+  "date": "2026-02-11",
+  "title": "Shorts from Scenes from Private Life",
+  "author": "Honoré de Balzac",
+  "summary": "Short fiction from the “Scenes from Private Life” section of Balzac’s Human Comedy.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators",
   "subjects": [
     "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-02-10",
-  "title": "Short Fiction",
-  "author": "Henry Kuttner",
-  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
-  "subjects": [
-    "horror",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "memoir",
-  "date": "2026-02-10",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "genre": "horror",
+  "date": "2026-02-11",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
-    "biography",
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-02-11",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "subjects": [
     "memoir",
     "nonfiction",
     "travel"
@@ -155,40 +154,39 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-10",
-  "title": "The Secret of Chimneys",
-  "author": "Agatha Christie",
-  "summary": "A murder at a country house embroils its weekend guests in an international regicide, while a famous jewel thief may be lurking among them.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-of-chimneys/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-of-chimneys",
+  "date": "2026-02-11",
+  "title": "The Hidden Staircase",
+  "author": "Carolyn Keene",
+  "summary": "A young amateur detective investigates a supposed haunting.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
   "subjects": [
-    "fiction",
+    "childrens",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-10",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "date": "2026-02-11",
+  "title": "How the Other Half Lives",
+  "author": "Jacob Riis",
+  "summary": "A social reformer documents the living conditions of the poor in the tenements of New York City.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-10",
-  "title": "Tusculan Disputations",
-  "author": "Cicero",
-  "summary": "Cicero gives practical guidance for living wisely and well by adopting a Stoic outlook and concentrating on the virtues.",
-  "coverUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge",
+  "date": "2026-02-11",
+  "title": "Short Works",
+  "author": "Epictetus",
+  "summary": "A collection of Epictetus’s short works.",
+  "coverUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long",
   "subjects": [
     "philosophy"
   ]
@@ -196,20 +194,21 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-10",
-  "title": "The Columbiad",
-  "author": "Joel Barlow",
-  "summary": "Columbus is shown a history of the western hemisphere since his discoveries.",
-  "coverUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad",
+  "date": "2026-02-11",
+  "title": "Cane",
+  "author": "Jean Toomer",
+  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
   "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "title": "The Works of Max Beerbohm",
   "author": "Max Beerbohm",
   "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
@@ -223,12 +222,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-10",
-  "title": "The Stainless Steel Rat",
+  "date": "2026-02-11",
+  "title": "Planet of the Damned",
   "author": "Harry Harrison",
-  "summary": "An intergalactic thief tries life on the side of the law.",
-  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat",
+  "summary": "A planetary champion finds himself employed to solve another planet’s pressing problem.",
+  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned",
   "subjects": [
     "science_fiction"
   ]
@@ -236,12 +235,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-10",
-  "title": "Jeeves Stories",
+  "date": "2026-02-11",
+  "title": "Golf Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -251,29 +250,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-10",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2026-02-11",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "summary": "Prose poems of offering translated by the author from the original Bengali.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
   "subjects": [
-    "nonfiction",
-    "philosophy",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-02-10",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-02-11",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "memoir",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
