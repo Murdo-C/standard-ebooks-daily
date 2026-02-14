@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "title": "The Able McLaughlins",
   "author": "Margaret Wilson",
   "summary": "The eldest son of Scottish immigrants farming the Iowa prairie struggles to help his soon-to-be wife recover from the violent act that could ruin both of their lives.",
@@ -14,56 +14,56 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-13",
-  "title": "Treasure Island",
+  "date": "2026-02-14",
+  "title": "The Black Arrow",
   "author": "Robert Louis Stevenson",
-  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "summary": "During the War of the Roses, a young knight must rescue his lady and find out who killed his father.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-13",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2026-02-14",
+  "title": "Our Nig",
+  "author": "Harriet E. Wilson",
+  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
   "subjects": [
     "autobiography",
-    "memoir",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-02-13",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-02-14",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-13",
-  "title": "Alice’s Adventures in Wonderland",
-  "author": "Lewis Carroll",
-  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
+  "date": "2026-02-14",
+  "title": "The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "summary": "Four animals adventure through the bucolic English countryside.",
+  "coverUrl": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows",
   "subjects": [
     "childrens",
     "fiction"
@@ -72,27 +72,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-13",
-  "title": "Short Fiction",
+  "date": "2026-02-14",
+  "title": "Something New",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
     "comedy",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-02-13",
-  "title": "Timon of Athens",
+  "date": "2026-02-14",
+  "title": "The Comedy of Errors",
   "author": "William Shakespeare",
-  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+  "summary": "Two sets of identical twins are mistaken for their lost siblings.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors",
   "subjects": [
     "drama"
   ]
@@ -100,25 +99,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-13",
-  "title": "The Worm Ouroboros",
-  "author": "E. R. Eddison",
-  "summary": "The King Gorice of Witchland and the lords of Demonland wage war in the high-fantasy lands of Mercury.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros",
+  "date": "2026-02-14",
+  "title": "The Story of the Amulet",
+  "author": "E. Nesbit",
+  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-13",
-  "title": "Mr. Standfast",
+  "date": "2026-02-14",
+  "title": "Greenmantle",
   "author": "John Buchan",
-  "summary": "An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast",
+  "summary": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle",
   "subjects": [
     "adventure",
     "fiction"
@@ -127,29 +127,26 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-02-13",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2026-02-14",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "fantasy",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-02-13",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-02-14",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
-    "adventure",
-    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -157,52 +154,54 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-13",
-  "title": "The Bungalow Mystery",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective investigates a new friend’s abusive guardian.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+  "date": "2026-02-14",
+  "title": "The Sign of the Four",
+  "author": "Arthur Conan Doyle",
+  "summary": "An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four",
   "subjects": [
-    "childrens",
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-13",
-  "title": "Histories",
-  "author": "Herodotus",
-  "summary": "Herodotus recounts the history and geography of the ancient world.",
-  "coverUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
+  "date": "2026-02-14",
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "summary": "Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-13",
-  "title": "The American Crisis",
-  "author": "Thomas Paine",
-  "summary": "A collection of articles written during the American Revolutionary War that outline Paine’s support for a self-governing America.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis",
+  "date": "2026-02-14",
+  "title": "The Religion of Nature Delineated",
+  "author": "William Wollaston",
+  "summary": "Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "title": "Poetry",
-  "author": "James McIntyre",
-  "summary": "A collection of poetry by James McIntyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry",
+  "author": "James Joyce",
+  "summary": "A collection of James Joyce’s poetry, ordered by date of first publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/poetry",
   "subjects": [
     "poetry"
   ]
@@ -210,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-02-13",
-  "title": "Northanger Abbey",
-  "author": "Jane Austen",
-  "summary": "A young girl with an overactive imagination comes of age.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+  "date": "2026-02-14",
+  "title": "Martin Eden",
+  "author": "Jack London",
+  "summary": "A young working-class man sets out to become a bourgeois writer.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
   "subjects": [
     "fiction",
     "satire"
@@ -224,12 +223,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-13",
-  "title": "The Big Time",
-  "author": "Fritz Leiber",
-  "summary": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
+  "date": "2026-02-14",
+  "title": "Plague of Pythons",
+  "author": "Frederik Pohl",
+  "summary": "A man navigates a world torn apart by bouts of spontaneous, unexplained possessions.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
   "subjects": [
     "science_fiction"
   ]
@@ -237,29 +236,28 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-13",
-  "title": "Short Fiction",
-  "author": "H. G. Wells",
-  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+  "date": "2026-02-14",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "science_fiction",
+    "childrens",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-13",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-02-14",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
-    "autobiography",
-    "memoir",
     "nonfiction",
     "philosophy",
     "spirituality"
@@ -268,16 +266,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-02-13",
-  "title": "The Four Men",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "date": "2026-02-14",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "comedy",
-    "fiction",
-    "spirituality",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
