@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-15",
-  "title": "The Able McLaughlins",
-  "author": "Margaret Wilson",
-  "summary": "The eldest son of Scottish immigrants farming the Iowa prairie struggles to help his soon-to-be wife recover from the violent act that could ruin both of their lives.",
-  "coverUrl": "https://standardebooks.org/ebooks/margaret-wilson/the-able-mclaughlins/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/margaret-wilson/the-able-mclaughlins",
+  "date": "2026-02-16",
+  "title": "Miss Marjoribanks",
+  "author": "Margaret Oliphant",
+  "summary": "A young woman sets out to revolutionize the moribund social life of a small English town.",
+  "coverUrl": "https://standardebooks.org/ebooks/margaret-oliphant/miss-marjoribanks/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/margaret-oliphant/miss-marjoribanks",
   "subjects": [
     "fiction"
   ]
@@ -14,39 +14,41 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-15",
-  "title": "The Master of Ballantrae",
+  "date": "2026-02-16",
+  "title": "Catriona",
   "author": "Robert Louis Stevenson",
-  "summary": "The relationship of two noble brothers is blighted by hostility and vengeance in Jacobite Scotland.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
     "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-15",
-  "title": "Geronimo’s Story of His Life",
-  "author": "Geronimo",
-  "summary": "The Apache war chief Geronimo recounts the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
+  "date": "2026-02-16",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-02-15",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-02-16",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -55,55 +57,52 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-15",
-  "title": "Indian Fairy Tales",
-  "author": "Joseph Jacobs",
-  "summary": "A collection of fairy tales that exhibits India’s rich folk tale tradition.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales",
+  "date": "2026-02-16",
+  "title": "Heidi",
+  "author": "Johanna Spyri",
+  "summary": "A small girl is left with her grandfather and falls in love with his alpine home.",
+  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork",
   "subjects": [
     "childrens",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-15",
-  "title": "Mr. Mulliner Stories",
+  "date": "2026-02-16",
+  "title": "Psmith in the City",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories",
+  "summary": "A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
   "subjects": [
-    "comedy",
-    "fiction",
-    "shorts"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-02-15",
-  "title": "The Merchant of Venice",
+  "date": "2026-02-16",
+  "title": "The Merry Wives of Windsor",
   "author": "William Shakespeare",
-  "summary": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice",
+  "summary": "Sir John Falstaff runs astray of the denizens of Windsor by trying to seduce several local wives at once.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-15",
-  "title": "The Phoenix and the Carpet",
+  "date": "2026-02-16",
+  "title": "The Magic City",
   "author": "E. Nesbit",
-  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
   "subjects": [
     "childrens",
     "fantasy"
@@ -112,12 +111,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-15",
-  "title": "Greenmantle",
+  "date": "2026-02-16",
+  "title": "Huntingtower",
   "author": "John Buchan",
-  "summary": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle",
+  "summary": "A retired grocer seeking a change in his mundane life finds more than he bargained for when he’s asked to aid in the rescue of an imprisoned Russian princess.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/huntingtower/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/huntingtower",
   "subjects": [
     "adventure",
     "fiction"
@@ -126,69 +125,69 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-02-15",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-02-16",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-02-15",
-  "title": "My Four Weeks in France",
-  "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "date": "2026-02-16",
+  "title": "Now It Can Be Told",
+  "author": "Philip Gibbs",
+  "summary": "A British war correspondent recalls his experiences during the Great War.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
   "subjects": [
-    "comedy",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-15",
-  "title": "The Valley of Fear",
+  "date": "2026-02-16",
+  "title": "The Memoirs of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-15",
-  "title": "Progress and Poverty",
-  "author": "Henry George",
-  "summary": "An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty",
+  "date": "2026-02-16",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
+    "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-15",
-  "title": "Pragmatism",
+  "date": "2026-02-16",
+  "title": "A Pluralistic Universe",
   "author": "William James",
-  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
+  "summary": "A philosopher gives an introduction to radical empiricism and how it relates to the experienced world.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -197,12 +196,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-15",
-  "title": "The Iliad",
-  "author": "Homer",
-  "summary": "The epic poem which follows a Greek warrior who refuses to give up his prize of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant",
+  "date": "2026-02-16",
+  "title": "Poetry",
+  "author": "Henry van Dyke Jr.",
+  "summary": "A collection of poems by the American author, educator, and clergyman Henry van Dyke Jr., exploring themes of nature, faith, love, and patriotism.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry",
   "subjects": [
     "poetry"
   ]
@@ -210,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-02-15",
-  "title": "The Mercy of Allah",
-  "author": "Hilaire Belloc",
-  "summary": "An entrepreneurial businessman satirically relates to his nephews how he became the wealthiest man in Baghdad.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah",
+  "date": "2026-02-16",
+  "title": "Democracy",
+  "author": "Henry Adams",
+  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
   "subjects": [
     "fiction",
     "satire"
@@ -224,39 +223,40 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-15",
-  "title": "Short Fiction",
+  "date": "2026-02-16",
+  "title": "Search the Sky",
   "author": "Frederik Pohl",
-  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+  "summary": "A man visits several worlds as he attempts to discover why humanity is dying out.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-15",
-  "title": "While the Billy Boils",
-  "author": "Henry Lawson",
-  "summary": "A short story collection based on Australian colonial life in 1890s.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
+  "date": "2026-02-16",
+  "title": "Call Mr. Fortune",
+  "author": "H. C. Bailey",
+  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
   "subjects": [
+    "fiction",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-15",
-  "title": "A Confession",
-  "author": "Leo Tolstoy",
-  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+  "date": "2026-02-16",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
   "subjects": [
     "philosophy",
     "spirituality"
@@ -265,12 +265,12 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-02-15",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-02-16",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
     "adventure",
     "nonfiction",
