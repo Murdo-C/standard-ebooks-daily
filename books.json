@@ -1,20 +1,20 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-17",
-  "title": "Phoebe, Junior",
-  "author": "Margaret Oliphant",
-  "summary": "The friendship between the daughters of a dissenting minister and an Anglican clergyman tests boundaries of class and wealth.",
-  "coverUrl": "https://standardebooks.org/ebooks/margaret-oliphant/phoebe-junior/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/margaret-oliphant/phoebe-junior",
+  "date": "2026-02-18",
+  "title": "The Hashish Eater",
+  "author": "Fitz Hugh Ludlow",
+  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
+  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
   "subjects": [
-    "fiction"
+    "memoir"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "title": "Kidnapped",
   "author": "Robert Louis Stevenson",
   "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
@@ -29,26 +29,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-17",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2026-02-18",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-02-17",
-  "title": "Queen Victoria",
+  "date": "2026-02-18",
+  "title": "Eminent Victorians",
   "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -57,12 +57,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-17",
-  "title": "Cornelli",
-  "author": "Johanna Spyri",
-  "summary": "A young girl’s emotional hurt requires time and love to heal.",
-  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork",
+  "date": "2026-02-18",
+  "title": "The Swiss Family Robinson",
+  "author": "Johann David Wyss",
+  "summary": "A Swiss family is shipwrecked on a remote island in the East Indies.",
+  "coverUrl": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,20 +71,22 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-17",
-  "title": "Psmith, Journalist",
+  "date": "2026-02-18",
+  "title": "Jeeves Stories",
   "author": "P. G. Wodehouse",
-  "summary": "Psmith, visiting New York with Mike on a cricket tour, finds entertainment and trouble for himself in the newspaper business, stirring up trouble with New York’s notorious gangs.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-journalist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-journalist",
+  "summary": "A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
   "subjects": [
-    "comedy"
+    "comedy",
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "title": "The Taming of the Shrew",
   "author": "William Shakespeare",
   "summary": "An unmarriageable shrew receives a marriage proposal.",
@@ -97,26 +99,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-17",
-  "title": "Harding’s Luck",
-  "author": "E. Nesbit",
-  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
+  "date": "2026-02-18",
+  "title": "Beyond Thirty",
+  "author": "Edgar Rice Burroughs",
+  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "adventure",
+    "fantasy",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-17",
-  "title": "Midwinter",
-  "author": "John Buchan",
-  "summary": "Treachery threatens a planned Jacobite uprising, but one of its leading agents can’t work out the identity of the culprit.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/midwinter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/midwinter",
+  "date": "2026-02-18",
+  "title": "The Rainbow",
+  "author": "D. H. Lawrence",
+  "summary": "Three generations of an English family struggle to adapt in a society rapidly changed by industrialization.",
+  "coverUrl": "https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow",
   "subjects": [
     "fiction"
   ]
@@ -124,26 +127,26 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-02-17",
-  "title": "Short Fiction",
-  "author": "M. R. James",
-  "summary": "A collection of ghost stories written by M. R. James.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
+  "date": "2026-02-18",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "summary": "A tragic scientist creates a monster in his laboratory.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
   "subjects": [
     "horror",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-02-17",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2026-02-18",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -152,12 +155,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-17",
-  "title": "The Return of Sherlock Holmes",
+  "date": "2026-02-18",
+  "title": "His Last Bow",
   "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective returns to London after having faked his death some years before, and investigates a series of baffling mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+  "summary": "The world’s first consulting detective and his faithful biographer tackle more mysterious cases.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow",
   "subjects": [
     "fiction",
     "mystery",
@@ -167,21 +170,22 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-17",
-  "title": "What’s Wrong with the World",
+  "date": "2026-02-18",
+  "title": "The Everlasting Man",
   "author": "G. K. Chesterton",
-  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
   "subjects": [
     "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "title": "Darkwater",
   "author": "W. E. B. Du Bois",
   "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
@@ -195,7 +199,7 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "title": "Poetry",
   "author": "Georgia Douglas Johnson",
   "summary": "A collection of poems by Georgia Douglas Johnson.",
@@ -208,12 +212,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-02-17",
-  "title": "Evelina",
-  "author": "Fanny Burney",
-  "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
-  "coverUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina",
+  "date": "2026-02-18",
+  "title": "Vile Bodies",
+  "author": "Evelyn Waugh",
+  "summary": "A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies",
   "subjects": [
     "fiction",
     "satire"
@@ -222,7 +226,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "title": "Short Fiction",
   "author": "Frank Belknap Long",
   "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
@@ -237,44 +241,44 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-17",
-  "title": "The Secret of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "The fourth set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-secret-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-secret-of-father-brown",
+  "date": "2026-02-18",
+  "title": "Children’s Stories",
+  "author": "Oscar Wilde",
+  "summary": "A collection of Oscar Wilde’s children’s stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories",
   "subjects": [
-    "fiction",
-    "mystery",
+    "childrens",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-17",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "date": "2026-02-18",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "fiction",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-02-17",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2026-02-18",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
-    "comedy",
-    "fiction",
+    "nonfiction",
+    "spirituality",
     "travel"
   ]
 }
