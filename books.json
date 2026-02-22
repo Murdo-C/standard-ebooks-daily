@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-21",
-  "title": "Framley Parsonage",
-  "author": "Anthony Trollope",
-  "summary": "A young vicar with an aristocratic patron foolishly becomes mired in debt.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage",
+  "date": "2026-02-22",
+  "title": "A Little Princess",
+  "author": "Frances Hodgson Burnett",
+  "summary": "A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess",
   "subjects": [
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-21",
-  "title": "Lorna Doone",
-  "author": "R. D. Blackmore",
-  "summary": "A young yeoman farmer falls in love with a beautiful girl who belongs to the outlaw clan which killed his father.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone",
+  "date": "2026-02-22",
+  "title": "Captain Blood",
+  "author": "Rafael Sabatini",
+  "summary": "An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-21",
-  "title": "The Autobiography of Calvin Coolidge",
-  "author": "Calvin Coolidge",
-  "summary": "The thirtieth president of the United States recounts his life story.",
-  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
+  "date": "2026-02-22",
+  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
+  "author": "Black Hawk",
+  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
+  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
   "subjects": [
     "autobiography"
   ]
@@ -41,36 +42,35 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-02-21",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-02-22",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-21",
-  "title": "Pollyanna",
-  "author": "Eleanor H. Porter",
-  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
+  "date": "2026-02-22",
+  "title": "Driven Back to Eden",
+  "author": "Edward Payson Roe",
+  "summary": "A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden",
   "subjects": [
-    "childrens"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "title": "Mike",
   "author": "P. G. Wodehouse",
   "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
@@ -83,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-02-21",
-  "title": "Richard III",
+  "date": "2026-02-22",
+  "title": "Romeo and Juliet",
   "author": "William Shakespeare",
-  "summary": "King Edward IV’s brother, Richard of Gloucester, ascends to the English throne through deadly machinations.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-iii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-iii",
+  "summary": "The children of two opposing houses fall in love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/romeo-and-juliet",
   "subjects": [
     "drama"
   ]
@@ -96,71 +96,68 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-21",
-  "title": "Short Fiction",
-  "author": "Clark Ashton Smith",
-  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
+  "date": "2026-02-22",
+  "title": "On a Pincushion",
+  "author": "Mary De Morgan",
+  "summary": "The first collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
   "subjects": [
     "fantasy",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-21",
-  "title": "Jane Eyre",
-  "author": "Charlotte Brontë",
-  "summary": "A woman is hired by the mysterious master of Thornfield Hall as a governess for his young ward.",
-  "coverUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre",
+  "date": "2026-02-22",
+  "title": "Jeeves Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
   "subjects": [
-    "fiction"
+    "comedy",
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-02-21",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2026-02-22",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "fantasy",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-02-21",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-02-22",
+  "title": "Incidents in the Life of a Slave Girl",
+  "author": "Linda Brent",
+  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
+  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-21",
-  "title": "The Hound of the Baskervilles",
-  "author": "Arthur Conan Doyle",
-  "summary": "A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+  "date": "2026-02-22",
+  "title": "The Dain Curse",
+  "author": "Dashiell Hammett",
+  "summary": "A detective assigned to investigate a diamond theft finds himself entangled by a family curse.",
+  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-dain-curse/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-dain-curse",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,26 +166,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-21",
-  "title": "Unspoken Sermons",
-  "author": "George MacDonald",
-  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
+  "date": "2026-02-22",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "nonfiction",
-    "spirituality"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-21",
-  "title": "The Rights of Man",
+  "date": "2026-02-22",
+  "title": "Essays",
   "author": "Thomas Paine",
-  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
+  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
   "subjects": [
     "philosophy"
   ]
@@ -196,12 +193,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "title": "Poetry",
-  "author": "Frances Ellen Watkins Harper",
-  "summary": "A collection of poems by Frances Ellen Watkins Harper.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
+  "author": "Fernando Pessoa",
+  "summary": "A collection of Fernando Pessoa’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
   "subjects": [
     "poetry"
   ]
@@ -209,7 +206,20 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-02-21",
+  "date": "2026-02-22",
+  "title": "The Indiscreet Jewels",
+  "author": "Denis Diderot",
+  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
+  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
+  "subjects": [
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-02-22",
   "title": "Looking Backward",
   "author": "Edward Bellamy",
   "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
@@ -222,21 +232,8 @@
 }
 ,
 {
-  "genre": "science_fiction",
-  "date": "2026-02-21",
-  "title": "The Coming Race",
-  "author": "Edward Bulwer-Lytton",
-  "summary": "While exploring a mine, a man falls through a chasm into an underground world populated by a mysterious race.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
   "genre": "shorts",
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "title": "Short Fiction",
   "author": "Anton Chekhov",
   "summary": "A collection of Chekhov’s short stories and novellas ordered by date of publication.",
@@ -250,15 +247,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-21",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-02-22",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
-    "autobiography",
-    "memoir",
     "nonfiction",
     "philosophy",
     "spirituality"
@@ -267,13 +262,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-02-21",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2026-02-22",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
     "nonfiction",
     "travel"
