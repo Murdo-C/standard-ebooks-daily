@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "title": "Parnassus on Wheels",
   "author": "Christopher Morley",
   "summary": "39-year-old Helen McGill—disgruntled with her life tending to her brother and his farm—becomes the unlikely owner of a traveling bookseller’s wagon, and travels across the New England countryside spreading love and the joy of reading.",
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-23",
-  "title": "The Sea Hawk",
+  "date": "2026-02-24",
+  "title": "Bellarion the Fortunate",
   "author": "Rafael Sabatini",
-  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
-  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
+  "summary": "An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,55 +28,53 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-23",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2026-02-24",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
   "subjects": [
     "autobiography",
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-02-23",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-02-24",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-02-23",
-  "title": "Understood Betsy",
-  "author": "Dorothy Canfield Fisher",
-  "summary": "A young girl discovers independence, responsibility, and newfound confidence after being sent to live in a farmhouse with her extended family.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy",
+  "date": "2026-02-24",
+  "title": "The Water-Babies",
+  "author": "Charles Kingsley",
+  "summary": "A young, uneducated, and mistreated chimney sweep is reborn as a denizen of the fairy world, beginning a journey of moral and spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies",
   "subjects": [
-    "childrens",
-    "fiction"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-02-23",
-  "title": "A Gentleman of Leisure",
+  "date": "2026-02-24",
+  "title": "A Prefect’s Uncle",
   "author": "P. G. Wodehouse",
-  "summary": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure",
+  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-02-23",
-  "title": "Macbeth",
+  "date": "2026-02-24",
+  "title": "Measure for Measure",
   "author": "William Shakespeare",
-  "summary": "An ambitious general murders the King of Scotland and takes the throne for himself—and then he must deal with the consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/macbeth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/macbeth",
+  "summary": "A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure",
   "subjects": [
     "drama"
   ]
@@ -98,21 +96,21 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-02-23",
-  "title": "The Book of Wonder",
-  "author": "Lord Dunsany",
-  "summary": "A collection of fantastical short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
+  "date": "2026-02-24",
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "title": "Jeeves Stories",
   "author": "P. G. Wodehouse",
   "summary": "A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.",
@@ -127,40 +125,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-02-23",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-02-24",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-02-23",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2026-02-24",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-02-23",
-  "title": "Red Harvest",
-  "author": "Dashiell Hammett",
-  "summary": "A hard-boiled detective arrives at a small mining town only to find his client murdered and the inhabitants embroiled in complex webs of corruption.",
-  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/red-harvest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/red-harvest",
+  "date": "2026-02-24",
+  "title": "The Clue",
+  "author": "Carolyn Wells",
+  "summary": "A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-wells/the-clue/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-wells/the-clue",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,34 +167,35 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-23",
-  "title": "Practical Mysticism",
-  "author": "Evelyn Underhill",
-  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
-  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
+  "date": "2026-02-24",
+  "title": "A Daughter of the Samurai",
+  "author": "Etsu Inagaki Sugimoto",
+  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
+  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
   "subjects": [
-    "nonfiction",
-    "spirituality"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-23",
-  "title": "The Age of Reason",
-  "author": "Thomas Paine",
-  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+  "date": "2026-02-24",
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "summary": "Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "title": "Poetry",
   "author": "Wilfred Owen",
   "summary": "A collection of Wilfred Owen’s published poems.",
@@ -209,14 +208,13 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-02-23",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2026-02-24",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -224,12 +222,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-23",
-  "title": "The Moon Maid",
+  "date": "2026-02-24",
+  "title": "Pellucidar",
   "author": "Edgar Rice Burroughs",
-  "summary": "A young man travels to the moon with a group of companions and discovers that it’s inhabited; in subsequent centuries, reincarnations of the same man deal with an invasion of the Earth by the malevolent inhabitants of the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid",
+  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
   "subjects": [
     "science_fiction"
   ]
@@ -237,12 +235,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "title": "Short Fiction",
-  "author": "Ivan Bunin",
-  "summary": "A collection of Ivan Bunin’s translated short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/ivan-bunin/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ivan-bunin/short-fiction/various-translators",
+  "author": "Anton Chekhov",
+  "summary": "A collection of Chekhov’s short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett",
   "subjects": [
     "fiction",
     "shorts"
@@ -251,12 +249,12 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-23",
-  "title": "A Confession",
-  "author": "Leo Tolstoy",
-  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+  "date": "2026-02-24",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
   "subjects": [
     "philosophy",
     "spirituality"
@@ -265,15 +263,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-02-23",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-02-24",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
