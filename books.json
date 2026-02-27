@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-02-26",
-  "title": "A House of Gentlefolk",
-  "author": "Ivan Turgenev",
-  "summary": "After his marriage fails, a Russian nobleman returns to his family estate and falls in love with the devout daughter of his cousin, who encourages him to reconcile with his wife.",
-  "coverUrl": "https://standardebooks.org/ebooks/ivan-turgenev/a-house-of-gentlefolk/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ivan-turgenev/a-house-of-gentlefolk/constance-garnett",
+  "date": "2026-02-27",
+  "title": "The Big Bow Mystery",
+  "author": "Israel Zangwill",
+  "summary": "A seemingly impossible murder committed during the trade union movement becomes the obsession of London’s Bow district.",
+  "coverUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery",
   "subjects": [
-    "fiction"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-02-26",
-  "title": "The Sea Hawk",
+  "date": "2026-02-27",
+  "title": "Bellarion the Fortunate",
   "author": "Rafael Sabatini",
-  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
-  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
+  "summary": "An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-02-26",
-  "title": "The Diary",
-  "author": "Samuel Pepys",
-  "summary": "The diary of a man living in London in the 17th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
+  "date": "2026-02-27",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,110 +42,14 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-02-26",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-02-27",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-02-26",
-  "title": "The Adventures of Pinocchio",
-  "author": "Carlo Collodi",
-  "summary": "A wooden puppet comes to life and goes on adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
-  "subjects": [
-    "childrens"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-02-26",
-  "title": "Jurgen",
-  "author": "James Branch Cabell",
-  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
-  "subjects": [
-    "comedy",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-02-26",
-  "title": "Arms and the Man",
-  "author": "George Bernard Shaw",
-  "summary": "A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man",
-  "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-02-26",
-  "title": "Through the Looking-Glass",
-  "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
-  "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-02-26",
-  "title": "Pimpernel and Rosemary",
-  "author": "Baroness Orczy",
-  "summary": "A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-02-26",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
-  "subjects": [
-    "horror",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-02-26",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
-  "subjects": [
     "memoir",
     "nonfiction",
     "travel"
@@ -153,13 +57,107 @@
 }
 ,
 {
+  "genre": "childrens",
+  "date": "2026-02-27",
+  "title": "The Hidden Staircase",
+  "author": "Carolyn Keene",
+  "summary": "A young amateur detective investigates a supposed haunting.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
+  "subjects": [
+    "childrens",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-02-27",
+  "title": "Twelfth Night",
+  "author": "William Shakespeare",
+  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-02-27",
+  "title": "Candida",
+  "author": "George Bernard Shaw",
+  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-02-27",
+  "title": "The Little White Bird",
+  "author": "J. M. Barrie",
+  "summary": "A series of adventures in London, including those of the narrator and a little boy named David, and Peter Pan.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-02-27",
+  "title": "An Outback Marriage",
+  "author": "Banjo Paterson",
+  "summary": "A posh Englishwoman is sent to a station in New South Wales to learn the ropes, while a search for a lost son with a large inheritance is underway.",
+  "coverUrl": "https://standardebooks.org/ebooks/banjo-paterson/an-outback-marriage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/banjo-paterson/an-outback-marriage",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-02-27",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
+  "subjects": [
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-02-27",
+  "title": "A Personal Record",
+  "author": "Joseph Conrad",
+  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "mystery",
-  "date": "2026-02-26",
-  "title": "The Borough Treasurer",
+  "date": "2026-02-27",
+  "title": "Scarhaven Keep",
   "author": "J. S. Fletcher",
-  "summary": "When a retired detective is found murdered, two business partners in a small Yorkshire town become the prime suspects.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+  "summary": "A famous actor goes missing on the northern English sea coast.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/scarhaven-keep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/scarhaven-keep",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,70 +166,68 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-02-26",
-  "title": "The National Being",
-  "author": "George William Russell",
-  "summary": "An Irish writer presents his vision of an independent Irish nation.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-william-russell/the-national-being",
+  "date": "2026-02-27",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-02-26",
-  "title": "The Wealth of Nations",
-  "author": "Adam Smith",
-  "summary": "Adam Smith lays the foundation of classical economics.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+  "date": "2026-02-27",
+  "title": "Essays",
+  "author": "Ralph Waldo Emerson",
+  "summary": "A collection of Ralph Waldo Emerson’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-02-26",
-  "title": "Poetry",
-  "author": "Thomas Gray",
-  "summary": "A collection of poems by Thomas Gray.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry",
+  "date": "2026-02-27",
+  "title": "Festus",
+  "author": "Philip James Bailey",
+  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
   "subjects": [
-    "poetry"
+    "drama",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-02-26",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2026-02-27",
+  "title": "The Devil’s Dictionary",
+  "author": "Ambrose Bierce",
+  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
   "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-02-26",
-  "title": "The Moon Maid",
+  "date": "2026-02-27",
+  "title": "Pellucidar",
   "author": "Edgar Rice Burroughs",
-  "summary": "A young man travels to the moon with a group of companions and discovers that it’s inhabited; in subsequent centuries, reincarnations of the same man deal with an invasion of the Earth by the malevolent inhabitants of the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid",
+  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
   "subjects": [
     "science_fiction"
   ]
@@ -239,43 +235,42 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-02-26",
-  "title": "Continental Op Stories",
-  "author": "Dashiell Hammett",
-  "summary": "A collection of short stories about an unnamed agent of a detective agency in the early 1920’s.",
-  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories",
+  "date": "2026-02-27",
+  "title": "On a Pincushion",
+  "author": "Mary De Morgan",
+  "summary": "The first collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
   "subjects": [
-    "fiction",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-02-26",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "date": "2026-02-27",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-02-26",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-02-27",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
