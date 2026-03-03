@@ -1,26 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-02",
-  "title": "Bulldog Drummond",
-  "author": "H. C. McNeile",
-  "summary": "A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond",
+  "date": "2026-03-03",
+  "title": "An Outcast of the Islands",
+  "author": "Joseph Conrad",
+  "summary": "Disgraced in a scandal, a Dutch clerk flees to a river settlement on Borneo, where he is tempted by a native beauty.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-02",
-  "title": "Pimpernel and Rosemary",
+  "date": "2026-03-03",
+  "title": "El Dorado",
   "author": "Baroness Orczy",
-  "summary": "A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary",
+  "summary": "Two separate interests want to free the imprisoned Dauphin of France.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,83 +28,84 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-02",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2026-03-03",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-02",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-03-03",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "fiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-02",
-  "title": "The House of Arden",
-  "author": "E. Nesbit",
-  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "date": "2026-03-03",
+  "title": "Pollyanna Grows Up",
+  "author": "Eleanor H. Porter",
+  "summary": "Pollyanna recovers from an automobile accident with the help of a nearby dowager, before leaving the country to later return to rural Vermont.",
+  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-02",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-03-03",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
     "comedy",
-    "drama"
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-03-02",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-03-03",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
+    "comedy",
     "drama",
-    "poetry",
-    "spirituality"
+    "satire"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-02",
-  "title": "Lud-in-the-Mist",
-  "author": "Hope Mirrlees",
-  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
-  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
+  "date": "2026-03-03",
+  "title": "The Wonderful Visit",
+  "author": "H. G. Wells",
+  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
   "subjects": [
     "fantasy"
   ]
@@ -113,12 +113,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-02",
-  "title": "The Grand Babylon Hotel",
-  "author": "Arnold Bennett",
-  "summary": "An American millionaire’s spur-of-the-moment purchase of a hotel leads to the uncovering of a secret plot.",
-  "coverUrl": "https://standardebooks.org/ebooks/arnold-bennett/the-grand-babylon-hotel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arnold-bennett/the-grand-babylon-hotel",
+  "date": "2026-03-03",
+  "title": "Letters of Two Brides",
+  "author": "Honoré de Balzac",
+  "summary": "Two women write letters to tell each other about their lives and loves.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott",
   "subjects": [
     "fiction"
   ]
@@ -126,7 +126,7 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "title": "The Case of Charles Dexter Ward",
   "author": "H. P. Lovecraft",
   "summary": "A young scholar delves into his family past and finds more than he bargained for.",
@@ -139,12 +139,12 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-02",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2026-03-03",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -153,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-02",
-  "title": "Ashton-Kirk, Investigator",
-  "author": "John T. McIntyre",
-  "summary": "A young investigator becomes intrigued by the murder of a dislikeable numismatist.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator",
+  "date": "2026-03-03",
+  "title": "Strong Poison",
+  "author": "Dorothy L. Sayers",
+  "summary": "A gentleman detective works to exonerate a woman accused of poisoning her ex-lover.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,12 +167,25 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-02",
-  "title": "Darkwater",
+  "date": "2026-03-03",
+  "title": "The Souls of Black Folk",
   "author": "W. E. B. Du Bois",
-  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
+  "summary": "A seminal collection of essays on the African-American experience.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-03-03",
+  "title": "Roads to Freedom",
+  "author": "Bertrand Russell",
+  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -180,27 +193,13 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-03-02",
-  "title": "The Consolation of Philosophy",
-  "author": "Boethius",
-  "summary": "A Roman statesman awaiting execution is visited by the personification of philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james",
-  "subjects": [
-    "philosophy",
-    "poetry"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2026-03-02",
-  "title": "Orlando Furioso",
-  "author": "Ludovico Ariosto",
-  "summary": "A beautiful woman lures a knight away from his duty to protect Europe from invaders.",
-  "coverUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose",
+  "date": "2026-03-03",
+  "title": "Leaves of Grass",
+  "author": "Walt Whitman",
+  "summary": "The definitive collection of Walt Whitman’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass",
   "subjects": [
     "poetry"
   ]
@@ -208,7 +207,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "title": "Candide",
   "author": "Voltaire",
   "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
@@ -221,12 +220,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-02",
-  "title": "Islands of Space",
+  "date": "2026-03-03",
+  "title": "Invaders from the Infinite",
   "author": "John W. Campbell",
-  "summary": "Four men become the first humans to travel to other galaxies.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
+  "summary": "Three scientists join with an alien race to defeat an attacking force.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite",
   "subjects": [
     "science_fiction"
   ]
@@ -234,7 +233,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "title": "The Incredulity of Father Brown",
   "author": "G. K. Chesterton",
   "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
@@ -249,29 +248,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-02",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2026-03-03",
+  "title": "Polynesian Mythology",
+  "author": "George Grey",
+  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
   "subjects": [
     "nonfiction",
-    "spirituality",
-    "travel"
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-03-02",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2026-03-03",
+  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+  "author": "Mary Wollstonecraft",
+  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
