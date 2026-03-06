@@ -1,82 +1,83 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-05",
-  "title": "Conan Stories",
-  "author": "Robert E. Howard",
-  "summary": "A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-e-howard/conan-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-e-howard/conan-stories",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-03-05",
-  "title": "El Dorado",
-  "author": "Baroness Orczy",
-  "summary": "Two separate interests want to free the imprisoned Dauphin of France.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado",
+  "date": "2026-03-06",
+  "title": "The Coral Island",
+  "author": "R. M. Ballantyne",
+  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
   "subjects": [
     "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
-  "genre": "autobiography",
-  "date": "2026-03-05",
-  "title": "The Story of My Life",
-  "author": "Helen Keller",
-  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
+  "genre": "adventure",
+  "date": "2026-03-06",
+  "title": "The Lost World",
+  "author": "Arthur Conan Doyle",
+  "summary": "A team of scientists and adventurers explores a prehistoric land.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
   "subjects": [
-    "autobiography"
+    "adventure",
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-03-06",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-05",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-03-06",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-05",
-  "title": "Pollyanna",
-  "author": "Eleanor H. Porter",
-  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
+  "date": "2026-03-06",
+  "title": "Driven Back to Eden",
+  "author": "Edward Payson Roe",
+  "summary": "A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden",
   "subjects": [
-    "childrens"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-05",
-  "title": "The Cords of Vanity",
-  "author": "James Branch Cabell",
-  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "date": "2026-03-06",
+  "title": "Kipps",
+  "author": "H. G. Wells",
+  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,12 +86,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-03-05",
-  "title": "Henry V",
+  "date": "2026-03-06",
+  "title": "Henry VIII",
   "author": "William Shakespeare",
-  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
+  "summary": "King Henry VIII plans to divorce his first wife for Anne Bullen.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii",
   "subjects": [
     "drama"
   ]
@@ -98,34 +99,35 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-05",
-  "title": "Peter and Wendy",
-  "author": "J. M. Barrie",
-  "summary": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy",
+  "date": "2026-03-06",
+  "title": "The Demi-Gods",
+  "author": "James Stephens",
+  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-05",
-  "title": "Piccadilly Jim",
+  "date": "2026-03-06",
+  "title": "Love Among the Chickens",
   "author": "P. G. Wodehouse",
-  "summary": "Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim",
+  "summary": "Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens",
   "subjects": [
+    "comedy",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "title": "Short Fiction",
   "author": "Henry Kuttner",
   "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
@@ -140,26 +142,27 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-05",
-  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
-  "author": "Olaudah Equiano",
-  "summary": "An autobiography of an ex-slave in the mid 1700s.",
-  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
+  "date": "2026-03-06",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-05",
-  "title": "A Strange Disappearance",
-  "author": "Anna Katharine Green",
-  "summary": "A young detective is challenged to find a missing woman in New York City.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-katharine-green/a-strange-disappearance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-katharine-green/a-strange-disappearance",
+  "date": "2026-03-06",
+  "title": "The Jade God",
+  "author": "Alan Sullivan",
+  "summary": "Two years after a mysterious murder, a brother and sister move into a countryside manor and begin to notice strange occurrences.",
+  "coverUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,26 +171,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-05",
-  "title": "Human Nature and Conduct",
-  "author": "John Dewey",
-  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+  "date": "2026-03-06",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-05",
-  "title": "Beyond Good and Evil",
+  "date": "2026-03-06",
+  "title": "The Genealogy of Morals",
   "author": "Friedrich Nietzsche",
-  "summary": "Nietzsche’s philosophical treatise on the ambiguity of traditional morality.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern",
+  "summary": "Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
   "subjects": [
     "philosophy"
   ]
@@ -195,12 +199,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-05",
-  "title": "The Faerie Queene",
-  "author": "Edmund Spenser",
-  "summary": "Six knights embodying Christian virtues embark on allegorical quests.",
-  "coverUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene",
+  "date": "2026-03-06",
+  "title": "Poetry",
+  "author": "Edward Thomas",
+  "summary": "A collection of poetry by Edward Thomas.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,26 +212,20 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-05",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2026-03-06",
+  "title": "The Devil’s Dictionary",
+  "author": "Ambrose Bierce",
+  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
   "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "title": "The Maracot Deep",
   "author": "Arthur Conan Doyle",
   "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
@@ -241,27 +239,29 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-05",
-  "title": "Short Fiction",
-  "author": "Hjalmar Söderberg",
-  "summary": "A collection of Hjalmar Söderberg’s short stories, ordered by date of their translation.",
-  "coverUrl": "https://standardebooks.org/ebooks/hjalmar-soderberg/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hjalmar-soderberg/short-fiction/various-translators",
+  "date": "2026-03-06",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "fiction",
+    "childrens",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-05",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2026-03-06",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
+    "fiction",
     "poetry",
     "spirituality"
   ]
@@ -269,15 +269,16 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-03-05",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-03-06",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "comedy",
+    "fiction",
+    "spirituality",
     "travel"
   ]
 }
