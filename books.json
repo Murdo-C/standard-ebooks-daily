@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-08",
-  "title": "The Maltese Falcon",
-  "author": "Dashiell Hammett",
-  "summary": "A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.",
-  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon",
+  "date": "2026-03-09",
+  "title": "Strong Poison",
+  "author": "Dorothy L. Sayers",
+  "summary": "A gentleman detective works to exonerate a woman accused of poisoning her ex-lover.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison",
   "subjects": [
     "fiction",
     "mystery"
@@ -15,40 +15,39 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-08",
-  "title": "The Nibelungenlied",
-  "author": "Anonymous",
-  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+  "date": "2026-03-09",
+  "title": "The Three Musketeers",
+  "author": "Alexandre Dumas",
+  "summary": "A young Gascon moves to Paris to join the King’s Musketeers where he starts to investigate the kidnapping of his landlord’s wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson",
   "subjects": [
     "adventure",
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-03-08",
-  "title": "Pointed Roofs",
-  "author": "Dorothy M. Richardson",
-  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
-  "subjects": [
-    "autobiography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-03-09",
+  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
+  "author": "Black Hawk",
+  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
+  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2026-03-08",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-03-09",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -57,26 +56,25 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-08",
-  "title": "The Mystery at Lilac Inn",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective attempts to recover her friend’s stolen diamonds.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn",
+  "date": "2026-03-09",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "summary": "A wooden puppet comes to life and goes on adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
   "subjects": [
-    "childrens",
-    "mystery"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-08",
-  "title": "Man and Superman",
+  "date": "2026-03-09",
+  "title": "You Never Can Tell",
   "author": "George Bernard Shaw",
-  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
+  "summary": "A family recently returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell",
   "subjects": [
     "comedy",
     "drama"
@@ -85,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-03-08",
-  "title": "Cymbeline",
+  "date": "2026-03-09",
+  "title": "Edward III",
   "author": "William Shakespeare",
-  "summary": "A British princess marries a poor gentleman against her father the King’s wishes.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/cymbeline",
+  "summary": "Edward III declares himself the true heir of France, which launches the Hundred Years’ War.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii",
   "subjects": [
     "drama"
   ]
@@ -98,12 +96,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-08",
-  "title": "Lud-in-the-Mist",
-  "author": "Hope Mirrlees",
-  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
-  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
+  "date": "2026-03-09",
+  "title": "The Wonderful Visit",
+  "author": "H. G. Wells",
+  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
   "subjects": [
     "fantasy"
   ]
@@ -111,12 +109,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-08",
-  "title": "The Triumph of the Scarlet Pimpernel",
+  "date": "2026-03-09",
+  "title": "The Old Man in the Corner",
   "author": "Baroness Orczy",
-  "summary": "A woman is kidnapped in order to trap her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel",
+  "summary": "An elderly man explains to a woman reporter how he solved crimes that stumped the local police.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-old-man-in-the-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-old-man-in-the-corner",
   "subjects": [
     "adventure",
     "fiction"
@@ -125,60 +123,68 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-03-08",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2026-03-09",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "summary": "An ancient undead monster terrorizes Victorian London.",
+  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
   "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-08",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-03-09",
+  "title": "The House of the Dead",
+  "author": "Fyodor Dostoevsky",
+  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
   "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
+    "fiction",
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-08",
-  "title": "The Mystery of the Blue Train",
+  "date": "2026-03-09",
+  "title": "The Murder of Roger Ackroyd",
   "author": "Agatha Christie",
-  "summary": "A retired detective finds himself at the scene of a murder aboard a French locomotive.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mystery-of-the-blue-train/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mystery-of-the-blue-train",
+  "summary": "A legendary Belgian detective comes out of retirement to investigate a friend’s murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-08",
-  "title": "Roads to Freedom",
-  "author": "Bertrand Russell",
-  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
+  "date": "2026-03-09",
+  "title": "The City of God",
+  "author": "Augustine of Hippo",
+  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
+  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "subjects": [
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-03-09",
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "summary": "A collection of essays by Errico Malatesta.",
+  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -186,26 +192,13 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-03-08",
-  "title": "Short Works",
-  "author": "Epictetus",
-  "summary": "A collection of Epictetus’s short works.",
-  "coverUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2026-03-08",
-  "title": "Poetry",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
+  "date": "2026-03-09",
+  "title": "The Book of Jade",
+  "author": "David Park Barnitz",
+  "summary": "A collection of decadent poetry by David Park Barnitz.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade",
   "subjects": [
     "poetry"
   ]
@@ -213,12 +206,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-08",
-  "title": "Point Counter Point",
-  "author": "Aldous Huxley",
-  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+  "date": "2026-03-09",
+  "title": "The Luck of Barry Lyndon",
+  "author": "William Makepeace Thackeray",
+  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
   "subjects": [
     "fiction",
     "satire"
@@ -227,54 +220,59 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-08",
-  "title": "The Night Land",
+  "date": "2026-03-09",
+  "title": "The House on the Borderland",
   "author": "William Hope Hodgson",
-  "summary": "A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
+    "horror",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-08",
-  "title": "While the Billy Boils",
-  "author": "Henry Lawson",
-  "summary": "A short story collection based on Australian colonial life in 1890s.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
+  "date": "2026-03-09",
+  "title": "Call Mr. Fortune",
+  "author": "H. C. Bailey",
+  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
   "subjects": [
+    "fiction",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-08",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2026-03-09",
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "nonfiction",
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-03-08",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-03-09",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "adventure",
     "nonfiction",
     "travel"
   ]
