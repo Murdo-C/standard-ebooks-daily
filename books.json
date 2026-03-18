@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-17",
-  "title": "Principia Ethica",
-  "author": "G. E. Moore",
-  "summary": "An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-e-moore/principia-ethica",
+  "date": "2026-03-18",
+  "title": "The Created Legend",
+  "author": "Fyodor Sologub",
+  "summary": "In a provincial town a Russian poet draws himself away from society to create his utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-sologub/the-created-legend/john-cournos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-sologub/the-created-legend/john-cournos",
   "subjects": [
-    "philosophy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-17",
-  "title": "An Antarctic Mystery",
-  "author": "Jules Verne",
-  "summary": "An American naturalist travels south beyond the remote Kerguelen Islands.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey",
+  "date": "2026-03-18",
+  "title": "Greenmantle",
+  "author": "John Buchan",
+  "summary": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,13 +28,14 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-17",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2026-03-18",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
     "autobiography",
     "memoir",
     "nonfiction"
@@ -43,12 +44,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-03-17",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-03-18",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -57,12 +58,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-17",
-  "title": "A Little Princess",
-  "author": "Frances Hodgson Burnett",
-  "summary": "A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess",
+  "date": "2026-03-18",
+  "title": "Bambi",
+  "author": "Felix Salten",
+  "summary": "A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.",
+  "coverUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,12 +72,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-17",
-  "title": "The Cherry Orchard",
-  "author": "Anton Chekhov",
-  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
+  "date": "2026-03-18",
+  "title": "Sunshine Sketches of a Little Town",
+  "author": "Stephen Leacock",
+  "summary": "A humorous account of life in the fictional small town of Mariposa.",
+  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "subjects": [
+    "comedy",
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-03-18",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
     "drama"
@@ -84,66 +100,55 @@
 }
 ,
 {
-  "genre": "drama",
-  "date": "2026-03-17",
-  "title": "Henry IV, Part I",
-  "author": "William Shakespeare",
-  "summary": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
   "genre": "fantasy",
-  "date": "2026-03-17",
-  "title": "Lilith",
+  "date": "2026-03-18",
+  "title": "At the Back of the North Wind",
   "author": "George MacDonald",
-  "summary": "After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith",
+  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-17",
-  "title": "The Count of Monte Cristo",
-  "author": "Alexandre Dumas",
-  "summary": "A man seeks revenge for having been falsely imprisoned years earlier.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall",
+  "date": "2026-03-18",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
   "subjects": [
-    "fiction"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-03-17",
-  "title": "The House on the Borderland",
-  "author": "William Hope Hodgson",
-  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "date": "2026-03-18",
+  "title": "The Return",
+  "author": "Walter de la Mare",
+  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "fantasy",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-17",
-  "title": "Now It Can Be Told",
-  "author": "Philip Gibbs",
-  "summary": "A British war correspondent recalls his experiences during the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "date": "2026-03-18",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -152,12 +157,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-17",
-  "title": "The Incredulity of Father Brown",
+  "date": "2026-03-18",
+  "title": "The Innocence of Father Brown",
   "author": "G. K. Chesterton",
-  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
+  "summary": "Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
   "subjects": [
     "fiction",
     "mystery",
@@ -167,12 +172,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-17",
-  "title": "My First Summer in the Sierra",
-  "author": "John Muir",
-  "summary": "The influential Scottish-American naturalist spends a summer exploring the high country surrounding the headwaters of the Merced and Tuolumne rivers in the Sierra Nevada, and records what he sees in a diary.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra",
+  "date": "2026-03-18",
+  "title": "The Economic Consequences of the Peace",
+  "author": "John Maynard Keynes",
+  "summary": "Keynes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace",
   "subjects": [
     "nonfiction"
   ]
@@ -180,26 +185,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-17",
-  "title": "Tao Te Ching",
-  "author": "Laozi",
-  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+  "date": "2026-03-18",
+  "title": "A Vindication of the Rights of Woman",
+  "author": "Mary Wollstonecraft",
+  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
   "subjects": [
-    "philosophy",
-    "spirituality"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "title": "Poetry",
-  "author": "Thomas Gray",
-  "summary": "A collection of poems by Thomas Gray.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry",
+  "author": "Taras Shevchenko",
+  "summary": "A collection of Taras Shevchenko’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators",
   "subjects": [
     "poetry"
   ]
@@ -207,25 +212,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-17",
-  "title": "The Coming of Bill",
-  "author": "P. G. Wodehouse",
-  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
+  "date": "2026-03-18",
+  "title": "The Works of Max Beerbohm",
+  "author": "Max Beerbohm",
+  "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm",
   "subjects": [
-    "satire"
+    "satire",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-17",
-  "title": "The First Men in the Moon",
-  "author": "H. G. Wells",
-  "summary": "Two British men become the first humans to reach the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
+  "date": "2026-03-18",
+  "title": "Space Viking",
+  "author": "H. Beam Piper",
+  "summary": "A tragic starfarer seeks revenge in this epic space opera.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/space-viking/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/space-viking",
   "subjects": [
     "science_fiction"
   ]
@@ -233,43 +239,44 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-17",
-  "title": "Legends of Vancouver",
-  "author": "E. Pauline Johnson",
-  "summary": "E. Pauline Johnson’s collection of legends and myths of the Squamish people.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver",
+  "date": "2026-03-18",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
-    "nonfiction",
+    "fiction",
+    "horror",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-17",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "date": "2026-03-18",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-03-17",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2026-03-18",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
+    "memoir",
     "nonfiction",
-    "spirituality",
     "travel"
   ]
 }
