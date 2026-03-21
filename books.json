@@ -1,68 +1,67 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-20",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-03-21",
+  "title": "The Eumenides",
+  "author": "Aeschylus",
+  "summary": "A man is pursued by wrathful goddesses for avenging his father’s murder, and finds refuge in Athens where a trial determines his fate.",
+  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-20",
-  "title": "The Special Correspondent",
+  "date": "2026-03-21",
+  "title": "The Giant Raft",
   "author": "Jules Verne",
-  "summary": "A Parisian news reporter is assigned to travel across Asia by train and report on the sights, experiences, and interesting characters along the way.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
     "adventure",
-    "fiction"
+    "fiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-20",
-  "title": "Struggles and Triumphs",
-  "author": "P. T. Barnum",
-  "summary": "The world’s greatest showman tells the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
+  "date": "2026-03-21",
+  "title": "The Autobiography of an Idea",
+  "author": "Louis H. Sullivan",
+  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-20",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2026-03-21",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-20",
-  "title": "A Little Princess",
-  "author": "Frances Hodgson Burnett",
-  "summary": "A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess",
+  "date": "2026-03-21",
+  "title": "Bambi",
+  "author": "Felix Salten",
+  "summary": "A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.",
+  "coverUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,12 +70,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-20",
-  "title": "Uneasy Money",
+  "date": "2026-03-21",
+  "title": "Something New",
   "author": "P. G. Wodehouse",
-  "summary": "When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-03-20",
-  "title": "The Mule-Bone",
-  "author": "Langston Hughes",
-  "summary": "A guitarist and a dancer compete for the same woman’s affection.",
-  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone",
+  "date": "2026-03-21",
+  "title": "The Unicorn from the Stars",
+  "author": "Lady Gregory",
+  "summary": "A young man’s visions disrupt the peace of his community.",
+  "coverUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars",
   "subjects": [
     "drama"
   ]
@@ -98,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-20",
-  "title": "Khaled",
-  "author": "F. Marion Crawford",
-  "summary": "A powerful genie is condemned to live the life of a man, unless he can find true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/f-marion-crawford/khaled",
+  "date": "2026-03-21",
+  "title": "Master Flea",
+  "author": "E. T. A. Hoffmann",
+  "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
   "subjects": [
     "fantasy"
   ]
@@ -111,54 +110,51 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-20",
-  "title": "Just William",
-  "author": "Richmal Crompton",
-  "summary": "An eleven-year old English boy gets involved in a continuous series of amusing adventures to the exasperation of his long-suffering family.",
-  "coverUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william",
+  "date": "2026-03-21",
+  "title": "The Grand Babylon Hotel",
+  "author": "Arnold Bennett",
+  "summary": "An American millionaire’s spur-of-the-moment purchase of a hotel leads to the uncovering of a secret plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/arnold-bennett/the-grand-babylon-hotel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arnold-bennett/the-grand-babylon-hotel",
   "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-03-20",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-03-21",
+  "title": "The Vampire",
+  "author": "John William Polidori",
+  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-20",
-  "title": "A Personal Record",
-  "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
+  "date": "2026-03-21",
+  "title": "The Hashish Eater",
+  "author": "Fitz Hugh Ludlow",
+  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
+  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
   "subjects": [
-    "memoir",
-    "nonfiction"
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-20",
-  "title": "The Sea Mystery",
-  "author": "Freeman Wills Crofts",
-  "summary": "The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery",
+  "date": "2026-03-21",
+  "title": "The Midnight Guest",
+  "author": "Fred M. White",
+  "summary": "A brilliant lord struggles to hold his personal life together after his friend’s murder set off a chain of events that threatens to expose his dark secrets.",
+  "coverUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,12 +163,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-20",
-  "title": "The Public and Its Problems",
+  "date": "2026-03-21",
+  "title": "Democracy and Education",
   "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -181,39 +177,39 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-20",
-  "title": "The End of the World",
-  "author": "Geoffrey Dennis",
-  "summary": "A philosophical reflection on how the end of the world would unfold based on hypothetical variables and relevant knowledge and historical context.",
-  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world",
+  "date": "2026-03-21",
+  "title": "The Religion of Nature Delineated",
+  "author": "William Wollaston",
+  "summary": "Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-20",
-  "title": "Hudibras",
-  "author": "Samuel Butler",
-  "summary": "A knight and his squire set forth for adventure and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras",
+  "date": "2026-03-21",
+  "title": "Poetry",
+  "author": "Ring Lardner",
+  "summary": "A collection of poems by Ring Lardner.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry",
   "subjects": [
-    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-03-20",
-  "title": "Evelina",
-  "author": "Fanny Burney",
-  "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
-  "coverUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina",
+  "date": "2026-03-21",
+  "title": "Where Angels Fear to Tread",
+  "author": "E. M. Forster",
+  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
   "subjects": [
     "fiction",
     "satire"
@@ -222,12 +218,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-20",
-  "title": "The Moon Maid",
+  "date": "2026-03-21",
+  "title": "Pellucidar",
   "author": "Edgar Rice Burroughs",
-  "summary": "A young man travels to the moon with a group of companions and discovers that it’s inhabited; in subsequent centuries, reincarnations of the same man deal with an invasion of the Earth by the malevolent inhabitants of the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid",
+  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
   "subjects": [
     "science_fiction"
   ]
@@ -235,13 +231,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-20",
-  "title": "Short Fiction",
-  "author": "Vsevolod Garshin",
-  "summary": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith",
+  "date": "2026-03-21",
+  "title": "Hindu Tales from the Sanskrit",
+  "author": "S. M. Mitra",
+  "summary": "Short stories and fables from the Sanskrit tradition.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit",
   "subjects": [
+    "childrens",
     "fiction",
     "shorts"
   ]
@@ -249,30 +246,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-20",
-  "title": "The Four Men",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "date": "2026-03-21",
+  "title": "Demian",
+  "author": "Hermann Hesse",
+  "summary": "A boy goes on a journey of spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
   "subjects": [
-    "comedy",
     "fiction",
-    "spirituality",
-    "travel"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-03-20",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2026-03-21",
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
-    "shorts",
+    "nonfiction",
     "travel"
   ]
 }
