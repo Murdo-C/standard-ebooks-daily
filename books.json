@@ -1,40 +1,40 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-21",
-  "title": "The Eumenides",
-  "author": "Aeschylus",
-  "summary": "A man is pursued by wrathful goddesses for avenging his father’s murder, and finds refuge in Athens where a trial determines his fate.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray",
+  "date": "2026-03-22",
+  "title": "Short Fiction",
+  "author": "Stanley G. Weinbaum",
+  "summary": "Six classic science fiction short stories by Stanley Weinbaum.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction",
   "subjects": [
-    "drama"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-21",
-  "title": "The Giant Raft",
+  "date": "2026-03-22",
+  "title": "Journey to the Center of the Earth",
   "author": "Jules Verne",
-  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
+  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
   "subjects": [
     "adventure",
-    "fiction",
-    "travel"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-21",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "date": "2026-03-22",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "summary": "The autobiography of English philosopher John Stuart Mill.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
   "subjects": [
     "autobiography"
   ]
@@ -42,26 +42,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-03-21",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-03-22",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "philosophy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-21",
-  "title": "Bambi",
-  "author": "Felix Salten",
-  "summary": "A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.",
-  "coverUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers",
+  "date": "2026-03-22",
+  "title": "The Enchanted Castle",
+  "author": "E. Nesbit",
+  "summary": "Three children discover a wonderful garden and castle, and come into possession of a magic ring which entangles them in many strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,26 +70,25 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-21",
-  "title": "Something New",
+  "date": "2026-03-22",
+  "title": "Psmith in the City",
   "author": "P. G. Wodehouse",
-  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
+  "summary": "A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
   "subjects": [
-    "comedy",
-    "fiction"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-03-21",
-  "title": "The Unicorn from the Stars",
-  "author": "Lady Gregory",
-  "summary": "A young man’s visions disrupt the peace of his community.",
-  "coverUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars",
+  "date": "2026-03-22",
+  "title": "The Well of the Saints",
+  "author": "J. M. Synge",
+  "summary": "The lives of two blind beggars change when a holy man comes to their rural Irish village promising to miraculously restore their sight.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints",
   "subjects": [
     "drama"
   ]
@@ -97,25 +96,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-21",
-  "title": "Master Flea",
-  "author": "E. T. A. Hoffmann",
-  "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
+  "date": "2026-03-22",
+  "title": "The Magic City",
+  "author": "E. Nesbit",
+  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-21",
-  "title": "The Grand Babylon Hotel",
-  "author": "Arnold Bennett",
-  "summary": "An American millionaire’s spur-of-the-moment purchase of a hotel leads to the uncovering of a secret plot.",
-  "coverUrl": "https://standardebooks.org/ebooks/arnold-bennett/the-grand-babylon-hotel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arnold-bennett/the-grand-babylon-hotel",
+  "date": "2026-03-22",
+  "title": "The Breaking of the Storm",
+  "author": "Friedrich Spielhagen",
+  "summary": "Two families in north Germany deal with love across rigid class boundaries in turbulent times.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-spielhagen/the-breaking-of-the-storm/s-e-a-h-stephenson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-spielhagen/the-breaking-of-the-storm/s-e-a-h-stephenson",
   "subjects": [
     "fiction"
   ]
@@ -123,39 +123,44 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-03-21",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-03-22",
+  "title": "The Private Memoirs and Confessions of a Justified Sinner",
+  "author": "James Hogg",
+  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
   "subjects": [
+    "fiction",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-21",
-  "title": "The Hashish Eater",
-  "author": "Fitz Hugh Ludlow",
-  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
-  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
+  "date": "2026-03-22",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
-    "memoir"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-21",
-  "title": "The Midnight Guest",
-  "author": "Fred M. White",
-  "summary": "A brilliant lord struggles to hold his personal life together after his friend’s murder set off a chain of events that threatens to expose his dark secrets.",
-  "coverUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
+  "date": "2026-03-22",
+  "title": "The Tower Treasure",
+  "author": "Franklin W. Dixon",
+  "summary": "After a tower mansion is robbed, two boys are determined to find the culprit and exonerate their friend’s father.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure",
   "subjects": [
+    "adventure",
+    "childrens",
     "fiction",
     "mystery"
   ]
@@ -163,12 +168,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-21",
-  "title": "Democracy and Education",
-  "author": "John Dewey",
-  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
+  "date": "2026-03-22",
+  "title": "The Social Contract",
+  "author": "Jean-Jacques Rousseau",
+  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -177,26 +182,25 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-21",
-  "title": "The Religion of Nature Delineated",
-  "author": "William Wollaston",
-  "summary": "Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated",
+  "date": "2026-03-22",
+  "title": "The Age of Reason",
+  "author": "Thomas Paine",
+  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "title": "Poetry",
-  "author": "Ring Lardner",
-  "summary": "A collection of poems by Ring Lardner.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry",
+  "author": "Oscar Wilde",
+  "summary": "A collection of poems by Oscar Wilde.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
   "subjects": [
     "poetry"
   ]
@@ -204,26 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-21",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
+  "date": "2026-03-22",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-21",
-  "title": "Pellucidar",
+  "date": "2026-03-22",
+  "title": "At the Earth’s Core",
   "author": "Edgar Rice Burroughs",
-  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
+  "summary": "Two explorers burrow deep into the planet’s crust and emerge in a savage land inside a hollow Earth, where they have many adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
   "subjects": [
     "science_fiction"
   ]
@@ -231,14 +235,13 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-21",
-  "title": "Hindu Tales from the Sanskrit",
-  "author": "S. M. Mitra",
-  "summary": "Short stories and fables from the Sanskrit tradition.",
-  "coverUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit",
+  "date": "2026-03-22",
+  "title": "Winesburg, Ohio",
+  "author": "Sherwood Anderson",
+  "summary": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
+  "coverUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio",
   "subjects": [
-    "childrens",
     "fiction",
     "shorts"
   ]
@@ -246,14 +249,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-21",
-  "title": "Demian",
-  "author": "Hermann Hesse",
-  "summary": "A boy goes on a journey of spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
+  "date": "2026-03-22",
+  "title": "Orthodoxy",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
   "subjects": [
-    "fiction",
     "philosophy",
     "spirituality"
   ]
@@ -261,13 +263,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-03-21",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2026-03-22",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
+    "memoir",
     "nonfiction",
     "travel"
   ]
