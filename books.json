@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "title": "Cane",
   "author": "Jean Toomer",
   "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
@@ -15,12 +15,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-23",
-  "title": "An Antarctic Mystery",
-  "author": "Jules Verne",
-  "summary": "An American naturalist travels south beyond the remote Kerguelen Islands.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey",
+  "date": "2026-03-24",
+  "title": "Greenmantle",
+  "author": "John Buchan",
+  "summary": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,54 +29,52 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-23",
-  "title": "Our Nig",
-  "author": "Harriet E. Wilson",
-  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
+  "date": "2026-03-24",
+  "title": "Geronimo’s Story of His Life",
+  "author": "Geronimo",
+  "summary": "The Apache war chief Geronimo recounts the story of his life.",
+  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-23",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-03-24",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-23",
-  "title": "The Phoenix and the Carpet",
-  "author": "E. Nesbit",
-  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+  "date": "2026-03-24",
+  "title": "The Water-Babies",
+  "author": "Charles Kingsley",
+  "summary": "A young, uneducated, and mistreated chimney sweep is reborn as a denizen of the fairy world, beginning a journey of moral and spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-23",
-  "title": "Leave It to Psmith",
+  "date": "2026-03-24",
+  "title": "Mike",
   "author": "P. G. Wodehouse",
-  "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith",
+  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
   "subjects": [
     "comedy"
   ]
@@ -84,26 +82,25 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-03-23",
-  "title": "You Never Can Tell",
+  "date": "2026-03-24",
+  "title": "The Doctor’s Dilemma",
   "author": "George Bernard Shaw",
-  "summary": "A family recently returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell",
+  "summary": "A doctor must decide which patient is worthy of his newly discovered cure: a talented but amoral artist, or a good-hearted but undistinguished public servant.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-doctors-dilemma/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-doctors-dilemma",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-23",
-  "title": "Harding’s Luck",
+  "date": "2026-03-24",
+  "title": "The House of Arden",
   "author": "E. Nesbit",
-  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
+  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
   "subjects": [
     "childrens",
     "fantasy"
@@ -112,7 +109,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "title": "Marius the Epicurean",
   "author": "Walter Pater",
   "summary": "A young man in the second-century Roman empire explores philosophy and religion as he travels through life.",
@@ -125,42 +122,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-03-23",
-  "title": "At the Mountains of Madness",
-  "author": "H. P. Lovecraft",
-  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
+  "date": "2026-03-24",
+  "title": "The Turn of the Screw",
+  "author": "Henry James",
+  "summary": "A governess moves in to a haunted manor.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
   "subjects": [
-    "adventure",
-    "horror",
-    "science_fiction"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-23",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-03-24",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-23",
-  "title": "The Tower Treasure",
+  "date": "2026-03-24",
+  "title": "The Secret of the Old Mill",
   "author": "Franklin W. Dixon",
-  "summary": "After a tower mansion is robbed, two boys are determined to find the culprit and exonerate their friend’s father.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure",
+  "summary": "The police are out of their depth as counterfeit bills circulate through the city, but two amateur sleuths are on the case.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill",
   "subjects": [
     "adventure",
     "childrens",
@@ -171,12 +166,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-23",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "date": "2026-03-24",
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "summary": "Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -185,12 +180,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-23",
-  "title": "The Kural",
-  "author": "Thiruvalluvar",
-  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
+  "date": "2026-03-24",
+  "title": "Dialogues",
+  "author": "Seneca",
+  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
   "subjects": [
     "philosophy"
   ]
@@ -198,12 +193,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-23",
-  "title": "The Rubáiyát of Omar Khayyám",
-  "author": "Omar Khayyám",
-  "summary": "Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.",
-  "coverUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald",
+  "date": "2026-03-24",
+  "title": "Poetry",
+  "author": "Mina Loy",
+  "summary": "A collection of poems by Mina Loy.",
+  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
   "subjects": [
     "poetry"
   ]
@@ -211,40 +206,39 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-23",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2026-03-24",
+  "title": "The Devil’s Dictionary",
+  "author": "Ambrose Bierce",
+  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
   "subjects": [
-    "comedy",
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-23",
-  "title": "Herland",
-  "author": "Charlotte Perkins Gilman",
-  "summary": "Three male explorers trek into a mysterious civilization populated entirely by women.",
-  "coverUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/herland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/herland",
+  "date": "2026-03-24",
+  "title": "Short Fiction",
+  "author": "Charles Beaumont",
+  "summary": "A collection of short fiction by Charles Beaumont.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-23",
-  "title": "Conan Stories",
-  "author": "Robert E. Howard",
-  "summary": "A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-e-howard/conan-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-e-howard/conan-stories",
+  "date": "2026-03-24",
+  "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+  "author": "Maurice Leblanc",
+  "summary": "An infamous French thief plans intricate ways of stealing precious paintings and jewellery in this first collection of Arsène Lupin short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/george-morehead/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/george-morehead",
   "subjects": [
     "fiction",
     "shorts"
@@ -253,12 +247,12 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-23",
-  "title": "The Everlasting Man",
+  "date": "2026-03-24",
+  "title": "Heretics",
   "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
   "subjects": [
     "nonfiction",
     "philosophy",
@@ -268,15 +262,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-03-23",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-03-24",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "adventure",
-    "nonfiction",
+    "memoir",
     "travel"
   ]
 }
