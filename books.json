@@ -1,21 +1,20 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-25",
-  "title": "Short Fiction",
-  "author": "Ernest Hemingway",
-  "summary": "A collection of Ernest Hemingway’s short stories and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
+  "date": "2026-03-26",
+  "title": "Three Lives",
+  "author": "Gertrude Stein",
+  "summary": "A chronicle of the lives of three working-class women from the early 20th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/gertrude-stein/three-lives/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gertrude-stein/three-lives",
   "subjects": [
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "title": "When God Laughs",
   "author": "Jack London",
   "summary": "The eleventh collection of short stories by Jack London.",
@@ -30,54 +29,56 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-25",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2026-03-26",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-25",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-03-26",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-25",
-  "title": "The Secret of the Old Clock",
-  "author": "Carolyn Keene",
-  "summary": "The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
+  "date": "2026-03-26",
+  "title": "The House at Pooh Corner",
+  "author": "A. A. Milne",
+  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
   "subjects": [
     "childrens",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-25",
-  "title": "A Prefect’s Uncle",
+  "date": "2026-03-26",
+  "title": "A Damsel in Distress",
   "author": "P. G. Wodehouse",
-  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
+  "summary": "A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress",
   "subjects": [
     "comedy",
     "fiction"
@@ -86,26 +87,25 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-03-25",
-  "title": "The Apple Cart",
+  "date": "2026-03-26",
+  "title": "Mrs. Warren’s Profession",
   "author": "George Bernard Shaw",
-  "summary": "An English king challenges his popular prime minister and cabinet.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart",
+  "summary": "A young woman learns a secret about her mother’s past and must decide what it means for her future.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-25",
-  "title": "The Warlord of Mars",
+  "date": "2026-03-26",
+  "title": "The Chessmen of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "John Carter, an Earth-man transported to Mars, must rescue his beloved princess from imprisonment in the Martian Temple of the Sun.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars",
+  "summary": "Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -113,36 +113,35 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-25",
-  "title": "Memoirs of a Foxhunting Man",
-  "author": "Siegfried Sassoon",
-  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
-  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
-  "subjects": [
-    "autobiography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-03-25",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
+  "date": "2026-03-26",
+  "title": "Winesburg, Ohio",
+  "author": "Sherwood Anderson",
+  "summary": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
+  "coverUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio",
   "subjects": [
     "fiction",
-    "horror",
     "shorts"
   ]
 }
 ,
 {
+  "genre": "horror",
+  "date": "2026-03-26",
+  "title": "Melmoth the Wanderer",
+  "author": "Charles Robert Maturin",
+  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
   "genre": "memoir",
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "title": "Recollections of Full Years",
   "author": "Helen Herron Taft",
   "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
@@ -158,12 +157,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-25",
-  "title": "The Shore Road Mystery",
+  "date": "2026-03-26",
+  "title": "The Secret of the Caves",
   "author": "Franklin W. Dixon",
-  "summary": "Two amateur slueths endeavor to break up a carjacking ring.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery",
+  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
   "subjects": [
     "adventure",
     "childrens",
@@ -174,25 +173,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-25",
-  "title": "The Souls of Black Folk",
-  "author": "W. E. B. Du Bois",
-  "summary": "A seminal collection of essays on the African-American experience.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk",
+  "date": "2026-03-26",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-25",
-  "title": "Dialogues",
-  "author": "Plato",
-  "summary": "A collection of Plato’s dialogues.",
-  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+  "date": "2026-03-26",
+  "title": "What Is Property?",
+  "author": "Pierre-Joseph Proudhon",
+  "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
+  "coverUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
   "subjects": [
     "philosophy"
   ]
@@ -200,12 +201,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-25",
-  "title": "Magnolia Leaves",
-  "author": "Mary Weston Fordham",
-  "summary": "A collection of poems by Mary Weston Fordham.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves",
+  "date": "2026-03-26",
+  "title": "Don Juan",
+  "author": "Lord Byron",
+  "summary": "A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan",
   "subjects": [
     "poetry"
   ]
@@ -213,12 +214,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-25",
-  "title": "Point Counter Point",
-  "author": "Aldous Huxley",
-  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+  "date": "2026-03-26",
+  "title": "The Luck of Barry Lyndon",
+  "author": "William Makepeace Thackeray",
+  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
   "subjects": [
     "fiction",
     "satire"
@@ -227,26 +228,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-25",
-  "title": "Stand by for Mars!",
-  "author": "Carey Rockwell",
-  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
-  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
+  "date": "2026-03-26",
+  "title": "Storm Over Warlock",
+  "author": "Andre Norton",
+  "summary": "On a planet presumed devoid of intelligent life, and in a race to colonize worlds ahead of brutal beetle-like aliens, two surveyors take flight from their hunters and try to uncover the secrets of a place that seems ever less benign.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/storm-over-warlock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/storm-over-warlock",
   "subjects": [
-    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-25",
-  "title": "The Confessions of Arsène Lupin",
+  "date": "2026-03-26",
+  "title": "Arsène Lupin Versus Herlock Sholmes",
   "author": "Maurice Leblanc",
-  "summary": "The gentleman-thief relates stories of his outwitting the Parisian detectives.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-confessions-of-arsene-lupin/alexander-teixeira-de-mattos",
+  "summary": "The infamous French thief must pit his wits against England’s finest detective in the second Arsène Lupin collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead",
   "subjects": [
     "fiction",
     "shorts"
@@ -255,12 +255,12 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-25",
-  "title": "Unspoken Sermons",
-  "author": "George MacDonald",
-  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
+  "date": "2026-03-26",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
   "subjects": [
     "nonfiction",
     "spirituality"
@@ -269,13 +269,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-03-25",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2026-03-26",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
+    "memoir",
     "nonfiction",
     "travel"
   ]
