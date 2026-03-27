@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-26",
-  "title": "Three Lives",
-  "author": "Gertrude Stein",
-  "summary": "A chronicle of the lives of three working-class women from the early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/gertrude-stein/three-lives/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gertrude-stein/three-lives",
+  "date": "2026-03-27",
+  "title": "Bertram Cope’s Year",
+  "author": "Henry Blake Fuller",
+  "summary": "A young literature instructor navigates social and romantic complexities in a university town.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-blake-fuller/bertram-copes-year/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-blake-fuller/bertram-copes-year",
   "subjects": [
     "fiction"
   ]
@@ -14,80 +14,81 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-26",
-  "title": "When God Laughs",
-  "author": "Jack London",
-  "summary": "The eleventh collection of short stories by Jack London.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs",
+  "date": "2026-03-27",
+  "title": "Greenmantle",
+  "author": "John Buchan",
+  "summary": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle",
   "subjects": [
     "adventure",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-26",
-  "title": "Elizabeth and Her German Garden",
-  "author": "Elizabeth von Arnim",
-  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
+  "date": "2026-03-27",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
     "autobiography",
-    "fiction"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-26",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-03-27",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-26",
-  "title": "The House at Pooh Corner",
-  "author": "A. A. Milne",
-  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
+  "date": "2026-03-27",
+  "title": "The Mystery of Cabin Island",
+  "author": "Franklin W. Dixon",
+  "summary": "A group of amateur detectives unravel the mystery of a missing stamps collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island",
   "subjects": [
+    "adventure",
     "childrens",
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-26",
-  "title": "A Damsel in Distress",
-  "author": "P. G. Wodehouse",
-  "summary": "A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress",
+  "date": "2026-03-27",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
     "comedy",
-    "fiction"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "title": "Mrs. Warren’s Profession",
   "author": "George Bernard Shaw",
   "summary": "A young woman learns a secret about her mother’s past and must decide what it means for her future.",
@@ -100,12 +101,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-26",
-  "title": "The Chessmen of Mars",
+  "date": "2026-03-27",
+  "title": "The Gods of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars",
+  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -113,7 +114,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "title": "Winesburg, Ohio",
   "author": "Sherwood Anderson",
   "summary": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
@@ -127,42 +128,41 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-03-26",
-  "title": "Melmoth the Wanderer",
-  "author": "Charles Robert Maturin",
-  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
+  "date": "2026-03-27",
+  "title": "Short Fiction",
+  "author": "Arthur Machen",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
   "subjects": [
     "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-26",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-03-27",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
-    "biography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-26",
-  "title": "The Secret of the Caves",
+  "date": "2026-03-27",
+  "title": "Hunting for Hidden Gold",
   "author": "Franklin W. Dixon",
-  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "summary": "Two boy sleuths unravel a mystery about stolen gold.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold",
   "subjects": [
     "adventure",
     "childrens",
@@ -173,7 +173,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "title": "Religion and the Rise of Capitalism",
   "author": "R. H. Tawney",
   "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
@@ -188,7 +188,7 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "title": "What Is Property?",
   "author": "Pierre-Joseph Proudhon",
   "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
@@ -201,12 +201,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-26",
-  "title": "Don Juan",
-  "author": "Lord Byron",
-  "summary": "A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan",
+  "date": "2026-03-27",
+  "title": "Poetry",
+  "author": "Oscar Wilde",
+  "summary": "A collection of poems by Oscar Wilde.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
   "subjects": [
     "poetry"
   ]
@@ -214,69 +214,69 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-26",
-  "title": "The Luck of Barry Lyndon",
-  "author": "William Makepeace Thackeray",
-  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
+  "date": "2026-03-27",
+  "title": "Lady Windermere’s Fan",
+  "author": "Oscar Wilde",
+  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-26",
-  "title": "Storm Over Warlock",
+  "date": "2026-03-27",
+  "title": "Short Fiction",
   "author": "Andre Norton",
-  "summary": "On a planet presumed devoid of intelligent life, and in a race to colonize worlds ahead of brutal beetle-like aliens, two surveyors take flight from their hunters and try to uncover the secrets of a place that seems ever less benign.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/storm-over-warlock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/storm-over-warlock",
+  "summary": "A collection of fantasy and science fiction short fiction by Andre Norton.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-26",
-  "title": "Arsène Lupin Versus Herlock Sholmes",
-  "author": "Maurice Leblanc",
-  "summary": "The infamous French thief must pit his wits against England’s finest detective in the second Arsène Lupin collection.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead",
+  "date": "2026-03-27",
+  "title": "The Land of Little Rain",
+  "author": "Mary Austin",
+  "summary": "Short stories and essays detailing the landscape and inhabitants of the American Southwest.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-26",
-  "title": "Practical Mysticism",
-  "author": "Evelyn Underhill",
-  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
-  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
+  "date": "2026-03-27",
+  "title": "The Pursuit of God",
+  "author": "A. W. Tozer",
+  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-03-26",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2026-03-27",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
