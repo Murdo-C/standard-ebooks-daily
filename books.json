@@ -1,27 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-29",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2026-03-30",
+  "title": "The White Company",
+  "author": "Arthur Conan Doyle",
+  "summary": "A young English novice in the Middle Ages embarks on action-packed adventure as he joins a motley band of travelers seeking to join with a free company of archers.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-white-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-white-company",
   "subjects": [
-    "fiction",
-    "horror",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-29",
-  "title": "Room 13",
+  "date": "2026-03-30",
+  "title": "Terror Keep",
   "author": "Edgar Wallace",
-  "summary": "A recently-released prisoner discovers that his love, the daughter of an old friend, has married a sinister imposter.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/room-13/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/room-13",
+  "summary": "An employee at the Department of Public Prosecutions with the special gift of a criminal mind is called upon to track down a notorious escaped convict.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/terror-keep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/terror-keep",
   "subjects": [
     "adventure",
     "fiction"
@@ -30,25 +28,26 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-29",
-  "title": "An Autobiography",
-  "author": "Theodore Roosevelt",
-  "summary": "The autobiography of American President Theodore Roosevelt.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "date": "2026-03-30",
+  "title": "The Enormous Room",
+  "author": "E. E. Cummings",
+  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-29",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-03-30",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -57,69 +56,66 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-29",
-  "title": "The Bungalow Mystery",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective investigates a new friend’s abusive guardian.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+  "date": "2026-03-30",
+  "title": "Our Baseball Club and How It Won the Championship",
+  "author": "Noah Brooks",
+  "summary": "A late-19th century Illinois baseball team journeys to compete for the championship.",
+  "coverUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship",
   "subjects": [
     "childrens",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-29",
-  "title": "Nonsense Books",
-  "author": "Edward Lear",
-  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
+  "date": "2026-03-30",
+  "title": "Gentlemen Prefer Blondes",
+  "author": "Anita Loos",
+  "summary": "The comic diary of a young woman recounting her escapades and romances in 1920s New York and Europe.",
+  "coverUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
   "subjects": [
     "comedy",
-    "poetry",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-03-29",
-  "title": "Misalliance",
+  "date": "2026-03-30",
+  "title": "Heartbreak House",
   "author": "George Bernard Shaw",
-  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
+  "summary": "Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-29",
-  "title": "A Voyage to Arcturus",
-  "author": "David Lindsay",
-  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
+  "date": "2026-03-30",
+  "title": "Lady Into Fox",
+  "author": "David Garnett",
+  "summary": "A newly married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox",
   "subjects": [
-    "fantasy",
-    "philosophy"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-29",
-  "title": "The Celibates",
-  "author": "Honoré de Balzac",
-  "summary": "The lives of bachelors and old maids are illustrated in three disparate stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/the-celibates/clara-bell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/the-celibates/clara-bell",
+  "date": "2026-03-30",
+  "title": "Robbery Under Arms",
+  "author": "Rolf Boldrewood",
+  "summary": "A young Australian man and his brother are led into a life of crime, becoming cattle stealers, bank robbers and bushrangers before being caught.",
+  "coverUrl": "https://standardebooks.org/ebooks/rolf-boldrewood/robbery-under-arms/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rolf-boldrewood/robbery-under-arms",
   "subjects": [
     "fiction"
   ]
@@ -127,44 +123,41 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-03-29",
-  "title": "Short Fiction",
-  "author": "H. P. Lovecraft",
-  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "date": "2026-03-30",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
-    "horror",
-    "shorts"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-29",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-03-30",
+  "title": "The Life of Buffalo Bill",
+  "author": "William F. Cody",
+  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-03-29",
-  "title": "The Missing Chums",
-  "author": "Franklin W. Dixon",
-  "summary": "Two friends go missing on a boat trip, and the Hardy Boys investigate.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums",
+  "date": "2026-03-30",
+  "title": "The Bellamy Trial",
+  "author": "Frances Noyes Hart",
+  "summary": "A man and a woman are on trial for the murder of his wife, her friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
   "subjects": [
-    "adventure",
-    "childrens",
     "fiction",
     "mystery"
   ]
@@ -172,39 +165,40 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-03-29",
-  "title": "The Humbugs of the World",
-  "author": "P. T. Barnum",
-  "summary": "American archetype and cultural founding father P. T. Barnum shares a collection of anecdotes that he deems “humbugs”—fodder for the gullible, deserving of skepticism—with the goal of making his fellow citizens a little wiser and more skeptical.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world",
+  "date": "2026-03-30",
+  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+  "author": "Mary Wollstonecraft",
+  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-03-29",
-  "title": "The New State",
-  "author": "Mary Parker Follett",
-  "summary": "The theory of group organization is formulated and applied in an attempt to design a truly democratic political state.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state",
+  "date": "2026-03-30",
+  "title": "The Blazing World",
+  "author": "Margaret Cavendish",
+  "summary": "A young lady is abducted and finds herself the empress of a strange new world.",
+  "coverUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world",
   "subjects": [
-    "nonfiction",
+    "fantasy",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-03-29",
-  "title": "Poetry",
-  "author": "Mina Loy",
-  "summary": "A collection of poems by Mina Loy.",
-  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
+  "date": "2026-03-30",
+  "title": "Magnolia Leaves",
+  "author": "Mary Weston Fordham",
+  "summary": "A collection of poems by Mary Weston Fordham.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves",
   "subjects": [
     "poetry"
   ]
@@ -212,12 +206,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-03-29",
-  "title": "The Importance of Being Earnest",
+  "date": "2026-03-30",
+  "title": "A Woman of No Importance",
   "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
   "subjects": [
     "comedy",
     "drama",
@@ -227,7 +221,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "title": "Short Fiction",
   "author": "Edgar Allan Poe",
   "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
@@ -246,12 +240,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-03-29",
-  "title": "Short Fiction",
-  "author": "Kate Chopin",
-  "summary": "A collection of Kate Chopin’s short stories, ordered by date of writing.",
-  "coverUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction",
+  "date": "2026-03-30",
+  "title": "Irish Fairy Tales",
+  "author": "James Stephens",
+  "summary": "Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales",
   "subjects": [
     "fiction",
     "shorts"
@@ -260,28 +254,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-03-29",
-  "title": "The Pilgrim’s Progress",
-  "author": "John Bunyan",
-  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
+  "date": "2026-03-30",
+  "title": "Mary Olivier: A Life",
+  "author": "May Sinclair",
+  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
+  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
   "subjects": [
     "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-03-29",
-  "title": "The Giant Raft",
-  "author": "Jules Verne",
-  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
+  "date": "2026-03-30",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
-    "adventure",
+    "comedy",
     "fiction",
     "travel"
   ]
