@@ -1,26 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-03-31",
-  "title": "The Lost World",
-  "author": "Arthur Conan Doyle",
-  "summary": "A team of scientists and adventurers explores a prehistoric land.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+  "date": "2026-04-01",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "summary": "A wooden puppet comes to life and goes on adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
   "subjects": [
-    "adventure",
-    "fantasy"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-03-31",
-  "title": "The Mucker",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A street tough undergoes a transformation as he navigates the dangerous worlds of Chicago’s slums, a South Pacific island, and the wilds of Mexico.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker",
+  "date": "2026-04-01",
+  "title": "The Last of the Mohicans",
+  "author": "James Fenimore Cooper",
+  "summary": "Frontiersmen and Native Americans help transport a colonel’s daughters through upper New York during the French and Indian War.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,20 +28,21 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-03-31",
-  "title": "Father Henson’s Story of His Own Life",
-  "author": "Josiah Henson",
-  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
-  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
+  "date": "2026-04-01",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "title": "Queen Victoria",
   "author": "Lytton Strachey",
   "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
@@ -56,26 +56,29 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-03-31",
-  "title": "Anne of Green Gables",
-  "author": "L. M. Montgomery",
-  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
+  "date": "2026-04-01",
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy",
+    "horror",
+    "shorts",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-03-31",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-04-01",
+  "title": "The Inspector General",
+  "author": "Nikolai Gogol",
+  "summary": "Corrupt officials in a small Russian town are thrown into disarray by the arrival of an Inspector General from the central government.",
+  "coverUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer",
   "subjects": [
     "comedy",
     "drama"
@@ -84,55 +87,51 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-03-31",
-  "title": "Back to Methuselah",
-  "author": "George Bernard Shaw",
-  "summary": "Five linked plays explore human longevity and governance.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
+  "date": "2026-04-01",
+  "title": "Exiles",
+  "author": "James Joyce",
+  "summary": "An unmarried couple in early twentieth-century Dublin struggle with the consequences of their respective infidelities.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/exiles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/exiles",
   "subjects": [
-    "comedy",
-    "drama",
-    "science_fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-03-31",
-  "title": "The Lost World",
-  "author": "Arthur Conan Doyle",
-  "summary": "A team of scientists and adventurers explores a prehistoric land.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-lost-world",
+  "date": "2026-04-01",
+  "title": "Phantastes",
+  "author": "George MacDonald",
+  "summary": "A young man awakes in Fairy Land, where he takes part in a series of strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/phantastes",
   "subjects": [
-    "adventure",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-03-31",
-  "title": "The Brooklyn Murders",
-  "author": "G. D. H. Cole",
-  "summary": "Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders",
+  "date": "2026-04-01",
+  "title": "Piccadilly Jim",
+  "author": "P. G. Wodehouse",
+  "summary": "Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim",
   "subjects": [
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-03-31",
-  "title": "The Beetle",
-  "author": "Richard Marsh",
-  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
+  "date": "2026-04-01",
+  "title": "The Case of Charles Dexter Ward",
+  "author": "H. P. Lovecraft",
+  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
   "subjects": [
     "horror"
   ]
@@ -140,51 +139,7 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-03-31",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
-  "subjects": [
-    "adventure",
-    "autobiography",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-03-31",
-  "title": "The Mystery of a Hansom Cab",
-  "author": "Fergus Hume",
-  "summary": "A man is found dead in a hansom cab in the city of Melbourne, Australia, and a young man is accused of his murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/fergus-hume/the-mystery-of-a-hansom-cab/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fergus-hume/the-mystery-of-a-hansom-cab",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-03-31",
-  "title": "A Vindication of the Rights of Woman",
-  "author": "Mary Wollstonecraft",
-  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "title": "The Story of My Experiments with Truth",
   "author": "Mahatma Gandhi",
   "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
@@ -200,63 +155,38 @@
 }
 ,
 {
-  "genre": "poetry",
-  "date": "2026-03-31",
-  "title": "Don Juan",
-  "author": "Lord Byron",
-  "summary": "A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan",
+  "genre": "mystery",
+  "date": "2026-04-01",
+  "title": "That Affair Next Door",
+  "author": "Anna Katharine Green",
+  "summary": "Mysterious midnight visitors to a New York mansion are observed by a spinster living next door.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door",
   "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-03-31",
-  "title": "Candide",
-  "author": "Voltaire",
-  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
-  "subjects": [
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-03-31",
-  "title": "Black No More",
-  "author": "George Schuyler",
-  "summary": "A medical process that makes black people look white revolutionizes American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
-  "subjects": [
-    "satire",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-03-31",
-  "title": "Household Tales",
-  "author": "Jacob Grimm",
-  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
-  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
-  "subjects": [
-    "childrens",
     "fiction",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
-  "genre": "spirituality",
-  "date": "2026-03-31",
+  "genre": "nonfiction",
+  "date": "2026-04-01",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "subjects": [
+    "adventure",
+    "autobiography",
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-04-01",
   "title": "Religion and the Rise of Capitalism",
   "author": "R. H. Tawney",
   "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
@@ -270,8 +200,62 @@
 }
 ,
 {
-  "genre": "travel",
-  "date": "2026-03-31",
+  "genre": "poetry",
+  "date": "2026-04-01",
+  "title": "Poetry",
+  "author": "Thomas Gray",
+  "summary": "A collection of poems by Thomas Gray.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-gray/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-04-01",
+  "title": "Candide",
+  "author": "Voltaire",
+  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
+  "subjects": [
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-04-01",
+  "title": "Short Fiction",
+  "author": "Mack Reynolds",
+  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
+  "subjects": [
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-04-01",
+  "title": "Short Fiction",
+  "author": "Mack Reynolds",
+  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
+  "subjects": [
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-04-01",
   "title": "The Path to Rome",
   "author": "Hilaire Belloc",
   "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
@@ -280,6 +264,21 @@
   "subjects": [
     "nonfiction",
     "spirituality",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "travel",
+  "date": "2026-04-01",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
+  "subjects": [
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
