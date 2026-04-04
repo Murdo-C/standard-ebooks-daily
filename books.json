@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-03",
-  "title": "Poor Folk",
-  "author": "Fyodor Dostoevsky",
-  "summary": "Two poor Russian people exchange letters of love, hope and fear.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/poor-folk/c-j-hogarth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/poor-folk/c-j-hogarth",
+  "date": "2026-04-04",
+  "title": "The Sea Mystery",
+  "author": "Freeman Wills Crofts",
+  "summary": "The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-03",
-  "title": "The Last of the Mohicans",
-  "author": "James Fenimore Cooper",
-  "summary": "Frontiersmen and Native Americans help transport a colonel’s daughters through upper New York during the French and Indian War.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
+  "date": "2026-04-04",
+  "title": "Riders of the Purple Sage",
+  "author": "Zane Grey",
+  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,41 +29,40 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-03",
-  "title": "My Reminiscences",
-  "author": "Rabindranath Tagore",
-  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
+  "date": "2026-04-04",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-04-03",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-04-04",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-04-03",
-  "title": "A Little Princess",
-  "author": "Frances Hodgson Burnett",
-  "summary": "A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess",
+  "date": "2026-04-04",
+  "title": "Bambi",
+  "author": "Felix Salten",
+  "summary": "A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.",
+  "coverUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,34 +71,35 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-04-03",
-  "title": "Manalive",
-  "author": "G. K. Chesterton",
-  "summary": "An eccentric man brings chaos and happiness to a house of litigious lodgers.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive",
+  "date": "2026-04-04",
+  "title": "Man and Superman",
+  "author": "George Bernard Shaw",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
     "comedy",
-    "fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-03",
-  "title": "Ghosts",
-  "author": "Henrik Ibsen",
-  "summary": "A Norwegian sea captain’s widow who, no matter how much she tries, cannot escape the ghosts of the past.",
-  "coverUrl": "https://standardebooks.org/ebooks/henrik-ibsen/ghosts/william-archer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henrik-ibsen/ghosts/william-archer",
+  "date": "2026-04-04",
+  "title": "The Man of Destiny",
+  "author": "George Bernard Shaw",
+  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "title": "At the Back of the North Wind",
   "author": "George MacDonald",
   "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
@@ -112,7 +113,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "title": "Short Fiction",
   "author": "Voltairine de Cleyre",
   "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
@@ -126,34 +127,36 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-04-03",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "date": "2026-04-04",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
     "horror",
-    "mystery"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-03",
-  "title": "The Hashish Eater",
-  "author": "Fitz Hugh Ludlow",
-  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
-  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
+  "date": "2026-04-04",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
-    "memoir"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "title": "The Murder on the Links",
   "author": "Agatha Christie",
   "summary": "A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.",
@@ -167,12 +170,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-03",
-  "title": "The English Constitution",
-  "author": "Walter Bagehot",
-  "summary": "The nature and operation of British governance in the Victorian era is explained.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-bagehot/the-english-constitution/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-bagehot/the-english-constitution",
+  "date": "2026-04-04",
+  "title": "Bashan and I",
+  "author": "Thomas Mann",
+  "summary": "A renowned novelist describes the unique relation that links him to his dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer",
   "subjects": [
     "nonfiction"
   ]
@@ -180,26 +183,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-03",
-  "title": "Tao Te Ching",
-  "author": "Laozi",
-  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+  "date": "2026-04-04",
+  "title": "A Vindication of the Rights of Woman",
+  "author": "Mary Wollstonecraft",
+  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
   "subjects": [
-    "philosophy",
-    "spirituality"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "title": "Poetry",
-  "author": "Ring Lardner",
-  "summary": "A collection of poems by Ring Lardner.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry",
+  "author": "Oscar Wilde",
+  "summary": "A collection of poems by Oscar Wilde.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
   "subjects": [
     "poetry"
   ]
@@ -207,35 +210,39 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-03",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-04-04",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "fiction",
-    "satire"
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-03",
-  "title": "Journey to the Center of the Earth",
-  "author": "Jules Verne",
-  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+  "date": "2026-04-04",
+  "title": "Invaders from the Infinite",
+  "author": "John W. Campbell",
+  "summary": "Three scientists join with an alien race to defeat an attacking force.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite",
   "subjects": [
-    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "title": "Short Fiction",
   "author": "Tanizaki Jun’ichirō",
   "summary": "A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication.",
@@ -249,29 +256,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-03",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2026-04-04",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "summary": "Prose poems of offering translated by the author from the original Bengali.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
   "subjects": [
-    "nonfiction",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-04-03",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2026-04-04",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
+    "memoir",
     "nonfiction",
-    "spirituality",
     "travel"
   ]
 }
