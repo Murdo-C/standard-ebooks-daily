@@ -1,57 +1,52 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-06",
-  "title": "The Midnight Guest",
-  "author": "Fred M. White",
-  "summary": "A brilliant lord struggles to hold his personal life together after his friend’s murder set off a chain of events that threatens to expose his dark secrets.",
-  "coverUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
+  "date": "2026-04-07",
+  "title": "The Damnation of Theron Ware",
+  "author": "Harold Frederic",
+  "summary": "A small-town pastor is tempted into a life of worldly knowledge.",
+  "coverUrl": "https://standardebooks.org/ebooks/harold-frederic/the-damnation-of-theron-ware/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harold-frederic/the-damnation-of-theron-ware",
   "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-04-06",
-  "title": "The Return of Tarzan",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Tarzan attempts to leave behind life in the jungle but rapidly discovers that life among humans contains just as many dangers.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-return-of-tarzan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-return-of-tarzan",
-  "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
-  "genre": "autobiography",
-  "date": "2026-04-06",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "genre": "adventure",
+  "date": "2026-04-07",
+  "title": "The Maracot Deep",
+  "author": "Arthur Conan Doyle",
+  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "adventure",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-04-07",
+  "title": "Twenty Years at Hull House",
+  "author": "Jane Addams",
+  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "subjects": [
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-04-06",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-04-07",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -60,12 +55,53 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-04-06",
-  "title": "The Phoenix and the Carpet",
-  "author": "E. Nesbit",
-  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+  "date": "2026-04-07",
+  "title": "The Water-Babies",
+  "author": "Charles Kingsley",
+  "summary": "A young, uneducated, and mistreated chimney sweep is reborn as a denizen of the fairy world, beginning a journey of moral and spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies",
+  "subjects": [
+    "childrens"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-04-07",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-04-07",
+  "title": "Fanny’s First Play",
+  "author": "George Bernard Shaw",
+  "summary": "A young woman writes a play to shock her father, in which two respectable families deal with their with disreputable children.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-04-07",
+  "title": "The Princess and Curdie",
+  "author": "George MacDonald",
+  "summary": "A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie",
   "subjects": [
     "childrens",
     "fantasy"
@@ -73,91 +109,51 @@
 }
 ,
 {
-  "genre": "comedy",
-  "date": "2026-04-06",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
-  "subjects": [
-    "comedy",
-    "fantasy",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-04-06",
-  "title": "Candida",
-  "author": "George Bernard Shaw",
-  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-04-06",
-  "title": "Russian Folktales",
-  "author": "A. N. Afanasyev",
-  "summary": "A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus",
-  "subjects": [
-    "fantasy",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "fiction",
-  "date": "2026-04-06",
-  "title": "Our Baseball Club and How It Won the Championship",
-  "author": "Noah Brooks",
-  "summary": "A late-19th century Illinois baseball team journeys to compete for the championship.",
-  "coverUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship",
+  "date": "2026-04-07",
+  "title": "Babbitt",
+  "author": "Sinclair Lewis",
+  "summary": "The novel offers a satirical description of the American middle class around 1920.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/babbitt/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/babbitt",
   "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-04-06",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2026-04-07",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
   "subjects": [
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-06",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2026-04-07",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "title": "The Man in the Brown Suit",
   "author": "Agatha Christie",
   "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
@@ -172,35 +168,34 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-06",
-  "title": "Struggles and Triumphs",
-  "author": "P. T. Barnum",
-  "summary": "The world’s greatest showman tells the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
+  "date": "2026-04-07",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
-    "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-06",
-  "title": "The Religion of Nature Delineated",
-  "author": "William Wollaston",
-  "summary": "Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated",
+  "date": "2026-04-07",
+  "title": "The Age of Reason",
+  "author": "Thomas Paine",
+  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "title": "Poetry",
   "author": "Mina Loy",
   "summary": "A collection of poems by Mina Loy.",
@@ -213,29 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-06",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-04-07",
+  "title": "Black No More",
+  "author": "George Schuyler",
+  "summary": "A medical process that makes black people look white revolutionizes American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
   "subjects": [
-    "comedy",
-    "fiction",
     "satire",
-    "shorts",
-    "travel"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-06",
-  "title": "The Food of the Gods",
+  "date": "2026-04-07",
+  "title": "The Invisible Man",
   "author": "H. G. Wells",
-  "summary": "Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
+  "summary": "A scientist named Griffin creates a serum to render himself invisible and subsequently descends into madness.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
   "subjects": [
     "science_fiction"
   ]
@@ -243,7 +235,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "title": "Short Fiction",
   "author": "Saki",
   "summary": "A collection of short stories by Saki, ordered by date of publication.",
@@ -257,7 +249,7 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "title": "Siddhartha",
   "author": "Hermann Hesse",
   "summary": "A man embarks on a spiritual journey through India.",
@@ -271,14 +263,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-04-06",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2026-04-07",
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
-    "shorts",
+    "nonfiction",
     "travel"
   ]
 }
