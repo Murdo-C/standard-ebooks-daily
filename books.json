@@ -1,25 +1,27 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-07",
-  "title": "The Damnation of Theron Ware",
-  "author": "Harold Frederic",
-  "summary": "A small-town pastor is tempted into a life of worldly knowledge.",
-  "coverUrl": "https://standardebooks.org/ebooks/harold-frederic/the-damnation-of-theron-ware/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harold-frederic/the-damnation-of-theron-ware",
+  "date": "2026-04-08",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "fiction"
+    "childrens",
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-07",
-  "title": "The Maracot Deep",
-  "author": "Arthur Conan Doyle",
-  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
+  "date": "2026-04-08",
+  "title": "The Defiant Agents",
+  "author": "Andre Norton",
+  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
   "subjects": [
     "adventure",
     "science_fiction"
@@ -28,7 +30,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "title": "Twenty Years at Hull House",
   "author": "Jane Addams",
   "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
@@ -41,67 +43,68 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-04-07",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-04-08",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-04-07",
-  "title": "The Water-Babies",
-  "author": "Charles Kingsley",
-  "summary": "A young, uneducated, and mistreated chimney sweep is reborn as a denizen of the fairy world, beginning a journey of moral and spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-kingsley/the-water-babies",
+  "date": "2026-04-08",
+  "title": "The Secret of the Old Clock",
+  "author": "Carolyn Keene",
+  "summary": "The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
   "subjects": [
-    "childrens"
+    "childrens",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-04-07",
-  "title": "The School for Scandal",
-  "author": "Richard Brinsley Sheridan",
-  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
+  "date": "2026-04-08",
+  "title": "Ukridge Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-07",
-  "title": "Fanny’s First Play",
-  "author": "George Bernard Shaw",
-  "summary": "A young woman writes a play to shock her father, in which two respectable families deal with their with disreputable children.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play",
+  "date": "2026-04-08",
+  "title": "Edward II",
+  "author": "Christopher Marlowe",
+  "summary": "Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.",
+  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-07",
-  "title": "The Princess and Curdie",
+  "date": "2026-04-08",
+  "title": "The Princess and the Goblin",
   "author": "George MacDonald",
-  "summary": "A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie",
+  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
   "subjects": [
     "childrens",
     "fantasy"
@@ -110,70 +113,39 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-07",
-  "title": "Babbitt",
-  "author": "Sinclair Lewis",
-  "summary": "The novel offers a satirical description of the American middle class around 1920.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/babbitt/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/babbitt",
+  "date": "2026-04-08",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
   "subjects": [
-    "fiction"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-04-07",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-04-08",
+  "title": "The Vampire",
+  "author": "John William Polidori",
+  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-07",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
-  "subjects": [
-    "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-04-07",
-  "title": "The Man in the Brown Suit",
-  "author": "Agatha Christie",
-  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
-  "subjects": [
-    "adventure",
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-04-07",
-  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
-  "author": "Olaudah Equiano",
-  "summary": "An autobiography of an ex-slave in the mid 1700s.",
-  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
+  "date": "2026-04-08",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -181,13 +153,41 @@
 }
 ,
 {
+  "genre": "mystery",
+  "date": "2026-04-08",
+  "title": "Monsieur Lecoq",
+  "author": "Émile Gaboriau",
+  "summary": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-04-08",
+  "title": "The Land of Little Rain",
+  "author": "Mary Austin",
+  "summary": "Short stories and essays detailing the landscape and inhabitants of the American Southwest.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain",
+  "subjects": [
+    "nonfiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "philosophy",
-  "date": "2026-04-07",
-  "title": "The Age of Reason",
-  "author": "Thomas Paine",
-  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+  "date": "2026-04-08",
+  "title": "The Kural",
+  "author": "Thiruvalluvar",
+  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
+  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
   "subjects": [
     "philosophy"
   ]
@@ -195,12 +195,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-07",
-  "title": "Poetry",
-  "author": "Mina Loy",
-  "summary": "A collection of poems by Mina Loy.",
-  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
+  "date": "2026-04-08",
+  "title": "The Rubáiyát of Omar Khayyám",
+  "author": "Omar Khayyám",
+  "summary": "Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.",
+  "coverUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald",
   "subjects": [
     "poetry"
   ]
@@ -208,39 +208,40 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-07",
-  "title": "Black No More",
-  "author": "George Schuyler",
-  "summary": "A medical process that makes black people look white revolutionizes American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
+  "date": "2026-04-08",
+  "title": "Vile Bodies",
+  "author": "Evelyn Waugh",
+  "summary": "A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies",
   "subjects": [
-    "satire",
-    "science_fiction"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-07",
-  "title": "The Invisible Man",
+  "date": "2026-04-08",
+  "title": "Short Fiction",
   "author": "H. G. Wells",
-  "summary": "A scientist named Griffin creates a serum to render himself invisible and subsequently descends into madness.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
+  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-07",
-  "title": "Short Fiction",
-  "author": "Saki",
-  "summary": "A collection of short stories by Saki, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/saki/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/saki/short-fiction",
+  "date": "2026-04-08",
+  "title": "Vikram and the Vampire",
+  "author": "Richard F. Burton",
+  "summary": "King Vikram becomes trapped in a cycle of stories as he tries to capture a cunning vampire.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire",
   "subjects": [
     "fiction",
     "shorts"
@@ -249,7 +250,7 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "title": "Siddhartha",
   "author": "Hermann Hesse",
   "summary": "A man embarks on a spiritual journey through India.",
@@ -263,13 +264,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-04-07",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2026-04-08",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
+    "memoir",
     "nonfiction",
     "travel"
   ]
