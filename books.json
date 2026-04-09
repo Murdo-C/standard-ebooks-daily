@@ -1,41 +1,40 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-08",
-  "title": "Darby O’Gill and the Good People",
-  "author": "Herminie Templeton Kavanagh",
-  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
-  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
+  "date": "2026-04-09",
+  "title": "While the Billy Boils",
+  "author": "Henry Lawson",
+  "summary": "A short story collection based on Australian colonial life in 1890s.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
   "subjects": [
-    "childrens",
-    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-08",
-  "title": "The Defiant Agents",
-  "author": "Andre Norton",
-  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
+  "date": "2026-04-09",
+  "title": "Jibby Jones",
+  "author": "Ellis Parker Butler",
+  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-08",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2026-04-09",
+  "title": "You Can’t Win",
+  "author": "Jack Black",
+  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
   "subjects": [
     "autobiography"
   ]
@@ -43,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-04-08",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-04-09",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -57,41 +56,40 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-04-08",
-  "title": "The Secret of the Old Clock",
-  "author": "Carolyn Keene",
-  "summary": "The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
+  "date": "2026-04-09",
+  "title": "The House at Pooh Corner",
+  "author": "A. A. Milne",
+  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
   "subjects": [
     "childrens",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-04-08",
-  "title": "Ukridge Stories",
+  "date": "2026-04-09",
+  "title": "Right Ho, Jeeves",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
+  "summary": "Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
   "subjects": [
     "comedy",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-08",
-  "title": "Edward II",
+  "date": "2026-04-09",
+  "title": "The Jew of Malta",
   "author": "Christopher Marlowe",
-  "summary": "Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.",
-  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii",
+  "summary": "After losing all of his possessions, a Jewish merchant is determined to get his revenge on Malta.",
+  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta",
   "subjects": [
     "drama"
   ]
@@ -99,54 +97,54 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-08",
-  "title": "The Princess and the Goblin",
-  "author": "George MacDonald",
-  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
+  "date": "2026-04-09",
+  "title": "The Well at the World’s End",
+  "author": "William Morris",
+  "summary": "A king’s son embarks on an adventure to find a legendary well that grants long life.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-08",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-04-09",
+  "title": "The Duel",
+  "author": "Aleksandr Kuprin",
+  "summary": "A Russian officer battles disillusionment and unrequited love.",
+  "coverUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin",
   "subjects": [
-    "fiction",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-04-08",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-04-09",
+  "title": "The Private Memoirs and Confessions of a Justified Sinner",
+  "author": "James Hogg",
+  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
   "subjects": [
+    "fiction",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-08",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2026-04-09",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -154,7 +152,7 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "title": "Monsieur Lecoq",
   "author": "Émile Gaboriau",
   "summary": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
@@ -168,26 +166,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-08",
-  "title": "The Land of Little Rain",
-  "author": "Mary Austin",
-  "summary": "Short stories and essays detailing the landscape and inhabitants of the American Southwest.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain",
+  "date": "2026-04-09",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
-    "nonfiction",
-    "shorts"
+    "biography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-08",
-  "title": "The Kural",
-  "author": "Thiruvalluvar",
-  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
+  "date": "2026-04-09",
+  "title": "Dialogues",
+  "author": "Seneca",
+  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
   "subjects": [
     "philosophy"
   ]
@@ -195,12 +193,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-08",
-  "title": "The Rubáiyát of Omar Khayyám",
-  "author": "Omar Khayyám",
-  "summary": "Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.",
-  "coverUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald",
+  "date": "2026-04-09",
+  "title": "Poetry",
+  "author": "Mina Loy",
+  "summary": "A collection of poems by Mina Loy.",
+  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,12 +206,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-08",
-  "title": "Vile Bodies",
-  "author": "Evelyn Waugh",
-  "summary": "A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.",
-  "coverUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies",
+  "date": "2026-04-09",
+  "title": "Main Street",
+  "author": "Sinclair Lewis",
+  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
   "subjects": [
     "fiction",
     "satire"
@@ -222,12 +220,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-08",
-  "title": "Short Fiction",
+  "date": "2026-04-09",
+  "title": "In the Days of the Comet",
   "author": "H. G. Wells",
-  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+  "summary": "A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-04-09",
+  "title": "Short Fiction",
+  "author": "Ray Bradbury",
+  "summary": "A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -235,43 +246,29 @@
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2026-04-08",
-  "title": "Vikram and the Vampire",
-  "author": "Richard F. Burton",
-  "summary": "King Vikram becomes trapped in a cycle of stories as he tries to capture a cunning vampire.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-f-burton/vikram-and-the-vampire",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2026-04-08",
-  "title": "Siddhartha",
-  "author": "Hermann Hesse",
-  "summary": "A man embarks on a spiritual journey through India.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
+  "date": "2026-04-09",
+  "title": "The City of God",
+  "author": "Augustine of Hippo",
+  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
+  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
   "subjects": [
-    "fiction",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-04-08",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-04-09",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
-    "biography",
     "memoir",
     "nonfiction",
     "travel"
