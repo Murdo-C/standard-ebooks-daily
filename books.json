@@ -1,40 +1,39 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-09",
-  "title": "While the Billy Boils",
-  "author": "Henry Lawson",
-  "summary": "A short story collection based on Australian colonial life in 1890s.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
+  "date": "2026-04-10",
+  "title": "With Fire and Sword",
+  "author": "Henryk Sienkiewicz",
+  "summary": "A Cossack uprising in 17th century Poland threatens the entire Commonwealth.",
+  "coverUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/with-fire-and-sword/jeremiah-curtin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/with-fire-and-sword/jeremiah-curtin",
   "subjects": [
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-09",
-  "title": "Jibby Jones",
-  "author": "Ellis Parker Butler",
-  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
+  "date": "2026-04-10",
+  "title": "The Lone Wolf",
+  "author": "Louis Joseph Vance",
+  "summary": "A skilled thief, pursued for his past crimes, is faced with a choice between love or a life of crime.",
+  "coverUrl": "https://standardebooks.org/ebooks/louis-joseph-vance/the-lone-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/louis-joseph-vance/the-lone-wolf",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-09",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2026-04-10",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
     "autobiography"
   ]
@@ -42,54 +41,59 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-04-09",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-04-10",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-04-09",
-  "title": "The House at Pooh Corner",
-  "author": "A. A. Milne",
-  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
+  "date": "2026-04-10",
+  "title": "The Mystery of Cabin Island",
+  "author": "Franklin W. Dixon",
+  "summary": "A group of amateur detectives unravel the mystery of a missing stamps collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island",
   "subjects": [
+    "adventure",
     "childrens",
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-04-09",
-  "title": "Right Ho, Jeeves",
+  "date": "2026-04-10",
+  "title": "School Stories",
   "author": "P. G. Wodehouse",
-  "summary": "Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
+  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-09",
-  "title": "The Jew of Malta",
+  "date": "2026-04-10",
+  "title": "The Tragical History of Doctor Faustus",
   "author": "Christopher Marlowe",
-  "summary": "After losing all of his possessions, a Jewish merchant is determined to get his revenge on Malta.",
-  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta",
+  "summary": "Dr. Faustus sells his soul to Lucifer in return for magical powers.",
+  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-tragical-history-of-doctor-faustus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-tragical-history-of-doctor-faustus",
   "subjects": [
     "drama"
   ]
@@ -97,12 +101,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-09",
-  "title": "The Well at the World’s End",
+  "date": "2026-04-10",
+  "title": "The Roots of the Mountains",
   "author": "William Morris",
-  "summary": "A king’s son embarks on an adventure to find a legendary well that grants long life.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
+  "summary": "The peoples of the dales and woods must unite to defeat a foe intent on enslaving them.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains",
   "subjects": [
     "fantasy"
   ]
@@ -110,54 +114,56 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-09",
-  "title": "The Duel",
-  "author": "Aleksandr Kuprin",
-  "summary": "A Russian officer battles disillusionment and unrequited love.",
-  "coverUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin",
+  "date": "2026-04-10",
+  "title": "The Jade God",
+  "author": "Alan Sullivan",
+  "summary": "Two years after a mysterious murder, a brother and sister move into a countryside manor and begin to notice strange occurrences.",
+  "coverUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alan-sullivan/the-jade-god",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-04-09",
-  "title": "The Private Memoirs and Confessions of a Justified Sinner",
-  "author": "James Hogg",
-  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "date": "2026-04-10",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "fiction",
-    "horror"
+    "adventure",
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-09",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2026-04-10",
+  "title": "Essays",
+  "author": "Henry David Thoreau",
+  "summary": "A collection of Henry David Thoreau’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-09",
-  "title": "Monsieur Lecoq",
-  "author": "Émile Gaboriau",
-  "summary": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+  "date": "2026-04-10",
+  "title": "The Roman Hat Mystery",
+  "author": "Ellery Queen",
+  "summary": "A police detective and his son attempt to solve the murder of a man attending a play at the theater.",
+  "coverUrl": "https://standardebooks.org/ebooks/ellery-queen/the-roman-hat-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ellery-queen/the-roman-hat-mystery",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,26 +172,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-09",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-04-10",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
   "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "title": "Dialogues",
-  "author": "Seneca",
-  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
+  "author": "Plato",
+  "summary": "A collection of Plato’s dialogues.",
+  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
   "subjects": [
     "philosophy"
   ]
@@ -193,12 +199,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-09",
-  "title": "Poetry",
-  "author": "Mina Loy",
-  "summary": "A collection of poems by Mina Loy.",
-  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
+  "date": "2026-04-10",
+  "title": "Magnolia Leaves",
+  "author": "Mary Weston Fordham",
+  "summary": "A collection of poems by Mary Weston Fordham.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves",
   "subjects": [
     "poetry"
   ]
@@ -206,12 +212,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-09",
-  "title": "Main Street",
+  "date": "2026-04-10",
+  "title": "Dodsworth",
   "author": "Sinclair Lewis",
-  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
+  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
   "subjects": [
     "fiction",
     "satire"
@@ -220,26 +226,29 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-09",
-  "title": "In the Days of the Comet",
-  "author": "H. G. Wells",
-  "summary": "A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet",
+  "date": "2026-04-10",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
-    "science_fiction"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "title": "Short Fiction",
-  "author": "Ray Bradbury",
-  "summary": "A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
+  "author": "R. A. Lafferty",
+  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
   "subjects": [
+    "fantasy",
     "science_fiction",
     "shorts"
   ]
@@ -247,14 +256,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-09",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-04-10",
+  "title": "A Confession",
+  "author": "Leo Tolstoy",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -262,15 +270,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-04-09",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2026-04-10",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
