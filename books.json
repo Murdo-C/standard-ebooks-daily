@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-11",
-  "title": "The Wings of the Dove",
+  "date": "2026-04-12",
+  "title": "Washington Square",
   "author": "Henry James",
-  "summary": "A young, dying heiress draws people together amid a backdrop of Venetian elegance.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-wings-of-the-dove/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-wings-of-the-dove",
+  "summary": "A young woman is courted by a man her father disapproves of.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-james/washington-square/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-james/washington-square",
   "subjects": [
     "fiction"
   ]
@@ -14,83 +14,83 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-11",
-  "title": "Ashenden",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
+  "date": "2026-04-12",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
     "adventure",
-    "shorts"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-11",
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
-  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
+  "date": "2026-04-12",
+  "title": "Pointed Roofs",
+  "author": "Dorothy M. Richardson",
+  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
   "subjects": [
     "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-04-11",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-04-11",
-  "title": "Alice’s Adventures in Wonderland",
-  "author": "Lewis Carroll",
-  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
-  "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
-  "genre": "comedy",
-  "date": "2026-04-11",
-  "title": "Short Fiction",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "genre": "biography",
+  "date": "2026-04-12",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
-    "comedy",
-    "fiction",
-    "shorts"
+    "biography",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-04-12",
+  "title": "The Bungalow Mystery",
+  "author": "Carolyn Keene",
+  "summary": "A young amateur detective investigates a new friend’s abusive guardian.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+  "subjects": [
+    "childrens",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-04-12",
+  "title": "Psmith, Journalist",
+  "author": "P. G. Wodehouse",
+  "summary": "Psmith, visiting New York with Mike on a cricket tour, finds entertainment and trouble for himself in the newspaper business, stirring up trouble with New York’s notorious gangs.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-journalist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-journalist",
+  "subjects": [
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-11",
-  "title": "The Alchemist",
-  "author": "Ben Jonson",
-  "summary": "A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.",
-  "coverUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist",
+  "date": "2026-04-12",
+  "title": "The Second Mrs. Tanqueray",
+  "author": "Arthur W. Pinero",
+  "summary": "A gentleman remarries a woman of questionable character and tries to redeem her, but her past revisits the family in unexpected and tragic ways.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-w-pinero/the-second-mrs-tanqueray/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-w-pinero/the-second-mrs-tanqueray",
   "subjects": [
     "drama"
   ]
@@ -98,55 +98,59 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-11",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-04-12",
+  "title": "Short Fiction",
+  "author": "R. A. Lafferty",
+  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
   "subjects": [
-    "comedy",
     "fantasy",
-    "satire"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-11",
-  "title": "Gil Blas",
-  "author": "Alain-René Lesage",
-  "summary": "A poor youth encounters picaresque adventures as he travels through 17th century Spain.",
-  "coverUrl": "https://standardebooks.org/ebooks/alain-rene-lesage/gil-blas/tobias-smollett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alain-rene-lesage/gil-blas/tobias-smollett",
+  "date": "2026-04-12",
+  "title": "The Seven Dials Mystery",
+  "author": "Agatha Christie",
+  "summary": "A weekend party at a country mansion ends in murder, and the daughter of the lord of the estate joins Superintendent Battle in investigating.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-seven-dials-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-seven-dials-mystery",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-04-11",
-  "title": "The Turn of the Screw",
-  "author": "Henry James",
-  "summary": "A governess moves in to a haunted manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
+  "date": "2026-04-12",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
     "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-11",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2026-04-12",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -154,12 +158,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-11",
-  "title": "The Unpleasantness at the Bellona Club",
+  "date": "2026-04-12",
+  "title": "Unnatural Death",
   "author": "Dorothy L. Sayers",
-  "summary": "The discovery of the quiet death of an elderly man at an exclusive club leads to unexpected complications.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/the-unpleasantness-at-the-bellona-club/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/the-unpleasantness-at-the-bellona-club",
+  "summary": "An amateur detective’s investigation of the suspiciously-early death of an elderly lady triggers a series of deadly events.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/unnatural-death/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/unnatural-death",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,12 +172,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-11",
-  "title": "On the Art of Writing",
+  "date": "2026-04-12",
+  "title": "On the Art of Reading",
   "author": "Arthur Quiller-Couch",
-  "summary": "Quiller-Couch surveys the history of English prose while dispensing advice for writing tastefully.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing",
+  "summary": "Quiller-Couch argues for the study and appreciation of classic English literature.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading",
   "subjects": [
     "nonfiction"
   ]
@@ -181,12 +185,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-11",
-  "title": "What Is Property?",
-  "author": "Pierre-Joseph Proudhon",
-  "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
-  "coverUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+  "date": "2026-04-12",
+  "title": "Mutual Aid",
+  "author": "Peter Kropotkin",
+  "summary": "Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid",
   "subjects": [
     "philosophy"
   ]
@@ -194,12 +198,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-11",
-  "title": "Don Juan",
-  "author": "Lord Byron",
-  "summary": "A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan",
+  "date": "2026-04-12",
+  "title": "Poetry",
+  "author": "Langston Hughes",
+  "summary": "A collection of poems by Langston Hughes.",
+  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry",
   "subjects": [
     "poetry"
   ]
@@ -207,72 +211,70 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-11",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-04-12",
+  "title": "The Coming of Bill",
+  "author": "P. G. Wodehouse",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
-    "comedy",
-    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-11",
-  "title": "Short Fiction",
-  "author": "H. Beam Piper",
-  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
+  "date": "2026-04-12",
+  "title": "The Stainless Steel Rat",
+  "author": "Harry Harrison",
+  "summary": "An intergalactic thief tries life on the side of the law.",
+  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-11",
-  "title": "Short Fiction",
-  "author": "Poul Anderson",
-  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
+  "date": "2026-04-12",
+  "title": "Ukridge Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
   "subjects": [
-    "science_fiction",
+    "comedy",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-11",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "date": "2026-04-12",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-04-11",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2026-04-12",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
-    "comedy",
-    "fiction",
+    "nonfiction",
+    "spirituality",
     "travel"
   ]
 }
