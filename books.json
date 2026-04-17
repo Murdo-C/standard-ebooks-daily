@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-16",
-  "title": "Anna Karenina",
-  "author": "Leo Tolstoy",
-  "summary": "A socialite starts an affair with a cavalry officer, against a backdrop of wealthy family life in Imperialist Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett",
+  "date": "2026-04-17",
+  "title": "Satan’s Diary",
+  "author": "Leonid Andreyev",
+  "summary": "Satan’s visit to Earth in the form of an American billionaire forces him to reevaluate mankind.",
+  "coverUrl": "https://standardebooks.org/ebooks/leonid-andreyev/satans-diary/herman-bernstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leonid-andreyev/satans-diary/herman-bernstein",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-16",
-  "title": "The Outlaw of Torn",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A powerful knight terrorizes the aristocracy and protects the poor in 13th century England.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-outlaw-of-torn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-outlaw-of-torn",
+  "date": "2026-04-17",
+  "title": "A High Wind in Jamaica",
+  "author": "Richard Hughes",
+  "summary": "After their parents’ plantation in Jamaica is destroyed by a hurricane, a group of children returning to England are kidnapped by pirates.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-hughes/a-high-wind-in-jamaica/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-hughes/a-high-wind-in-jamaica",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,67 +28,57 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-16",
-  "title": "Memoirs of a Revolutionist",
-  "author": "Peter Kropotkin",
-  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
+  "date": "2026-04-17",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-04-16",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-04-17",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-04-16",
-  "title": "The Secret of the Old Clock",
-  "author": "Carolyn Keene",
-  "summary": "The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
+  "date": "2026-04-17",
+  "title": "At the Back of the North Wind",
+  "author": "George MacDonald",
+  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
   "subjects": [
     "childrens",
-    "mystery"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-04-16",
-  "title": "Psmith in the City",
-  "author": "P. G. Wodehouse",
-  "summary": "A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
-  "subjects": [
-    "comedy"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-04-16",
-  "title": "She Stoops to Conquer",
-  "author": "Oliver Goldsmith",
-  "summary": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
-  "coverUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer",
+  "date": "2026-04-17",
+  "title": "Man and Superman",
+  "author": "George Bernard Shaw",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
     "comedy",
     "drama"
@@ -96,13 +86,28 @@
 }
 ,
 {
+  "genre": "drama",
+  "date": "2026-04-17",
+  "title": "Lady Windermere’s Fan",
+  "author": "Oscar Wilde",
+  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "subjects": [
+    "comedy",
+    "drama",
+    "satire"
+  ]
+}
+,
+{
   "genre": "fantasy",
-  "date": "2026-04-16",
-  "title": "Five Children and It",
+  "date": "2026-04-17",
+  "title": "The Magic City",
   "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
   "subjects": [
     "childrens",
     "fantasy"
@@ -111,72 +116,70 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-16",
-  "title": "The Incredulity of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
+  "date": "2026-04-17",
+  "title": "Romance",
+  "author": "Joseph Conrad",
+  "summary": "The protagonist recounts his youthful adventures in the Caribbean, filled with pirates, daring escapes, and newfound love.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/romance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/romance",
   "subjects": [
-    "fiction",
-    "mystery",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-04-16",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2026-04-17",
+  "title": "John Silence Stories",
+  "author": "Algernon Blackwood",
+  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
+  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-16",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-04-17",
+  "title": "My Four Weeks in France",
+  "author": "Ring Lardner",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
-    "adventure",
-    "autobiography",
+    "comedy",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-16",
-  "title": "The Borough Treasurer",
-  "author": "J. S. Fletcher",
-  "summary": "When a retired detective is found murdered, two business partners in a small Yorkshire town become the prime suspects.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+  "date": "2026-04-17",
+  "title": "At the Villa Rose",
+  "author": "A. E. W. Mason",
+  "summary": "A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-16",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2026-04-17",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
+    "memoir",
     "nonfiction",
     "travel"
   ]
@@ -184,101 +187,96 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-16",
-  "title": "On Liberty",
-  "author": "John Stuart Mill",
-  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+  "date": "2026-04-17",
+  "title": "Pragmatism",
+  "author": "William James",
+  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-16",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2026-04-17",
+  "title": "Poetry",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-04-16",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-04-17",
+  "title": "Main Street",
+  "author": "Sinclair Lewis",
+  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
   "subjects": [
-    "comedy",
     "fiction",
-    "satire",
-    "shorts",
-    "travel"
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-16",
-  "title": "Journey to the Center of the Earth",
-  "author": "Jules Verne",
-  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+  "date": "2026-04-17",
+  "title": "Invaders from the Infinite",
+  "author": "John W. Campbell",
+  "summary": "Three scientists join with an alien race to defeat an attacking force.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite",
   "subjects": [
-    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-16",
-  "title": "Short Fiction",
-  "author": "Thomas Hardy",
-  "summary": "A collection of Thomas Hardy’s short stories, mostly ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-hardy/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-hardy/short-fiction",
+  "date": "2026-04-17",
+  "title": "On a Pincushion",
+  "author": "Mary De Morgan",
+  "summary": "The first collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
   "subjects": [
-    "fiction",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-16",
-  "title": "A Confession",
-  "author": "Leo Tolstoy",
-  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+  "date": "2026-04-17",
+  "title": "The Pilgrim Kamanita",
+  "author": "Karl Gjellerup",
+  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
+  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
   "subjects": [
-    "philosophy",
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-04-16",
-  "title": "The Giant Raft",
-  "author": "Jules Verne",
-  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
+  "date": "2026-04-17",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
-    "adventure",
+    "comedy",
     "fiction",
     "travel"
   ]
