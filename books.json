@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-18",
-  "title": "The Island of Doctor Moreau",
+  "date": "2026-04-19",
+  "title": "The First Men in the Moon",
   "author": "H. G. Wells",
-  "summary": "A shipwrecked man is rescued by a boat and left on a strange island owned by a physiologist who experiments in vivisection.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
+  "summary": "Two British men become the first humans to reach the Moon.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
   "subjects": [
     "science_fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-18",
-  "title": "The Last of the Mohicans",
-  "author": "James Fenimore Cooper",
-  "summary": "Frontiersmen and Native Americans help transport a colonel’s daughters through upper New York during the French and Indian War.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
+  "date": "2026-04-19",
+  "title": "Riders of the Purple Sage",
+  "author": "Zane Grey",
+  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,67 +28,75 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-18",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2026-04-19",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-04-18",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "biography",
+  "date": "2026-04-19",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2026-04-18",
-  "title": "Emily of New Moon",
-  "author": "L. M. Montgomery",
-  "summary": "A budding poetess and orphan goes to live with her estranged aunts.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon",
+  "date": "2026-04-19",
+  "title": "The Princess and Curdie",
+  "author": "George MacDonald",
+  "summary": "A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-04-18",
-  "title": "Love Among the Chickens",
-  "author": "P. G. Wodehouse",
-  "summary": "Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens",
+  "date": "2026-04-19",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
+    "adventure",
     "comedy",
-    "fiction"
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-18",
-  "title": "The Way of the World",
-  "author": "William Congreve",
-  "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world",
+  "date": "2026-04-19",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
     "drama"
@@ -97,12 +105,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-18",
-  "title": "The Gods of Pegāna",
-  "author": "Lord Dunsany",
-  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
+  "date": "2026-04-19",
+  "title": "Lady Into Fox",
+  "author": "David Garnett",
+  "summary": "A newly married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox",
   "subjects": [
     "fantasy"
   ]
@@ -110,12 +118,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-18",
-  "title": "The Brothers Karamazov",
+  "date": "2026-04-19",
+  "title": "Notes from Underground",
   "author": "Fyodor Dostoevsky",
-  "summary": "A dispute over inheritance between father and son escalates into a family feud.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-brothers-karamazov/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-brothers-karamazov/constance-garnett",
+  "summary": "A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett",
   "subjects": [
     "fiction"
   ]
@@ -123,40 +131,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-04-18",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2026-04-19",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "summary": "Ten short stories of madness, hauntings, romance, and art.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
   "subjects": [
     "horror",
-    "science_fiction"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-18",
-  "title": "Incidents in the Life of a Slave Girl",
-  "author": "Linda Brent",
-  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
-  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
+  "date": "2026-04-19",
+  "title": "The House of the Dead",
+  "author": "Fyodor Dostoevsky",
+  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
   "subjects": [
-    "memoir",
-    "nonfiction"
+    "fiction",
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-18",
-  "title": "The Documents in the Case",
-  "author": "Dorothy L. Sayers",
-  "summary": "A man’s apparently accidental death soon arouses suspicions.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case",
+  "date": "2026-04-19",
+  "title": "The Brooklyn Murders",
+  "author": "G. D. H. Cole",
+  "summary": "Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders",
   "subjects": [
     "fiction",
     "mystery"
@@ -165,12 +173,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-18",
-  "title": "Bulfinch’s Mythology",
-  "author": "Thomas Bulfinch",
-  "summary": "An American classicist collects and explains myths and legends ranging from those of the ancient Greeks and Romans, through stories of King Arthur, to the legends of Charlemagne.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology",
+  "date": "2026-04-19",
+  "title": "The Journal of a Disappointed Man",
+  "author": "W. N. P. Barbellion",
+  "summary": "A young naturalist with multiple sclerosis describes his life and love of nature.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-n-p-barbellion/the-journal-of-a-disappointed-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-n-p-barbellion/the-journal-of-a-disappointed-man",
   "subjects": [
     "nonfiction"
   ]
@@ -178,12 +186,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-18",
-  "title": "Tractatus Logico-Philosophicus",
-  "author": "Ludwig Wittgenstein",
-  "summary": "One of the most important texts of 20th century philosophy, in which the nature of the philosophy, language, understanding, and logical atomism are explored.",
-  "coverUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden",
+  "date": "2026-04-19",
+  "title": "The End of the World",
+  "author": "Geoffrey Dennis",
+  "summary": "A philosophical reflection on how the end of the world would unfold based on hypothetical variables and relevant knowledge and historical context.",
+  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world",
   "subjects": [
     "philosophy"
   ]
@@ -191,12 +199,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-18",
-  "title": "New Hampshire",
-  "author": "Robert Frost",
-  "summary": "Robert Frost’s Pulitzer-winning book of poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire",
+  "date": "2026-04-19",
+  "title": "The Faerie Queene",
+  "author": "Edmund Spenser",
+  "summary": "Six knights embodying Christian virtues embark on allegorical quests.",
+  "coverUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene",
   "subjects": [
     "poetry"
   ]
@@ -204,27 +212,25 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-18",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-04-19",
+  "title": "The Coming of Bill",
+  "author": "P. G. Wodehouse",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
-    "comedy",
-    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-18",
-  "title": "A Strange Manuscript Found in a Copper Cylinder",
-  "author": "James De Mille",
-  "summary": "A shipwrecked sailor travels through a portal to a lost world populated by fantastic creatures and a strange civilization.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder",
+  "date": "2026-04-19",
+  "title": "The Food of the Gods",
+  "author": "H. G. Wells",
+  "summary": "Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
   "subjects": [
     "science_fiction"
   ]
@@ -232,12 +238,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "title": "Short Fiction",
-  "author": "Ernest Hemingway",
-  "summary": "A collection of Ernest Hemingway’s short stories and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
+  "author": "O. Henry",
+  "summary": "A collection of O. Henry short stories, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/o-henry/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/o-henry/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -246,13 +252,14 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-18",
-  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
-  "author": "Jonathan Dymond",
-  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+  "date": "2026-04-19",
+  "title": "Demian",
+  "author": "Hermann Hesse",
+  "summary": "A boy goes on a journey of spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
   "subjects": [
+    "fiction",
     "philosophy",
     "spirituality"
   ]
@@ -260,12 +267,12 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-04-18",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-04-19",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
