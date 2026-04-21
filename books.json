@@ -1,41 +1,41 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-20",
-  "title": "Darby O’Gill and the Good People",
-  "author": "Herminie Templeton Kavanagh",
-  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
-  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
+  "date": "2026-04-21",
+  "title": "Demian",
+  "author": "Hermann Hesse",
+  "summary": "A boy goes on a journey of spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
   "subjects": [
-    "childrens",
-    "fantasy",
-    "shorts"
+    "fiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-20",
-  "title": "The Return of Tarzan",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Tarzan attempts to leave behind life in the jungle but rapidly discovers that life among humans contains just as many dangers.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-return-of-tarzan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-return-of-tarzan",
+  "date": "2026-04-21",
+  "title": "The Maracot Deep",
+  "author": "Arthur Conan Doyle",
+  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
   "subjects": [
     "adventure",
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-20",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2026-04-21",
+  "title": "Yashka",
+  "author": "Maria Bochkareva",
+  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -44,92 +44,67 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-04-20",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-04-21",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-04-20",
-  "title": "The Princess and the Goblin",
-  "author": "George MacDonald",
-  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
-  "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-04-20",
-  "title": "Short Fiction",
-  "author": "Ring Lardner",
-  "summary": "A collection of short stories by Ring Lardner.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-04-20",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
-  "subjects": [
-    "drama",
-    "poetry",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-04-20",
-  "title": "The Wonderful Visit",
-  "author": "H. G. Wells",
-  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-04-20",
-  "title": "Poor Folk",
-  "author": "Fyodor Dostoevsky",
-  "summary": "Two poor Russian people exchange letters of love, hope and fear.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/poor-folk/c-j-hogarth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/poor-folk/c-j-hogarth",
-  "subjects": [
     "fiction"
   ]
 }
 ,
 {
-  "genre": "horror",
-  "date": "2026-04-20",
+  "genre": "childrens",
+  "date": "2026-04-21",
+  "title": "Old Indian Legends",
+  "author": "Zitkála-Šá",
+  "summary": "A collection of Dakota legends retold by Zitkála-Šá.",
+  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+  "subjects": [
+    "childrens",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-04-21",
+  "title": "Jack Keefe Stories",
+  "author": "Ring Lardner",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "subjects": [
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-04-21",
+  "title": "The Conscious Lovers",
+  "author": "Richard Steele",
+  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-04-21",
   "title": "The Portent",
   "author": "George MacDonald",
   "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
@@ -143,13 +118,46 @@
 }
 ,
 {
+  "genre": "fiction",
+  "date": "2026-04-21",
+  "title": "The Sea Mystery",
+  "author": "Freeman Wills Crofts",
+  "summary": "The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-04-21",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "subjects": [
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "memoir",
-  "date": "2026-04-20",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2026-04-21",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -158,12 +166,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-20",
-  "title": "The Wrong Letter",
-  "author": "Walter S. Masterman",
-  "summary": "A superintendent and an sleuth attempt to solve a locked-room mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-s-masterman/the-wrong-letter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-s-masterman/the-wrong-letter",
+  "date": "2026-04-21",
+  "title": "The Canary Murder Case",
+  "author": "S. S. Van Dine",
+  "summary": "A Manhattan art connoisseur turned amateur detective gets involved in a murder investigation when a theatrical starlet is found dead in her apartment.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-canary-murder-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-canary-murder-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -172,81 +180,79 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-20",
-  "title": "Confessions of an English Opium-Eater",
-  "author": "Thomas De Quincey",
-  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "date": "2026-04-21",
+  "title": "The Lives of the Caesars",
+  "author": "Suetonius",
+  "summary": "The lives of the twelve emperors called Caesar are described in detail by a near-contemporary Roman historian.",
+  "coverUrl": "https://standardebooks.org/ebooks/suetonius/the-lives-of-the-caesars/j-c-rolfe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/suetonius/the-lives-of-the-caesars/j-c-rolfe",
   "subjects": [
-    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-20",
-  "title": "Two Treatises of Government",
-  "author": "John Locke",
-  "summary": "Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+  "date": "2026-04-21",
+  "title": "Beyond Good and Evil",
+  "author": "Friedrich Nietzsche",
+  "summary": "Nietzsche’s philosophical treatise on the ambiguity of traditional morality.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-20",
-  "title": "Cane",
-  "author": "Jean Toomer",
-  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
+  "date": "2026-04-21",
+  "title": "Songs of the Cattle Trail and Cow Camp",
+  "author": "John A. Lomax",
+  "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp",
   "subjects": [
-    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-04-20",
-  "title": "The Works of Max Beerbohm",
-  "author": "Max Beerbohm",
-  "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm",
+  "date": "2026-04-21",
+  "title": "Where Angels Fear to Tread",
+  "author": "E. M. Forster",
+  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
   "subjects": [
-    "satire",
-    "shorts"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-20",
-  "title": "The Invisible Man",
+  "date": "2026-04-21",
+  "title": "Short Fiction",
   "author": "H. G. Wells",
-  "summary": "A scientist named Griffin creates a serum to render himself invisible and subsequently descends into madness.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
+  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-20",
-  "title": "Short Fiction",
-  "author": "Akutagawa Ryūnosuke",
-  "summary": "A collection of short fiction by Akutagawa Ryūnosuke, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators",
+  "date": "2026-04-21",
+  "title": "Continental Op Stories",
+  "author": "Dashiell Hammett",
+  "summary": "A collection of short stories about an unnamed agent of a detective agency in the early 1920s.",
+  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories",
   "subjects": [
     "fiction",
     "shorts"
@@ -255,30 +261,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-20",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "date": "2026-04-21",
+  "title": "The Pursuit of God",
+  "author": "A. W. Tozer",
+  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
   "subjects": [
-    "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-04-20",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-04-21",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "biography",
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
