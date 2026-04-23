@@ -1,110 +1,109 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-22",
-  "title": "John Brown’s Body",
-  "author": "Stephen Vincent Benét",
-  "summary": "The sweeping tragedy of the American Civil War is chronicled through the interwoven experiences of soldiers and civilians from both the North and the South.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body",
+  "date": "2026-04-23",
+  "title": "The Great Roxhythe",
+  "author": "Georgette Heyer",
+  "summary": "A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.",
+  "coverUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-great-roxhythe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/georgette-heyer/the-great-roxhythe",
   "subjects": [
-    "poetry"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-22",
-  "title": "Jibby Jones",
-  "author": "Ellis Parker Butler",
-  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
+  "date": "2026-04-23",
+  "title": "The Lone Wolf",
+  "author": "Louis Joseph Vance",
+  "summary": "A skilled thief, pursued for his past crimes, is faced with a choice between love or a life of crime.",
+  "coverUrl": "https://standardebooks.org/ebooks/louis-joseph-vance/the-lone-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/louis-joseph-vance/the-lone-wolf",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-22",
-  "title": "The Autobiography of Calvin Coolidge",
-  "author": "Calvin Coolidge",
-  "summary": "The thirtieth president of the United States recounts his life story.",
-  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
+  "date": "2026-04-23",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-04-22",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2026-04-22",
-  "title": "The Wonderful Adventures of Nils",
-  "author": "Selma Lagerlöf",
-  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
+  "genre": "biography",
+  "date": "2026-04-23",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
-    "childrens",
+    "biography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "childrens",
+  "date": "2026-04-23",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
+  "subjects": [
+    "childrens",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "comedy",
-  "date": "2026-04-22",
-  "title": "The Inspector General",
-  "author": "Nikolai Gogol",
-  "summary": "Corrupt officials in a small Russian town are thrown into disarray by the arrival of an Inspector General from the central government.",
-  "coverUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer",
+  "date": "2026-04-23",
+  "title": "The Small Bachelor",
+  "author": "P. G. Wodehouse",
+  "summary": "A struggling artist and his dream girl set off on a series of comedic misadventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-22",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2026-04-23",
+  "title": "The Alchemist",
+  "author": "Ben Jonson",
+  "summary": "A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.",
+  "coverUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist",
   "subjects": [
-    "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-22",
-  "title": "The Worm Ouroboros",
-  "author": "E. R. Eddison",
-  "summary": "The King Gorice of Witchland and the lords of Demonland wage war in the high-fantasy lands of Mercury.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros",
+  "date": "2026-04-23",
+  "title": "A Princess of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -112,12 +111,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-22",
-  "title": "Satan’s Diary",
-  "author": "Leonid Andreyev",
-  "summary": "Satan’s visit to Earth in the form of an American billionaire forces him to reevaluate mankind.",
-  "coverUrl": "https://standardebooks.org/ebooks/leonid-andreyev/satans-diary/herman-bernstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leonid-andreyev/satans-diary/herman-bernstein",
+  "date": "2026-04-23",
+  "title": "Washington Square",
+  "author": "Henry James",
+  "summary": "A young woman is courted by a man her father disapproves of.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-james/washington-square/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-james/washington-square",
   "subjects": [
     "fiction"
   ]
@@ -125,26 +124,26 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-04-22",
-  "title": "Short Fiction",
-  "author": "H. P. Lovecraft",
-  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "date": "2026-04-23",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
-    "horror",
-    "shorts"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-04-22",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-04-23",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -154,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-04-22",
-  "title": "The Red Thumbmark",
+  "date": "2026-04-23",
+  "title": "The D’Arblay Mystery",
   "author": "R. Austin Freeman",
-  "summary": "A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark",
+  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
   "subjects": [
     "mystery"
   ]
@@ -167,27 +166,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-04-22",
-  "title": "The Art of Money Getting",
-  "author": "P. T. Barnum",
-  "summary": "A short guide on achieving financial success.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-art-of-money-getting/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-art-of-money-getting",
+  "date": "2026-04-23",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
   "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-04-22",
-  "title": "Mary Olivier: A Life",
-  "author": "May Sinclair",
-  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
-  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
+  "date": "2026-04-23",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
   "subjects": [
-    "fiction",
     "philosophy",
     "spirituality"
   ]
@@ -195,12 +194,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-04-22",
-  "title": "Olney Hymns",
-  "author": "John Newton",
-  "summary": "A collection of hymns written by John Newton and William Cowper.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns",
+  "date": "2026-04-23",
+  "title": "The Pearl",
+  "author": "Anonymous",
+  "summary": "A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett",
   "subjects": [
     "poetry"
   ]
@@ -208,39 +207,42 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-04-22",
-  "title": "Looking Backward",
-  "author": "Edward Bellamy",
-  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
+  "date": "2026-04-23",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
-    "satire",
-    "science_fiction"
+    "comedy",
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-04-22",
-  "title": "In the Days of the Comet",
-  "author": "H. G. Wells",
-  "summary": "A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet",
+  "date": "2026-04-23",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
-    "science_fiction"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "title": "Short Fiction",
-  "author": "Robert E. Howard",
-  "summary": "A collection of short fiction by Robert E. Howard, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction",
+  "author": "Daphne du Maurier",
+  "summary": "A collection of short stories by Daphne du Maurier.",
+  "coverUrl": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -249,26 +251,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-22",
-  "title": "A Day at a Time",
-  "author": "Archibald Alexander",
-  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
+  "date": "2026-04-23",
+  "title": "Heretics",
+  "author": "G. K. Chesterton",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
   "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-04-22",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-04-23",
+  "title": "My Four Weeks in France",
+  "author": "Ring Lardner",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
+    "comedy",
     "memoir",
     "nonfiction",
     "travel"
