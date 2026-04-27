@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-04-26",
-  "title": "The Song of the Lark",
-  "author": "Willa Cather",
-  "summary": "A young girl leaves her small-town life in 1890s Colorado to become a highly accomplished singer.",
-  "coverUrl": "https://standardebooks.org/ebooks/willa-cather/the-song-of-the-lark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/willa-cather/the-song-of-the-lark",
+  "date": "2026-04-27",
+  "title": "The Life of Buffalo Bill",
+  "author": "William F. Cody",
+  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
   "subjects": [
-    "fiction"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-04-26",
-  "title": "The Purple Land",
-  "author": "W. H. Hudson",
-  "summary": "An Englishman becomes embroiled in adventure, politics, and romance in 19th-century Uruguay.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land",
+  "date": "2026-04-27",
+  "title": "Doctor Syn",
+  "author": "Russell Thorndike",
+  "summary": "A king’s enforcer searching for smugglers uncovers the dark past of the inhabitants of a small English town.",
+  "coverUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,42 +29,39 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-04-26",
-  "title": "Memoirs of a Foxhunting Man",
-  "author": "Siegfried Sassoon",
-  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
-  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
+  "date": "2026-04-27",
+  "title": "The Autobiography of an Idea",
+  "author": "Louis H. Sullivan",
+  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-04-26",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-04-27",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-04-26",
-  "title": "The Road to Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+  "date": "2026-04-27",
+  "title": "Through the Looking-Glass",
+  "author": "Lewis Carroll",
+  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
   "subjects": [
     "childrens",
     "fantasy"
@@ -72,27 +70,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-04-26",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-04-27",
+  "title": "School Stories",
+  "author": "P. G. Wodehouse",
+  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
   "subjects": [
     "comedy",
-    "fantasy",
-    "satire"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-04-26",
-  "title": "The Duchess of Malfi",
-  "author": "John Webster",
-  "summary": "A widow marries beneath her station and against her brothers’ orders and, enraged, they take their revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi",
+  "date": "2026-04-27",
+  "title": "Plays",
+  "author": "Roswitha of Gandersheim",
+  "summary": "The collected plays of Roswitha of Gandersheim, the tenth century German canoness, dramatist, and poet.",
+  "coverUrl": "https://standardebooks.org/ebooks/roswitha-of-gandersheim/plays/christopher-st-john/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/roswitha-of-gandersheim/plays/christopher-st-john",
   "subjects": [
     "drama"
   ]
@@ -100,122 +98,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-04-26",
-  "title": "On a Pincushion",
-  "author": "Mary De Morgan",
-  "summary": "The first collection of fairy tales by Mary De Morgan.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
+  "date": "2026-04-27",
+  "title": "At the Back of the North Wind",
+  "author": "George MacDonald",
+  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-04-26",
-  "title": "The Ambassadors",
-  "author": "Henry James",
-  "summary": "A middle-aged man travels to France to attempt to convince a younger man to return to America.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-ambassadors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-ambassadors",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-04-26",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
-  "subjects": [
-    "horror",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-04-26",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-04-26",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
-  "subjects": [
-    "horror",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-04-26",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-04-26",
-  "title": "Dialogues",
-  "author": "Seneca",
-  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-04-26",
-  "title": "John Brown’s Body",
-  "author": "Stephen Vincent Benét",
-  "summary": "The sweeping tragedy of the American Civil War is chronicled through the interwoven experiences of soldiers and civilians from both the North and the South.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-04-26",
-  "title": "Crome Yellow",
-  "author": "Aldous Huxley",
-  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
+  "date": "2026-04-27",
+  "title": "Democracy",
+  "author": "Henry Adams",
+  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
   "subjects": [
     "fiction",
     "satire"
@@ -223,14 +125,113 @@
 }
 ,
 {
-  "genre": "science_fiction",
-  "date": "2026-04-26",
+  "genre": "horror",
+  "date": "2026-04-27",
   "title": "Short Fiction",
-  "author": "Frederik Pohl",
-  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
+    "horror",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-04-27",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-04-27",
+  "title": "The Talleyrand Maxim",
+  "author": "J. S. Fletcher",
+  "summary": "The estate of a deceased magnate falls prey to an unscrupulous administrator.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-talleyrand-maxim/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-talleyrand-maxim",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-04-27",
+  "title": "The New State",
+  "author": "Mary Parker Follett",
+  "summary": "The theory of group organization is formulated and applied in an attempt to design a truly democratic political state.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-parker-follett/the-new-state",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-04-27",
+  "title": "What Is Property?",
+  "author": "Pierre-Joseph Proudhon",
+  "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
+  "coverUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-04-27",
+  "title": "Poetry",
+  "author": "Ambrose Bierce",
+  "summary": "A collection of Ambrose Bierce’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-04-27",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "subjects": [
+    "comedy",
+    "drama",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-04-27",
+  "title": "Short Fiction",
+  "author": "Frank Belknap Long",
+  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "subjects": [
+    "horror",
     "science_fiction",
     "shorts"
   ]
@@ -238,12 +239,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-04-26",
-  "title": "American Indian Stories",
-  "author": "Zitkála-Šá",
-  "summary": "A collection of stories about Dakota Indians.",
-  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories",
+  "date": "2026-04-27",
+  "title": "Suspiria de Profundis",
+  "author": "Thomas De Quincey",
+  "summary": "A collection of prose poems inspired by De Quincey’s opium dreams.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis",
   "subjects": [
     "fiction",
     "shorts"
@@ -252,28 +253,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-04-26",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2026-04-27",
+  "title": "Orthodoxy",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
   "subjects": [
-    "poetry",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-04-26",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2026-04-27",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
