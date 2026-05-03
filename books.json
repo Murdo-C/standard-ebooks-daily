@@ -1,20 +1,20 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-02",
-  "title": "The Secret City",
-  "author": "Hugh Walpole",
-  "summary": "A Russian family and their English friends become tangled in threads of intrigue as the Revolution erupts around them.",
-  "coverUrl": "https://standardebooks.org/ebooks/hugh-walpole/the-secret-city/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hugh-walpole/the-secret-city",
+  "date": "2026-05-03",
+  "title": "Progress and Poverty",
+  "author": "Henry George",
+  "summary": "An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty",
   "subjects": [
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "title": "Lord Tony’s Wife",
   "author": "Baroness Orczy",
   "summary": "A young woman and her father are kidnapped by a man intent on revenge for his father’s death.",
@@ -28,40 +28,42 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-02",
-  "title": "A Yankee in the Trenches",
-  "author": "Robert Derby Holmes",
-  "summary": "An American describes his experiences in the British Army in the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "date": "2026-05-03",
+  "title": "Pointed Roofs",
+  "author": "Dorothy M. Richardson",
+  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-05-02",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-05-03",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-02",
-  "title": "The Princess and Curdie",
+  "date": "2026-05-03",
+  "title": "The Princess and the Goblin",
   "author": "George MacDonald",
-  "summary": "A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie",
+  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
   "subjects": [
     "childrens",
     "fantasy"
@@ -70,27 +72,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-02",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2026-05-03",
+  "title": "Kipps",
+  "author": "H. G. Wells",
+  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
   "subjects": [
     "comedy",
-    "fiction",
-    "travel"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-05-02",
-  "title": "An Ideal Husband",
-  "author": "Oscar Wilde",
-  "summary": "Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband",
+  "date": "2026-05-03",
+  "title": "Tartuffe",
+  "author": "Molière",
+  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
+  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
   "subjects": [
     "comedy",
     "drama"
@@ -99,27 +100,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-02",
-  "title": "Short Fiction",
-  "author": "R. A. Lafferty",
-  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "date": "2026-05-03",
+  "title": "A Connecticut Yankee in King Arthur’s Court",
+  "author": "Mark Twain",
+  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-02",
-  "title": "Moll Flanders",
-  "author": "Daniel Defoe",
-  "summary": "A resourceful woman navigates 18th-century English society and colonial America over a lifetime of seventy years, using her wit and resilience in her quest for wealth and happiness.",
-  "coverUrl": "https://standardebooks.org/ebooks/daniel-defoe/moll-flanders/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/daniel-defoe/moll-flanders",
+  "date": "2026-05-03",
+  "title": "Payment Deferred",
+  "author": "C. S. Forester",
+  "summary": "A family man desperate for money murders a rich relative, and has to deal with the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred",
   "subjects": [
     "fiction"
   ]
@@ -127,7 +126,7 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "title": "The House on the Borderland",
   "author": "William Hope Hodgson",
   "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
@@ -141,12 +140,12 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-02",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2026-05-03",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -155,12 +154,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-02",
-  "title": "Trent’s Last Case",
-  "author": "E. C. Bentley",
-  "summary": "A journalist investigates the murder of a Wall Street kingpin.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-c-bentley/trents-last-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-c-bentley/trents-last-case",
+  "date": "2026-05-03",
+  "title": "The Murder at the Vicarage",
+  "author": "Agatha Christie",
+  "summary": "A vicar attempts to unravel the mystery of a murder that took place in his study, while his neighbor—an elderly spinster—takes an interest.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,38 +168,40 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-02",
-  "title": "History of the Peloponnesian War",
-  "author": "Thucydides",
-  "summary": "A contemporary history of the ancient Greek war between Athens and Sparta and their allies.",
-  "coverUrl": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley",
+  "date": "2026-05-03",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
   "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-02",
-  "title": "The End of the World",
-  "author": "Geoffrey Dennis",
-  "summary": "A philosophical reflection on how the end of the world would unfold based on hypothetical variables and relevant knowledge and historical context.",
-  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world",
+  "date": "2026-05-03",
+  "title": "Two Treatises of Government",
+  "author": "John Locke",
+  "summary": "Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-05-02",
-  "title": "Poetry",
-  "author": "Ameen Rihani",
-  "summary": "A collection of Ameen Rihani’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
+  "date": "2026-05-03",
+  "title": "Poems on Various Subjects, Religious and Moral",
+  "author": "Phillis Wheatley",
+  "summary": "Phillis Wheatley’s only published collection of poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral",
   "subjects": [
     "poetry"
   ]
@@ -208,27 +209,25 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-05-02",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2026-05-03",
+  "title": "The History of Rasselas, Prince of Abyssinia",
+  "author": "Samuel Johnson",
+  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
   "subjects": [
-    "comedy",
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-02",
-  "title": "Search the Sky",
-  "author": "Frederik Pohl",
-  "summary": "A man visits several worlds as he attempts to discover why humanity is dying out.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
+  "date": "2026-05-03",
+  "title": "The World Below",
+  "author": "S. Fowler Wright",
+  "summary": "A time traveler travels to Earth’s distant future in search of two predecessors lost in the same era.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-fowler-wright/the-world-below/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-fowler-wright/the-world-below",
   "subjects": [
     "science_fiction"
   ]
@@ -236,44 +235,45 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-05-02",
-  "title": "Allan Quatermain Stories",
-  "author": "H. Rider Haggard",
-  "summary": "A collection of short stories about a legendary hunter.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
+  "date": "2026-05-03",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "adventure",
-    "fiction",
+    "childrens",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-02",
-  "title": "The Kingdom of God Is Within You",
-  "author": "Leo Tolstoy",
-  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+  "date": "2026-05-03",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
-    "nonfiction",
-    "philosophy",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-02",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2026-05-03",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
   "subjects": [
-    "shorts",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
