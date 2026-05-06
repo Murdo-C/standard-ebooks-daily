@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-05",
-  "title": "The Deluge",
-  "author": "Henryk Sienkiewicz",
-  "summary": "A Swedish invasion of 17th century Poland threatens the entire Commonwealth.",
-  "coverUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin",
+  "date": "2026-05-06",
+  "title": "Bulldog Drummond",
+  "author": "H. C. McNeile",
+  "summary": "A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-05",
-  "title": "Ivanhoe",
-  "author": "Walter Scott",
-  "summary": "A disinherited knight returns from the Crusades and fights back against Prince John’s reign.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-scott/ivanhoe/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-scott/ivanhoe",
+  "date": "2026-05-06",
+  "title": "The Three Hostages",
+  "author": "John Buchan",
+  "summary": "A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,53 +29,55 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-05",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2026-05-06",
+  "title": "“We”",
+  "author": "Charles A. Lindbergh",
+  "summary": "Legendary aviator Charles Lindbergh gives an account of his early life, how he got into flying, and his famous transatlantic flight.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-a-lindbergh/we/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-a-lindbergh/we",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-05-05",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-05-06",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-05",
-  "title": "The Wonderful Adventures of Nils",
-  "author": "Selma Lagerlöf",
-  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
+  "date": "2026-05-06",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
   "subjects": [
     "childrens",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-05",
-  "title": "All’s Well That Ends Well",
+  "date": "2026-05-06",
+  "title": "As You Like It",
   "author": "William Shakespeare",
-  "summary": "A woman tricks her husband into fulfilling his marriage demands.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well",
+  "summary": "Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
   "subjects": [
     "comedy",
     "drama"
@@ -83,12 +86,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-05-05",
-  "title": "The Power of Darkness",
-  "author": "Leo Tolstoy",
-  "summary": "Two Russian peasants tragically succumb to selfish, immoral temptations.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
+  "date": "2026-05-06",
+  "title": "He Who Gets Slapped",
+  "author": "Leonid Andreyev",
+  "summary": "A mysterious gentleman joins a circus troupe as a clown.",
+  "coverUrl": "https://standardebooks.org/ebooks/leonid-andreyev/he-who-gets-slapped/gregory-zilboorg/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leonid-andreyev/he-who-gets-slapped/gregory-zilboorg",
   "subjects": [
     "drama"
   ]
@@ -96,54 +99,54 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-05",
-  "title": "The Book of Wonder",
-  "author": "Lord Dunsany",
-  "summary": "A collection of fantastical short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
+  "date": "2026-05-06",
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-05",
-  "title": "Short Fiction",
-  "author": "Leonid Andreyev",
-  "summary": "A collection of Leonid Andreyev’s translated short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/various-translators",
+  "date": "2026-05-06",
+  "title": "The Awakening",
+  "author": "Kate Chopin",
+  "summary": "A woman’s dawning realisation of her situation leads to a struggle for independence.",
+  "coverUrl": "https://standardebooks.org/ebooks/kate-chopin/the-awakening/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/kate-chopin/the-awakening",
   "subjects": [
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-05-05",
-  "title": "The King in Yellow",
-  "author": "Robert W. Chambers",
-  "summary": "Ten short stories of madness, hauntings, romance, and art.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+  "date": "2026-05-06",
+  "title": "The Portent",
+  "author": "George MacDonald",
+  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
   "subjects": [
+    "fantasy",
     "horror",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-05",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-05-06",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -153,54 +156,55 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-05",
-  "title": "The Murder of Roger Ackroyd",
-  "author": "Agatha Christie",
-  "summary": "A legendary Belgian detective comes out of retirement to investigate a friend’s murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-of-roger-ackroyd",
+  "date": "2026-05-06",
+  "title": "The Innocence of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
   "subjects": [
-    "mystery"
+    "fiction",
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-05",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2026-05-06",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-05-05",
-  "title": "Mary Olivier: A Life",
-  "author": "May Sinclair",
-  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
-  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
-  "subjects": [
-    "fiction",
+    "nonfiction",
     "philosophy",
     "spirituality"
   ]
 }
 ,
 {
+  "genre": "philosophy",
+  "date": "2026-05-06",
+  "title": "The Age of Reason",
+  "author": "Thomas Paine",
+  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "poetry",
-  "date": "2026-05-05",
-  "title": "Poetry",
-  "author": "Ambrose Bierce",
-  "summary": "A collection of Ambrose Bierce’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
+  "date": "2026-05-06",
+  "title": "Spoon River Anthology",
+  "author": "Edgar Lee Masters",
+  "summary": "A collection of short poems recounting the lives and deaths of the residents of a small Illinois town.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology",
   "subjects": [
     "poetry"
   ]
@@ -208,28 +212,28 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-05-05",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2026-05-06",
+  "title": "Captain Jinks, Hero",
+  "author": "Ernest Howard Crosby",
+  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
   "subjects": [
-    "comedy",
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "title": "Short Fiction",
-  "author": "Ray Bradbury",
-  "summary": "A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
+  "author": "R. A. Lafferty",
+  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
   "subjects": [
+    "fantasy",
     "science_fiction",
     "shorts"
   ]
@@ -237,13 +241,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-05-05",
-  "title": "Dubliners",
-  "author": "James Joyce",
-  "summary": "Fifteen short stories about middle-class life in early 20th-century Dublin.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners",
+  "date": "2026-05-06",
+  "title": "When God Laughs",
+  "author": "Jack London",
+  "summary": "The eleventh collection of short stories by Jack London.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs",
   "subjects": [
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -251,29 +256,26 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-05",
-  "title": "Short Fiction",
-  "author": "George MacDonald",
-  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+  "date": "2026-05-06",
+  "title": "Polynesian Mythology",
+  "author": "George Grey",
+  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
   "subjects": [
-    "childrens",
-    "fantasy",
-    "horror",
-    "shorts",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-05",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2026-05-06",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
     "memoir",
     "nonfiction",
