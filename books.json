@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-07",
-  "title": "Jane Eyre",
-  "author": "Charlotte Brontë",
-  "summary": "A woman is hired by the mysterious master of Thornfield Hall as a governess for his young ward.",
-  "coverUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre",
+  "date": "2026-05-08",
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "summary": "The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz",
   "subjects": [
     "fiction"
   ]
@@ -14,56 +14,53 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-07",
-  "title": "The Story of Doctor Dolittle",
-  "author": "Hugh Lofting",
-  "summary": "A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.",
-  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle",
+  "date": "2026-05-08",
+  "title": "The Story of the Treasure Seekers",
+  "author": "E. Nesbit",
+  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
   "subjects": [
     "adventure",
-    "childrens",
-    "fiction"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-07",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2026-05-08",
+  "title": "Passages from the Life of a Philosopher",
+  "author": "Charles Babbage",
+  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-05-07",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-05-08",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-07",
-  "title": "Just William",
-  "author": "Richmal Crompton",
-  "summary": "An eleven-year old English boy gets involved in a continuous series of amusing adventures to the exasperation of his long-suffering family.",
-  "coverUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william",
+  "date": "2026-05-08",
+  "title": "The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
   "subjects": [
     "childrens",
     "fiction"
@@ -72,26 +69,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-07",
-  "title": "Our American Cousin",
-  "author": "Tom Taylor",
-  "summary": "A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.",
-  "coverUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin",
+  "date": "2026-05-08",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
     "comedy",
-    "drama"
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-05-07",
-  "title": "Short Plays",
-  "author": "J. M. Synge",
-  "summary": "A collection of three short plays by J. M. Synge.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
+  "date": "2026-05-08",
+  "title": "The Taming of the Shrew",
+  "author": "William Shakespeare",
+  "summary": "An unmarriageable shrew receives a marriage proposal.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew",
   "subjects": [
     "drama"
   ]
@@ -99,35 +97,33 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-07",
-  "title": "Through the Looking-Glass",
+  "date": "2026-05-08",
+  "title": "Sylvie and Bruno",
   "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
+  "summary": "Two siblings alternate between fantasy and the real world after their father is the victim of a political conspiracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-07",
-  "title": "Cornelli",
-  "author": "Johanna Spyri",
-  "summary": "A young girl’s emotional hurt requires time and love to heal.",
-  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork",
+  "date": "2026-05-08",
+  "title": "Là-Bas",
+  "author": "J.-K. Huysmans",
+  "summary": "An author struggles to complete his book without having any practical experience of Satanism.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace",
   "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "title": "Short Fiction",
   "author": "Edgar Allan Poe",
   "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
@@ -146,27 +142,27 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-07",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "date": "2026-05-08",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "adventure",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-07",
-  "title": "The Poisoned Chocolates Case",
-  "author": "Anthony Berkeley",
-  "summary": "A club of amateur sleuths attempts to solve a crime whose solution has eluded Scotland Yard.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case",
+  "date": "2026-05-08",
+  "title": "The Bellamy Trial",
+  "author": "Frances Noyes Hart",
+  "summary": "A man and a woman are on trial for the murder of his wife, her friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
   "subjects": [
     "fiction",
     "mystery"
@@ -175,25 +171,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-07",
-  "title": "The Rough Riders",
-  "author": "Theodore Roosevelt",
-  "summary": "The First United States Volunteer Cavalry fights in the Spanish–American War.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders",
+  "date": "2026-05-08",
+  "title": "Darkwater",
+  "author": "W. E. B. Du Bois",
+  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-07",
-  "title": "The Kural",
-  "author": "Thiruvalluvar",
-  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
+  "date": "2026-05-08",
+  "title": "Dialogues",
+  "author": "Seneca",
+  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
   "subjects": [
     "philosophy"
   ]
@@ -201,56 +198,54 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-05-07",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2026-05-08",
+  "title": "Don Juan",
+  "author": "Lord Byron",
+  "summary": "A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan",
   "subjects": [
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-05-07",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2026-05-08",
+  "title": "Captain Jinks, Hero",
+  "author": "Ernest Howard Crosby",
+  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
   "subjects": [
-    "comedy",
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-07",
-  "title": "Short Fiction",
-  "author": "Poul Anderson",
-  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
+  "date": "2026-05-08",
+  "title": "The Purple Cloud",
+  "author": "M. P. Shiel",
+  "summary": "A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "title": "Short Fiction",
-  "author": "H. G. Wells",
-  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
+    "horror",
     "science_fiction",
     "shorts"
   ]
@@ -258,31 +253,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-07",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+  "date": "2026-05-08",
+  "title": "The City of God",
+  "author": "Augustine of Hippo",
+  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
+  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
   "subjects": [
-    "fiction",
-    "poetry",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-07",
-  "title": "The Four Men",
+  "date": "2026-05-08",
+  "title": "The Cruise of the Nona",
   "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
   "subjects": [
-    "comedy",
-    "fiction",
-    "spirituality",
+    "nonfiction",
     "travel"
   ]
 }
