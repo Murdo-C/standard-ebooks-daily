@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-08",
-  "title": "The Wonderful Wizard of Oz",
-  "author": "L. Frank Baum",
-  "summary": "The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz",
+  "date": "2026-05-09",
+  "title": "The Informer",
+  "author": "Liam O’Flaherty",
+  "summary": "An Irish working man flees justice after informing on his friend and co-revolutionary.",
+  "coverUrl": "https://standardebooks.org/ebooks/liam-oflaherty/the-informer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/liam-oflaherty/the-informer",
   "subjects": [
     "fiction"
   ]
@@ -14,39 +14,41 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-08",
-  "title": "The Story of the Treasure Seekers",
-  "author": "E. Nesbit",
-  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
+  "date": "2026-05-09",
+  "title": "Catriona",
+  "author": "Robert Louis Stevenson",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
     "adventure",
-    "childrens"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-08",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2026-05-09",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-05-08",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-05-09",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -55,41 +57,40 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-08",
-  "title": "The Adventures of Huckleberry Finn",
-  "author": "Mark Twain",
-  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
+  "date": "2026-05-09",
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-08",
-  "title": "The Importance of Being Earnest",
+  "date": "2026-05-09",
+  "title": "An Ideal Husband",
   "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "summary": "Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-05-08",
-  "title": "The Taming of the Shrew",
+  "date": "2026-05-09",
+  "title": "Pericles",
   "author": "William Shakespeare",
-  "summary": "An unmarriageable shrew receives a marriage proposal.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew",
+  "summary": "A Tyrian prince flees after he discovers a terrible secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/pericles",
   "subjects": [
     "drama"
   ]
@@ -97,25 +98,29 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-08",
-  "title": "Sylvie and Bruno",
-  "author": "Lewis Carroll",
-  "summary": "Two siblings alternate between fantasy and the real world after their father is the victim of a political conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno",
+  "date": "2026-05-09",
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "fantasy"
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-08",
-  "title": "Là-Bas",
-  "author": "J.-K. Huysmans",
-  "summary": "An author struggles to complete his book without having any practical experience of Satanism.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace",
+  "date": "2026-05-09",
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen",
+  "summary": "Two sisters take long journeys to love in early nineteenth-century England.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/sense-and-sensibility/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/sense-and-sensibility",
   "subjects": [
     "fiction"
   ]
@@ -123,46 +128,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-05-08",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2026-05-09",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
-    "adventure",
-    "comedy",
-    "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-08",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-05-09",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-08",
-  "title": "The Bellamy Trial",
-  "author": "Frances Noyes Hart",
-  "summary": "A man and a woman are on trial for the murder of his wife, her friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
+  "date": "2026-05-09",
+  "title": "The Powerhouse",
+  "author": "John Buchan",
+  "summary": "A secret criminal organization is uncovered after an M.P.’s friend goes missing.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-powerhouse/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-powerhouse",
   "subjects": [
     "fiction",
     "mystery"
@@ -171,12 +170,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-08",
-  "title": "Darkwater",
-  "author": "W. E. B. Du Bois",
-  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
+  "date": "2026-05-09",
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "summary": "Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -185,12 +184,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-08",
-  "title": "Dialogues",
-  "author": "Seneca",
-  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
+  "date": "2026-05-09",
+  "title": "What Is Property?",
+  "author": "Pierre-Joseph Proudhon",
+  "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
+  "coverUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
   "subjects": [
     "philosophy"
   ]
@@ -198,12 +197,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-05-08",
-  "title": "Don Juan",
-  "author": "Lord Byron",
-  "summary": "A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan",
+  "date": "2026-05-09",
+  "title": "Idylls of the King",
+  "author": "Alfred, Lord Tennyson",
+  "summary": "Twelve poems detailing the adventures of Arthur’s round table.",
+  "coverUrl": "https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alfred-lord-tennyson/idylls-of-the-king",
   "subjects": [
     "poetry"
   ]
@@ -211,41 +210,40 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-05-08",
-  "title": "Captain Jinks, Hero",
-  "author": "Ernest Howard Crosby",
-  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
+  "date": "2026-05-09",
+  "title": "The Indiscreet Jewels",
+  "author": "Denis Diderot",
+  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
+  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-08",
-  "title": "The Purple Cloud",
-  "author": "M. P. Shiel",
-  "summary": "A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud",
+  "date": "2026-05-09",
+  "title": "Short Fiction",
+  "author": "Mack Reynolds",
+  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "title": "Short Fiction",
-  "author": "Henry Kuttner",
-  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "author": "H. Beam Piper",
+  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
   "subjects": [
-    "horror",
     "science_fiction",
     "shorts"
   ]
@@ -253,14 +251,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-08",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-05-09",
+  "title": "A Confession",
+  "author": "Leo Tolstoy",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -268,14 +265,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-05-08",
-  "title": "The Cruise of the Nona",
+  "date": "2026-05-09",
+  "title": "The Path to Rome",
   "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
     "nonfiction",
+    "spirituality",
     "travel"
   ]
 }
