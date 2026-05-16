@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "title": "Short Fiction",
-  "author": "Kate Chopin",
-  "summary": "A collection of Kate Chopin’s short stories, ordered by date of writing.",
-  "coverUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction",
+  "author": "Jonas Lie",
+  "summary": "A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/various-translators",
   "subjects": [
     "fiction",
     "shorts"
@@ -15,26 +15,26 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-15",
-  "title": "Journey to the Center of the Earth",
+  "date": "2026-05-16",
+  "title": "An Antarctic Mystery",
   "author": "Jules Verne",
-  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+  "summary": "An American naturalist travels south beyond the remote Kerguelen Islands.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-15",
-  "title": "The Autobiography of John Stuart Mill",
-  "author": "John Stuart Mill",
-  "summary": "The autobiography of English philosopher John Stuart Mill.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
+  "date": "2026-05-16",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "summary": "The autobiography of American President Theodore Roosevelt.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
   "subjects": [
     "autobiography"
   ]
@@ -42,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-05-15",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-05-16",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,23 +56,91 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-15",
-  "title": "The Mystery of Cabin Island",
-  "author": "Franklin W. Dixon",
-  "summary": "A group of amateur detectives unravel the mystery of a missing stamps collection.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island",
+  "date": "2026-05-16",
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
   "subjects": [
-    "adventure",
     "childrens",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-05-16",
+  "title": "Something New",
+  "author": "P. G. Wodehouse",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-05-16",
+  "title": "Othello",
+  "author": "William Shakespeare",
+  "summary": "Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/othello/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/othello",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-05-16",
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+  "subjects": [
+    "fantasy",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-05-16",
+  "title": "The Middle of Things",
+  "author": "J. S. Fletcher",
+  "summary": "The murder of a wealthy man raises questions about the identity of the young woman who is his ward.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things",
+  "subjects": [
     "fiction",
     "mystery"
   ]
 }
 ,
 {
-  "genre": "comedy",
-  "date": "2026-05-15",
+  "genre": "horror",
+  "date": "2026-05-16",
+  "title": "The Three Impostors",
+  "author": "Arthur Machen",
+  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-05-16",
   "title": "My Four Weeks in France",
   "author": "Ring Lardner",
   "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
@@ -87,83 +155,13 @@
 }
 ,
 {
-  "genre": "drama",
-  "date": "2026-05-15",
-  "title": "Much Ado About Nothing",
-  "author": "William Shakespeare",
-  "summary": "One couple is tricked into falling in love, and another couple is tricked into falling out of love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/much-ado-about-nothing/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/much-ado-about-nothing",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-05-15",
-  "title": "The Sundering Flood",
-  "author": "William Morris",
-  "summary": "Separated from his true love by an uncrossable river, a young man ventures into the world hoping to find a path that will bring them together.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-sundering-flood/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-sundering-flood",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-05-15",
-  "title": "Le Morte d’Arthur",
-  "author": "Thomas Malory",
-  "summary": "A late Middle Ages version of the story of King Arthur and the Knights of the Round Table.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-malory/le-morte-darthur/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-malory/le-morte-darthur",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-05-15",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
-  "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-05-15",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
-  "subjects": [
-    "adventure",
-    "autobiography",
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
   "genre": "mystery",
-  "date": "2026-05-15",
-  "title": "Tracks in the Snow",
-  "author": "Godfrey R. Benson",
-  "summary": "A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+  "date": "2026-05-16",
+  "title": "The Murder on the Links",
+  "author": "Agatha Christie",
+  "summary": "A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links",
   "subjects": [
     "fiction",
     "mystery"
@@ -172,12 +170,25 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-15",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-05-16",
+  "title": "Table-Talk",
+  "author": "William Hazlitt",
+  "summary": "A collection of essays on art, literature, philosophy, society, and culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-05-16",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
     "nonfiction",
     "philosophy",
@@ -186,26 +197,13 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-05-15",
-  "title": "What Is Art?",
-  "author": "Leo Tolstoy",
-  "summary": "Leo Tolstoy outlines his philosophy of aesthetics.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "title": "Poetry",
-  "author": "William Shakespeare",
-  "summary": "A collection of William Shakespeare’s poems and sonnets.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry",
+  "author": "W. B. Yeats",
+  "summary": "A collection of poems by W. B. Yeats.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-b-yeats/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-b-yeats/poetry",
   "subjects": [
     "poetry"
   ]
@@ -213,40 +211,25 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-05-15",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-05-16",
+  "title": "The Coming of Bill",
+  "author": "P. G. Wodehouse",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
-    "comedy",
-    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-15",
-  "title": "The Invisible Man",
-  "author": "H. G. Wells",
-  "summary": "A scientist named Griffin creates a serum to render himself invisible and subsequently descends into madness.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "title": "Short Fiction",
-  "author": "Cordwainer Smith",
-  "summary": "A collection of short stories by Cordwainer Smith ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/cordwainer-smith/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/cordwainer-smith/short-fiction",
+  "author": "H. G. Wells",
+  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -254,35 +237,43 @@
 }
 ,
 {
-  "genre": "spirituality",
-  "date": "2026-05-15",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "genre": "shorts",
+  "date": "2026-05-16",
+  "title": "Short Fiction",
+  "author": "Clark Ashton Smith",
+  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
+    "fantasy",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-05-16",
+  "title": "Barlaam and Ioasaph",
+  "author": "Anonymous",
+  "summary": "A monk converts a cloistered young prince to Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
+  "subjects": [
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-15",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-05-16",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
     "travel"
   ]
 }
