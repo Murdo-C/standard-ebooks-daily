@@ -1,97 +1,95 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-17",
-  "title": "Histories",
-  "author": "Herodotus",
-  "summary": "Herodotus recounts the history and geography of the ancient world.",
-  "coverUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
+  "date": "2026-05-18",
+  "title": "Short Fiction",
+  "author": "Jonas Lie",
+  "summary": "A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/various-translators",
   "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-05-17",
-  "title": "When God Laughs",
-  "author": "Jack London",
-  "summary": "The eleventh collection of short stories by Jack London.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs",
-  "subjects": [
-    "adventure",
     "fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "autobiography",
-  "date": "2026-05-17",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
+  "genre": "adventure",
+  "date": "2026-05-18",
+  "title": "Typee",
+  "author": "Herman Melville",
+  "summary": "Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.",
+  "coverUrl": "https://standardebooks.org/ebooks/herman-melville/typee/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herman-melville/typee",
   "subjects": [
-    "autobiography",
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-05-18",
+  "title": "Father Henson’s Story of His Own Life",
+  "author": "Josiah Henson",
+  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
+  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2026-05-17",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-05-18",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-17",
-  "title": "The Bungalow Mystery",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective investigates a new friend’s abusive guardian.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+  "date": "2026-05-18",
+  "title": "Our Baseball Club and How It Won the Championship",
+  "author": "Noah Brooks",
+  "summary": "A late-19th century Illinois baseball team journeys to compete for the championship.",
+  "coverUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship",
   "subjects": [
     "childrens",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-17",
-  "title": "Leave It to Psmith",
+  "date": "2026-05-18",
+  "title": "A Prefect’s Uncle",
   "author": "P. G. Wodehouse",
-  "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith",
+  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
   "subjects": [
-    "comedy"
+    "comedy",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-05-17",
-  "title": "Julius Caesar",
+  "date": "2026-05-18",
+  "title": "King John",
   "author": "William Shakespeare",
-  "summary": "A play portraying the assassination of Julius Caesar.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar",
+  "summary": "King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john",
   "subjects": [
     "drama"
   ]
@@ -99,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-17",
-  "title": "The Lost Continent",
-  "author": "C. J. Cutcliffe Hyne",
-  "summary": "A swashbuckling adventure on the fabled continent of Atlantis.",
-  "coverUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent",
+  "date": "2026-05-18",
+  "title": "The Wood Beyond the World",
+  "author": "William Morris",
+  "summary": "An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world",
   "subjects": [
     "fantasy"
   ]
@@ -112,7 +110,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "title": "Short Fiction",
   "author": "Guy de Maupassant",
   "summary": "A collection of short stories by Guy de Maupassant, in order of date of composition.",
@@ -126,55 +124,53 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-05-17",
-  "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "date": "2026-05-18",
+  "title": "The Case of Charles Dexter Ward",
+  "author": "H. P. Lovecraft",
+  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-17",
-  "title": "Incidents in the Life of a Slave Girl",
-  "author": "Linda Brent",
-  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
-  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
+  "date": "2026-05-18",
+  "title": "The House of the Dead",
+  "author": "Fyodor Dostoevsky",
+  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
   "subjects": [
-    "memoir",
-    "nonfiction"
+    "fiction",
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-17",
-  "title": "The Layton Court Mystery",
-  "author": "Anthony Berkeley",
-  "summary": "Two friends become amateur sleuths when a suicide during a summer retreat leaves too many questions unanswered.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-layton-court-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-layton-court-mystery",
+  "date": "2026-05-18",
+  "title": "The Greene Murder Case",
+  "author": "S. S. Van Dine",
+  "summary": "Philo Vance investigates a series of apparently-senseless shootings in the home of a wealthy New York family.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-greene-murder-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-greene-murder-case",
   "subjects": [
-    "comedy",
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-17",
-  "title": "Essays",
-  "author": "Ralph Waldo Emerson",
-  "summary": "A collection of Ralph Waldo Emerson’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
+  "date": "2026-05-18",
+  "title": "Culture and Anarchy",
+  "author": "Matthew Arnold",
+  "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -183,12 +179,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-17",
-  "title": "The Genealogy of Morals",
+  "date": "2026-05-18",
+  "title": "Thus Spake Zarathustra",
   "author": "Friedrich Nietzsche",
-  "summary": "Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
   "subjects": [
     "philosophy"
   ]
@@ -196,36 +192,34 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-05-17",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-05-18",
+  "title": "The Luzumiyat",
+  "author": "Abu al-ʻAlaʼ al-Maʻarri",
+  "summary": "A collection of quatrains by Abu al-ʻAlaʼ al-Maʻarri.",
+  "coverUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani",
   "subjects": [
-    "drama",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-05-17",
-  "title": "The Works of Max Beerbohm",
-  "author": "Max Beerbohm",
-  "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm",
+  "date": "2026-05-18",
+  "title": "Where Angels Fear to Tread",
+  "author": "E. M. Forster",
+  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
   "subjects": [
-    "satire",
-    "shorts"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "title": "In the Days of the Comet",
   "author": "H. G. Wells",
   "summary": "A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.",
@@ -238,12 +232,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-05-17",
-  "title": "The Return of Sherlock Holmes",
+  "date": "2026-05-18",
+  "title": "The Memoirs of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective returns to London after having faked his death some years before, and investigates a series of baffling mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
   "subjects": [
     "fiction",
     "mystery",
@@ -253,28 +247,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-17",
-  "title": "Tao Te Ching",
-  "author": "Laozi",
-  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+  "date": "2026-05-18",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-17",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-05-18",
+  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+  "author": "Mary Wollstonecraft",
+  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
   "subjects": [
-    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
