@@ -1,26 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-18",
-  "title": "Short Fiction",
-  "author": "Jonas Lie",
-  "summary": "A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonas-lie/short-fiction/various-translators",
+  "date": "2026-05-19",
+  "title": "Dialogues",
+  "author": "Plato",
+  "summary": "A collection of Plato’s dialogues.",
+  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
   "subjects": [
-    "fiction",
-    "shorts"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-18",
-  "title": "Typee",
-  "author": "Herman Melville",
-  "summary": "Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.",
-  "coverUrl": "https://standardebooks.org/ebooks/herman-melville/typee/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herman-melville/typee",
+  "date": "2026-05-19",
+  "title": "The Blue Lagoon",
+  "author": "H. de Vere Stacpoole",
+  "summary": "After a shipwreck, two surviving children are stranded on an island paradise, experiencing its bounties and resources, facing the dangers of the natural world, and undergoing their own maturation and romance.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-de-vere-stacpoole/the-blue-lagoon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-de-vere-stacpoole/the-blue-lagoon",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,39 +28,40 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-18",
-  "title": "Father Henson’s Story of His Own Life",
-  "author": "Josiah Henson",
-  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
-  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
+  "date": "2026-05-19",
+  "title": "Confessions of an English Opium-Eater",
+  "author": "Thomas De Quincey",
+  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-05-18",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-05-19",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
-    "philosophy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-18",
-  "title": "Our Baseball Club and How It Won the Championship",
-  "author": "Noah Brooks",
-  "summary": "A late-19th century Illinois baseball team journeys to compete for the championship.",
-  "coverUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship",
+  "date": "2026-05-19",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,26 +70,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-18",
-  "title": "A Prefect’s Uncle",
-  "author": "P. G. Wodehouse",
-  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
+  "date": "2026-05-19",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
     "comedy",
-    "fiction"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-05-18",
-  "title": "King John",
+  "date": "2026-05-19",
+  "title": "King Lear",
   "author": "William Shakespeare",
-  "summary": "King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john",
+  "summary": "An aging king divides his kingdom between his two eldest daughters, slighting the third, and comes to bitterly regret his decision.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-lear/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-lear",
   "subjects": [
     "drama"
   ]
@@ -97,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-18",
-  "title": "The Wood Beyond the World",
+  "date": "2026-05-19",
+  "title": "The Water of the Wondrous Isles",
   "author": "William Morris",
-  "summary": "An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world",
+  "summary": "A beautiful woman escapes a life of servitude under an evil witch to adventure through a series of magical islands.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles",
   "subjects": [
     "fantasy"
   ]
@@ -110,48 +111,48 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-18",
-  "title": "Short Fiction",
-  "author": "Guy de Maupassant",
-  "summary": "A collection of short stories by Guy de Maupassant, in order of date of composition.",
-  "coverUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators",
+  "date": "2026-05-19",
+  "title": "Cakes and Ale",
+  "author": "W. Somerset Maugham",
+  "summary": "An author is placed in a dilemma when he’s approached to provide background for a biography of a novelist with whom he’s had a relationship.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/cakes-and-ale/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/cakes-and-ale",
   "subjects": [
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-05-18",
-  "title": "The Case of Charles Dexter Ward",
-  "author": "H. P. Lovecraft",
-  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+  "date": "2026-05-19",
+  "title": "The Magician",
+  "author": "W. Somerset Maugham",
+  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
   "subjects": [
-    "horror"
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-18",
-  "title": "The House of the Dead",
-  "author": "Fyodor Dostoevsky",
-  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
+  "date": "2026-05-19",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
   "subjects": [
-    "fiction",
-    "memoir"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "title": "The Greene Murder Case",
   "author": "S. S. Van Dine",
   "summary": "Philo Vance investigates a series of apparently-senseless shootings in the home of a wealthy New York family.",
@@ -165,12 +166,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-18",
-  "title": "Culture and Anarchy",
-  "author": "Matthew Arnold",
-  "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy",
+  "date": "2026-05-19",
+  "title": "A Pluralistic Universe",
+  "author": "William James",
+  "summary": "A philosopher gives an introduction to radical empiricism and how it relates to the experienced world.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -179,25 +180,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-18",
-  "title": "Thus Spake Zarathustra",
-  "author": "Friedrich Nietzsche",
-  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
+  "date": "2026-05-19",
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "summary": "A collection of essays by Errico Malatesta.",
+  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-05-18",
-  "title": "The Luzumiyat",
-  "author": "Abu al-ʻAlaʼ al-Maʻarri",
-  "summary": "A collection of quatrains by Abu al-ʻAlaʼ al-Maʻarri.",
-  "coverUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani",
+  "date": "2026-05-19",
+  "title": "The Book of Jade",
+  "author": "David Park Barnitz",
+  "summary": "A collection of decadent poetry by David Park Barnitz.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade",
   "subjects": [
     "poetry"
   ]
@@ -205,39 +207,41 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-05-18",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
+  "date": "2026-05-19",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
   "subjects": [
-    "fiction",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-05-18",
-  "title": "In the Days of the Comet",
-  "author": "H. G. Wells",
-  "summary": "A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet",
-  "subjects": [
+    "satire",
     "science_fiction"
   ]
 }
 ,
 {
+  "genre": "science_fiction",
+  "date": "2026-05-19",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "subjects": [
+    "horror",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "shorts",
-  "date": "2026-05-18",
-  "title": "The Memoirs of Sherlock Holmes",
+  "date": "2026-05-19",
+  "title": "The Adventures of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
+  "summary": "The world’s first consulting detective investigates a variety of intriguing cases in the first Holmes short story collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes",
   "subjects": [
     "fiction",
     "mystery",
@@ -247,27 +251,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-18",
-  "title": "A Day at a Time",
-  "author": "Archibald Alexander",
-  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
+  "date": "2026-05-19",
+  "title": "Heretics",
+  "author": "G. K. Chesterton",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
   "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-18",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2026-05-19",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "nonfiction",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
