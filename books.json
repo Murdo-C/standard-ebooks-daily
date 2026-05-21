@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-20",
-  "title": "Trilby",
-  "author": "George du Maurier",
-  "summary": "A young woman captures the hearts of a group of artists before falling under the spell of a strange villain.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-du-maurier/trilby/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-du-maurier/trilby",
+  "date": "2026-05-21",
+  "title": "A Confession",
+  "author": "Leo Tolstoy",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "fiction"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-20",
-  "title": "The Secret House",
+  "date": "2026-05-21",
+  "title": "The Four Just Men",
   "author": "Edgar Wallace",
-  "summary": "During the course of a murder investigation, the Assistant Commissioner of Police uncovers a blackmail scheme involving a seedy newspaper and members of British high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-secret-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-secret-house",
+  "summary": "To prevent the passage of a controversial government bill, four vigilantes take the law into their own hands.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,40 +29,42 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-20",
-  "title": "My Reminiscences",
-  "author": "Rabindranath Tagore",
-  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
+  "date": "2026-05-21",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-05-20",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2026-05-20",
-  "title": "The Swiss Family Robinson",
-  "author": "Johann David Wyss",
-  "summary": "A Swiss family is shipwrecked on a remote island in the East Indies.",
-  "coverUrl": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin",
+  "genre": "biography",
+  "date": "2026-05-21",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-05-21",
+  "title": "Jibby Jones",
+  "author": "Ellis Parker Butler",
+  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
+  "subjects": [
+    "adventure",
     "childrens",
     "fiction"
   ]
@@ -69,28 +72,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-20",
-  "title": "Gullible’s Travels",
-  "author": "Ring Lardner",
-  "summary": "An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels",
+  "date": "2026-05-21",
+  "title": "Man and Superman",
+  "author": "George Bernard Shaw",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire",
-    "shorts"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-05-20",
-  "title": "Love’s Labour’s Lost",
+  "date": "2026-05-21",
+  "title": "Henry VI, Part I",
   "author": "William Shakespeare",
-  "summary": "A king and his men swear to abstain from women, just as four women arrive for a state visit.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/loves-labours-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/loves-labours-lost",
+  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
   "subjects": [
     "drama"
   ]
@@ -98,12 +99,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-20",
-  "title": "The House of the Wolfings",
-  "author": "William Morris",
-  "summary": "A tribe of Goths must defend their land from a Roman invasion.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-house-of-the-wolfings/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-house-of-the-wolfings",
+  "date": "2026-05-21",
+  "title": "Vathek",
+  "author": "William Beckford",
+  "summary": "A powerful caliph embarks on a quest to harness the powers of darkness.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley",
   "subjects": [
     "fantasy"
   ]
@@ -111,7 +112,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "title": "With Fire and Sword",
   "author": "Henryk Sienkiewicz",
   "summary": "A Cossack uprising in 17th century Poland threatens the entire Commonwealth.",
@@ -124,37 +125,37 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-05-20",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2026-05-21",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "fantasy",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-20",
-  "title": "Sailing Alone Around the World",
-  "author": "Joshua Slocum",
-  "summary": "A sailor gives his account how he completed the first solo sailing voyage around the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world",
+  "date": "2026-05-21",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
-    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction",
-    "travel"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "title": "The Secret of Father Brown",
   "author": "G. K. Chesterton",
   "summary": "The fourth set of stories of a Catholic priest who is also an amateur detective.",
@@ -169,7 +170,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "title": "Running a Thousand Miles for Freedom",
   "author": "William Craft",
   "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
@@ -185,7 +186,7 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "title": "Short Works",
   "author": "Epictetus",
   "summary": "A collection of Epictetus’s short works.",
@@ -198,7 +199,7 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "title": "North of Boston",
   "author": "Robert Frost",
   "summary": "A collection of Frost’s poetry.",
@@ -211,14 +212,13 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-05-20",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2026-05-21",
+  "title": "Point Counter Point",
+  "author": "Aldous Huxley",
+  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -226,12 +226,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "title": "Short Fiction",
-  "author": "H. Beam Piper",
-  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
+  "author": "Philip K. Dick",
+  "summary": "A collection of short works by science fiction legend Philip K. Dick.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -240,43 +240,41 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-05-20",
-  "title": "Short Fiction",
-  "author": "Anthony Trollope",
-  "summary": "A collection of Anthony Trollope’s short stories, ordered by date of first publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction",
+  "date": "2026-05-21",
+  "title": "Can Such Things Be?",
+  "author": "Ambrose Bierce",
+  "summary": "A collection of Ambrose Bierce’s short supernatural horror stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be",
   "subjects": [
-    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-20",
-  "title": "The Varieties of Religious Experience",
-  "author": "William James",
-  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+  "date": "2026-05-21",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis",
+  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-20",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2026-05-21",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
-    "comedy",
-    "fiction",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
