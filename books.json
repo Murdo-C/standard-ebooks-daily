@@ -1,99 +1,98 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-23",
-  "title": "Continental Op Stories",
-  "author": "Dashiell Hammett",
-  "summary": "A collection of short stories about an unnamed agent of a detective agency in the early 1920s.",
-  "coverUrl": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-05-23",
-  "title": "Beyond Thirty",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
+  "date": "2026-05-24",
+  "title": "The Child of the Cavern",
+  "author": "Jules Verne",
+  "summary": "An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company",
   "subjects": [
     "adventure",
-    "fantasy",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-05-23",
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
-  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-05-23",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-05-23",
-  "title": "Green Meadow Stories",
-  "author": "Thornton W. Burgess",
-  "summary": "A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.",
-  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories",
-  "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2026-05-24",
+  "title": "The Story of the Treasure Seekers",
+  "author": "E. Nesbit",
+  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
+  "subjects": [
+    "adventure",
+    "childrens"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-05-24",
+  "title": "The Enormous Room",
+  "author": "E. E. Cummings",
+  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
+  "subjects": [
+    "autobiography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-05-24",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-05-24",
+  "title": "Harding’s Luck",
+  "author": "E. Nesbit",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
+  "subjects": [
+    "childrens",
+    "fantasy"
+  ]
+}
+,
+{
   "genre": "comedy",
-  "date": "2026-05-23",
-  "title": "Short Fiction",
-  "author": "Ring Lardner",
-  "summary": "A collection of short stories by Ring Lardner.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
+  "date": "2026-05-24",
+  "title": "All’s Well That Ends Well",
+  "author": "William Shakespeare",
+  "summary": "A woman tricks her husband into fulfilling his marriage demands.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire",
-    "shorts"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-05-23",
-  "title": "Henry VI, Part III",
-  "author": "William Shakespeare",
-  "summary": "Henry VI is overthrown and Edward Plantagenet becomes the new King of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii",
+  "date": "2026-05-24",
+  "title": "A Doll’s House",
+  "author": "Henrik Ibsen",
+  "summary": "In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henrik-ibsen/a-dolls-house/r-farquharson-sharp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henrik-ibsen/a-dolls-house/r-farquharson-sharp",
   "subjects": [
     "drama"
   ]
@@ -101,25 +100,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-23",
-  "title": "The Charwoman’s Shadow",
-  "author": "Lord Dunsany",
-  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "date": "2026-05-24",
+  "title": "Wet Magic",
+  "author": "E. Nesbit",
+  "summary": "A group of children visiting the seaside free a captive mermaid and visit her domain.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-23",
-  "title": "Mystery at Lynden Sands",
-  "author": "J. J. Connington",
-  "summary": "A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
+  "date": "2026-05-24",
+  "title": "The Ponson Case",
+  "author": "Freeman Wills Crofts",
+  "summary": "The death of a wealthy industrialist initially seems like an accident, but soon sparks a murder inquiry.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -128,25 +128,27 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-05-23",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-05-24",
+  "title": "Short Fiction",
+  "author": "Arthur Machen",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
   "subjects": [
-    "horror"
+    "fiction",
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-23",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-05-24",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -156,12 +158,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-23",
-  "title": "The Man in the Queue",
-  "author": "Josephine Tey",
-  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
-  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
+  "date": "2026-05-24",
+  "title": "The Starvel Hollow Tragedy",
+  "author": "Freeman Wills Crofts",
+  "summary": "A fire that leaves three dead has enough hints of murder to draw our detective up to Yorkshire.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-starvel-hollow-tragedy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-starvel-hollow-tragedy",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,25 +172,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-23",
-  "title": "The History of the Decline and Fall of the Roman Empire",
-  "author": "Edward Gibbon",
-  "summary": "A narrative history of the Roman Empire from the time of Trajan to the fall of Constantinople.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire",
+  "date": "2026-05-24",
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "summary": "A collection of essays by Errico Malatesta.",
+  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-23",
-  "title": "Nicomachean Ethics",
-  "author": "Aristotle",
-  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+  "date": "2026-05-24",
+  "title": "Moribund Society and Anarchy",
+  "author": "Jean Grave",
+  "summary": "Jean Grave systemically critiques bourgeois society from an anarchist perspective.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
   "subjects": [
     "philosophy"
   ]
@@ -196,40 +199,41 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-05-23",
-  "title": "Songs of a Sourdough",
-  "author": "Robert W. Service",
-  "summary": "A collection of poems about the Klondike Gold Rush.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough",
+  "date": "2026-05-24",
+  "title": "Festus",
+  "author": "Philip James Bailey",
+  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
   "subjects": [
-    "poetry"
+    "drama",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-05-23",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "date": "2026-05-24",
+  "title": "Evelina",
+  "author": "Fanny Burney",
+  "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
+  "coverUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina",
   "subjects": [
-    "comedy",
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-05-23",
-  "title": "The Airlords of Han",
-  "author": "Philip Francis Nowlan",
-  "summary": "Science fiction hero Buck Rogers continues his crusade against the evil Han empire.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han",
+  "date": "2026-05-24",
+  "title": "The Skylark of Space",
+  "author": "E. E. Smith",
+  "summary": "A scientist accidentally creates a way to travel to other star systems, while a rival scientist tries to steal all of his work.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space",
   "subjects": [
     "science_fiction"
   ]
@@ -237,27 +241,28 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-05-23",
-  "title": "Short Fiction",
-  "author": "Algis Budrys",
-  "summary": "Science fiction short stories by author Algis Budrys.",
-  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+  "date": "2026-05-24",
+  "title": "A Thief in the Night",
+  "author": "E. W. Hornung",
+  "summary": "The gentleman thief’s pal reminisces on past adventures in this third collection of A. J. Raffles stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
   "subjects": [
-    "science_fiction",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-23",
-  "title": "Orthodoxy",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+  "date": "2026-05-24",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
+    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -265,14 +270,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-05-23",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-05-24",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
-    "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
