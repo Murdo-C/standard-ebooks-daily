@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-27",
-  "title": "Invaders from the Infinite",
+  "date": "2026-05-28",
+  "title": "Islands of Space",
   "author": "John W. Campbell",
-  "summary": "Three scientists join with an alien race to defeat an attacking force.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/invaders-from-the-infinite",
+  "summary": "Four men become the first humans to travel to other galaxies.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
   "subjects": [
     "science_fiction"
   ]
@@ -14,39 +14,46 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-27",
-  "title": "The House Without a Key",
-  "author": "Earl Derr Biggers",
-  "summary": "Upon arriving in Honolulu, a member of a prominent Boston family is asked to aid in the investigation of his relative’s murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-house-without-a-key/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-house-without-a-key",
+  "date": "2026-05-28",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
     "adventure",
-    "fiction"
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-27",
-  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
-  "author": "Black Hawk",
-  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
-  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
+  "date": "2026-05-28",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-05-27",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-05-28",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -55,12 +62,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-27",
-  "title": "The Magic City",
+  "date": "2026-05-28",
+  "title": "The Phoenix and the Carpet",
   "author": "E. Nesbit",
-  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
+  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
   "subjects": [
     "childrens",
     "fantasy"
@@ -69,12 +76,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-27",
-  "title": "Our American Cousin",
-  "author": "Tom Taylor",
-  "summary": "A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.",
-  "coverUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin",
+  "date": "2026-05-28",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
     "drama"
@@ -83,20 +90,151 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-05-27",
-  "title": "The Hairy Ape",
-  "author": "Eugene O’Neill",
-  "summary": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
-  "coverUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape",
+  "date": "2026-05-28",
+  "title": "Arms and the Man",
+  "author": "George Bernard Shaw",
+  "summary": "A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-27",
+  "date": "2026-05-28",
+  "title": "The Chessmen of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "Tara, Princess of Helium and daughter of John Carter, finds life-threatening adventure in thrilling far-off regions of Barsoom.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-05-28",
+  "title": "Manalive",
+  "author": "G. K. Chesterton",
+  "summary": "An eccentric man brings chaos and happiness to a house of litigious lodgers.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-05-28",
+  "title": "John Silence Stories",
+  "author": "Algernon Blackwood",
+  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
+  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
+  "subjects": [
+    "horror",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-05-28",
+  "title": "Now It Can Be Told",
+  "author": "Philip Gibbs",
+  "summary": "A British war correspondent recalls his experiences during the Great War.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-05-28",
+  "title": "The Box Office Murders",
+  "author": "Freeman Wills Crofts",
+  "summary": "The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-05-28",
+  "title": "Heretics",
+  "author": "G. K. Chesterton",
+  "summary": "A collection of essays in which G. K. Chesterton debates the intellectuals of his day on a range of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/heretics",
+  "subjects": [
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-05-28",
+  "title": "The Public and Its Problems",
+  "author": "John Dewey",
+  "summary": "A discussion of the political philosophy of a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-05-28",
+  "title": "Poetry",
+  "author": "Mina Loy",
+  "summary": "A collection of poems by Mina Loy.",
+  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-05-28",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "subjects": [
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-05-28",
   "title": "Beyond Thirty",
   "author": "Edgar Rice Burroughs",
   "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
@@ -110,139 +248,13 @@
 }
 ,
 {
-  "genre": "fiction",
-  "date": "2026-05-27",
-  "title": "The Bellamy Trial",
-  "author": "Frances Noyes Hart",
-  "summary": "A man and a woman are on trial for the murder of his wife, her friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-05-27",
-  "title": "Melmoth the Wanderer",
-  "author": "Charles Robert Maturin",
-  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
-  "subjects": [
-    "fiction",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-05-27",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-05-27",
-  "title": "The Cheyne Mystery",
-  "author": "Freeman Wills Crofts",
-  "summary": "A man is drugged and then burgled for something he doesn’t know he has.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-05-27",
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
-  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-05-27",
-  "title": "Human Nature and Conduct",
-  "author": "John Dewey",
-  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-05-27",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
-  "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-05-27",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
-  "subjects": [
-    "fiction",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-05-27",
-  "title": "At the Earth’s Core",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Two explorers burrow deep into the planet’s crust and emerge in a savage land inside a hollow Earth, where they have many adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
   "genre": "shorts",
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "title": "Short Fiction",
-  "author": "Ernest Hemingway",
-  "summary": "A collection of Ernest Hemingway’s short stories and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
+  "author": "F. Scott Fitzgerald",
+  "summary": "A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -251,29 +263,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-05-27",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2026-05-28",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "fiction",
-    "poetry",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-05-27",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2026-05-28",
+  "title": "To Cuba and Back",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
   "subjects": [
-    "nonfiction",
     "travel"
   ]
 }
