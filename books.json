@@ -1,39 +1,41 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-05-29",
-  "title": "The Black Star Passes",
-  "author": "John W. Campbell",
-  "summary": "Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes",
+  "date": "2026-05-30",
+  "title": "The Public and Its Problems",
+  "author": "John Dewey",
+  "summary": "A discussion of the political philosophy of a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
   "subjects": [
-    "science_fiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-05-29",
-  "title": "The Narrative of Arthur Gordon Pym of Nantucket",
-  "author": "Edgar Allan Poe",
-  "summary": "A young stowaway embarks on high-seas adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket",
+  "date": "2026-05-30",
+  "title": "Beyond Thirty",
+  "author": "Edgar Rice Burroughs",
+  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
   "subjects": [
     "adventure",
-    "fiction"
+    "fantasy",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-05-29",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2026-05-30",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
   "subjects": [
     "autobiography"
   ]
@@ -41,12 +43,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-05-29",
-  "title": "Eminent Victorians",
+  "date": "2026-05-30",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -55,26 +57,26 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-05-29",
-  "title": "The Railway Children",
+  "date": "2026-05-30",
+  "title": "The Story of the Amulet",
   "author": "E. Nesbit",
-  "summary": "After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children",
+  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-05-29",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-05-30",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
     "drama"
@@ -83,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-05-29",
-  "title": "Candida",
+  "date": "2026-05-30",
+  "title": "Heartbreak House",
   "author": "George Bernard Shaw",
-  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+  "summary": "Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house",
   "subjects": [
     "drama"
   ]
@@ -96,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-05-29",
-  "title": "The Gods of Mars",
+  "date": "2026-05-30",
+  "title": "The Warlord of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
+  "summary": "John Carter, an Earth-man transported to Mars, must rescue his beloved princess from imprisonment in the Martian Temple of the Sun.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-warlord-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -109,51 +111,49 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-05-29",
-  "title": "The Secret of the Caves",
-  "author": "Franklin W. Dixon",
-  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "date": "2026-05-30",
+  "title": "The Beautiful and Damned",
+  "author": "F. Scott Fitzgerald",
+  "summary": "The marriage between a down-and-out aesthete and a self-indulgent flapper begins to crumble against the backdrop of World War I and America’s Jazz Age.",
+  "coverUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-beautiful-and-damned/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-beautiful-and-damned",
   "subjects": [
-    "adventure",
-    "childrens",
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-05-29",
-  "title": "The Wolf-Leader",
-  "author": "Alexandre Dumas",
-  "summary": "A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson",
+  "date": "2026-05-30",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-05-29",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-05-30",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "title": "The Brooklyn Murders",
   "author": "G. D. H. Cole",
   "summary": "Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.",
@@ -167,21 +167,90 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-05-29",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2026-05-30",
+  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+  "author": "Mary Wollstonecraft",
+  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
   "subjects": [
     "nonfiction",
-    "spirituality"
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-05-29",
+  "date": "2026-05-30",
+  "title": "The Crowd",
+  "author": "Gustave Le Bon",
+  "summary": "Le Bon explores the psychology, motivations, and dangers of crowds of people.",
+  "coverUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-05-30",
+  "title": "Poetry",
+  "author": "Langston Hughes",
+  "summary": "A collection of poems by Langston Hughes.",
+  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-05-30",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
+  "subjects": [
+    "satire",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-05-30",
+  "title": "The Land That Time Forgot",
+  "author": "Edgar Rice Burroughs",
+  "summary": "Stranded U-boat survivors and their rescuers contend with dangerous beasts and prehistoric people in a strange lost world.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot",
+  "subjects": [
+    "adventure",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-05-30",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
+  "subjects": [
+    "comedy",
+    "poetry",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-05-30",
   "title": "The Everlasting Man",
   "author": "G. K. Chesterton",
   "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
@@ -195,81 +264,13 @@
 }
 ,
 {
-  "genre": "poetry",
-  "date": "2026-05-29",
-  "title": "Poetry",
-  "author": "Matthew Arnold",
-  "summary": "A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-05-29",
-  "title": "The Indiscreet Jewels",
-  "author": "Denis Diderot",
-  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
-  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
-  "subjects": [
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-05-29",
-  "title": "Pellucidar",
-  "author": "Edgar Rice Burroughs",
-  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-05-29",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
-  "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-05-29",
-  "title": "The Pilgrim’s Progress",
-  "author": "John Bunyan",
-  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
-  "subjects": [
-    "fiction",
-    "spirituality"
-  ]
-}
-,
-{
   "genre": "travel",
-  "date": "2026-05-29",
-  "title": "Two Years Before the Mast",
+  "date": "2026-05-30",
+  "title": "To Cuba and Back",
   "author": "Richard Henry Dana Jr.",
-  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
+  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
   "subjects": [
     "travel"
   ]
