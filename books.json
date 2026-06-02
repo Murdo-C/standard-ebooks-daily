@@ -1,21 +1,21 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-01",
-  "title": "Democracy",
-  "author": "Henry Adams",
-  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
+  "date": "2026-06-02",
+  "title": "The Secret Adversary",
+  "author": "Agatha Christie",
+  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
   "subjects": [
     "fiction",
-    "satire"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "title": "Running a Thousand Miles for Freedom",
   "author": "William Craft",
   "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
@@ -31,52 +31,49 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-01",
-  "title": "An Autobiography",
-  "author": "Theodore Roosevelt",
-  "summary": "The autobiography of American President Theodore Roosevelt.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "date": "2026-06-02",
+  "title": "Confessions of an English Opium-Eater",
+  "author": "Thomas De Quincey",
+  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-06-01",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-06-02",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-01",
-  "title": "The Secret of the Caves",
-  "author": "Franklin W. Dixon",
-  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "date": "2026-06-02",
+  "title": "The Princess and the Goblin",
+  "author": "George MacDonald",
+  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
   "subjects": [
-    "adventure",
     "childrens",
-    "fiction",
-    "mystery"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "title": "The Conscious Lovers",
   "author": "Richard Steele",
   "summary": "A rich young man tries to avoid the marriage his father has arranged.",
@@ -90,7 +87,7 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "title": "Antigone",
   "author": "Sophocles",
   "summary": "A young woman defies the king’s decree to honor her brother with a proper burial.",
@@ -103,25 +100,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-01",
-  "title": "Kai Lung’s Golden Hours",
-  "author": "Ernest Bramah",
-  "summary": "An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours",
+  "date": "2026-06-02",
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-01",
-  "title": "The Pit",
-  "author": "Frank Norris",
-  "summary": "A couple in turn-of-the-century Chicago navigates the murky waters of greed, ambition, and loss against the backdrop of the Board of Trade’s wheat speculation pits.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-norris/the-pit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-norris/the-pit",
+  "date": "2026-06-02",
+  "title": "The House Without Windows",
+  "author": "Barbara Newhall Follett",
+  "summary": "A young woman seeks a new home where she is not trapped by walls or windows.",
+  "coverUrl": "https://standardebooks.org/ebooks/barbara-newhall-follett/the-house-without-windows/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/barbara-newhall-follett/the-house-without-windows",
   "subjects": [
     "fiction"
   ]
@@ -129,50 +128,52 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-06-01",
-  "title": "The Portent",
+  "date": "2026-06-02",
+  "title": "Short Fiction",
   "author": "George MacDonald",
-  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
+    "childrens",
     "fantasy",
     "horror",
-    "mystery"
+    "shorts",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-01",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2026-06-02",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-01",
-  "title": "The D’Arblay Mystery",
-  "author": "R. Austin Freeman",
-  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
+  "date": "2026-06-02",
+  "title": "The Viaduct Murder",
+  "author": "Ronald A. Knox",
+  "summary": "A foursome of friends out golfing try to unravel the mystery surrounding a corpse found on the links.",
+  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "title": "A Voice from the South",
   "author": "Anna Julia Cooper",
   "summary": "A Black woman from the American South philosophizes on various subjects.",
@@ -186,26 +187,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-01",
-  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
-  "author": "Jonathan Dymond",
-  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+  "date": "2026-06-02",
+  "title": "Two Treatises of Government",
+  "author": "John Locke",
+  "summary": "Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
   "subjects": [
-    "philosophy",
-    "spirituality"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-01",
-  "title": "Metamorphoses",
-  "author": "Ovid",
-  "summary": "A collection of Greek and Roman myths that involve various forms of transformation.",
-  "coverUrl": "https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators",
+  "date": "2026-06-02",
+  "title": "Poetry",
+  "author": "Oscar Wilde",
+  "summary": "A collection of poems by Oscar Wilde.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
   "subjects": [
     "poetry"
   ]
@@ -213,7 +214,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "title": "Evelina",
   "author": "Fanny Burney",
   "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
@@ -227,12 +228,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-01",
-  "title": "The Island of Doctor Moreau",
+  "date": "2026-06-02",
+  "title": "The Invisible Man",
   "author": "H. G. Wells",
-  "summary": "A shipwrecked man is rescued by a boat and left on a strange island owned by a physiologist who experiments in vivisection.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
+  "summary": "A scientist named Griffin creates a serum to render himself invisible and subsequently descends into madness.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
   "subjects": [
     "science_fiction"
   ]
@@ -240,12 +241,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-01",
-  "title": "Mr. Mulliner Stories",
+  "date": "2026-06-02",
+  "title": "Golf Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -255,28 +256,31 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-01",
-  "title": "Unspoken Sermons",
+  "date": "2026-06-02",
+  "title": "Short Fiction",
   "author": "George MacDonald",
-  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "nonfiction",
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-01",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-06-02",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
-    "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
