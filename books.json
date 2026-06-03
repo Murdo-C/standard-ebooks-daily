@@ -1,42 +1,39 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-02",
-  "title": "The Secret Adversary",
-  "author": "Agatha Christie",
-  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
+  "date": "2026-06-03",
+  "title": "Gil Blas",
+  "author": "Alain-René Lesage",
+  "summary": "A poor youth encounters picaresque adventures as he travels through 17th century Spain.",
+  "coverUrl": "https://standardebooks.org/ebooks/alain-rene-lesage/gil-blas/tobias-smollett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alain-rene-lesage/gil-blas/tobias-smollett",
   "subjects": [
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-02",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-06-03",
+  "title": "The Purple Land",
+  "author": "W. H. Hudson",
+  "summary": "An Englishman becomes embroiled in adventure, politics, and romance in 19th-century Uruguay.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land",
   "subjects": [
     "adventure",
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-02",
-  "title": "Confessions of an English Opium-Eater",
-  "author": "Thomas De Quincey",
-  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "date": "2026-06-03",
+  "title": "Personal Memoirs of Ulysses S. Grant",
+  "author": "Ulysses S. Grant",
+  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
+  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -45,54 +42,57 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-06-02",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-06-03",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-02",
-  "title": "The Princess and the Goblin",
-  "author": "George MacDonald",
-  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
+  "date": "2026-06-03",
+  "title": "The Secret of the Caves",
+  "author": "Franklin W. Dixon",
+  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
   "subjects": [
+    "adventure",
     "childrens",
-    "fantasy"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-02",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-06-03",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
     "comedy",
-    "drama"
+    "fantasy",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-06-02",
-  "title": "Antigone",
+  "date": "2026-06-03",
+  "title": "Ajax",
   "author": "Sophocles",
-  "summary": "A young woman defies the king’s decree to honor her brother with a proper burial.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/antigone/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/antigone/francis-storr",
+  "summary": "A great warrior descends into madness after being denied magical armor.",
+  "coverUrl": "https://standardebooks.org/ebooks/sophocles/ajax/francis-storr/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sophocles/ajax/francis-storr",
   "subjects": [
     "drama"
   ]
@@ -100,57 +100,54 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-02",
-  "title": "Short Fiction",
-  "author": "E. M. Forster",
-  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+  "date": "2026-06-03",
+  "title": "The Master Mind of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "A new hero from Earth reaches Mars and battles a merchant of purloined youth.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-master-mind-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-master-mind-of-mars",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-02",
-  "title": "The House Without Windows",
-  "author": "Barbara Newhall Follett",
-  "summary": "A young woman seeks a new home where she is not trapped by walls or windows.",
-  "coverUrl": "https://standardebooks.org/ebooks/barbara-newhall-follett/the-house-without-windows/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/barbara-newhall-follett/the-house-without-windows",
+  "date": "2026-06-03",
+  "title": "El Dorado",
+  "author": "Baroness Orczy",
+  "summary": "Two separate interests want to free the imprisoned Dauphin of France.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-06-02",
-  "title": "Short Fiction",
-  "author": "George MacDonald",
-  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+  "date": "2026-06-03",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
-    "childrens",
-    "fantasy",
+    "fiction",
     "horror",
-    "shorts",
-    "spirituality"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-02",
-  "title": "Commentaries on the Gallic War",
-  "author": "Julius Caesar",
-  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
-  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "date": "2026-06-03",
+  "title": "Incidents in the Life of a Slave Girl",
+  "author": "Linda Brent",
+  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
+  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -159,54 +156,55 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-02",
-  "title": "The Viaduct Murder",
-  "author": "Ronald A. Knox",
-  "summary": "A foursome of friends out golfing try to unravel the mystery surrounding a corpse found on the links.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder",
+  "date": "2026-06-03",
+  "title": "The D’Arblay Mystery",
+  "author": "R. Austin Freeman",
+  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-02",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "date": "2026-06-03",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
+    "memoir",
     "nonfiction",
-    "philosophy"
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-02",
-  "title": "Two Treatises of Government",
-  "author": "John Locke",
-  "summary": "Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+  "date": "2026-06-03",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
-    "nonfiction",
+    "comedy",
+    "fantasy",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-02",
-  "title": "Poetry",
-  "author": "Oscar Wilde",
-  "summary": "A collection of poems by Oscar Wilde.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
+  "date": "2026-06-03",
+  "title": "Metamorphoses",
+  "author": "Ovid",
+  "summary": "A collection of Greek and Roman myths that involve various forms of transformation.",
+  "coverUrl": "https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators",
   "subjects": [
     "poetry"
   ]
@@ -214,12 +212,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-02",
-  "title": "Evelina",
-  "author": "Fanny Burney",
-  "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
-  "coverUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina",
+  "date": "2026-06-03",
+  "title": "Vile Bodies",
+  "author": "Evelyn Waugh",
+  "summary": "A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies",
   "subjects": [
     "fiction",
     "satire"
@@ -228,12 +226,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-02",
-  "title": "The Invisible Man",
+  "date": "2026-06-03",
+  "title": "The Island of Doctor Moreau",
   "author": "H. G. Wells",
-  "summary": "A scientist named Griffin creates a serum to render himself invisible and subsequently descends into madness.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
+  "summary": "A shipwrecked man is rescued by a boat and left on a strange island owned by a physiologist who experiments in vivisection.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
   "subjects": [
     "science_fiction"
   ]
@@ -241,12 +239,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-02",
-  "title": "Golf Stories",
+  "date": "2026-06-03",
+  "title": "Jeeves Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
+  "summary": "A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -256,31 +254,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-02",
-  "title": "Short Fiction",
-  "author": "George MacDonald",
-  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+  "date": "2026-06-03",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
-    "childrens",
-    "fantasy",
-    "horror",
-    "shorts",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-02",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-06-03",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
