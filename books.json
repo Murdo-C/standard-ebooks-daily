@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-05",
-  "title": "Antic Hay",
-  "author": "Aldous Huxley",
-  "summary": "A group of 1920s London socialites struggle with their futures.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/antic-hay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/antic-hay",
+  "date": "2026-06-06",
+  "title": "The Secret Tomb",
+  "author": "Maurice Leblanc",
+  "summary": "A young travelling circus owner discovers a clue to ancestral treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-secret-tomb/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-secret-tomb/alexander-teixeira-de-mattos",
   "subjects": [
     "fiction"
   ]
@@ -14,26 +14,28 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-05",
-  "title": "Lorna Doone",
-  "author": "R. D. Blackmore",
-  "summary": "A young yeoman farmer falls in love with a beautiful girl who belongs to the outlaw clan which killed his father.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone",
+  "date": "2026-06-06",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
     "adventure",
-    "fiction"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-05",
-  "title": "The Diary",
-  "author": "Samuel Pepys",
-  "summary": "The diary of a man living in London in the 17th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
+  "date": "2026-06-06",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,55 +44,49 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-06-05",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-06-06",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-05",
-  "title": "Short Fiction",
-  "author": "George MacDonald",
-  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+  "date": "2026-06-06",
+  "title": "Five Children and It",
+  "author": "E. Nesbit",
+  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
   "subjects": [
     "childrens",
-    "fantasy",
-    "horror",
-    "shorts",
-    "spirituality"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-05",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-06-06",
+  "title": "Our American Cousin",
+  "author": "Tom Taylor",
+  "summary": "A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.",
+  "coverUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire",
-    "shorts",
-    "travel"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "title": "The Trachiniae",
   "author": "Sophocles",
   "summary": "A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.",
@@ -103,39 +99,40 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-05",
-  "title": "The Lost Continent",
-  "author": "C. J. Cutcliffe Hyne",
-  "summary": "A swashbuckling adventure on the fabled continent of Atlantis.",
-  "coverUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/c-j-cutcliffe-hyne/the-lost-continent",
+  "date": "2026-06-06",
+  "title": "Short Fiction",
+  "author": "Clark Ashton Smith",
+  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-05",
-  "title": "Lord Tony’s Wife",
-  "author": "Baroness Orczy",
-  "summary": "A young woman and her father are kidnapped by a man intent on revenge for his father’s death.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife",
+  "date": "2026-06-06",
+  "title": "Our Mutual Friend",
+  "author": "Charles Dickens",
+  "summary": "When the body of an unknown man is dragged from the river Thames, a series of complications involving the will of a wealthy man entangle the lives of several Londoners.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-06-05",
-  "title": "The Three Impostors",
-  "author": "Arthur Machen",
-  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "date": "2026-06-06",
+  "title": "Melmoth the Wanderer",
+  "author": "Charles Robert Maturin",
+  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
   "subjects": [
     "fiction",
     "horror"
@@ -144,7 +141,7 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "title": "The Mirror of the Sea",
   "author": "Joseph Conrad",
   "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
@@ -159,12 +156,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-05",
-  "title": "The Red Thumbmark",
+  "date": "2026-06-06",
+  "title": "The D’Arblay Mystery",
   "author": "R. Austin Freeman",
-  "summary": "A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark",
+  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
   "subjects": [
     "mystery"
   ]
@@ -172,39 +169,40 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-05",
-  "title": "The Federalist Papers",
-  "author": "Alexander Hamilton",
-  "summary": "Eighty-five articles written by a group of U.S. Founding Fathers on why the proposed U.S. Constitution should be approved.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers",
+  "date": "2026-06-06",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "nonfiction"
+    "adventure",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-05",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "date": "2026-06-06",
+  "title": "Moribund Society and Anarchy",
+  "author": "Jean Grave",
+  "summary": "Jean Grave systemically critiques bourgeois society from an anarchist perspective.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-05",
-  "title": "Poems on Various Subjects, Religious and Moral",
-  "author": "Phillis Wheatley",
-  "summary": "Phillis Wheatley’s only published collection of poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral",
+  "date": "2026-06-06",
+  "title": "Victory Odes",
+  "author": "Pindar",
+  "summary": "A collection of lyric poems celebrating the triumphs of ancient Greek athletes in various sporting events.",
+  "coverUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way",
   "subjects": [
     "poetry"
   ]
@@ -212,7 +210,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "title": "The Indiscreet Jewels",
   "author": "Denis Diderot",
   "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
@@ -225,12 +223,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-05",
-  "title": "The War of the Worlds",
+  "date": "2026-06-06",
+  "title": "The Island of Doctor Moreau",
   "author": "H. G. Wells",
-  "summary": "The first-person narrative of the Martian invasion of 19th-century Earth.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+  "summary": "A shipwrecked man is rescued by a boat and left on a strange island owned by a physiologist who experiments in vivisection.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
   "subjects": [
     "science_fiction"
   ]
@@ -238,14 +236,13 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-05",
-  "title": "School Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s school stories about the lives and adventures of schoolboys in the early 1900s.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
+  "date": "2026-06-06",
+  "title": "Lord Arthur Savile’s Crime and Other Stories",
+  "author": "Oscar Wilde",
+  "summary": "A collection of Oscar Wilde’s short mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories",
   "subjects": [
-    "comedy",
     "fiction",
     "shorts"
   ]
@@ -253,28 +250,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-05",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-06-06",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-05",
-  "title": "With the Empress Dowager of China",
-  "author": "Katharine A. Carl",
-  "summary": "A female painter becomes the court artist of the Empress Dowager of China.",
-  "coverUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china",
+  "date": "2026-06-06",
+  "title": "My Four Weeks in France",
+  "author": "Ring Lardner",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
+    "comedy",
+    "memoir",
     "nonfiction",
     "travel"
   ]
