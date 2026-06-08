@@ -1,81 +1,85 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-07",
-  "title": "The Teeth of the Tiger",
-  "author": "Maurice Leblanc",
-  "summary": "A series of murders connected to an enormous legacy leads to a battle against an unseen adversary.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos",
+  "date": "2026-06-08",
+  "title": "Monsieur Lecoq",
+  "author": "Émile Gaboriau",
+  "summary": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-07",
-  "title": "The Purple Land",
-  "author": "W. H. Hudson",
-  "summary": "An Englishman becomes embroiled in adventure, politics, and romance in 19th-century Uruguay.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land",
+  "date": "2026-06-08",
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
   "subjects": [
     "adventure",
-    "fiction"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-07",
-  "title": "The Diary",
-  "author": "Samuel Pepys",
-  "summary": "The diary of a man living in London in the 17th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
+  "date": "2026-06-08",
+  "title": "Memoirs of a Foxhunting Man",
+  "author": "Siegfried Sassoon",
+  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
+  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-06-07",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-06-08",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-07",
-  "title": "Harding’s Luck",
+  "date": "2026-06-08",
+  "title": "The Enchanted Castle",
   "author": "E. Nesbit",
-  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
+  "summary": "Three children discover a wonderful garden and castle, and come into possession of a magic ring which entangles them in many strange adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle",
   "subjects": [
     "childrens",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-07",
-  "title": "The School for Scandal",
-  "author": "Richard Brinsley Sheridan",
-  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
+  "date": "2026-06-08",
+  "title": "Tartuffe",
+  "author": "Molière",
+  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
+  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +88,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-06-07",
-  "title": "Philoctetes",
-  "author": "Sophocles",
-  "summary": "A wounded warrior, abandoned on a deserted island, is visited by former comrades who ask for his help in winning a war.",
-  "coverUrl": "https://standardebooks.org/ebooks/sophocles/philoctetes/francis-storr/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sophocles/philoctetes/francis-storr",
+  "date": "2026-06-08",
+  "title": "Edward III",
+  "author": "William Shakespeare",
+  "summary": "Edward III declares himself the true heir of France, which launches the Hundred Years’ War.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii",
   "subjects": [
     "drama"
   ]
@@ -97,26 +101,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-07",
-  "title": "Russian Folktales",
-  "author": "A. N. Afanasyev",
-  "summary": "A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus",
+  "date": "2026-06-08",
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
   "subjects": [
     "fantasy",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-07",
-  "title": "Our Mutual Friend",
-  "author": "Charles Dickens",
-  "summary": "When the body of an unknown man is dragged from the river Thames, a series of complications involving the will of a wealthy man entangle the lives of several Londoners.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend",
+  "date": "2026-06-08",
+  "title": "Sinister Street",
+  "author": "Compton Mackenzie",
+  "summary": "A precocious boy grows to adulthood while struggling with both his own and society’s expectations of his role in life.",
+  "coverUrl": "https://standardebooks.org/ebooks/compton-mackenzie/sinister-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/compton-mackenzie/sinister-street",
   "subjects": [
     "fiction"
   ]
@@ -124,27 +129,29 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-06-07",
-  "title": "John Silence Stories",
-  "author": "Algernon Blackwood",
-  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
-  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
+  "date": "2026-06-08",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
     "horror",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-07",
-  "title": "A Personal Record",
-  "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
+  "date": "2026-06-08",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -152,7 +159,7 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "title": "The Eye of Osiris",
   "author": "R. Austin Freeman",
   "summary": "A newly qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.",
@@ -165,12 +172,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-07",
-  "title": "In Darkest London",
-  "author": "Ada Elizabeth Chesterton",
-  "summary": "A social campaigner describes her experiences living on the streets of 1920s London.",
-  "coverUrl": "https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london",
+  "date": "2026-06-08",
+  "title": "The Souls of Black Folk",
+  "author": "W. E. B. Du Bois",
+  "summary": "A seminal collection of essays on the African-American experience.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk",
   "subjects": [
     "nonfiction"
   ]
@@ -178,12 +185,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-07",
-  "title": "The Social Contract",
-  "author": "Jean-Jacques Rousseau",
-  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+  "date": "2026-06-08",
+  "title": "Democracy and Education",
+  "author": "John Dewey",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -192,22 +199,20 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-07",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+  "date": "2026-06-08",
+  "title": "Poetry",
+  "author": "Mina Loy",
+  "summary": "A collection of poems by Mina Loy.",
+  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "title": "The Devil’s Dictionary",
   "author": "Ambrose Bierce",
   "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
@@ -220,12 +225,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-07",
-  "title": "The Time Machine",
+  "date": "2026-06-08",
+  "title": "The War of the Worlds",
   "author": "H. G. Wells",
-  "summary": "A mysterious inventor travels to a land far off in time.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine",
+  "summary": "The first-person narrative of the Martian invasion of 19th-century Earth.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
   "subjects": [
     "science_fiction"
   ]
@@ -233,12 +238,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-07",
-  "title": "Golf Stories",
+  "date": "2026-06-08",
+  "title": "Jeeves Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
+  "summary": "A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -248,27 +253,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-07",
-  "title": "Barlaam and Ioasaph",
-  "author": "Anonymous",
-  "summary": "A monk converts a cloistered young prince to Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
+  "date": "2026-06-08",
+  "title": "The Varieties of Religious Experience",
+  "author": "William James",
+  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-07",
-  "title": "To Cuba and Back",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
+  "date": "2026-06-08",
+  "title": "With the Empress Dowager of China",
+  "author": "Katharine A. Carl",
+  "summary": "A female painter becomes the court artist of the Empress Dowager of China.",
+  "coverUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china",
   "subjects": [
+    "nonfiction",
     "travel"
   ]
 }
