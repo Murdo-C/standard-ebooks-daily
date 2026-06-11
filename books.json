@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-10",
-  "title": "The Dead Secret",
-  "author": "Wilkie Collins",
-  "summary": "A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.",
-  "coverUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret",
+  "date": "2026-06-11",
+  "title": "A Woman of Thirty",
+  "author": "Honoré de Balzac",
+  "summary": "The story of a young woman who marries badly, told in several vignettes covering the remainder of her life.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-woman-of-thirty/ellen-marriage/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-woman-of-thirty/ellen-marriage",
   "subjects": [
     "fiction"
   ]
@@ -14,54 +14,54 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-10",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "date": "2026-06-11",
+  "title": "After London",
+  "author": "Richard Jefferies",
+  "summary": "A young man tries to understand his place in the world as he explores a post-apocalyptic England.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
   "subjects": [
     "adventure",
-    "childrens",
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-10",
-  "title": "My Reminiscences",
-  "author": "Rabindranath Tagore",
-  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
+  "date": "2026-06-11",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-06-10",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "biography",
+  "date": "2026-06-11",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "subjects": [
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2026-06-10",
-  "title": "The Magic City",
+  "date": "2026-06-11",
+  "title": "The Phoenix and the Carpet",
   "author": "E. Nesbit",
-  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
+  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
   "subjects": [
     "childrens",
     "fantasy"
@@ -70,26 +70,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-10",
-  "title": "Jurgen",
+  "date": "2026-06-11",
+  "title": "The Cords of Vanity",
   "author": "James Branch Cabell",
-  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
   "subjects": [
     "comedy",
-    "fantasy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-06-10",
-  "title": "Henry IV, Part I",
+  "date": "2026-06-11",
+  "title": "Henry IV, Part II",
   "author": "William Shakespeare",
-  "summary": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+  "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
   "subjects": [
     "drama"
   ]
@@ -97,27 +97,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-10",
-  "title": "The Portent",
+  "date": "2026-06-11",
+  "title": "The Princess and Curdie",
   "author": "George MacDonald",
-  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
+  "summary": "A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie",
   "subjects": [
-    "fantasy",
-    "horror",
-    "mystery"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-10",
-  "title": "Gallions Reach",
-  "author": "H. M. Tomlinson",
-  "summary": "A man commits a serious crime in London, and instead of turning himself in, boards a steamer bound for distant lands.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-m-tomlinson/gallions-reach/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-m-tomlinson/gallions-reach",
+  "date": "2026-06-11",
+  "title": "Oil!",
+  "author": "Upton Sinclair",
+  "summary": "A wealthy oil tycoon’s son grapples with his father’s unethical business practices as he forms alliances with oilfield workers and socialists in Southern California.",
+  "coverUrl": "https://standardebooks.org/ebooks/upton-sinclair/oil/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/upton-sinclair/oil",
   "subjects": [
     "fiction"
   ]
@@ -125,28 +124,28 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-06-10",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2026-06-11",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-10",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-06-11",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "biography",
     "memoir",
     "nonfiction",
     "travel"
@@ -155,53 +154,54 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-10",
-  "title": "The Three Taps",
+  "date": "2026-06-11",
+  "title": "The Footsteps at the Lock",
   "author": "Ronald A. Knox",
-  "summary": "The mysterious death of a heavily-insured businessman calls for an investigation by the insurer’s private detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-three-taps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-three-taps",
+  "summary": "When an unsavory pair of cousins goes missing from their canoe holiday on the Thames, detectives are called in to solve the mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-10",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-06-11",
+  "title": "The Origin of Species",
+  "author": "Charles Darwin",
+  "summary": "A distinguished amateur scientist lays out the evidence for the origin of species by means of natural selection.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species",
   "subjects": [
-    "biography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-10",
-  "title": "The Public and Its Problems",
-  "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+  "date": "2026-06-11",
+  "title": "The Everlasting Man",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
   "subjects": [
     "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-10",
-  "title": "Magnolia Leaves",
-  "author": "Mary Weston Fordham",
-  "summary": "A collection of poems by Mary Weston Fordham.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves",
+  "date": "2026-06-11",
+  "title": "Poetry",
+  "author": "Langston Hughes",
+  "summary": "A collection of poems by Langston Hughes.",
+  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry",
   "subjects": [
     "poetry"
   ]
@@ -209,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-10",
-  "title": "Crome Yellow",
+  "date": "2026-06-11",
+  "title": "Point Counter Point",
   "author": "Aldous Huxley",
-  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
+  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
   "subjects": [
     "fiction",
     "satire"
@@ -223,25 +223,27 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-10",
-  "title": "The Stainless Steel Rat",
-  "author": "Harry Harrison",
-  "summary": "An intergalactic thief tries life on the side of the law.",
-  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat",
+  "date": "2026-06-11",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
-    "science_fiction"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-10",
-  "title": "Short Fiction",
+  "date": "2026-06-11",
+  "title": "Ukridge Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -251,28 +253,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-10",
-  "title": "The Pursuit of God",
-  "author": "A. W. Tozer",
-  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
+  "date": "2026-06-11",
+  "title": "The City of God",
+  "author": "Augustine of Hippo",
+  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
+  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
   "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-10",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2026-06-11",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "comedy",
-    "fiction",
+    "shorts",
     "travel"
   ]
 }
