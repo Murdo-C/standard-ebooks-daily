@@ -1,39 +1,40 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-11",
-  "title": "A Woman of Thirty",
-  "author": "Honoré de Balzac",
-  "summary": "The story of a young woman who marries badly, told in several vignettes covering the remainder of her life.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-woman-of-thirty/ellen-marriage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-woman-of-thirty/ellen-marriage",
+  "date": "2026-06-12",
+  "title": "Uller Uprising",
+  "author": "H. Beam Piper",
+  "summary": "450 years in the future, a shrewd general must quell an alien rebellion on a remote colonized planet.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising",
   "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-06-11",
-  "title": "After London",
-  "author": "Richard Jefferies",
-  "summary": "A young man tries to understand his place in the world as he explores a post-apocalyptic England.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
-  "subjects": [
-    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2026-06-12",
+  "title": "Catriona",
+  "author": "Robert Louis Stevenson",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "subjects": [
+    "adventure",
+    "childrens",
+    "fiction"
+  ]
+}
+,
+{
   "genre": "autobiography",
-  "date": "2026-06-11",
-  "title": "The Autobiography of Mark Twain",
-  "author": "Mark Twain",
-  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
+  "date": "2026-06-12",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,12 +43,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-06-11",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-06-12",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -56,40 +57,41 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-11",
-  "title": "The Phoenix and the Carpet",
+  "date": "2026-06-12",
+  "title": "The Railway Children",
   "author": "E. Nesbit",
-  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+  "summary": "After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-railway-children",
   "subjects": [
     "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-06-11",
-  "title": "The Cords of Vanity",
-  "author": "James Branch Cabell",
-  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
-  "subjects": [
-    "comedy",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "comedy",
+  "date": "2026-06-12",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+  "subjects": [
+    "comedy",
+    "fantasy",
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "drama",
-  "date": "2026-06-11",
-  "title": "Henry IV, Part II",
+  "date": "2026-06-12",
+  "title": "Henry V",
   "author": "William Shakespeare",
-  "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
+  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
   "subjects": [
     "drama"
   ]
@@ -97,26 +99,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-11",
-  "title": "The Princess and Curdie",
-  "author": "George MacDonald",
-  "summary": "A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie",
+  "date": "2026-06-12",
+  "title": "A Princess of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-11",
-  "title": "Oil!",
-  "author": "Upton Sinclair",
-  "summary": "A wealthy oil tycoon’s son grapples with his father’s unethical business practices as he forms alliances with oilfield workers and socialists in Southern California.",
-  "coverUrl": "https://standardebooks.org/ebooks/upton-sinclair/oil/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/upton-sinclair/oil",
+  "date": "2026-06-12",
+  "title": "Look Homeward, Angel",
+  "author": "Thomas Wolfe",
+  "summary": "A young man struggles to find his identity and purpose while navigating family tensions, love, and the longing for freedom in a small Southern town.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-wolfe/look-homeward-angel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-wolfe/look-homeward-angel",
   "subjects": [
     "fiction"
   ]
@@ -124,56 +125,53 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-06-11",
-  "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "date": "2026-06-12",
+  "title": "The Portent",
+  "author": "George MacDonald",
+  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
   "subjects": [
+    "fantasy",
     "horror",
-    "science_fiction",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-11",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-06-12",
+  "title": "The Hashish Eater",
+  "author": "Fitz Hugh Ludlow",
+  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
+  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
   "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-11",
-  "title": "The Footsteps at the Lock",
-  "author": "Ronald A. Knox",
-  "summary": "When an unsavory pair of cousins goes missing from their canoe holiday on the Thames, detectives are called in to solve the mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock",
+  "date": "2026-06-12",
+  "title": "The Mystery of 31, New Inn",
+  "author": "R. Austin Freeman",
+  "summary": "A detective investigates a potentially spurious will and a man’s mysterious death.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-11",
-  "title": "The Origin of Species",
+  "date": "2026-06-12",
+  "title": "The Voyage of the Beagle",
   "author": "Charles Darwin",
-  "summary": "A distinguished amateur scientist lays out the evidence for the origin of species by means of natural selection.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species",
+  "summary": "Darwin’s personal account of his 1831 voyage around the world investigating the geology, botany, and zoology of various lands.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle",
   "subjects": [
     "nonfiction"
   ]
@@ -181,27 +179,25 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-11",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "date": "2026-06-12",
+  "title": "The Crowd",
+  "author": "Gustave Le Bon",
+  "summary": "Le Bon explores the psychology, motivations, and dangers of crowds of people.",
+  "coverUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
   "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-11",
-  "title": "Poetry",
-  "author": "Langston Hughes",
-  "summary": "A collection of poems by Langston Hughes.",
-  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry",
+  "date": "2026-06-12",
+  "title": "Don Juan",
+  "author": "Lord Byron",
+  "summary": "A Spanish libertine becomes an unwitting seducer through a series of adventurous escapades.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-byron/don-juan",
   "subjects": [
     "poetry"
   ]
@@ -209,73 +205,70 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-11",
-  "title": "Point Counter Point",
-  "author": "Aldous Huxley",
-  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+  "date": "2026-06-12",
+  "title": "Short Fiction",
+  "author": "Ring Lardner",
+  "summary": "A collection of short stories by Ring Lardner.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
   "subjects": [
+    "comedy",
     "fiction",
-    "satire"
+    "satire",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-11",
-  "title": "Short Fiction",
-  "author": "Henry Kuttner",
-  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "date": "2026-06-12",
+  "title": "Uller Uprising",
+  "author": "H. Beam Piper",
+  "summary": "450 years in the future, a shrewd general must quell an alien rebellion on a remote colonized planet.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/uller-uprising",
   "subjects": [
-    "horror",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-06-12",
+  "title": "Short Fiction",
+  "author": "Philip K. Dick",
+  "summary": "A collection of short works by science fiction legend Philip K. Dick.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+  "subjects": [
     "science_fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2026-06-11",
-  "title": "Ukridge Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2026-06-11",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-06-12",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-11",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2026-06-12",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "shorts",
+    "nonfiction",
     "travel"
   ]
 }
