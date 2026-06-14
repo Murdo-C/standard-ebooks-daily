@@ -1,55 +1,56 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-13",
-  "title": "Tracks in the Snow",
-  "author": "Godfrey R. Benson",
-  "summary": "A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+  "date": "2026-06-14",
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "summary": "An orphan boy living in Victorian England begins his life in extreme poverty and goes on to experience good fortune, love, rejection, wealth, and social challenges as he grows into adulthood.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/great-expectations/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/great-expectations",
   "subjects": [
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-13",
-  "title": "Kidnapped",
+  "date": "2026-06-14",
+  "title": "The Black Arrow",
   "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "summary": "During the War of the Roses, a young knight must rescue his lady and find out who killed his father.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-13",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "date": "2026-06-14",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-06-13",
-  "title": "Eminent Victorians",
+  "date": "2026-06-14",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -58,40 +59,42 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-13",
-  "title": "The Story of the Amulet",
+  "date": "2026-06-14",
+  "title": "The Story of the Treasure Seekers",
   "author": "E. Nesbit",
-  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
+  "summary": "Six siblings search for treasure in order to restore their lost family fortune.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-treasure-seekers",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "adventure",
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-13",
-  "title": "Kipps",
-  "author": "H. G. Wells",
-  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
+  "date": "2026-06-14",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-06-13",
-  "title": "Henry VI, Part I",
+  "date": "2026-06-14",
+  "title": "Henry VI, Part II",
   "author": "William Shakespeare",
-  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
+  "summary": "King Henry VI marries Margaret of Anjou and further stokes discord within his court.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii",
   "subjects": [
     "drama"
   ]
@@ -99,41 +102,38 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-13",
-  "title": "The Sketchbook of Geoffrey Crayon, Gent.",
-  "author": "Washington Irving",
-  "summary": "A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”",
-  "coverUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent",
+  "date": "2026-06-14",
+  "title": "Vathek",
+  "author": "William Beckford",
+  "summary": "A powerful caliph embarks on a quest to harness the powers of darkness.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-13",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2026-06-14",
+  "title": "Dick Sands, the Boy Captain",
+  "author": "Jules Verne",
+  "summary": "A young sea apprentice finds himself in charge of a ship, which is led astray to a land where the slave trade abounds.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/dick-sands-the-boy-captain/ellen-e-frewer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/dick-sands-the-boy-captain/ellen-e-frewer",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-06-13",
-  "title": "Wieland",
-  "author": "Charles Brockden Brown",
-  "summary": "Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland",
+  "date": "2026-06-14",
+  "title": "The Wolf-Leader",
+  "author": "Alexandre Dumas",
+  "summary": "A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson",
   "subjects": [
     "fiction",
     "horror"
@@ -142,26 +142,26 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-13",
-  "title": "The House of the Dead",
-  "author": "Fyodor Dostoevsky",
-  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
+  "date": "2026-06-14",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
   "subjects": [
-    "fiction",
-    "memoir"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-13",
-  "title": "The Rasp",
-  "author": "Philip MacDonald",
-  "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
+  "date": "2026-06-14",
+  "title": "Inspector French’s Greatest Case",
+  "author": "Freeman Wills Crofts",
+  "summary": "An inspector is called in to investigate the murder of a diamond trading firm’s employee and the theft of their jewels.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,25 +170,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-13",
-  "title": "A Journal of the Plague Year",
-  "author": "Daniel Defoe",
-  "summary": "An account of one man’s survival in London during the Great Plague of 1665.",
-  "coverUrl": "https://standardebooks.org/ebooks/daniel-defoe/a-journal-of-the-plague-year/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/daniel-defoe/a-journal-of-the-plague-year",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-06-13",
-  "title": "Walden",
-  "author": "Henry David Thoreau",
-  "summary": "Thoreau’s report on his social experiment of solitude, simplicity, and self-reliance.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
+  "date": "2026-06-14",
+  "title": "The Practice and Theory of Bolshevism",
+  "author": "Bertrand Russell",
+  "summary": "Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -196,13 +183,26 @@
 }
 ,
 {
+  "genre": "philosophy",
+  "date": "2026-06-14",
+  "title": "The Servile State",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "poetry",
-  "date": "2026-06-13",
-  "title": "Orlando Furioso",
-  "author": "Ludovico Ariosto",
-  "summary": "A beautiful woman lures a knight away from his duty to protect Europe from invaders.",
-  "coverUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose",
+  "date": "2026-06-14",
+  "title": "A Cycle of the West",
+  "author": "John G. Neihardt",
+  "summary": "A series of epic poems that recounts the history, legends, and mythology of the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
   "subjects": [
     "poetry"
   ]
@@ -210,26 +210,27 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-13",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-06-14",
+  "title": "A Woman of No Importance",
+  "author": "Oscar Wilde",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-13",
-  "title": "The First Men in the Moon",
-  "author": "H. G. Wells",
-  "summary": "Two British men become the first humans to reach the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon",
+  "date": "2026-06-14",
+  "title": "Planet of the Damned",
+  "author": "Harry Harrison",
+  "summary": "A planetary champion finds himself employed to solve another planet’s pressing problem.",
+  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned",
   "subjects": [
     "science_fiction"
   ]
@@ -237,41 +238,43 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "title": "Short Fiction",
-  "author": "Poul Anderson",
-  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
+  "author": "Gustave Flaubert",
+  "summary": "A collection of short stories by Gustave Flaubert.",
+  "coverUrl": "https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne",
   "subjects": [
-    "science_fiction",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-13",
-  "title": "Barlaam and Ioasaph",
-  "author": "Anonymous",
-  "summary": "A monk converts a cloistered young prince to Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
+  "date": "2026-06-14",
+  "title": "The Necromancers",
+  "author": "Robert Hugh Benson",
+  "summary": "A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
   "subjects": [
     "fiction",
+    "horror",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-13",
-  "title": "Two Years Before the Mast",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
+  "date": "2026-06-14",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
+    "memoir",
     "travel"
   ]
 }
