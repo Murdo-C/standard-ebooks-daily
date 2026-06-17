@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-16",
-  "title": "Persuasion",
-  "author": "Jane Austen",
-  "summary": "A young woman meets again with a lover whose marriage proposal she had been persuaded to reject several years ago.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/persuasion/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/persuasion",
+  "date": "2026-06-17",
+  "title": "Bleak House",
+  "author": "Charles Dickens",
+  "summary": "A young woman of uncertain parentage is taken in by a kindly guardian, while her fate and that of two other young people hinge on the outcome of an interminable legal case.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/bleak-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/bleak-house",
   "subjects": [
     "fiction"
   ]
@@ -14,27 +14,26 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-16",
-  "title": "Treasure Island",
-  "author": "Robert Louis Stevenson",
-  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "date": "2026-06-17",
+  "title": "Kim",
+  "author": "Rudyard Kipling",
+  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
   "subjects": [
     "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-16",
-  "title": "The Autobiography of John Stuart Mill",
-  "author": "John Stuart Mill",
-  "summary": "The autobiography of English philosopher John Stuart Mill.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
+  "date": "2026-06-17",
+  "title": "Father Henson’s Story of His Own Life",
+  "author": "Josiah Henson",
+  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
+  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
   "subjects": [
     "autobiography"
   ]
@@ -42,26 +41,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-06-16",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-06-17",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-16",
-  "title": "Pollyanna Grows Up",
+  "date": "2026-06-17",
+  "title": "Pollyanna",
   "author": "Eleanor H. Porter",
-  "summary": "Pollyanna recovers from an automobile accident with the help of a nearby dowager, before leaving the country to later return to rural Vermont.",
-  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up",
+  "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
+  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna",
   "subjects": [
     "childrens"
   ]
@@ -69,12 +68,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-16",
-  "title": "Man and Superman",
+  "date": "2026-06-17",
+  "title": "You Never Can Tell",
   "author": "George Bernard Shaw",
-  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
+  "summary": "A family recently returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell",
   "subjects": [
     "comedy",
     "drama"
@@ -83,12 +82,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-06-16",
-  "title": "Henry VIII",
+  "date": "2026-06-17",
+  "title": "The Two Noble Kinsmen",
   "author": "William Shakespeare",
-  "summary": "King Henry VIII plans to divorce his first wife for Anne Bullen.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii",
+  "summary": "Two cousins fall in love with a beautiful princess.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare_john-fletcher/the-two-noble-kinsmen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare_john-fletcher/the-two-noble-kinsmen",
   "subjects": [
     "drama"
   ]
@@ -96,12 +95,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-16",
-  "title": "The Water of the Wondrous Isles",
+  "date": "2026-06-17",
+  "title": "The Wood Beyond the World",
   "author": "William Morris",
-  "summary": "A beautiful woman escapes a life of servitude under an evil witch to adventure through a series of magical islands.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-water-of-the-wondrous-isles",
+  "summary": "An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world",
   "subjects": [
     "fantasy"
   ]
@@ -109,12 +108,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-16",
-  "title": "From the Earth to the Moon",
+  "date": "2026-06-17",
+  "title": "Michael Strogoff",
   "author": "Jules Verne",
-  "summary": "After the end of the Civil War, the Baltimore Gun Club decides to apply its engineering expertise to the design of a cannon capable of shooting a projectile to the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/from-the-earth-to-the-moon/ward-lock-co/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/from-the-earth-to-the-moon/ward-lock-co",
+  "summary": "A courier of the Russian Czar must race against time and the Siberian elements to deliver a crucial message of an impeding Tartar invasion and possible treachery.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/michael-strogoff/w-h-g-kingston/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/michael-strogoff/w-h-g-kingston",
   "subjects": [
     "fiction"
   ]
@@ -122,46 +121,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-06-16",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2026-06-17",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
   "subjects": [
-    "adventure",
-    "comedy",
     "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-16",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-06-17",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-16",
-  "title": "The Mystery of the Yellow Room",
+  "date": "2026-06-17",
+  "title": "The Phantom of the Opera",
   "author": "Gaston Leroux",
-  "summary": "A young reporter struggles to investigate a seemingly impossible crime, in which an assailant has escaped from a locked bedroom completely unseen.",
-  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos",
+  "summary": "A mysterious presence terrorizes the Paris Opera.",
+  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,57 +163,55 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-16",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-06-17",
+  "title": "Disenchantment",
+  "author": "C. E. Montague",
+  "summary": "A World War I veteran analyzes how the war affected the collective British psyche.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-e-montague/disenchantment/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-e-montague/disenchantment",
   "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-16",
-  "title": "Demian",
-  "author": "Hermann Hesse",
-  "summary": "A boy goes on a journey of spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
+  "date": "2026-06-17",
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "summary": "A collection of essays by Errico Malatesta.",
+  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
   "subjects": [
-    "fiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-16",
-  "title": "Poetry",
-  "author": "John Keats",
-  "summary": "A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-keats/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-keats/poetry",
+  "date": "2026-06-17",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
-    "poetry"
+    "fiction",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-06-16",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2026-06-17",
+  "title": "Main Street",
+  "author": "Sinclair Lewis",
+  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -228,12 +219,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-16",
-  "title": "Search the Sky",
+  "date": "2026-06-17",
+  "title": "Plague of Pythons",
   "author": "Frederik Pohl",
-  "summary": "A man visits several worlds as he attempts to discover why humanity is dying out.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
+  "summary": "A man navigates a world torn apart by bouts of spontaneous, unexplained possessions.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
   "subjects": [
     "science_fiction"
   ]
@@ -241,42 +232,43 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-16",
-  "title": "Short Fiction",
-  "author": "H. Beam Piper",
-  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
+  "date": "2026-06-17",
+  "title": "Call Mr. Fortune",
+  "author": "H. C. Bailey",
+  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
   "subjects": [
-    "science_fiction",
+    "fiction",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-16",
-  "title": "The Varieties of Religious Experience",
-  "author": "William James",
-  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+  "date": "2026-06-17",
+  "title": "Mary Olivier: A Life",
+  "author": "May Sinclair",
+  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
+  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
   "subjects": [
-    "nonfiction",
+    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-16",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2026-06-17",
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
