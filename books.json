@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-20",
-  "title": "Titus Andronicus",
+  "date": "2026-06-21",
+  "title": "Troilus and Cressida",
   "author": "William Shakespeare",
-  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
+  "summary": "A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida",
   "subjects": [
     "drama"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-20",
-  "title": "Captain Blood",
+  "date": "2026-06-21",
+  "title": "The Sea Hawk",
   "author": "Rafael Sabatini",
-  "summary": "An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.",
-  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood",
+  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-20",
-  "title": "Our Nig",
-  "author": "Harriet E. Wilson",
-  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
+  "date": "2026-06-21",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-06-20",
-  "title": "Eminent Victorians",
+  "date": "2026-06-21",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,41 +55,40 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-20",
-  "title": "Jibby Jones",
-  "author": "Ellis Parker Butler",
-  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
+  "date": "2026-06-21",
+  "title": "Short Fiction",
+  "author": "Beatrix Potter",
+  "summary": "A collection of Beatrix Potter’s short stories for children, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction",
   "subjects": [
-    "adventure",
     "childrens",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-20",
-  "title": "Love Among the Chickens",
+  "date": "2026-06-21",
+  "title": "Mike",
   "author": "P. G. Wodehouse",
-  "summary": "Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens",
+  "summary": "A boy’s adventures in public school are filled with cricket, colorful characters, and a great deal of fun at the expense of authoritarian school masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mike",
   "subjects": [
-    "comedy",
-    "fiction"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-06-20",
-  "title": "King Lear",
+  "date": "2026-06-21",
+  "title": "Love’s Labour’s Lost",
   "author": "William Shakespeare",
-  "summary": "An aging king divides his kingdom between his two eldest daughters, slighting the third, and comes to bitterly regret his decision.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-lear/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-lear",
+  "summary": "A king and his men swear to abstain from women, just as four women arrive for a state visit.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/loves-labours-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/loves-labours-lost",
   "subjects": [
     "drama"
   ]
@@ -98,12 +96,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-20",
-  "title": "The Well at the World’s End",
+  "date": "2026-06-21",
+  "title": "The Sundering Flood",
   "author": "William Morris",
-  "summary": "A king’s son embarks on an adventure to find a legendary well that grants long life.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
+  "summary": "Separated from his true love by an uncrossable river, a young man ventures into the world hoping to find a path that will bring them together.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-sundering-flood/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-sundering-flood",
   "subjects": [
     "fantasy"
   ]
@@ -111,12 +109,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-20",
-  "title": "Mr. Standfast",
+  "date": "2026-06-21",
+  "title": "The Three Hostages",
   "author": "John Buchan",
-  "summary": "An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast",
+  "summary": "A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages",
   "subjects": [
     "adventure",
     "fiction"
@@ -125,27 +123,27 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-06-20",
-  "title": "The House on the Borderland",
-  "author": "William Hope Hodgson",
-  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "date": "2026-06-21",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-20",
-  "title": "Red Dusk and the Morrow",
-  "author": "Paul Dukes",
-  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
-  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
+  "date": "2026-06-21",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -153,12 +151,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-20",
-  "title": "The Box Office Murders",
-  "author": "Freeman Wills Crofts",
-  "summary": "The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders",
+  "date": "2026-06-21",
+  "title": "The Brooklyn Murders",
+  "author": "G. D. H. Cole",
+  "summary": "Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders",
   "subjects": [
     "fiction",
     "mystery"
@@ -167,27 +165,26 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-20",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-06-21",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-20",
-  "title": "The Genealogy of Morals",
+  "date": "2026-06-21",
+  "title": "Thus Spake Zarathustra",
   "author": "Friedrich Nietzsche",
-  "summary": "Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
   "subjects": [
     "philosophy"
   ]
@@ -195,53 +192,55 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-20",
-  "title": "Poetry",
-  "author": "James Weldon Johnson",
-  "summary": "A collection of poems by James Weldon Johnson.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
+  "date": "2026-06-21",
+  "title": "Cane",
+  "author": "Jean Toomer",
+  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
   "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-06-20",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2026-06-21",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
   "subjects": [
-    "comedy",
-    "drama",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-20",
-  "title": "The Big Time",
-  "author": "Fritz Leiber",
-  "summary": "A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/the-big-time",
+  "date": "2026-06-21",
+  "title": "Back to Methuselah",
+  "author": "George Bernard Shaw",
+  "summary": "Five linked plays explore human longevity and governance.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
   "subjects": [
+    "comedy",
+    "drama",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "title": "Short Fiction",
-  "author": "Frederik Pohl",
-  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+  "author": "Fritz Leiber",
+  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -250,28 +249,31 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-20",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
+  "date": "2026-06-21",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-20",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-06-21",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "comedy",
+    "fiction",
+    "spirituality",
     "travel"
   ]
 }
