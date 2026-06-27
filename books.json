@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-26",
-  "title": "Calvary",
-  "author": "Octave Mirbeau",
-  "summary": "A young writer’s ruinous affair leads him down a path of suffering, obsession, and finally redemption.",
-  "coverUrl": "https://standardebooks.org/ebooks/octave-mirbeau/calvary/louis-rich/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/octave-mirbeau/calvary/louis-rich",
+  "date": "2026-06-27",
+  "title": "The Book of Tea",
+  "author": "Okakura Kakuzō",
+  "summary": "The Book of Tea is a long essay exploring the relationship between teaism, taoism, and the aesthetics of Japanese culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea",
   "subjects": [
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-26",
-  "title": "Around the World in Eighty Days",
+  "date": "2026-06-27",
+  "title": "Five Weeks in a Balloon",
   "author": "Jules Verne",
-  "summary": "On a bet, an eccentric Victorian gentleman races to circumnavigate the globe.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle",
+  "summary": "Three men attempt to cross Africa by balloon.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-26",
-  "title": "Pointed Roofs",
-  "author": "Dorothy M. Richardson",
-  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
+  "date": "2026-06-27",
+  "title": "The Enormous Room",
+  "author": "E. E. Cummings",
+  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
   "subjects": [
     "autobiography",
     "fiction"
@@ -42,26 +42,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-06-26",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-06-27",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-26",
-  "title": "The Hidden Staircase",
+  "date": "2026-06-27",
+  "title": "The Bungalow Mystery",
   "author": "Carolyn Keene",
-  "summary": "A young amateur detective investigates a supposed haunting.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
+  "summary": "A young amateur detective investigates a new friend’s abusive guardian.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
   "subjects": [
     "childrens",
     "mystery"
@@ -70,26 +70,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-26",
-  "title": "The Man of Destiny",
-  "author": "George Bernard Shaw",
-  "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny",
+  "date": "2026-06-27",
+  "title": "Brewster’s Millions",
+  "author": "George Barr McCutcheon",
+  "summary": "A young man stands to gain a fortune—but only if he loses one first.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-06-26",
-  "title": "Henry VI, Part III",
+  "date": "2026-06-27",
+  "title": "Henry VIII",
   "author": "William Shakespeare",
-  "summary": "Henry VI is overthrown and Edward Plantagenet becomes the new King of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii",
+  "summary": "King Henry VIII plans to divorce his first wife for Anne Bullen.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii",
   "subjects": [
     "drama"
   ]
@@ -97,53 +97,54 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-26",
-  "title": "A Connecticut Yankee in King Arthur’s Court",
-  "author": "Mark Twain",
-  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
+  "date": "2026-06-27",
+  "title": "On a Pincushion",
+  "author": "Mary De Morgan",
+  "summary": "The first collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
   "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-06-26",
-  "title": "Cane",
-  "author": "Jean Toomer",
-  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
-  "subjects": [
-    "fiction",
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-06-26",
-  "title": "The King in Yellow",
-  "author": "Robert W. Chambers",
-  "summary": "Ten short stories of madness, hauntings, romance, and art.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
-  "subjects": [
-    "horror",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
+  "genre": "fiction",
+  "date": "2026-06-27",
+  "title": "Heidi",
+  "author": "Johanna Spyri",
+  "summary": "A small girl is left with her grandfather and falls in love with his alpine home.",
+  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork",
+  "subjects": [
+    "childrens",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-06-27",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
   "genre": "memoir",
-  "date": "2026-06-26",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2026-06-27",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -152,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-26",
-  "title": "The Lazy Detective",
-  "author": "George Dilnot",
-  "summary": "An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective",
+  "date": "2026-06-27",
+  "title": "Clouds of Witness",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,12 +167,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-26",
-  "title": "The Social Contract",
-  "author": "Jean-Jacques Rousseau",
-  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+  "date": "2026-06-27",
+  "title": "Democracy and Education",
+  "author": "John Dewey",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -180,25 +181,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-26",
-  "title": "Tusculan Disputations",
-  "author": "Cicero",
-  "summary": "Cicero gives practical guidance for living wisely and well by adopting a Stoic outlook and concentrating on the virtues.",
-  "coverUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge",
+  "date": "2026-06-27",
+  "title": "The Practice and Theory of Bolshevism",
+  "author": "Bertrand Russell",
+  "summary": "Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-26",
-  "title": "The Iliad",
+  "date": "2026-06-27",
+  "title": "The Odyssey",
   "author": "Homer",
-  "summary": "The epic poem which follows a Greek warrior who refuses to give up his prize of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant",
+  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
+  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
   "subjects": [
     "poetry"
   ]
@@ -206,12 +208,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-26",
-  "title": "Zuleika Dobson",
-  "author": "Max Beerbohm",
-  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+  "date": "2026-06-27",
+  "title": "Martin Eden",
+  "author": "Jack London",
+  "summary": "A young working-class man sets out to become a bourgeois writer.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
   "subjects": [
     "fiction",
     "satire"
@@ -220,25 +222,26 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-26",
-  "title": "We",
-  "author": "Yevgeny Zamyatin",
-  "summary": "A thousand years in the future, the builder of a spaceship discovers his emotions.",
-  "coverUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg",
+  "date": "2026-06-27",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
+    "horror",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-26",
-  "title": "Mr. Mulliner Stories",
+  "date": "2026-06-27",
+  "title": "Short Fiction",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories",
+  "summary": "A collection of P. G. Wodehouse’s short fiction.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
   "subjects": [
     "comedy",
     "fiction",
@@ -248,13 +251,14 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-26",
-  "title": "A Confession",
+  "date": "2026-06-27",
+  "title": "The Kingdom of God Is Within You",
   "author": "Leo Tolstoy",
-  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
+    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -262,14 +266,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-06-26",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-06-27",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
