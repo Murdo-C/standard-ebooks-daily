@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-28",
-  "title": "Home to Harlem",
-  "author": "Claude McKay",
-  "summary": "An African-American soldier returns to Harlem after World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/claude-mckay/home-to-harlem/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/claude-mckay/home-to-harlem",
+  "date": "2026-06-29",
+  "title": "Phineas Finn",
+  "author": "Anthony Trollope",
+  "summary": "A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-trollope/phineas-finn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-trollope/phineas-finn",
   "subjects": [
     "fiction"
   ]
@@ -14,82 +14,84 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-28",
-  "title": "Journey to the Center of the Earth",
-  "author": "Jules Verne",
-  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+  "date": "2026-06-29",
+  "title": "The Last of the Mohicans",
+  "author": "James Fenimore Cooper",
+  "summary": "Frontiersmen and Native Americans help transport a colonel’s daughters through upper New York during the French and Indian War.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-28",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
+  "date": "2026-06-29",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-06-28",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-06-29",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-28",
-  "title": "The Hidden Staircase",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective investigates a supposed haunting.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
+  "date": "2026-06-29",
+  "title": "Black Beauty",
+  "author": "Anna Sewell",
+  "summary": "A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty",
   "subjects": [
     "childrens",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-06-28",
-  "title": "Brewster’s Millions",
-  "author": "George Barr McCutcheon",
-  "summary": "A young man stands to gain a fortune—but only if he loses one first.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions",
-  "subjects": [
-    "comedy",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "comedy",
+  "date": "2026-06-29",
+  "title": "Back to Methuselah",
+  "author": "George Bernard Shaw",
+  "summary": "Five linked plays explore human longevity and governance.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
+  "subjects": [
+    "comedy",
+    "drama",
+    "science_fiction"
+  ]
+}
+,
+{
   "genre": "drama",
-  "date": "2026-06-28",
-  "title": "Henry VI, Part I",
+  "date": "2026-06-29",
+  "title": "Edward III",
   "author": "William Shakespeare",
-  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
+  "summary": "Edward III declares himself the true heir of France, which launches the Hundred Years’ War.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii",
   "subjects": [
     "drama"
   ]
@@ -97,27 +99,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-28",
-  "title": "Short Fiction",
-  "author": "R. A. Lafferty",
-  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "date": "2026-06-29",
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "childrens",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-28",
-  "title": "The Celibates",
-  "author": "Honoré de Balzac",
-  "summary": "The lives of bachelors and old maids are illustrated in three disparate stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/the-celibates/clara-bell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/the-celibates/clara-bell",
+  "date": "2026-06-29",
+  "title": "The Pothunters",
+  "author": "P. G. Wodehouse",
+  "summary": "The theft of sports trophies from an English public school has unexpected implications on the lives of the school’s students and masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters",
   "subjects": [
     "fiction"
   ]
@@ -125,41 +126,41 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-06-28",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "date": "2026-06-29",
+  "title": "The Portent",
+  "author": "George MacDonald",
+  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
   "subjects": [
-    "fiction",
-    "horror"
+    "fantasy",
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-28",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "date": "2026-06-29",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "adventure",
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-28",
-  "title": "The Lazy Detective",
-  "author": "George Dilnot",
-  "summary": "An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective",
+  "date": "2026-06-29",
+  "title": "Kate Plus 10",
+  "author": "Edgar Wallace",
+  "summary": "A police inspector investigates an enigmatic young woman and her connection with various criminal activities.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/kate-plus-10",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,12 +169,25 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-28",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "date": "2026-06-29",
+  "title": "A Week on the Concord and Merrimack Rivers",
+  "author": "Henry David Thoreau",
+  "summary": "On a rowboat excursion with his brother, Thoreau lets his thoughts meander with the river.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/a-week-on-the-concord-and-merrimack-rivers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/a-week-on-the-concord-and-merrimack-rivers",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-06-29",
+  "title": "A Voice from the South",
+  "author": "Anna Julia Cooper",
+  "summary": "A Black woman from the American South philosophizes on various subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -181,26 +195,13 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-06-28",
-  "title": "Tusculan Disputations",
-  "author": "Cicero",
-  "summary": "Cicero gives practical guidance for living wisely and well by adopting a Stoic outlook and concentrating on the virtues.",
-  "coverUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2026-06-28",
-  "title": "Songs of the Cattle Trail and Cow Camp",
-  "author": "John A. Lomax",
-  "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp",
+  "date": "2026-06-29",
+  "title": "The Canterbury Tales",
+  "author": "Geoffrey Chaucer",
+  "summary": "A group of pilgrims trade tales as they travel through medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales",
   "subjects": [
     "poetry"
   ]
@@ -208,26 +209,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-28",
-  "title": "Zuleika Dobson",
-  "author": "Max Beerbohm",
-  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+  "date": "2026-06-29",
+  "title": "Black No More",
+  "author": "George Schuyler",
+  "summary": "A medical process that makes black people look white revolutionizes American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-28",
-  "title": "We",
-  "author": "Yevgeny Zamyatin",
-  "summary": "A thousand years in the future, the builder of a spaceship discovers his emotions.",
-  "coverUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg",
+  "date": "2026-06-29",
+  "title": "The Last Man",
+  "author": "Mary Shelley",
+  "summary": "Love and war in future Europe are thrown into confusion by a global pandemic that obliterates humanity.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/the-last-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/the-last-man",
   "subjects": [
     "science_fiction"
   ]
@@ -235,14 +236,13 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-28",
-  "title": "Golf Stories",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
+  "date": "2026-06-29",
+  "title": "Irish Fairy Tales",
+  "author": "James Stephens",
+  "summary": "Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/irish-fairy-tales",
   "subjects": [
-    "comedy",
     "fiction",
     "shorts"
   ]
@@ -250,29 +250,28 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-28",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+  "date": "2026-06-29",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
     "fiction",
-    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-28",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-06-29",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
