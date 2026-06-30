@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "Phineas Finn",
   "author": "Anthony Trollope",
   "summary": "A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.",
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "The Last of the Mohicans",
   "author": "James Fenimore Cooper",
   "summary": "Frontiersmen and Native Americans help transport a colonel’s daughters through upper New York during the French and Indian War.",
@@ -28,7 +28,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "The Autobiography of Calvin Coolidge",
   "author": "Calvin Coolidge",
   "summary": "The thirtieth president of the United States recounts his life story.",
@@ -41,37 +41,34 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-06-29",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-06-30",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-06-29",
-  "title": "Black Beauty",
-  "author": "Anna Sewell",
-  "summary": "A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty",
+  "date": "2026-06-30",
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "summary": "A father tells stories to his son about the son’s stuffed animals come to life.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh",
   "subjects": [
-    "childrens",
-    "fiction"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "Back to Methuselah",
   "author": "George Bernard Shaw",
   "summary": "Five linked plays explore human longevity and governance.",
@@ -86,25 +83,26 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-06-29",
-  "title": "Edward III",
+  "date": "2026-06-30",
+  "title": "As You Like It",
   "author": "William Shakespeare",
-  "summary": "Edward III declares himself the true heir of France, which launches the Hundred Years’ War.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/edward-iii",
+  "summary": "Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-06-29",
-  "title": "The Road to Oz",
-  "author": "L. Frank Baum",
-  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+  "date": "2026-06-30",
+  "title": "Through the Looking-Glass",
+  "author": "Lewis Carroll",
+  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
   "subjects": [
     "childrens",
     "fantasy"
@@ -113,20 +111,22 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-06-29",
-  "title": "The Pothunters",
+  "date": "2026-06-30",
+  "title": "Short Fiction",
   "author": "P. G. Wodehouse",
-  "summary": "The theft of sports trophies from an English public school has unexpected implications on the lives of the school’s students and masters.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters",
+  "summary": "A collection of P. G. Wodehouse’s short fiction.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
   "subjects": [
-    "fiction"
+    "comedy",
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "The Portent",
   "author": "George MacDonald",
   "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
@@ -141,21 +141,24 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-06-29",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-06-30",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
+    "autobiography",
     "memoir",
-    "travel"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "Kate Plus 10",
   "author": "Edgar Wallace",
   "summary": "A police inspector investigates an enigmatic young woman and her connection with various criminal activities.",
@@ -169,7 +172,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "A Week on the Concord and Merrimack Rivers",
   "author": "Henry David Thoreau",
   "summary": "On a rowboat excursion with his brother, Thoreau lets his thoughts meander with the river.",
@@ -182,26 +185,25 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-06-29",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "date": "2026-06-30",
+  "title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-06-29",
-  "title": "The Canterbury Tales",
-  "author": "Geoffrey Chaucer",
-  "summary": "A group of pilgrims trade tales as they travel through medieval England.",
-  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales",
+  "date": "2026-06-30",
+  "title": "Mirèio",
+  "author": "Frédéric Mistral",
+  "summary": "Two young Provençal lovers are kept apart by their social class.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston",
   "subjects": [
     "poetry"
   ]
@@ -209,7 +211,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "Black No More",
   "author": "George Schuyler",
   "summary": "A medical process that makes black people look white revolutionizes American society.",
@@ -223,7 +225,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "The Last Man",
   "author": "Mary Shelley",
   "summary": "Love and war in future Europe are thrown into confusion by a global pandemic that obliterates humanity.",
@@ -236,7 +238,7 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "Irish Fairy Tales",
   "author": "James Stephens",
   "summary": "Ten stories from the Fenian cycle of Irish folklore retold by James Stephens.",
@@ -250,29 +252,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-06-29",
-  "title": "The Pilgrim’s Progress",
-  "author": "John Bunyan",
-  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
+  "date": "2026-06-30",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
+    "comedy",
     "fiction",
-    "spirituality"
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-06-29",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-06-30",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "adventure",
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
