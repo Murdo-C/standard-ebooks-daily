@@ -1,26 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-01",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-07-02",
+  "title": "Look Homeward, Angel",
+  "author": "Thomas Wolfe",
+  "summary": "A young man struggles to find his identity and purpose while navigating family tensions, love, and the longing for freedom in a small Southern town.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-wolfe/look-homeward-angel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-wolfe/look-homeward-angel",
   "subjects": [
-    "fiction",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-01",
-  "title": "The Laughing Cavalier",
+  "date": "2026-07-02",
+  "title": "The Triumph of the Scarlet Pimpernel",
   "author": "Baroness Orczy",
-  "summary": "An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier",
+  "summary": "A woman is kidnapped in order to trap her husband.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-01",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2026-07-02",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -43,21 +42,21 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-07-01",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-07-02",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "nonfiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "title": "Pollyanna",
   "author": "Eleanor H. Porter",
   "summary": "An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.",
@@ -70,12 +69,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-01",
-  "title": "Arms and the Man",
+  "date": "2026-07-02",
+  "title": "Getting Married",
   "author": "George Bernard Shaw",
-  "summary": "A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man",
+  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-07-01",
-  "title": "The Libation Bearers",
-  "author": "Aeschylus",
-  "summary": "A man is ordered by a god to avenge his father’s murder by killing his mother and her lover.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray",
+  "date": "2026-07-02",
+  "title": "Plays",
+  "author": "Zeami Motokiyo",
+  "summary": "A collection of Zeami Motokiyo’s plays, arranged in chronological order of translation.",
+  "coverUrl": "https://standardebooks.org/ebooks/zeami-motokiyo/plays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zeami-motokiyo/plays/various-translators",
   "subjects": [
     "drama"
   ]
@@ -97,12 +96,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-01",
-  "title": "Sylvie and Bruno",
-  "author": "Lewis Carroll",
-  "summary": "Two siblings alternate between fantasy and the real world after their father is the victim of a political conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno",
+  "date": "2026-07-02",
+  "title": "The Little White Bird",
+  "author": "J. M. Barrie",
+  "summary": "A series of adventures in London, including those of the narrator and a little boy named David, and Peter Pan.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird",
   "subjects": [
     "fantasy"
   ]
@@ -110,28 +109,27 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-01",
-  "title": "The Adventures of Huckleberry Finn",
-  "author": "Mark Twain",
-  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
+  "date": "2026-07-02",
+  "title": "Tarzan and the Jewels of Opar",
+  "author": "Edgar Rice Burroughs",
+  "summary": "After seeking the riches of Opar, Tarzan must save his wife from captivity.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar",
   "subjects": [
-    "childrens",
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-07-01",
-  "title": "Short Fiction",
-  "author": "Arthur Machen",
-  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
+  "date": "2026-07-02",
+  "title": "John Silence Stories",
+  "author": "Algernon Blackwood",
+  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
+  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
   "subjects": [
-    "fiction",
     "horror",
     "shorts"
   ]
@@ -139,27 +137,26 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-01",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-07-02",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-01",
-  "title": "The Circular Staircase",
-  "author": "Mary Roberts Rinehart",
-  "summary": "A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase",
+  "date": "2026-07-02",
+  "title": "Lady Audley’s Secret",
+  "author": "M. E. Braddon",
+  "summary": "When his friend disappears suddenly in mysterious circumstances, a young, idle barrister feels forced to investigate, even at the peril of destroying the happiness of his beloved uncle.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,39 +165,42 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-01",
-  "title": "A Yankee in the Trenches",
-  "author": "Robert Derby Holmes",
-  "summary": "An American describes his experiences in the British Army in the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "date": "2026-07-02",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-01",
-  "title": "An Enquiry Concerning Human Understanding",
-  "author": "David Hume",
-  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
+  "date": "2026-07-02",
+  "title": "Roads to Freedom",
+  "author": "Bertrand Russell",
+  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-01",
-  "title": "Poetry",
-  "author": "James McIntyre",
-  "summary": "A collection of poetry by James McIntyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry",
+  "date": "2026-07-02",
+  "title": "The Iliad",
+  "author": "Homer",
+  "summary": "The epic poem which follows a Greek warrior who refuses to give up his prize of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant",
   "subjects": [
     "poetry"
   ]
@@ -208,25 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-01",
-  "title": "The Coming of Bill",
-  "author": "P. G. Wodehouse",
-  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
+  "date": "2026-07-02",
+  "title": "Zuleika Dobson",
+  "author": "Max Beerbohm",
+  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
   "subjects": [
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-01",
-  "title": "Key Out of Time",
-  "author": "Andre Norton",
-  "summary": "While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time",
+  "date": "2026-07-02",
+  "title": "The Moon Pool",
+  "author": "A. Merritt",
+  "summary": "A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool",
   "subjects": [
     "science_fiction"
   ]
@@ -234,43 +235,42 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "title": "Short Fiction",
-  "author": "Akutagawa Ryūnosuke",
-  "summary": "A collection of short fiction by Akutagawa Ryūnosuke, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators",
+  "author": "Andre Norton",
+  "summary": "A collection of fantasy and science fiction short fiction by Andre Norton.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
   "subjects": [
-    "fiction",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-01",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "date": "2026-07-02",
+  "title": "Jesus the Son of Man",
+  "author": "Kahlil Gibran",
+  "summary": "The life of Jesus of Nazareth is examined through the lens of the people around him.",
+  "coverUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man",
   "subjects": [
-    "nonfiction",
-    "philosophy",
+    "fiction",
+    "shorts",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-07-01",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-07-02",
+  "title": "The Cruise of the Nona",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
