@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "title": "The Varieties of Religious Experience",
   "author": "William James",
   "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
@@ -15,55 +15,56 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-03",
-  "title": "Stand by for Mars!",
-  "author": "Carey Rockwell",
-  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
-  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
+  "date": "2026-07-04",
+  "title": "Behind That Curtain",
+  "author": "Earl Derr Biggers",
+  "summary": "A Chinese detective is asked to assist in the solution of a missing woman and the murder of a detective from Scotland Yard.",
+  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/behind-that-curtain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/behind-that-curtain",
   "subjects": [
     "adventure",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-07-03",
-  "title": "Personal Memoirs of Ulysses S. Grant",
-  "author": "Ulysses S. Grant",
-  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
-  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-07-03",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
-  "subjects": [
-    "biography",
     "fiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2026-07-03",
-  "title": "Driven Back to Eden",
-  "author": "Edward Payson Roe",
-  "summary": "A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden",
+  "genre": "autobiography",
+  "date": "2026-07-04",
+  "title": "Our Nig",
+  "author": "Harriet E. Wilson",
+  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
   "subjects": [
+    "autobiography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-07-04",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-07-04",
+  "title": "Jibby Jones",
+  "author": "Ellis Parker Butler",
+  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
+  "subjects": [
+    "adventure",
     "childrens",
     "fiction"
   ]
@@ -71,27 +72,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-03",
-  "title": "Back to Methuselah",
-  "author": "George Bernard Shaw",
-  "summary": "Five linked plays explore human longevity and governance.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
+  "date": "2026-07-04",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
   "subjects": [
     "comedy",
-    "drama",
-    "science_fiction"
+    "poetry",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-07-03",
-  "title": "The Winter’s Tale",
+  "date": "2026-07-04",
+  "title": "Timon of Athens",
   "author": "William Shakespeare",
-  "summary": "A king’s unfounded jealousy destroys his family and kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-winters-tale",
+  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
   "subjects": [
     "drama"
   ]
@@ -99,20 +100,21 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-03",
-  "title": "Sylvie and Bruno",
+  "date": "2026-07-04",
+  "title": "Through the Looking-Glass",
   "author": "Lewis Carroll",
-  "summary": "Two siblings alternate between fantasy and the real world after their father is the victim of a political conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno",
+  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "title": "Tarzan and the Golden Lion",
   "author": "Edgar Rice Burroughs",
   "summary": "Tarzan adopts a lion cub while he battles a team of thieves seeking the treasures of the lost city of Opar.",
@@ -126,12 +128,12 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-03",
-  "title": "The Wolf-Leader",
-  "author": "Alexandre Dumas",
-  "summary": "A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson",
+  "date": "2026-07-04",
+  "title": "Wieland",
+  "author": "Charles Brockden Brown",
+  "summary": "Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland",
   "subjects": [
     "fiction",
     "horror"
@@ -140,14 +142,13 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-03",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2026-07-04",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
-    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -155,12 +156,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-03",
-  "title": "The Lodger",
+  "date": "2026-07-04",
+  "title": "The Story of Ivy",
   "author": "Marie Belloc Lowndes",
-  "summary": "A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.",
-  "coverUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-lodger/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-lodger",
+  "summary": "A young woman in Roaring Twenties London finds herself at the center of a mystery of love and murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-story-of-ivy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-story-of-ivy",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,40 +170,38 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-03",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2026-07-04",
+  "title": "Table-Talk",
+  "author": "William Hazlitt",
+  "summary": "A collection of essays on art, literature, philosophy, society, and culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk",
   "subjects": [
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-03",
-  "title": "The Problems of Philosophy",
-  "author": "Bertrand Russell",
-  "summary": "A beginner’s guide to problems in various fields of philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
+  "date": "2026-07-04",
+  "title": "Women and Economics",
+  "author": "Charlotte Perkins Gilman",
+  "summary": "Gilman explores the transformation of the role of women in society and the necessity for women to achieve economic independence.",
+  "coverUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-03",
-  "title": "The Odyssey",
-  "author": "Homer",
-  "summary": "An epic poem following a Greek hero trying to return home after the Trojan war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant",
+  "date": "2026-07-04",
+  "title": "Poetry",
+  "author": "James Joyce",
+  "summary": "A collection of James Joyce’s poetry, ordered by date of first publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/poetry",
   "subjects": [
     "poetry"
   ]
@@ -210,12 +209,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-03",
-  "title": "Lady Windermere’s Fan",
+  "date": "2026-07-04",
+  "title": "The Importance of Being Earnest",
   "author": "Oscar Wilde",
-  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
     "comedy",
     "drama",
@@ -225,55 +224,54 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-03",
-  "title": "Short Fiction",
-  "author": "Algis Budrys",
-  "summary": "Science fiction short stories by author Algis Budrys.",
-  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+  "date": "2026-07-04",
+  "title": "The Last Man",
+  "author": "Mary Shelley",
+  "summary": "Love and war in future Europe are thrown into confusion by a global pandemic that obliterates humanity.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/the-last-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/the-last-man",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-03",
-  "title": "Fables",
-  "author": "Aesop",
-  "summary": "Aesop’s classic Fables of behavior and consequence.",
-  "coverUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones",
+  "date": "2026-07-04",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie",
+  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
   "subjects": [
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-03",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2026-07-04",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis",
+  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
   "subjects": [
-    "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-07-03",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-07-04",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
     "nonfiction",
     "travel"
