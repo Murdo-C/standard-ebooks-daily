@@ -1,7 +1,255 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-04",
+  "date": "2026-07-05",
+  "title": "Dark Princess",
+  "author": "W. E. B. Du Bois",
+  "summary": "A romance with an Indian princess entangles a young American black man in a world-wide conspiracy of the colored peoples against the white.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "adventure",
+  "date": "2026-07-05",
+  "title": "The Chinese Parrot",
+  "author": "Earl Derr Biggers",
+  "summary": "A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tycoon.",
+  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-07-05",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "summary": "The autobiography of American President Theodore Roosevelt.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-07-05",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-07-05",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "summary": "A wooden puppet comes to life and goes on adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
+  "subjects": [
+    "childrens"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-07-05",
+  "title": "David Harum",
+  "author": "Edward Noyes Westcott",
+  "summary": "An aimless young man leaves the city for a small village to work for a horse-trading country banker.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-07-05",
+  "title": "Titus Andronicus",
+  "author": "William Shakespeare",
+  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-07-05",
+  "title": "The Wonderful Visit",
+  "author": "H. G. Wells",
+  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-07-05",
+  "title": "Tarzan and the Jewels of Opar",
+  "author": "Edgar Rice Burroughs",
+  "summary": "After seeking the riches of Opar, Tarzan must save his wife from captivity.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-07-05",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "summary": "An ancient undead monster terrorizes Victorian London.",
+  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-07-05",
+  "title": "Sailing Alone Around the World",
+  "author": "Joshua Slocum",
+  "summary": "A sailor gives his account how he completed the first solo sailing voyage around the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world",
+  "subjects": [
+    "adventure",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-07-05",
+  "title": "The Circular Staircase",
+  "author": "Mary Roberts Rinehart",
+  "summary": "A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-07-05",
+  "title": "Pragmatism",
+  "author": "William James",
+  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-07-05",
+  "title": "An Enquiry Concerning Human Understanding",
+  "author": "David Hume",
+  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-07-05",
+  "title": "Poetry",
+  "author": "James Weldon Johnson",
+  "summary": "A collection of poems by James Weldon Johnson.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-07-05",
+  "title": "A Woman of No Importance",
+  "author": "Oscar Wilde",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "subjects": [
+    "comedy",
+    "drama",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-07-05",
+  "title": "Short Fiction",
+  "author": "Fritz Leiber",
+  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
+  "subjects": [
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-07-05",
+  "title": "Short Fiction",
+  "author": "Algis Budrys",
+  "summary": "Science fiction short stories by author Algis Budrys.",
+  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+  "subjects": [
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-07-05",
   "title": "The Varieties of Religious Experience",
   "author": "William James",
   "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
@@ -14,264 +262,14 @@
 }
 ,
 {
-  "genre": "adventure",
-  "date": "2026-07-04",
-  "title": "Behind That Curtain",
-  "author": "Earl Derr Biggers",
-  "summary": "A Chinese detective is asked to assist in the solution of a missing woman and the murder of a detective from Scotland Yard.",
-  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/behind-that-curtain/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/behind-that-curtain",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-07-04",
-  "title": "Our Nig",
-  "author": "Harriet E. Wilson",
-  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
-  "subjects": [
-    "autobiography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-07-04",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-07-04",
-  "title": "Jibby Jones",
-  "author": "Ellis Parker Butler",
-  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
-  "subjects": [
-    "adventure",
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-07-04",
-  "title": "Nonsense Books",
-  "author": "Edward Lear",
-  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
-  "subjects": [
-    "comedy",
-    "poetry",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-07-04",
-  "title": "Timon of Athens",
-  "author": "William Shakespeare",
-  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-07-04",
-  "title": "Through the Looking-Glass",
-  "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
-  "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-07-04",
-  "title": "Tarzan and the Golden Lion",
-  "author": "Edgar Rice Burroughs",
-  "summary": "Tarzan adopts a lion cub while he battles a team of thieves seeking the treasures of the lost city of Opar.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-golden-lion/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-golden-lion",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-07-04",
-  "title": "Wieland",
-  "author": "Charles Brockden Brown",
-  "summary": "Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland",
-  "subjects": [
-    "fiction",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-07-04",
-  "title": "The Bolshevik Myth",
-  "author": "Alexander Berkman",
-  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-07-04",
-  "title": "The Story of Ivy",
-  "author": "Marie Belloc Lowndes",
-  "summary": "A young woman in Roaring Twenties London finds herself at the center of a mystery of love and murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-story-of-ivy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-story-of-ivy",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-07-04",
-  "title": "Table-Talk",
-  "author": "William Hazlitt",
-  "summary": "A collection of essays on art, literature, philosophy, society, and culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-07-04",
-  "title": "Women and Economics",
-  "author": "Charlotte Perkins Gilman",
-  "summary": "Gilman explores the transformation of the role of women in society and the necessity for women to achieve economic independence.",
-  "coverUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-07-04",
-  "title": "Poetry",
-  "author": "James Joyce",
-  "summary": "A collection of James Joyce’s poetry, ordered by date of first publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-07-04",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
-  "subjects": [
-    "comedy",
-    "drama",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-07-04",
-  "title": "The Last Man",
-  "author": "Mary Shelley",
-  "summary": "Love and war in future Europe are thrown into confusion by a global pandemic that obliterates humanity.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/the-last-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/the-last-man",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-07-04",
-  "title": "Poirot Investigates",
-  "author": "Agatha Christie",
-  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
-  "subjects": [
-    "mystery",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-07-04",
-  "title": "The Imitation of Christ",
-  "author": "Thomas à Kempis",
-  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
-  "subjects": [
-    "spirituality"
-  ]
-}
-,
-{
   "genre": "travel",
-  "date": "2026-07-04",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-07-05",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "biography",
     "memoir",
     "nonfiction",
     "travel"
