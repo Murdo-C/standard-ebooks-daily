@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "title": "Dark Princess",
   "author": "W. E. B. Du Bois",
   "summary": "A romance with an Indian princess entangles a young American black man in a world-wide conspiracy of the colored peoples against the white.",
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-05",
-  "title": "The Chinese Parrot",
+  "date": "2026-07-06",
+  "title": "The House Without a Key",
   "author": "Earl Derr Biggers",
-  "summary": "A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tycoon.",
-  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot",
+  "summary": "Upon arriving in Honolulu, a member of a prominent Boston family is asked to aid in the investigation of his relative’s murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-house-without-a-key/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-house-without-a-key",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,52 +28,54 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-05",
-  "title": "An Autobiography",
-  "author": "Theodore Roosevelt",
-  "summary": "The autobiography of American President Theodore Roosevelt.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "date": "2026-07-06",
+  "title": "Confessions of an English Opium-Eater",
+  "author": "Thomas De Quincey",
+  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-07-05",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2026-07-05",
-  "title": "The Adventures of Pinocchio",
-  "author": "Carlo Collodi",
-  "summary": "A wooden puppet comes to life and goes on adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
+  "genre": "biography",
+  "date": "2026-07-06",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
-    "childrens"
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-07-06",
+  "title": "Understood Betsy",
+  "author": "Dorothy Canfield Fisher",
+  "summary": "A young girl discovers independence, responsibility, and newfound confidence after being sent to live in a farmhouse with her extended family.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy",
+  "subjects": [
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-05",
-  "title": "David Harum",
-  "author": "Edward Noyes Westcott",
-  "summary": "An aimless young man leaves the city for a small village to work for a horse-trading country banker.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum",
+  "date": "2026-07-06",
+  "title": "The Young Visiters",
+  "author": "Daisy Ashford",
+  "summary": "A nine-year-old girl’s humorous depiction of high society, exactly as written in her notebook.",
+  "coverUrl": "https://standardebooks.org/ebooks/daisy-ashford/the-young-visiters/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/daisy-ashford/the-young-visiters",
   "subjects": [
     "comedy",
     "fiction"
@@ -82,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-07-05",
-  "title": "Titus Andronicus",
+  "date": "2026-07-06",
+  "title": "Troilus and Cressida",
   "author": "William Shakespeare",
-  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
+  "summary": "A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida",
   "subjects": [
     "drama"
   ]
@@ -95,25 +97,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-05",
-  "title": "The Wonderful Visit",
-  "author": "H. G. Wells",
-  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
+  "date": "2026-07-06",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "fantasy"
+    "childrens",
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-05",
-  "title": "Tarzan and the Jewels of Opar",
+  "date": "2026-07-06",
+  "title": "Tarzan, Lord of the Jungle",
   "author": "Edgar Rice Burroughs",
-  "summary": "After seeking the riches of Opar, Tarzan must save his wife from captivity.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar",
+  "summary": "Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle",
   "subjects": [
     "adventure",
     "fiction"
@@ -122,28 +126,27 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-05",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2026-07-06",
+  "title": "The Room in the Dragon Volant",
+  "author": "J. Sheridan Le Fanu",
+  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-05",
-  "title": "Sailing Alone Around the World",
-  "author": "Joshua Slocum",
-  "summary": "A sailor gives his account how he completed the first solo sailing voyage around the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world",
+  "date": "2026-07-06",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
-    "adventure",
     "memoir",
     "nonfiction",
     "travel"
@@ -152,26 +155,25 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-05",
-  "title": "The Circular Staircase",
-  "author": "Mary Roberts Rinehart",
-  "summary": "A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase",
+  "date": "2026-07-06",
+  "title": "The Patient in Room 18",
+  "author": "Mignon G. Eberhart",
+  "summary": "A nurse helps a detective investigate a murder in a hospital.",
+  "coverUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-05",
-  "title": "Pragmatism",
-  "author": "William James",
-  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
+  "date": "2026-07-06",
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "summary": "Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -180,25 +182,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-05",
-  "title": "An Enquiry Concerning Human Understanding",
-  "author": "David Hume",
-  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
+  "date": "2026-07-06",
+  "title": "A Voyage to Arcturus",
+  "author": "David Lindsay",
+  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
   "subjects": [
+    "fantasy",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "title": "Poetry",
-  "author": "James Weldon Johnson",
-  "summary": "A collection of poems by James Weldon Johnson.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
+  "author": "James McIntyre",
+  "summary": "A collection of poetry by James McIntyre.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry",
   "subjects": [
     "poetry"
   ]
@@ -206,28 +209,32 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-05",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2026-07-06",
+  "title": "Northanger Abbey",
+  "author": "Jane Austen",
+  "summary": "A young girl with an overactive imagination comes of age.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
   "subjects": [
-    "comedy",
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "title": "Short Fiction",
-  "author": "Fritz Leiber",
-  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
     "science_fiction",
     "shorts"
   ]
@@ -235,42 +242,42 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-05",
-  "title": "Short Fiction",
-  "author": "Algis Budrys",
-  "summary": "Science fiction short stories by author Algis Budrys.",
-  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+  "date": "2026-07-06",
+  "title": "Can Such Things Be?",
+  "author": "Ambrose Bierce",
+  "summary": "A collection of Ambrose Bierce’s short supernatural horror stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be",
   "subjects": [
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-05",
-  "title": "The Varieties of Religious Experience",
-  "author": "William James",
-  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+  "date": "2026-07-06",
+  "title": "Festus",
+  "author": "Philip James Bailey",
+  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
   "subjects": [
-    "nonfiction",
+    "drama",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-07-05",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-07-06",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
