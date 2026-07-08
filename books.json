@@ -1,71 +1,68 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-07",
-  "title": "The Well of the Saints",
-  "author": "J. M. Synge",
-  "summary": "The lives of two blind beggars change when a holy man comes to their rural Irish village promising to miraculously restore their sight.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints",
+  "date": "2026-07-08",
+  "title": "Poetry",
+  "author": "Mina Loy",
+  "summary": "A collection of poems by Mina Loy.",
+  "coverUrl": "https://standardebooks.org/ebooks/mina-loy/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mina-loy/poetry",
   "subjects": [
-    "drama"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-07",
-  "title": "The Narrative of Arthur Gordon Pym of Nantucket",
-  "author": "Edgar Allan Poe",
-  "summary": "A young stowaway embarks on high-seas adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket",
+  "date": "2026-07-08",
+  "title": "Beyond Thirty",
+  "author": "Edgar Rice Burroughs",
+  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
   "subjects": [
     "adventure",
-    "fiction"
+    "fantasy",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-07",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-07-08",
+  "title": "Struggles and Triumphs",
+  "author": "P. T. Barnum",
+  "summary": "The world’s greatest showman tells the story of his life.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
   "subjects": [
-    "adventure",
     "autobiography",
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-07-07",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-07-08",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-07",
-  "title": "The Secret of the Old Clock",
+  "date": "2026-07-08",
+  "title": "The Hidden Staircase",
   "author": "Carolyn Keene",
-  "summary": "The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
+  "summary": "A young amateur detective investigates a supposed haunting.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
   "subjects": [
     "childrens",
     "mystery"
@@ -74,27 +71,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-07",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2026-07-08",
+  "title": "Gentlemen Prefer Blondes",
+  "author": "Anita Loos",
+  "summary": "The comic diary of a young woman recounting her escapades and romances in 1920s New York and Europe.",
+  "coverUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-07-07",
-  "title": "Timon of Athens",
+  "date": "2026-07-08",
+  "title": "Titus Andronicus",
   "author": "William Shakespeare",
-  "summary": "A wealthy Athenian lord becomes poor and friendless after his “friends” take advantage of his hospitality.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+  "summary": "A blood feud erupts between a famous Roman general and the Queen of the Goths.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus",
   "subjects": [
     "drama"
   ]
@@ -102,25 +98,27 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-07",
-  "title": "The Wonderful Visit",
-  "author": "H. G. Wells",
-  "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-wonderful-visit",
+  "date": "2026-07-08",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "fantasy"
+    "childrens",
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-07",
-  "title": "Martin Eden",
-  "author": "Jack London",
-  "summary": "A young working-class man sets out to become a bourgeois writer.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
+  "date": "2026-07-08",
+  "title": "Northanger Abbey",
+  "author": "Jane Austen",
+  "summary": "A young girl with an overactive imagination comes of age.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
   "subjects": [
     "fiction",
     "satire"
@@ -129,36 +127,41 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-07",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+  "date": "2026-07-08",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
+    "adventure",
+    "comedy",
     "horror",
-    "mystery"
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-07",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-07-08",
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
   "subjects": [
+    "adventure",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "title": "The Lodger",
   "author": "Marie Belloc Lowndes",
   "summary": "A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.",
@@ -172,25 +175,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-07",
-  "title": "Table-Talk",
-  "author": "William Hazlitt",
-  "summary": "A collection of essays on art, literature, philosophy, society, and culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hazlitt/table-talk",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-07-07",
-  "title": "The Practice and Theory of Bolshevism",
-  "author": "Bertrand Russell",
-  "summary": "Bertrand Russell travels to post-revolutionary Russia to see if Bolshevism achieves its communist aspirations.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-practice-and-theory-of-bolshevism",
+  "date": "2026-07-08",
+  "title": "Pragmatism",
+  "author": "William James",
+  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -198,13 +188,26 @@
 }
 ,
 {
+  "genre": "philosophy",
+  "date": "2026-07-08",
+  "title": "Analects",
+  "author": "Confucius",
+  "summary": "The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.",
+  "coverUrl": "https://standardebooks.org/ebooks/confucius/analects/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/confucius/analects/james-legge",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "poetry",
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "title": "Poetry",
-  "author": "Georgia Douglas Johnson",
-  "summary": "A collection of poems by Georgia Douglas Johnson.",
-  "coverUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
+  "author": "Henry van Dyke Jr.",
+  "summary": "A collection of poems by the American author, educator, and clergyman Henry van Dyke Jr., exploring themes of nature, faith, love, and patriotism.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry",
   "subjects": [
     "poetry"
   ]
@@ -212,12 +215,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-07",
-  "title": "Gulliver’s Travels",
-  "author": "Jonathan Swift",
-  "summary": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
+  "date": "2026-07-08",
+  "title": "The Mercy of Allah",
+  "author": "Hilaire Belloc",
+  "summary": "An entrepreneurial businessman satirically relates to his nephews how he became the wealthiest man in Baghdad.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah",
   "subjects": [
     "fiction",
     "satire"
@@ -226,12 +229,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-07",
-  "title": "The Purple Cloud",
-  "author": "M. P. Shiel",
-  "summary": "A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-p-shiel/the-purple-cloud",
+  "date": "2026-07-08",
+  "title": "Last and First Men",
+  "author": "Olaf Stapledon",
+  "summary": "A human from the very distant future relates the whole history of mankind to a modern-day human.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
   "subjects": [
     "science_fiction"
   ]
@@ -239,27 +242,28 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-07",
-  "title": "Fables",
-  "author": "Aesop",
-  "summary": "Aesop’s classic Fables of behavior and consequence.",
-  "coverUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones",
+  "date": "2026-07-08",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie",
+  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
   "subjects": [
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-07",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-07-08",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "summary": "Prose poems of offering translated by the author from the original Bengali.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
   "subjects": [
-    "drama",
+    "fiction",
     "poetry",
     "spirituality"
   ]
@@ -267,14 +271,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-07-07",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-07-08",
+  "title": "Sailing Alone Around the World",
+  "author": "Joshua Slocum",
+  "summary": "A sailor gives his account how he completed the first solo sailing voyage around the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world",
   "subjects": [
     "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
