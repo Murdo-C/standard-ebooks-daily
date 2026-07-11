@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "title": "Maria Chapdelaine",
   "author": "Louis Hémon",
   "summary": "Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.",
@@ -14,68 +14,68 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-10",
-  "title": "Jungle Tales of Tarzan",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A collection of short stories about Tarzan growing up in the jungle.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan",
+  "date": "2026-07-11",
+  "title": "Blind Corner",
+  "author": "Dornford Yates",
+  "summary": "A chance overhearing of an argument leads to a race for long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner",
   "subjects": [
     "adventure",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-07-10",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
-  "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-07-10",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
-  "subjects": [
-    "biography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-07-11",
+  "title": "Yashka",
+  "author": "Maria Bochkareva",
+  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-07-11",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2026-07-10",
-  "title": "The Mystery at Lilac Inn",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective attempts to recover her friend’s stolen diamonds.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn",
+  "date": "2026-07-11",
+  "title": "Black Beauty",
+  "author": "Anna Sewell",
+  "summary": "A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty",
   "subjects": [
     "childrens",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-10",
-  "title": "The Cherry Orchard",
+  "date": "2026-07-11",
+  "title": "The Seagull",
   "author": "Anton Chekhov",
-  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
+  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
   "subjects": [
     "comedy",
     "drama"
@@ -84,39 +84,39 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-07-10",
-  "title": "Twelfth Night",
-  "author": "William Shakespeare",
-  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+  "date": "2026-07-11",
+  "title": "The Country Wife",
+  "author": "William Wycherley",
+  "summary": "A notorious womanizer spreads a rumour that he is now a eunuch in order to gain access to other’s wives.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-wycherley/the-country-wife/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-wycherley/the-country-wife",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-10",
-  "title": "Domnei",
+  "date": "2026-07-11",
+  "title": "Figures of Earth",
   "author": "James Branch Cabell",
-  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
+  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
   "subjects": [
+    "comedy",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-10",
-  "title": "A Gentleman of Leisure",
+  "date": "2026-07-11",
+  "title": "A Prefect’s Uncle",
   "author": "P. G. Wodehouse",
-  "summary": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure",
+  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
   "subjects": [
     "comedy",
     "fiction"
@@ -125,41 +125,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-10",
-  "title": "The Return",
-  "author": "Walter de la Mare",
-  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
+  "date": "2026-07-11",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
-    "fantasy",
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-10",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-07-11",
+  "title": "My Life in China and America",
+  "author": "Yung Wing",
+  "summary": "A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.",
+  "coverUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-10",
-  "title": "The Story of Ivy",
-  "author": "Marie Belloc Lowndes",
-  "summary": "A young woman in Roaring Twenties London finds herself at the center of a mystery of love and murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-story-of-ivy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-story-of-ivy",
+  "date": "2026-07-11",
+  "title": "The Circular Staircase",
+  "author": "Mary Roberts Rinehart",
+  "summary": "A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,7 +167,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "title": "A Pluralistic Universe",
   "author": "William James",
   "summary": "A philosopher gives an introduction to radical empiricism and how it relates to the experienced world.",
@@ -182,12 +181,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-10",
-  "title": "Nicomachean Ethics",
-  "author": "Aristotle",
-  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+  "date": "2026-07-11",
+  "title": "A General View of Positivism",
+  "author": "Auguste Comte",
+  "summary": "A brief overview of the goals and methods of the Positivist philosophical movement.",
+  "coverUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges",
   "subjects": [
     "philosophy"
   ]
@@ -195,12 +194,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "title": "Poetry",
-  "author": "Fernando Pessoa",
-  "summary": "A collection of Fernando Pessoa’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+  "author": "Frances Ellen Watkins Harper",
+  "summary": "A collection of poems by Frances Ellen Watkins Harper.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,26 +207,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-10",
-  "title": "Democracy",
-  "author": "Henry Adams",
-  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
+  "date": "2026-07-11",
+  "title": "Black No More",
+  "author": "George Schuyler",
+  "summary": "A medical process that makes black people look white revolutionizes American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-10",
-  "title": "Islands of Space",
+  "date": "2026-07-11",
+  "title": "The Black Star Passes",
   "author": "John W. Campbell",
-  "summary": "Four men become the first humans to travel to other galaxies.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
+  "summary": "Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes",
   "subjects": [
     "science_fiction"
   ]
@@ -235,12 +234,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-10",
-  "title": "Can Such Things Be?",
+  "date": "2026-07-11",
+  "title": "In the Midst of Life",
   "author": "Ambrose Bierce",
-  "summary": "A collection of Ambrose Bierce’s short supernatural horror stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be",
+  "summary": "A collection of Ambrose Bierce’s American Civil War stories, psychological dramas, and satirical tales.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life",
   "subjects": [
     "shorts"
   ]
@@ -248,16 +247,14 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-10",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-07-11",
+  "title": "Mary Olivier: A Life",
+  "author": "May Sinclair",
+  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
+  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
+    "fiction",
     "philosophy",
     "spirituality"
   ]
@@ -265,7 +262,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "title": "Travel Essays",
   "author": "Robert Louis Stevenson",
   "summary": "A collection of Robert Louis Stevenson’s travel essays.",
