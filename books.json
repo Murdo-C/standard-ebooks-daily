@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-11",
-  "title": "Maria Chapdelaine",
-  "author": "Louis Hémon",
-  "summary": "Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-hemon/maria-chapdelaine/w-h-blake/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-hemon/maria-chapdelaine/w-h-blake",
+  "date": "2026-07-12",
+  "title": "Là-Bas",
+  "author": "J.-K. Huysmans",
+  "summary": "An author struggles to complete his book without having any practical experience of Satanism.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-11",
-  "title": "Blind Corner",
+  "date": "2026-07-12",
+  "title": "Perishable Goods",
   "author": "Dornford Yates",
-  "summary": "A chance overhearing of an argument leads to a race for long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner",
+  "summary": "A group of men hunt for the kidnappers of a friend’s wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/dornford-yates/perishable-goods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dornford-yates/perishable-goods",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-11",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "date": "2026-07-12",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "summary": "The autobiography of English philosopher John Stuart Mill.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-07-11",
-  "title": "Eminent Victorians",
+  "date": "2026-07-12",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,12 +55,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-11",
-  "title": "Black Beauty",
-  "author": "Anna Sewell",
-  "summary": "A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty",
+  "date": "2026-07-12",
+  "title": "Swallows and Amazons",
+  "author": "Arthur Ransome",
+  "summary": "Four children camping on an island in the Lake District encounter adventures with tomboyish sisters who claim the island as their own.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-ransome/swallows-and-amazons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-ransome/swallows-and-amazons",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,12 +69,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-11",
-  "title": "The Seagull",
-  "author": "Anton Chekhov",
-  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
+  "date": "2026-07-12",
+  "title": "The Merchant of Venice",
+  "author": "William Shakespeare",
+  "summary": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice",
   "subjects": [
     "comedy",
     "drama"
@@ -84,25 +83,26 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-07-11",
-  "title": "The Country Wife",
-  "author": "William Wycherley",
-  "summary": "A notorious womanizer spreads a rumour that he is now a eunuch in order to gain access to other’s wives.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-wycherley/the-country-wife/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-wycherley/the-country-wife",
+  "date": "2026-07-12",
+  "title": "Our American Cousin",
+  "author": "Tom Taylor",
+  "summary": "A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.",
+  "coverUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/tom-taylor/our-american-cousin",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-11",
-  "title": "Figures of Earth",
+  "date": "2026-07-12",
+  "title": "Jurgen",
   "author": "James Branch Cabell",
-  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
+  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
   "subjects": [
     "comedy",
     "fantasy"
@@ -111,41 +111,43 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-11",
-  "title": "A Prefect’s Uncle",
+  "date": "2026-07-12",
+  "title": "Golf Stories",
   "author": "P. G. Wodehouse",
-  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
+  "summary": "A collection of Wodehouse’s golf stories featuring the Oldest Member.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories",
   "subjects": [
     "comedy",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-07-11",
-  "title": "The House on the Borderland",
-  "author": "William Hope Hodgson",
-  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "date": "2026-07-12",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-11",
-  "title": "My Life in China and America",
-  "author": "Yung Wing",
-  "summary": "A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.",
-  "coverUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america",
+  "date": "2026-07-12",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -153,53 +155,53 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-11",
-  "title": "The Circular Staircase",
-  "author": "Mary Roberts Rinehart",
-  "summary": "A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase",
+  "date": "2026-07-12",
+  "title": "The Patient in Room 18",
+  "author": "Mignon G. Eberhart",
+  "summary": "A nurse helps a detective investigate a murder in a hospital.",
+  "coverUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-11",
-  "title": "A Pluralistic Universe",
-  "author": "William James",
-  "summary": "A philosopher gives an introduction to radical empiricism and how it relates to the experienced world.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/a-pluralistic-universe",
+  "date": "2026-07-12",
+  "title": "The English Constitution",
+  "author": "Walter Bagehot",
+  "summary": "The nature and operation of British governance in the Victorian era is explained.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-bagehot/the-english-constitution/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-bagehot/the-english-constitution",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-11",
-  "title": "A General View of Positivism",
-  "author": "Auguste Comte",
-  "summary": "A brief overview of the goals and methods of the Positivist philosophical movement.",
-  "coverUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges",
+  "date": "2026-07-12",
+  "title": "The City of God",
+  "author": "Augustine of Hippo",
+  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
+  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
   "subjects": [
-    "philosophy"
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-11",
-  "title": "Poetry",
-  "author": "Frances Ellen Watkins Harper",
-  "summary": "A collection of poems by Frances Ellen Watkins Harper.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
+  "date": "2026-07-12",
+  "title": "Mirèio",
+  "author": "Frédéric Mistral",
+  "summary": "Two young Provençal lovers are kept apart by their social class.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston",
   "subjects": [
     "poetry"
   ]
@@ -207,26 +209,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-11",
-  "title": "Black No More",
-  "author": "George Schuyler",
-  "summary": "A medical process that makes black people look white revolutionizes American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
+  "date": "2026-07-12",
+  "title": "Captain Jinks, Hero",
+  "author": "Ernest Howard Crosby",
+  "summary": "A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero",
   "subjects": [
-    "satire",
-    "science_fiction"
+    "fiction",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-11",
-  "title": "The Black Star Passes",
-  "author": "John W. Campbell",
-  "summary": "Three scientists from Earth invent space travel and meet extraterrestrial life, but then must defend the solar system from a new threat.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/the-black-star-passes",
+  "date": "2026-07-12",
+  "title": "Facing the Flag",
+  "author": "Jules Verne",
+  "summary": "An engineer poses as an aide to a scientist whose invention of a world-conquering weapon drives him insane.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/facing-the-flag/f-tennyson-neely/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/facing-the-flag/f-tennyson-neely",
   "subjects": [
     "science_fiction"
   ]
@@ -234,40 +236,41 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-11",
-  "title": "In the Midst of Life",
-  "author": "Ambrose Bierce",
-  "summary": "A collection of Ambrose Bierce’s American Civil War stories, psychological dramas, and satirical tales.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/in-the-midst-of-life",
+  "date": "2026-07-12",
+  "title": "Partners in Crime",
+  "author": "Agatha Christie",
+  "summary": "A young married couple take over running an “International Detective Agency.”",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/partners-in-crime",
   "subjects": [
+    "fiction",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-11",
-  "title": "Mary Olivier: A Life",
-  "author": "May Sinclair",
-  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
-  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
+  "date": "2026-07-12",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
     "fiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-07-11",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2026-07-12",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
