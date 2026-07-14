@@ -1,40 +1,39 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-13",
-  "title": "Blue Hand",
-  "author": "Edgar Wallace",
-  "summary": "A law clerk takes an interest in the disappearance of a well-known woman and her infant daughter, just as their fortune is about to be distributed to a notorious client.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand",
+  "date": "2026-07-14",
+  "title": "The Truth About Tristrem Varick",
+  "author": "Edgar Saltus",
+  "summary": "A righteous, idealistic young New Yorker falls for a singer and experiences the thorny sides of society and love.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-truth-about-tristrem-varick/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-truth-about-tristrem-varick",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-13",
-  "title": "The Defiant Agents",
-  "author": "Andre Norton",
-  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
+  "date": "2026-07-14",
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-13",
-  "title": "Father Henson’s Story of His Own Life",
-  "author": "Josiah Henson",
-  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
-  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
+  "date": "2026-07-14",
+  "title": "You Can’t Win",
+  "author": "Jack Black",
+  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
   "subjects": [
     "autobiography"
   ]
@@ -42,34 +41,37 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-07-13",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-07-14",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "fiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-13",
-  "title": "Winnie-the-Pooh",
+  "date": "2026-07-14",
+  "title": "The House at Pooh Corner",
   "author": "A. A. Milne",
-  "summary": "A father tells stories to his son about the son’s stuffed animals come to life.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh",
+  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
   "subjects": [
-    "childrens"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "title": "June Moon",
   "author": "Ring Lardner",
   "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
@@ -84,7 +86,7 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "title": "The Way of the World",
   "author": "William Congreve",
   "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
@@ -98,14 +100,13 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-13",
-  "title": "The Crock of Gold",
+  "date": "2026-07-14",
+  "title": "The Demi-Gods",
   "author": "James Stephens",
-  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
   "subjects": [
-    "comedy",
     "fantasy",
     "philosophy"
   ]
@@ -113,12 +114,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-13",
-  "title": "Dead Souls",
-  "author": "Nikolai Gogol",
-  "summary": "Pavel Chichikov travels through Russia buying the titles of dead serfs.",
-  "coverUrl": "https://standardebooks.org/ebooks/nikolai-gogol/dead-souls/c-j-hogarth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/nikolai-gogol/dead-souls/c-j-hogarth",
+  "date": "2026-07-14",
+  "title": "My Brilliant Career",
+  "author": "Miles Franklin",
+  "summary": "A young woman struggles against the intellectual confines of her rural Australian life in the late 19th Century.",
+  "coverUrl": "https://standardebooks.org/ebooks/miles-franklin/my-brilliant-career/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/miles-franklin/my-brilliant-career",
   "subjects": [
     "fiction"
   ]
@@ -126,26 +127,26 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-13",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-07-14",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "summary": "Ten short stories of madness, hauntings, romance, and art.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
   "subjects": [
     "horror",
-    "science_fiction"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-13",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2026-07-14",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -154,39 +155,39 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-13",
-  "title": "The Three Taps",
+  "date": "2026-07-14",
+  "title": "The Footsteps at the Lock",
   "author": "Ronald A. Knox",
-  "summary": "The mysterious death of a heavily-insured businessman calls for an investigation by the insurer’s private detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-three-taps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-three-taps",
+  "summary": "When an unsavory pair of cousins goes missing from their canoe holiday on the Thames, detectives are called in to solve the mystery.",
+  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-13",
-  "title": "Struggles and Triumphs",
+  "date": "2026-07-14",
+  "title": "The Art of Money Getting",
   "author": "P. T. Barnum",
-  "summary": "The world’s greatest showman tells the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
+  "summary": "A short guide on achieving financial success.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-art-of-money-getting/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-art-of-money-getting",
   "subjects": [
-    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-13",
-  "title": "The Theory of Moral Sentiments",
+  "date": "2026-07-14",
+  "title": "The Wealth of Nations",
   "author": "Adam Smith",
-  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
+  "summary": "Adam Smith lays the foundation of classical economics.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
   "subjects": [
     "philosophy"
   ]
@@ -194,7 +195,7 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "title": "The Canterbury Tales",
   "author": "Geoffrey Chaucer",
   "summary": "A group of pilgrims trade tales as they travel through medieval England.",
@@ -207,12 +208,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-13",
-  "title": "Evelina",
-  "author": "Fanny Burney",
-  "summary": "A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage.",
-  "coverUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fanny-burney/evelina",
+  "date": "2026-07-14",
+  "title": "Vile Bodies",
+  "author": "Evelyn Waugh",
+  "summary": "A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies",
   "subjects": [
     "fiction",
     "satire"
@@ -221,41 +222,42 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-13",
-  "title": "Journey to the Center of the Earth",
-  "author": "Jules Verne",
-  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+  "date": "2026-07-14",
+  "title": "R.U.R.",
+  "author": "Karel Čapek",
+  "summary": "The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
   "subjects": [
-    "adventure",
+    "drama",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-13",
-  "title": "John Silence Stories",
-  "author": "Algernon Blackwood",
-  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
-  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
+  "date": "2026-07-14",
+  "title": "Short Fiction",
+  "author": "Aleksandr Kuprin",
+  "summary": "A collection of Aleksandr Kuprin’s translated short stories, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators",
   "subjects": [
-    "horror",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-13",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2026-07-14",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
+    "fiction",
     "poetry",
     "spirituality"
   ]
@@ -263,7 +265,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "title": "The Mirror of the Sea",
   "author": "Joseph Conrad",
   "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
