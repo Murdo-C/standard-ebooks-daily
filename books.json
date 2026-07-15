@@ -1,39 +1,40 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-14",
-  "title": "The Truth About Tristrem Varick",
-  "author": "Edgar Saltus",
-  "summary": "A righteous, idealistic young New Yorker falls for a singer and experiences the thorny sides of society and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-truth-about-tristrem-varick/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-saltus/the-truth-about-tristrem-varick",
+  "date": "2026-07-15",
+  "title": "The Phantom of the Opera",
+  "author": "Gaston Leroux",
+  "summary": "A mysterious presence terrorizes the Paris Opera.",
+  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-14",
-  "title": "The Nibelungenlied",
-  "author": "Anonymous",
-  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+  "date": "2026-07-15",
+  "title": "Blind Corner",
+  "author": "Dornford Yates",
+  "summary": "A chance overhearing of an argument leads to a race for long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner",
   "subjects": [
     "adventure",
-    "poetry"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-14",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2026-07-15",
+  "title": "Father Henson’s Story of His Own Life",
+  "author": "Josiah Henson",
+  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
+  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
   "subjects": [
     "autobiography"
   ]
@@ -41,7 +42,7 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "title": "Recollections of Full Years",
   "author": "Helen Herron Taft",
   "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
@@ -57,7 +58,7 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "title": "The House at Pooh Corner",
   "author": "A. A. Milne",
   "summary": "A stuffed bear goes on adventures in the woods with his friends.",
@@ -71,12 +72,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-14",
-  "title": "June Moon",
-  "author": "Ring Lardner",
-  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
+  "date": "2026-07-15",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
   "subjects": [
     "comedy",
     "drama",
@@ -86,12 +87,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-07-14",
-  "title": "The Way of the World",
-  "author": "William Congreve",
-  "summary": "Two lovers are prevented from marrying due to a previous dalliance.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world",
+  "date": "2026-07-15",
+  "title": "The Apple Cart",
+  "author": "George Bernard Shaw",
+  "summary": "An English king challenges his popular prime minister and cabinet.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart",
   "subjects": [
     "comedy",
     "drama"
@@ -100,26 +101,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-14",
-  "title": "The Demi-Gods",
-  "author": "James Stephens",
-  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
+  "date": "2026-07-15",
+  "title": "The Charwoman’s Shadow",
+  "author": "Lord Dunsany",
+  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
   "subjects": [
-    "fantasy",
-    "philosophy"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-14",
-  "title": "My Brilliant Career",
-  "author": "Miles Franklin",
-  "summary": "A young woman struggles against the intellectual confines of her rural Australian life in the late 19th Century.",
-  "coverUrl": "https://standardebooks.org/ebooks/miles-franklin/my-brilliant-career/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/miles-franklin/my-brilliant-career",
+  "date": "2026-07-15",
+  "title": "The Pothunters",
+  "author": "P. G. Wodehouse",
+  "summary": "The theft of sports trophies from an English public school has unexpected implications on the lives of the school’s students and masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters",
   "subjects": [
     "fiction"
   ]
@@ -127,40 +127,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-14",
-  "title": "The King in Yellow",
-  "author": "Robert W. Chambers",
-  "summary": "Ten short stories of madness, hauntings, romance, and art.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+  "date": "2026-07-15",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
   "subjects": [
-    "horror",
-    "shorts"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-14",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2026-07-15",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-14",
-  "title": "The Footsteps at the Lock",
-  "author": "Ronald A. Knox",
-  "summary": "When an unsavory pair of cousins goes missing from their canoe holiday on the Thames, detectives are called in to solve the mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock",
+  "date": "2026-07-15",
+  "title": "The Canary Murder Case",
+  "author": "S. S. Van Dine",
+  "summary": "A Manhattan art connoisseur turned amateur detective gets involved in a murder investigation when a theatrical starlet is found dead in her apartment.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-canary-murder-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-canary-murder-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,33 +169,36 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-14",
-  "title": "The Art of Money Getting",
-  "author": "P. T. Barnum",
-  "summary": "A short guide on achieving financial success.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-art-of-money-getting/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/the-art-of-money-getting",
+  "date": "2026-07-15",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-14",
-  "title": "The Wealth of Nations",
-  "author": "Adam Smith",
-  "summary": "Adam Smith lays the foundation of classical economics.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+  "date": "2026-07-15",
+  "title": "Pragmatism",
+  "author": "William James",
+  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "title": "The Canterbury Tales",
   "author": "Geoffrey Chaucer",
   "summary": "A group of pilgrims trade tales as they travel through medieval England.",
@@ -208,7 +211,7 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "title": "Vile Bodies",
   "author": "Evelyn Waugh",
   "summary": "A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.",
@@ -222,26 +225,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-14",
-  "title": "R.U.R.",
-  "author": "Karel Čapek",
-  "summary": "The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.",
-  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
+  "date": "2026-07-15",
+  "title": "The World Below",
+  "author": "S. Fowler Wright",
+  "summary": "A time traveler travels to Earth’s distant future in search of two predecessors lost in the same era.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-fowler-wright/the-world-below/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-fowler-wright/the-world-below",
   "subjects": [
-    "drama",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "title": "Short Fiction",
-  "author": "Aleksandr Kuprin",
-  "summary": "A collection of Aleksandr Kuprin’s translated short stories, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators",
+  "author": "Akutagawa Ryūnosuke",
+  "summary": "A collection of short fiction by Akutagawa Ryūnosuke, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators",
   "subjects": [
     "fiction",
     "shorts"
@@ -250,27 +252,26 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-14",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2026-07-15",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
   "subjects": [
-    "fiction",
-    "poetry",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-07-14",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-07-15",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
     "memoir",
     "nonfiction",
