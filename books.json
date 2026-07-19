@@ -1,41 +1,45 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-18",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2026-07-19",
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "adventure",
+    "poetry"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-18",
-  "title": "Bulldog Drummond",
-  "author": "H. C. McNeile",
-  "summary": "A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond",
+  "date": "2026-07-19",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
     "adventure",
-    "fiction"
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-18",
-  "title": "The Story of My Life",
-  "author": "Helen Keller",
-  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
+  "date": "2026-07-19",
+  "title": "Geronimo’s Story of His Life",
+  "author": "Geronimo",
+  "summary": "The Apache war chief Geronimo recounts the story of his life.",
+  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
   "subjects": [
     "autobiography"
   ]
@@ -43,21 +47,21 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-07-18",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-07-19",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "title": "Kidnapped",
   "author": "Robert Louis Stevenson",
   "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
@@ -72,35 +76,36 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-18",
-  "title": "The Cords of Vanity",
+  "date": "2026-07-19",
+  "title": "Figures of Earth",
   "author": "James Branch Cabell",
-  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
   "subjects": [
     "comedy",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-07-18",
-  "title": "Getting Married",
+  "date": "2026-07-19",
+  "title": "Back to Methuselah",
   "author": "George Bernard Shaw",
-  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
+  "summary": "Five linked plays explore human longevity and governance.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
   "subjects": [
     "comedy",
-    "drama"
+    "drama",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "title": "The Wonderful Visit",
   "author": "H. G. Wells",
   "summary": "An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.",
@@ -113,7 +118,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "title": "Pelle the Conqueror",
   "author": "Martin Andersen Nexø",
   "summary": "As a poor boy grows up to be a man, he becomes determined to solve the plight of his fellow men.",
@@ -126,36 +131,34 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-18",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "date": "2026-07-19",
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
+  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
   "subjects": [
-    "fiction",
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-18",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-07-19",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "title": "Tragedy at Ravensthorpe",
   "author": "J. J. Connington",
   "summary": "Chief Constable Sir Clinton Driffield investigates the theft of valuables from a country estate after a masquerade ball.",
@@ -169,14 +172,14 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-18",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-07-19",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
@@ -184,12 +187,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-18",
-  "title": "The Theory of the Leisure Class",
-  "author": "Thorstein Veblen",
-  "summary": "Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.",
-  "coverUrl": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class",
+  "date": "2026-07-19",
+  "title": "The Age of Reason",
+  "author": "Thomas Paine",
+  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
   "subjects": [
     "philosophy"
   ]
@@ -197,12 +200,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-18",
-  "title": "Sonnets from the Portuguese",
-  "author": "Elizabeth Barrett Browning",
-  "summary": "A collection of 44 love sonnets.",
-  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese",
+  "date": "2026-07-19",
+  "title": "Poetry",
+  "author": "Ameen Rihani",
+  "summary": "A collection of Ameen Rihani’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
   "subjects": [
     "poetry"
   ]
@@ -210,14 +213,13 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-18",
-  "title": "Penguin Island",
-  "author": "Anatole France",
-  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
-  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
+  "date": "2026-07-19",
+  "title": "Crome Yellow",
+  "author": "Aldous Huxley",
+  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -225,26 +227,25 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-18",
-  "title": "After London",
-  "author": "Richard Jefferies",
-  "summary": "A young man tries to understand his place in the world as he explores a post-apocalyptic England.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/after-london",
+  "date": "2026-07-19",
+  "title": "Last and First Men",
+  "author": "Olaf Stapledon",
+  "summary": "A human from the very distant future relates the whole history of mankind to a modern-day human.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
   "subjects": [
-    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-18",
-  "title": "The Black Mask",
-  "author": "E. W. Hornung",
-  "summary": "The thieving duo of Raffles and Manders return in this second collection of A. J. Raffles short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-black-mask/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-black-mask",
+  "date": "2026-07-19",
+  "title": "Short Fiction",
+  "author": "Ernest Hemingway",
+  "summary": "A collection of Ernest Hemingway’s short stories and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -253,28 +254,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-18",
-  "title": "The Way to God and How to Find It",
-  "author": "D. L. Moody",
-  "summary": "An evangelical preacher shares his theological framework.",
-  "coverUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it",
+  "date": "2026-07-19",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis",
+  "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-a-kempis/the-imitation-of-christ/william-benham",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-07-18",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-07-19",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
