@@ -1,26 +1,67 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-23",
-  "title": "Short Fiction",
-  "author": "Robert Sheckley",
-  "summary": "A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+  "date": "2026-07-24",
+  "title": "Songs of a Sourdough",
+  "author": "Robert W. Service",
+  "summary": "A collection of poems about the Klondike Gold Rush.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-23",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "date": "2026-07-24",
+  "title": "Captain Blood",
+  "author": "Rafael Sabatini",
+  "summary": "An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-07-24",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-07-24",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "subjects": [
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-07-24",
+  "title": "The Story of Doctor Dolittle",
+  "author": "Hugh Lofting",
+  "summary": "A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.",
+  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle",
   "subjects": [
     "adventure",
     "childrens",
@@ -29,70 +70,27 @@
 }
 ,
 {
-  "genre": "autobiography",
-  "date": "2026-07-23",
-  "title": "Elizabeth and Her German Garden",
-  "author": "Elizabeth von Arnim",
-  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
+  "genre": "comedy",
+  "date": "2026-07-24",
+  "title": "Something New",
+  "author": "P. G. Wodehouse",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
-    "autobiography",
+    "comedy",
     "fiction"
   ]
 }
 ,
 {
-  "genre": "biography",
-  "date": "2026-07-23",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-07-23",
-  "title": "Through the Looking-Glass",
-  "author": "Lewis Carroll",
-  "summary": "In a follow-up to her adventures in Wonderland, Alice finds herself in a mirror image of the whimsical land where she becomes a queen in her own right.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel",
-  "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-07-23",
-  "title": "Short Fiction",
-  "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "drama",
-  "date": "2026-07-23",
-  "title": "The Seagull",
-  "author": "Anton Chekhov",
-  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
+  "date": "2026-07-24",
+  "title": "As You Like It",
+  "author": "William Shakespeare",
+  "summary": "Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
   "subjects": [
     "comedy",
     "drama"
@@ -101,51 +99,55 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-23",
-  "title": "Lady Into Fox",
-  "author": "David Garnett",
-  "summary": "A newly married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox",
+  "date": "2026-07-24",
+  "title": "A Voyage to Arcturus",
+  "author": "David Lindsay",
+  "summary": "One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-23",
-  "title": "The Iron Heel",
+  "date": "2026-07-24",
+  "title": "The Sea-Wolf",
   "author": "Jack London",
-  "summary": "In the far future, a long-lost manuscript describes how the United States descended into a tyranny ruled by oligarchic plutocrats.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-iron-heel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-iron-heel",
+  "summary": "Literary critic Humphrey Van Weyden is pressed into service aboard a seal-hunting schooner by its cruel, ruthless, but intelligent captain.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-07-23",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-07-24",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "horror"
+    "adventure",
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-23",
-  "title": "My Life in China and America",
-  "author": "Yung Wing",
-  "summary": "A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.",
-  "coverUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america",
+  "date": "2026-07-24",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -154,40 +156,40 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-23",
-  "title": "The Murders in Praed Street",
-  "author": "John Rhode",
-  "summary": "An eccentric scientist investigates a series of shocking murders that terrorize London.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street",
+  "date": "2026-07-24",
+  "title": "The Man in the Queue",
+  "author": "Josephine Tey",
+  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
+  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-23",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-07-24",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-23",
-  "title": "What Is Property?",
-  "author": "Pierre-Joseph Proudhon",
-  "summary": "Proudhon outlines the anarchist economic theory of mutualism.",
-  "coverUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+  "date": "2026-07-24",
+  "title": "Mutual Aid",
+  "author": "Peter Kropotkin",
+  "summary": "Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid",
   "subjects": [
     "philosophy"
   ]
@@ -195,39 +197,40 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-23",
-  "title": "New Hampshire",
-  "author": "Robert Frost",
-  "summary": "Robert Frost’s Pulitzer-winning book of poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire",
+  "date": "2026-07-24",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "summary": "Prose poems of offering translated by the author from the original Bengali.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
   "subjects": [
-    "poetry"
+    "fiction",
+    "poetry",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-07-23",
-  "title": "The Book of Khalid",
-  "author": "Ameen Rihani",
-  "summary": "A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.",
-  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid",
+  "date": "2026-07-24",
+  "title": "Candide",
+  "author": "Voltaire",
+  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-23",
-  "title": "The World Set Free",
+  "date": "2026-07-24",
+  "title": "The Food of the Gods",
   "author": "H. G. Wells",
-  "summary": "Facing the devastation of a nuclear world war, humanity unites under a world government.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-world-set-free/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-world-set-free",
+  "summary": "Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods",
   "subjects": [
     "science_fiction"
   ]
@@ -235,12 +238,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-23",
-  "title": "Short Fiction",
-  "author": "Fyodor Sologub",
-  "summary": "A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators",
+  "date": "2026-07-24",
+  "title": "Wild Animals I Have Known",
+  "author": "Ernest Thompson Seton",
+  "summary": "Eight short stories about the lives of various animals across several regions of North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known",
   "subjects": [
     "fiction",
     "shorts"
@@ -249,13 +252,14 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-23",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2026-07-24",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
   "subjects": [
+    "fiction",
     "poetry",
     "spirituality"
   ]
@@ -263,14 +267,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-07-23",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2026-07-24",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
-    "shorts",
+    "nonfiction",
     "travel"
   ]
 }
