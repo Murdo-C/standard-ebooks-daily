@@ -1,20 +1,22 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-25",
-  "title": "Jean-Christophe",
-  "author": "Romain Rolland",
-  "summary": "A Belgian-German musician experiences love, loss, struggle, and success on his journey to becoming a famous composer.",
-  "coverUrl": "https://standardebooks.org/ebooks/romain-rolland/jean-christophe/gilbert-cannan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/romain-rolland/jean-christophe/gilbert-cannan",
+  "date": "2026-07-26",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
   "subjects": [
+    "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "title": "The Sea Hawk",
   "author": "Rafael Sabatini",
   "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
@@ -28,12 +30,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-25",
-  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
-  "author": "Black Hawk",
-  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
-  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
+  "date": "2026-07-26",
+  "title": "Passages from the Life of a Philosopher",
+  "author": "Charles Babbage",
+  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
   "subjects": [
     "autobiography"
   ]
@@ -41,21 +43,21 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-07-25",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-07-26",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "title": "Ragged Dick",
   "author": "Horatio Alger Jr.",
   "summary": "A young shoeshiner rises the social ladder thanks to his wits, his work ethic, his honesty, and a bit of luck.",
@@ -69,49 +71,51 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-25",
-  "title": "Ukridge Stories",
+  "date": "2026-07-26",
+  "title": "Uneasy Money",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
+  "summary": "When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money",
   "subjects": [
     "comedy",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-07-25",
-  "title": "The Merchant of Venice",
-  "author": "William Shakespeare",
-  "summary": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice",
+  "date": "2026-07-26",
+  "title": "June Moon",
+  "author": "Ring Lardner",
+  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
   "subjects": [
     "comedy",
-    "drama"
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-25",
-  "title": "A Princess of Mars",
+  "date": "2026-07-26",
+  "title": "Beyond Thirty",
   "author": "Edgar Rice Burroughs",
-  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
+  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
   "subjects": [
-    "fantasy"
+    "adventure",
+    "fantasy",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "title": "The Son of the Wolf",
   "author": "Jack London",
   "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
@@ -126,35 +130,36 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-07-25",
-  "title": "Short Fiction",
+  "date": "2026-07-26",
+  "title": "The Case of Charles Dexter Ward",
   "author": "H. P. Lovecraft",
-  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
   "subjects": [
-    "horror",
-    "shorts"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-25",
-  "title": "Now It Can Be Told",
-  "author": "Philip Gibbs",
-  "summary": "A British war correspondent recalls his experiences during the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "date": "2026-07-26",
+  "title": "My Four Weeks in France",
+  "author": "Ring Lardner",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
+    "comedy",
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "title": "Simon",
   "author": "J. Storer Clouston",
   "summary": "A small town is plunged into confused gossip when the esteemed client of a Scottish lawyer is murdered.",
@@ -168,7 +173,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "title": "Journals",
   "author": "Alexander Mackenzie",
   "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
@@ -183,12 +188,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-25",
-  "title": "Culture and Anarchy",
-  "author": "Matthew Arnold",
-  "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy",
+  "date": "2026-07-26",
+  "title": "A Vindication of the Rights of Woman",
+  "author": "Mary Wollstonecraft",
+  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -197,7 +202,7 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "title": "Mirèio",
   "author": "Frédéric Mistral",
   "summary": "Two young Provençal lovers are kept apart by their social class.",
@@ -210,26 +215,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-25",
-  "title": "Sartor Resartus",
-  "author": "Thomas Carlyle",
-  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
+  "date": "2026-07-26",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "fiction",
+    "poetry",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-25",
-  "title": "The Invisible Man",
+  "date": "2026-07-26",
+  "title": "The Island of Doctor Moreau",
   "author": "H. G. Wells",
-  "summary": "A scientist named Griffin creates a serum to render himself invisible and subsequently descends into madness.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-invisible-man",
+  "summary": "A shipwrecked man is rescued by a boat and left on a strange island owned by a physiologist who experiments in vivisection.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
   "subjects": [
     "science_fiction"
   ]
@@ -237,27 +242,27 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-25",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
+  "date": "2026-07-26",
+  "title": "The Law of the Four Just Men",
+  "author": "Edgar Wallace",
+  "summary": "A group of wealthy vigilantes continue their quest to bring justice to those criminals beyond the reach of conventional law.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men",
   "subjects": [
+    "adventure",
     "fiction",
-    "horror",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-25",
-  "title": "Tao Te Ching",
-  "author": "Laozi",
-  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+  "date": "2026-07-26",
+  "title": "A Confession",
+  "author": "Leo Tolstoy",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
     "philosophy",
     "spirituality"
@@ -266,17 +271,16 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-07-25",
-  "title": "Jack Keefe Stories",
+  "date": "2026-07-26",
+  "title": "My Four Weeks in France",
   "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire",
-    "shorts",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
