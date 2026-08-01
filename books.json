@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-07-31",
-  "title": "The Devil’s Dictionary",
-  "author": "Ambrose Bierce",
-  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
+  "date": "2026-08-01",
+  "title": "The Story of Gösta Berling",
+  "author": "Selma Lagerlöf",
+  "summary": "A disgraced priest ends up adventuring with a group of societal outcasts.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-story-of-gosta-berling/pauline-bancroft-flach/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-story-of-gosta-berling/pauline-bancroft-flach",
   "subjects": [
-    "satire"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-07-31",
-  "title": "Huntingtower",
-  "author": "John Buchan",
-  "summary": "A retired grocer seeking a change in his mundane life finds more than he bargained for when he’s asked to aid in the rescue of an imprisoned Russian princess.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/huntingtower/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/huntingtower",
+  "date": "2026-08-01",
+  "title": "The Laughing Cavalier",
+  "author": "Baroness Orczy",
+  "summary": "An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,7 +28,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "title": "Running a Thousand Miles for Freedom",
   "author": "William Craft",
   "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
@@ -44,7 +44,7 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "title": "Tombstone",
   "author": "Walter Noble Burns",
   "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
@@ -58,14 +58,13 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-07-31",
-  "title": "Jibby Jones",
-  "author": "Ellis Parker Butler",
-  "summary": "Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones",
+  "date": "2026-08-01",
+  "title": "The House at Pooh Corner",
+  "author": "A. A. Milne",
+  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
   "subjects": [
-    "adventure",
     "childrens",
     "fiction"
   ]
@@ -73,26 +72,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-07-31",
-  "title": "The Small Bachelor",
-  "author": "P. G. Wodehouse",
-  "summary": "A struggling artist and his dream girl set off on a series of comedic misadventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor",
+  "date": "2026-08-01",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
-    "fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-07-31",
-  "title": "Troilus and Cressida",
-  "author": "William Shakespeare",
-  "summary": "A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida",
+  "date": "2026-08-01",
+  "title": "Candida",
+  "author": "George Bernard Shaw",
+  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
   "subjects": [
     "drama"
   ]
@@ -100,7 +99,7 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "title": "The Line of Love",
   "author": "James Branch Cabell",
   "summary": "A generational saga plays out in a series of short stories about love and marriage in medieval Europe.",
@@ -114,98 +113,98 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-07-31",
-  "title": "A Tale of Two Cities",
-  "author": "Charles Dickens",
-  "summary": "A family is reunited, added to, and then threatened to be torn apart by events arising from the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities",
+  "date": "2026-08-01",
+  "title": "Short Fiction",
+  "author": "Anton Chekhov",
+  "summary": "A collection of Chekhov’s short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett",
   "subjects": [
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-07-31",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "date": "2026-08-01",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "summary": "Ten short stories of madness, hauntings, romance, and art.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
   "subjects": [
     "horror",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-07-31",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-08-01",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
-    "biography",
+    "autobiography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-07-31",
-  "title": "The Incredulity of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
+  "date": "2026-08-01",
+  "title": "File No. 113",
+  "author": "Émile Gaboriau",
+  "summary": "A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
   "subjects": [
     "fiction",
-    "mystery",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-07-31",
-  "title": "How the Other Half Lives",
-  "author": "Jacob Riis",
-  "summary": "A social reformer documents the living conditions of the poor in the tenements of New York City.",
-  "coverUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives",
+  "date": "2026-08-01",
+  "title": "A Daughter of the Samurai",
+  "author": "Etsu Inagaki Sugimoto",
+  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
+  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
   "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-07-31",
-  "title": "The Story of Utopias",
-  "author": "Lewis Mumford",
-  "summary": "An American historian reviews the literature surrounding utopias and how they relate to contemporary society.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-mumford/the-story-of-utopias/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-mumford/the-story-of-utopias",
+  "date": "2026-08-01",
+  "title": "The Protestant Ethic and the Spirit of Capitalism",
+  "author": "Max Weber",
+  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
   "subjects": [
     "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "title": "Poetry",
-  "author": "William Carlos Williams",
-  "summary": "An anthology of William Carlos Williams’ poetry collections, combining The Tempers (1913), Al Que Quiere! (1917), and Sour Grapes (1921).",
-  "coverUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
+  "author": "Maria Lowell",
+  "summary": "A collection of poetry by abolitionist Maria Lowell, published posthumously.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-lowell/poetry",
   "subjects": [
     "poetry"
   ]
@@ -213,12 +212,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-07-31",
-  "title": "Democracy",
-  "author": "Henry Adams",
-  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
+  "date": "2026-08-01",
+  "title": "Crome Yellow",
+  "author": "Aldous Huxley",
+  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
   "subjects": [
     "fiction",
     "satire"
@@ -227,12 +226,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "title": "Short Fiction",
-  "author": "Fritz Leiber",
-  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
+  "author": "Charles Beaumont",
+  "summary": "A collection of short fiction by Charles Beaumont.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -241,12 +240,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-07-31",
-  "title": "The Conjure Woman",
-  "author": "Charles W. Chesnutt",
-  "summary": "Former slave Julius tells fantastical tales about plantation life to the incredulous Northerners who have just moved in.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-w-chesnutt/the-conjure-woman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-w-chesnutt/the-conjure-woman",
+  "date": "2026-08-01",
+  "title": "Short Fiction",
+  "author": "Voltairine de Cleyre",
+  "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -255,7 +254,7 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "title": "The City of God",
   "author": "Augustine of Hippo",
   "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
@@ -270,15 +269,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-07-31",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2026-08-01",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "nonfiction",
-    "spirituality",
+    "shorts",
     "travel"
   ]
 }
