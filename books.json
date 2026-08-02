@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-01",
-  "title": "The Story of Gösta Berling",
-  "author": "Selma Lagerlöf",
-  "summary": "A disgraced priest ends up adventuring with a group of societal outcasts.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-story-of-gosta-berling/pauline-bancroft-flach/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-story-of-gosta-berling/pauline-bancroft-flach",
+  "date": "2026-08-02",
+  "title": "The Quest of the Silver Fleece",
+  "author": "W. E. B. Du Bois",
+  "summary": "In the post-Reconstruction era, a young Black man and woman from the deep South struggle to overcome the economic and political fleecing of their community.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece",
   "subjects": [
     "fiction"
   ]
@@ -14,57 +14,57 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-01",
-  "title": "The Laughing Cavalier",
+  "date": "2026-08-02",
+  "title": "The League of the Scarlet Pimpernel",
   "author": "Baroness Orczy",
-  "summary": "An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier",
+  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
   "subjects": [
     "adventure",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-01",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-08-02",
+  "title": "Confessions of an English Opium-Eater",
+  "author": "Thomas De Quincey",
+  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
   "subjects": [
-    "adventure",
     "autobiography",
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-08-01",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-08-02",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "fiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-01",
-  "title": "The House at Pooh Corner",
-  "author": "A. A. Milne",
-  "summary": "A stuffed bear goes on adventures in the woods with his friends.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner",
+  "date": "2026-08-02",
+  "title": "Catriona",
+  "author": "Robert Louis Stevenson",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
+    "adventure",
     "childrens",
     "fiction"
   ]
@@ -72,12 +72,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-01",
-  "title": "The School for Scandal",
-  "author": "Richard Brinsley Sheridan",
-  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
+  "date": "2026-08-02",
+  "title": "The Conscious Lovers",
+  "author": "Richard Steele",
+  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
   "subjects": [
     "comedy",
     "drama"
@@ -86,12 +86,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-08-01",
-  "title": "Candida",
-  "author": "George Bernard Shaw",
-  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+  "date": "2026-08-02",
+  "title": "The Alchemist",
+  "author": "Ben Jonson",
+  "summary": "A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.",
+  "coverUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist",
   "subjects": [
     "drama"
   ]
@@ -99,83 +99,82 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-01",
-  "title": "The Line of Love",
-  "author": "James Branch Cabell",
-  "summary": "A generational saga plays out in a series of short stories about love and marriage in medieval Europe.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love",
+  "date": "2026-08-02",
+  "title": "At the Back of the North Wind",
+  "author": "George MacDonald",
+  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
   "subjects": [
-    "comedy",
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-01",
-  "title": "Short Fiction",
-  "author": "Anton Chekhov",
-  "summary": "A collection of Chekhov’s short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett",
+  "date": "2026-08-02",
+  "title": "The Sea Hawk",
+  "author": "Rafael Sabatini",
+  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
   "subjects": [
-    "fiction",
-    "shorts"
+    "adventure",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-08-01",
-  "title": "The King in Yellow",
-  "author": "Robert W. Chambers",
-  "summary": "Ten short stories of madness, hauntings, romance, and art.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+  "date": "2026-08-02",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "summary": "A tragic scientist creates a monster in his laboratory.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
   "subjects": [
     "horror",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-01",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2026-08-02",
+  "title": "The Hashish Eater",
+  "author": "Fitz Hugh Ludlow",
+  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
+  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-01",
-  "title": "File No. 113",
-  "author": "Émile Gaboriau",
-  "summary": "A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
+  "date": "2026-08-02",
+  "title": "Craig Kennedy Stories",
+  "author": "Arthur B. Reeve",
+  "summary": "A collection of short stories starring Craig Kennedy, scientific detective.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-01",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
+  "date": "2026-08-02",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -184,77 +183,7 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-01",
-  "title": "The Protestant Ethic and the Spirit of Capitalism",
-  "author": "Max Weber",
-  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
-  "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-08-01",
-  "title": "Poetry",
-  "author": "Maria Lowell",
-  "summary": "A collection of poetry by abolitionist Maria Lowell, published posthumously.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-lowell/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-08-01",
-  "title": "Crome Yellow",
-  "author": "Aldous Huxley",
-  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
-  "subjects": [
-    "fiction",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-08-01",
-  "title": "Short Fiction",
-  "author": "Charles Beaumont",
-  "summary": "A collection of short fiction by Charles Beaumont.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
-  "subjects": [
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-08-01",
-  "title": "Short Fiction",
-  "author": "Voltairine de Cleyre",
-  "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "title": "The City of God",
   "author": "Augustine of Hippo",
   "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
@@ -268,15 +197,85 @@
 }
 ,
 {
-  "genre": "travel",
-  "date": "2026-08-01",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "genre": "poetry",
+  "date": "2026-08-02",
+  "title": "Lyrical Ballads",
+  "author": "William Wordsworth",
+  "summary": "A collection of pastoral poems that is considered the defining text for the beginning of Romantic-era literature.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads",
   "subjects": [
-    "shorts",
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-08-02",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "subjects": [
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-08-02",
+  "title": "Short Fiction",
+  "author": "Clark Ashton Smith",
+  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
+  "subjects": [
+    "fantasy",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-08-02",
+  "title": "Short Fiction",
+  "author": "Vsevolod Garshin",
+  "summary": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith",
+  "subjects": [
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-08-02",
+  "title": "The Varieties of Religious Experience",
+  "author": "William James",
+  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+  "subjects": [
+    "nonfiction",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "travel",
+  "date": "2026-08-02",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "subjects": [
+    "nonfiction",
     "travel"
   ]
 }
