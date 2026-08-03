@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-02",
-  "title": "The Quest of the Silver Fleece",
-  "author": "W. E. B. Du Bois",
-  "summary": "In the post-Reconstruction era, a young Black man and woman from the deep South struggle to overcome the economic and political fleecing of their community.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece",
+  "date": "2026-08-03",
+  "title": "Against the Grain",
+  "author": "J.-K. Huysmans",
+  "summary": "Ailing, neurotic, and bored with the world, a French nobleman retreats to a secluded cottage in the countryside to create an artificial paradise for himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux",
   "subjects": [
     "fiction"
   ]
@@ -14,22 +14,21 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-02",
-  "title": "The League of the Scarlet Pimpernel",
+  "date": "2026-08-03",
+  "title": "The Old Man in the Corner",
   "author": "Baroness Orczy",
-  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
+  "summary": "An elderly man explains to a woman reporter how he solved crimes that stumped the local police.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-old-man-in-the-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-old-man-in-the-corner",
   "subjects": [
     "adventure",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "title": "Confessions of an English Opium-Eater",
   "author": "Thomas De Quincey",
   "summary": "A portrait of the life of a drug addict in Georgian-era London.",
@@ -43,26 +42,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-08-02",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-08-03",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-02",
-  "title": "Catriona",
+  "date": "2026-08-03",
+  "title": "Kidnapped",
   "author": "Robert Louis Stevenson",
-  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
   "subjects": [
     "adventure",
     "childrens",
@@ -72,7 +71,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "title": "The Conscious Lovers",
   "author": "Richard Steele",
   "summary": "A rich young man tries to avoid the marriage his father has arranged.",
@@ -86,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-08-02",
-  "title": "The Alchemist",
-  "author": "Ben Jonson",
-  "summary": "A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.",
-  "coverUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist",
+  "date": "2026-08-03",
+  "title": "Edward II",
+  "author": "Christopher Marlowe",
+  "summary": "Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.",
+  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii",
   "subjects": [
     "drama"
   ]
@@ -99,62 +98,63 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-02",
-  "title": "At the Back of the North Wind",
-  "author": "George MacDonald",
-  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
+  "date": "2026-08-03",
+  "title": "The Roots of the Mountains",
+  "author": "William Morris",
+  "summary": "The peoples of the dales and woods must unite to defeat a foe intent on enslaving them.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-02",
-  "title": "The Sea Hawk",
-  "author": "Rafael Sabatini",
-  "summary": "A Cornish gentleman becomes a Barbary corsair and seeks vengeance on the jealous half brother who betrayed him.",
-  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/the-sea-hawk",
+  "date": "2026-08-03",
+  "title": "The Well of Loneliness",
+  "author": "Radclyffe Hall",
+  "summary": "A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.",
+  "coverUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-08-02",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2026-08-03",
+  "title": "The Portent",
+  "author": "George MacDonald",
+  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
   "subjects": [
+    "fantasy",
     "horror",
-    "science_fiction"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-02",
-  "title": "The Hashish Eater",
-  "author": "Fitz Hugh Ludlow",
-  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
-  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
+  "date": "2026-08-03",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "memoir"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "title": "Craig Kennedy Stories",
   "author": "Arthur B. Reeve",
   "summary": "A collection of short stories starring Craig Kennedy, scientific detective.",
@@ -169,36 +169,35 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-02",
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
-  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
+  "date": "2026-08-03",
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
   "subjects": [
-    "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-02",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-08-03",
+  "title": "Pragmatism",
+  "author": "William James",
+  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
   "subjects": [
     "nonfiction",
-    "philosophy",
-    "spirituality"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "title": "Lyrical Ballads",
   "author": "William Wordsworth",
   "summary": "A collection of pastoral poems that is considered the defining text for the beginning of Romantic-era literature.",
@@ -211,36 +210,33 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-08-02",
-  "title": "Those Barren Leaves",
-  "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "date": "2026-08-03",
+  "title": "The Devil’s Dictionary",
+  "author": "Ambrose Bierce",
+  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-02",
-  "title": "Short Fiction",
-  "author": "Clark Ashton Smith",
-  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
+  "date": "2026-08-03",
+  "title": "Key Out of Time",
+  "author": "Andre Norton",
+  "summary": "While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "title": "Short Fiction",
   "author": "Vsevolod Garshin",
   "summary": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
@@ -254,28 +250,32 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-02",
-  "title": "The Varieties of Religious Experience",
-  "author": "William James",
-  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+  "date": "2026-08-03",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
     "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-02",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2026-08-03",
+  "title": "Jack Keefe Stories",
+  "author": "Ring Lardner",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
   "subjects": [
-    "nonfiction",
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts",
     "travel"
   ]
 }
