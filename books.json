@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "title": "Against the Grain",
   "author": "J.-K. Huysmans",
   "summary": "Ailing, neurotic, and bored with the world, a French nobleman retreats to a secluded cottage in the countryside to create an artificial paradise for himself.",
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-03",
-  "title": "The Old Man in the Corner",
+  "date": "2026-08-04",
+  "title": "The Scarlet Pimpernel",
   "author": "Baroness Orczy",
-  "summary": "An elderly man explains to a woman reporter how he solved crimes that stumped the local police.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-old-man-in-the-corner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-old-man-in-the-corner",
+  "summary": "A daring Englishman with a secret identity rescues French aristocrats from the guillotine during the French Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,7 +28,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "title": "Confessions of an English Opium-Eater",
   "author": "Thomas De Quincey",
   "summary": "A portrait of the life of a drug addict in Georgian-era London.",
@@ -42,12 +42,12 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-08-03",
-  "title": "Eminent Victorians",
+  "date": "2026-08-04",
+  "title": "Queen Victoria",
   "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,14 +56,13 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-03",
-  "title": "Kidnapped",
-  "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "date": "2026-08-04",
+  "title": "The Blue Bird",
+  "author": "Maurice Maeterlinck",
+  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
   "subjects": [
-    "adventure",
     "childrens",
     "fiction"
   ]
@@ -71,26 +70,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-03",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-08-04",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
     "comedy",
-    "drama"
+    "fantasy",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-08-03",
-  "title": "Edward II",
+  "date": "2026-08-04",
+  "title": "The Jew of Malta",
   "author": "Christopher Marlowe",
-  "summary": "Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.",
-  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii",
+  "summary": "After losing all of his possessions, a Jewish merchant is determined to get his revenge on Malta.",
+  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta",
   "subjects": [
     "drama"
   ]
@@ -98,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-03",
-  "title": "The Roots of the Mountains",
-  "author": "William Morris",
-  "summary": "The peoples of the dales and woods must unite to defeat a foe intent on enslaving them.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains",
+  "date": "2026-08-04",
+  "title": "Vathek",
+  "author": "William Beckford",
+  "summary": "A powerful caliph embarks on a quest to harness the powers of darkness.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley",
   "subjects": [
     "fantasy"
   ]
@@ -111,84 +111,82 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-03",
-  "title": "The Well of Loneliness",
-  "author": "Radclyffe Hall",
-  "summary": "A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.",
-  "coverUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness",
+  "date": "2026-08-04",
+  "title": "Captain Blood",
+  "author": "Rafael Sabatini",
+  "summary": "An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.",
+  "coverUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rafael-sabatini/captain-blood",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-08-03",
-  "title": "The Portent",
-  "author": "George MacDonald",
-  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
+  "date": "2026-08-04",
+  "title": "Wieland",
+  "author": "Charles Brockden Brown",
+  "summary": "Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland",
   "subjects": [
-    "fantasy",
-    "horror",
-    "mystery"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-03",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-08-04",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-08-03",
-  "title": "Craig Kennedy Stories",
-  "author": "Arthur B. Reeve",
-  "summary": "A collection of short stories starring Craig Kennedy, scientific detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories",
-  "subjects": [
-    "fiction",
-    "mystery",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-08-03",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
-  "subjects": [
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "mystery",
+  "date": "2026-08-04",
+  "title": "Murder by the Clock",
+  "author": "Rufus King",
+  "summary": "A police lieutenant investigates a murder over the course of a single night.",
+  "coverUrl": "https://standardebooks.org/ebooks/rufus-king/murder-by-the-clock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rufus-king/murder-by-the-clock",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-08-04",
+  "title": "Aspects of the Novel",
+  "author": "E. M. Forster",
+  "summary": "E. M. Forster offers an analysis of aspects of the novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "philosophy",
-  "date": "2026-08-03",
-  "title": "Pragmatism",
-  "author": "William James",
-  "summary": "James introduces the philosophy of pragmatism and applies it to some metaphysical problems.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/pragmatism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/pragmatism",
+  "date": "2026-08-04",
+  "title": "Darkwater",
+  "author": "W. E. B. Du Bois",
+  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -197,38 +195,40 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-03",
-  "title": "Lyrical Ballads",
-  "author": "William Wordsworth",
-  "summary": "A collection of pastoral poems that is considered the defining text for the beginning of Romantic-era literature.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads",
+  "date": "2026-08-04",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "poetry"
+    "poetry",
+    "satire"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-08-03",
-  "title": "The Devil’s Dictionary",
-  "author": "Ambrose Bierce",
-  "summary": "A witty, sharp collection of sardonic word definitions from the 1800s and early 1900s that provide a snapshot into the irreverent humor of early American culture.",
-  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/the-devils-dictionary",
+  "date": "2026-08-04",
+  "title": "Point Counter Point",
+  "author": "Aldous Huxley",
+  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
   "subjects": [
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-03",
-  "title": "Key Out of Time",
+  "date": "2026-08-04",
+  "title": "Plague Ship",
   "author": "Andre Norton",
-  "summary": "While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time",
+  "summary": "When the rest of their crew falls mysteriously ill after a trading mission, four low-ranking crew members must save their ship from being condemned to drift forever in permanent quarantine.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/plague-ship/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/plague-ship",
   "subjects": [
     "science_fiction"
   ]
@@ -236,46 +236,45 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "title": "Short Fiction",
-  "author": "Vsevolod Garshin",
-  "summary": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith",
+  "author": "Walter M. Miller Jr.",
+  "summary": "A collection of short fiction by Walter M. Miller Jr., ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
   "subjects": [
-    "fiction",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-03",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
+  "date": "2026-08-04",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "summary": "Prose poems of offering translated by the author from the original Bengali.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
   "subjects": [
-    "nonfiction",
-    "philosophy",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-03",
-  "title": "Jack Keefe Stories",
+  "date": "2026-08-04",
+  "title": "My Four Weeks in France",
   "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire",
-    "shorts",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
