@@ -1,40 +1,39 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-06",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2026-08-07",
+  "title": "Lavengro",
+  "author": "George Borrow",
+  "summary": "A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain, encountering a variety of interesting characters.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-borrow/lavengro/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-borrow/lavengro",
   "subjects": [
-    "fiction",
-    "horror"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-06",
-  "title": "Stand by for Mars!",
-  "author": "Carey Rockwell",
-  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
-  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
+  "date": "2026-08-07",
+  "title": "Waverley",
+  "author": "Walter Scott",
+  "summary": "A young English officer becomes involved in the Jacobite rebellion.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-scott/waverley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-scott/waverley",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-06",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "date": "2026-08-07",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -43,43 +42,41 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-08-06",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-08-07",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-06",
-  "title": "The Windfairies",
-  "author": "Mary De Morgan",
-  "summary": "The third collection of fairy tales by Mary De Morgan.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies",
+  "date": "2026-08-07",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories",
   "subjects": [
     "childrens",
-    "fantasy",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-06",
-  "title": "The Small Bachelor",
-  "author": "P. G. Wodehouse",
-  "summary": "A struggling artist and his dream girl set off on a series of comedic misadventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor",
+  "date": "2026-08-07",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
   "subjects": [
     "comedy",
     "fiction"
@@ -88,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-08-06",
-  "title": "Three Sisters",
-  "author": "Anton Chekhov",
-  "summary": "Three sisters long to escape their provincial town and return to Moscow.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/three-sisters/julius-west/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/three-sisters/julius-west",
+  "date": "2026-08-07",
+  "title": "Saint Joan",
+  "author": "George Bernard Shaw",
+  "summary": "Joan of Arc’s life story is retold, from her early life, to her campaigns, and beyond.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan",
   "subjects": [
     "drama"
   ]
@@ -101,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-06",
-  "title": "The Necklace of Princess Fiorimonde",
-  "author": "Mary De Morgan",
-  "summary": "The second collection of fairy tales by Mary De Morgan.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-necklace-of-princess-fiorimonde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-necklace-of-princess-fiorimonde",
+  "date": "2026-08-07",
+  "title": "The Sketchbook of Geoffrey Crayon, Gent.",
+  "author": "Washington Irving",
+  "summary": "A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”",
+  "coverUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent",
   "subjects": [
     "fantasy",
     "shorts"
@@ -115,133 +112,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-06",
-  "title": "Amaryllis at the Fair",
-  "author": "Richard Jefferies",
-  "summary": "A family struggling to make ends meet becomes a framework for a description of rural English country life.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/amaryllis-at-the-fair/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/amaryllis-at-the-fair",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-08-06",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
-  "subjects": [
-    "horror",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-08-06",
-  "title": "The Bolshevik Myth",
-  "author": "Alexander Berkman",
-  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-08-06",
-  "title": "The Insidious Dr. Fu-Manchu",
-  "author": "Sax Rohmer",
-  "summary": "An intrepid detective hunts the criminal mastermind Fu-Manchu through early 20th-century London.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-08-06",
-  "title": "The Problems of Philosophy",
-  "author": "Bertrand Russell",
-  "summary": "A beginner’s guide to problems in various fields of philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-08-06",
-  "title": "The Age of Reason",
-  "author": "Thomas Paine",
-  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-08-06",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
-  "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-08-06",
-  "title": "Short Fiction",
-  "author": "Ring Lardner",
-  "summary": "A collection of short stories by Ring Lardner.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-08-06",
-  "title": "Star Hunter",
-  "author": "Andre Norton",
-  "summary": "On the unexplored jungle world of Jumala the sole survivor of a spaceship crash is heir to a fortune, or has been made to believe so.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "title": "Short Fiction",
   "author": "Thomas Hardy",
   "summary": "A collection of Thomas Hardy’s short stories, mostly ordered by date of publication.",
@@ -254,28 +125,155 @@
 }
 ,
 {
-  "genre": "spirituality",
-  "date": "2026-08-06",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "genre": "horror",
+  "date": "2026-08-07",
+  "title": "The Necromancers",
+  "author": "Robert Hugh Benson",
+  "summary": "A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
   "subjects": [
     "fiction",
+    "horror",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-08-07",
+  "title": "Sailing Alone Around the World",
+  "author": "Joshua Slocum",
+  "summary": "A sailor gives his account how he completed the first solo sailing voyage around the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world",
+  "subjects": [
+    "adventure",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-08-07",
+  "title": "The Viaduct Murder",
+  "author": "Ronald A. Knox",
+  "summary": "A foursome of friends out golfing try to unravel the mystery surrounding a corpse found on the links.",
+  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-08-07",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-08-07",
+  "title": "The Age of Reason",
+  "author": "Thomas Paine",
+  "summary": "Paine argues against the legitimacy of the Bible and institutional religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-08-07",
+  "title": "The Eclogues",
+  "author": "Virgil",
+  "summary": "Ten pastoral poems exploring themes of love, politics, and the impact of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/virgil/the-eclogues/john-dryden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/virgil/the-eclogues/john-dryden",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-08-07",
+  "title": "The History of Rasselas, Prince of Abyssinia",
+  "author": "Samuel Johnson",
+  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
+  "subjects": [
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-08-07",
+  "title": "Storm Over Warlock",
+  "author": "Andre Norton",
+  "summary": "On a planet presumed devoid of intelligent life, and in a race to colonize worlds ahead of brutal beetle-like aliens, two surveyors take flight from their hunters and try to uncover the secrets of a place that seems ever less benign.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/storm-over-warlock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/storm-over-warlock",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-08-07",
+  "title": "Short Fiction",
+  "author": "Mary Shelley",
+  "summary": "A collection of short fiction by Mary Shelley, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/short-fiction",
+  "subjects": [
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-08-07",
+  "title": "The Protestant Ethic and the Spirit of Capitalism",
+  "author": "Max Weber",
+  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
+  "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-06",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2026-08-07",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
+    "memoir",
     "nonfiction",
     "travel"
   ]
