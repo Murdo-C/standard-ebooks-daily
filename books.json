@@ -1,7 +1,119 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-09",
+  "date": "2026-08-10",
+  "title": "My First Summer in the Sierra",
+  "author": "John Muir",
+  "summary": "The influential Scottish-American naturalist spends a summer exploring the high country surrounding the headwaters of the Merced and Tuolumne rivers in the Sierra Nevada, and records what he sees in a diary.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "adventure",
+  "date": "2026-08-10",
+  "title": "Kim",
+  "author": "Rudyard Kipling",
+  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-08-10",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-08-10",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-08-10",
+  "title": "Catriona",
+  "author": "Robert Louis Stevenson",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "subjects": [
+    "adventure",
+    "childrens",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-08-10",
+  "title": "Manalive",
+  "author": "G. K. Chesterton",
+  "summary": "An eccentric man brings chaos and happiness to a house of litigious lodgers.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-08-10",
+  "title": "Major Barbara",
+  "author": "George Bernard Shaw",
+  "summary": "The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-08-10",
+  "title": "Short Fiction",
+  "author": "R. A. Lafferty",
+  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "subjects": [
+    "fantasy",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-08-10",
   "title": "Letters of Two Brides",
   "author": "Honoré de Balzac",
   "summary": "Two women write letters to tell each other about their lives and loves.",
@@ -13,198 +125,81 @@
 }
 ,
 {
-  "genre": "adventure",
-  "date": "2026-08-09",
-  "title": "Doctor Syn",
-  "author": "Russell Thorndike",
-  "summary": "A king’s enforcer searching for smugglers uncovers the dark past of the inhabitants of a small English town.",
-  "coverUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-08-09",
-  "title": "Struggles and Triumphs",
-  "author": "P. T. Barnum",
-  "summary": "The world’s greatest showman tells the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-t-barnum/struggles-and-triumphs",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-08-09",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-08-09",
-  "title": "Kidnapped",
-  "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
-  "subjects": [
-    "adventure",
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-08-09",
-  "title": "Kipps",
-  "author": "H. G. Wells",
-  "summary": "An orphan raised by his aunt and uncle struggles as a young man to integrate into upper class society after receiving a substantial inheritance from his grandfather.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/kipps",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-08-09",
-  "title": "Heartbreak House",
-  "author": "George Bernard Shaw",
-  "summary": "Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-08-09",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
-  "subjects": [
-    "comedy",
-    "fantasy",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-08-09",
-  "title": "Jungle Tales of Tarzan",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A collection of short stories about Tarzan growing up in the jungle.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan",
-  "subjects": [
-    "adventure",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "horror",
-  "date": "2026-08-09",
-  "title": "Short Fiction",
-  "author": "M. R. James",
-  "summary": "A collection of ghost stories written by M. R. James.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
+  "date": "2026-08-10",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "summary": "A tragic scientist creates a monster in his laboratory.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
   "subjects": [
     "horror",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-09",
-  "title": "A Personal Record",
-  "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
+  "date": "2026-08-10",
+  "title": "Essays",
+  "author": "Henry David Thoreau",
+  "summary": "A collection of Henry David Thoreau’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-09",
-  "title": "The Footsteps at the Lock",
-  "author": "Ronald A. Knox",
-  "summary": "When an unsavory pair of cousins goes missing from their canoe holiday on the Thames, detectives are called in to solve the mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-footsteps-at-the-lock",
+  "date": "2026-08-10",
+  "title": "The Red Thumbmark",
+  "author": "R. Austin Freeman",
+  "summary": "A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-09",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-08-10",
+  "title": "On the Art of Writing",
+  "author": "Arthur Quiller-Couch",
+  "summary": "Quiller-Couch surveys the history of English prose while dispensing advice for writing tastefully.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing",
   "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-09",
-  "title": "Leviathan",
-  "author": "Thomas Hobbes",
-  "summary": "Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
+  "date": "2026-08-10",
+  "title": "The Kural",
+  "author": "Thiruvalluvar",
+  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
+  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-09",
-  "title": "The Aeneid",
-  "author": "Virgil",
-  "summary": "The legendary hero Aeneas flees the city of Troy with his father and young son, and travels to Italy to become the ancestor of the Romans.",
-  "coverUrl": "https://standardebooks.org/ebooks/virgil/the-aeneid/john-dryden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/virgil/the-aeneid/john-dryden",
+  "date": "2026-08-10",
+  "title": "Poetry",
+  "author": "T. S. Eliot",
+  "summary": "A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”",
+  "coverUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
   "subjects": [
     "poetry"
   ]
@@ -212,27 +207,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-08-09",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-08-10",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "comedy",
-    "fantasy",
+    "poetry",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-09",
-  "title": "Star Born",
+  "date": "2026-08-10",
+  "title": "Key Out of Time",
   "author": "Andre Norton",
-  "summary": "Two human protagonists find themselves on opposite sides of an inter-species war.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/star-born/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/star-born",
+  "summary": "While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time",
   "subjects": [
     "science_fiction"
   ]
@@ -240,13 +234,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-09",
-  "title": "The Necklace of Princess Fiorimonde",
+  "date": "2026-08-10",
+  "title": "The Windfairies",
   "author": "Mary De Morgan",
-  "summary": "The second collection of fairy tales by Mary De Morgan.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-necklace-of-princess-fiorimonde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-necklace-of-princess-fiorimonde",
+  "summary": "The third collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies",
   "subjects": [
+    "childrens",
     "fantasy",
     "shorts"
   ]
@@ -254,14 +249,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-09",
-  "title": "The Kingdom of God Is Within You",
+  "date": "2026-08-10",
+  "title": "A Confession",
   "author": "Leo Tolstoy",
-  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -269,12 +263,12 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-08-09",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-08-10",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
