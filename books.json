@@ -1,20 +1,21 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-10",
-  "title": "My First Summer in the Sierra",
-  "author": "John Muir",
-  "summary": "The influential Scottish-American naturalist spends a summer exploring the high country surrounding the headwaters of the Merced and Tuolumne rivers in the Sierra Nevada, and records what he sees in a diary.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra",
+  "date": "2026-08-11",
+  "title": "Short Fiction",
+  "author": "O. Henry",
+  "summary": "A collection of O. Henry short stories, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/o-henry/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/o-henry/short-fiction",
   "subjects": [
-    "nonfiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "title": "Kim",
   "author": "Rudyard Kipling",
   "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
@@ -28,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-10",
-  "title": "Memoirs of a Revolutionist",
-  "author": "Peter Kropotkin",
-  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
+  "date": "2026-08-11",
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "author": "Mary Seacole",
+  "summary": "A British Creole woman provides medical assistance during the Crimean War after her travels around Panama.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-seacole/wonderful-adventures-of-mrs-seacole-in-many-lands",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,26 +43,28 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-08-10",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-08-11",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-10",
-  "title": "Catriona",
-  "author": "Robert Louis Stevenson",
-  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "date": "2026-08-11",
+  "title": "The Coral Island",
+  "author": "R. M. Ballantyne",
+  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
   "subjects": [
     "adventure",
     "childrens",
@@ -71,82 +74,85 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-10",
-  "title": "Manalive",
-  "author": "G. K. Chesterton",
-  "summary": "An eccentric man brings chaos and happiness to a house of litigious lodgers.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive",
+  "date": "2026-08-11",
+  "title": "You Never Can Tell",
+  "author": "George Bernard Shaw",
+  "summary": "A family recently returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/you-never-can-tell",
   "subjects": [
     "comedy",
-    "fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-08-10",
-  "title": "Major Barbara",
+  "date": "2026-08-11",
+  "title": "Man and Superman",
   "author": "George Bernard Shaw",
-  "summary": "The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-10",
-  "title": "Short Fiction",
-  "author": "R. A. Lafferty",
-  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "date": "2026-08-11",
+  "title": "On a Pincushion",
+  "author": "Mary De Morgan",
+  "summary": "The first collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
   "subjects": [
     "fantasy",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-10",
-  "title": "Letters of Two Brides",
-  "author": "Honoré de Balzac",
-  "summary": "Two women write letters to tell each other about their lives and loves.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott",
+  "date": "2026-08-11",
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "summary": "Seven fable-like tales about jungle animals in India and the humans who live on the edges of their realm.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book",
   "subjects": [
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-08-10",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2026-08-11",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-10",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-08-11",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
     "memoir",
     "nonfiction",
     "travel"
@@ -155,12 +161,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-10",
-  "title": "The Red Thumbmark",
+  "date": "2026-08-11",
+  "title": "The D’Arblay Mystery",
   "author": "R. Austin Freeman",
-  "summary": "A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark",
+  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
   "subjects": [
     "mystery"
   ]
@@ -168,12 +174,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-10",
-  "title": "On the Art of Writing",
+  "date": "2026-08-11",
+  "title": "On the Art of Reading",
   "author": "Arthur Quiller-Couch",
-  "summary": "Quiller-Couch surveys the history of English prose while dispensing advice for writing tastefully.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing",
+  "summary": "Quiller-Couch argues for the study and appreciation of classic English literature.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading",
   "subjects": [
     "nonfiction"
   ]
@@ -181,12 +187,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-10",
-  "title": "The Kural",
-  "author": "Thiruvalluvar",
-  "summary": "An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar",
+  "date": "2026-08-11",
+  "title": "Dialogues",
+  "author": "Seneca",
+  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
   "subjects": [
     "philosophy"
   ]
@@ -194,12 +200,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-10",
-  "title": "Poetry",
-  "author": "T. S. Eliot",
-  "summary": "A collection of T. S. Eliot’s poetry, including “The Love Song of J. Alfred Prufrock,” “The Waste Land,” and “The Hollow Men.”",
-  "coverUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
+  "date": "2026-08-11",
+  "title": "Olney Hymns",
+  "author": "John Newton",
+  "summary": "A collection of hymns written by John Newton and William Cowper.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns",
   "subjects": [
     "poetry"
   ]
@@ -207,26 +213,28 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-08-10",
-  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
-  "author": "Robert Williams Wood",
-  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
+  "date": "2026-08-11",
+  "title": "Short Fiction",
+  "author": "Ring Lardner",
+  "summary": "A collection of short stories by Ring Lardner.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
   "subjects": [
-    "poetry",
-    "satire"
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-10",
-  "title": "Key Out of Time",
+  "date": "2026-08-11",
+  "title": "Plague Ship",
   "author": "Andre Norton",
-  "summary": "While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time",
+  "summary": "When the rest of their crew falls mysteriously ill after a trading mission, four low-ranking crew members must save their ship from being condemned to drift forever in permanent quarantine.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/plague-ship/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/plague-ship",
   "subjects": [
     "science_fiction"
   ]
@@ -234,22 +242,22 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-10",
-  "title": "The Windfairies",
-  "author": "Mary De Morgan",
-  "summary": "The third collection of fairy tales by Mary De Morgan.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies",
+  "date": "2026-08-11",
+  "title": "Call Mr. Fortune",
+  "author": "H. C. Bailey",
+  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
   "subjects": [
-    "childrens",
-    "fantasy",
+    "fiction",
+    "mystery",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "title": "A Confession",
   "author": "Leo Tolstoy",
   "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
@@ -263,14 +271,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-08-10",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-08-11",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
