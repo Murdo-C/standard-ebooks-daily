@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-15",
-  "title": "World’s End",
-  "author": "Richard Jefferies",
-  "summary": "When the creator of the great city of Stirmingham dies, claimants vie to inherit control of his vast wealth, ensnaring two young lovers in a deadly plot.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-jefferies/worlds-end/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-jefferies/worlds-end",
+  "date": "2026-08-16",
+  "title": "Notre-Dame de Paris",
+  "author": "Victor Hugo",
+  "summary": "An archdeacon of Notre-Dame and his bellringer fall in love with the same gypsy, with tragic results.",
+  "coverUrl": "https://standardebooks.org/ebooks/victor-hugo/notre-dame-de-paris/isabel-f-hapgood/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/victor-hugo/notre-dame-de-paris/isabel-f-hapgood",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-15",
-  "title": "Kidnapped",
-  "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "date": "2026-08-16",
+  "title": "The Great Airport Mystery",
+  "author": "Franklin W. Dixon",
+  "summary": "After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery",
   "subjects": [
     "adventure",
     "childrens",
@@ -29,89 +29,35 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-15",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "date": "2026-08-16",
+  "title": "Yashka",
+  "author": "Maria Bochkareva",
+  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-08-15",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-08-16",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-15",
-  "title": "The Gold Bat",
-  "author": "P. G. Wodehouse",
-  "summary": "The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat",
-  "subjects": [
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-08-15",
-  "title": "June Moon",
-  "author": "Ring Lardner",
-  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
-  "subjects": [
-    "comedy",
-    "drama",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-08-15",
-  "title": "Julius Caesar",
-  "author": "William Shakespeare",
-  "summary": "A play portraying the assassination of Julius Caesar.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-08-15",
-  "title": "A Connecticut Yankee in King Arthur’s Court",
-  "author": "Mark Twain",
-  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "title": "Just So Stories",
   "author": "Rudyard Kipling",
   "summary": "A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.",
@@ -125,22 +71,74 @@
 }
 ,
 {
-  "genre": "horror",
-  "date": "2026-08-15",
-  "title": "The Private Memoirs and Confessions of a Justified Sinner",
-  "author": "James Hogg",
-  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "genre": "comedy",
+  "date": "2026-08-16",
+  "title": "Twelfth Night",
+  "author": "William Shakespeare",
+  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
   "subjects": [
-    "fiction",
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-08-16",
+  "title": "Richard II",
+  "author": "William Shakespeare",
+  "summary": "King Richard II’s wasteful spending habits drive his supporters to revolt.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-08-16",
+  "title": "Vathek",
+  "author": "William Beckford",
+  "summary": "A powerful caliph embarks on a quest to harness the powers of darkness.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-08-16",
+  "title": "The Woman in White",
+  "author": "Wilkie Collins",
+  "summary": "A young drawing teacher falls in love with his aristocratic pupil, who falls victim to a devious plot to acquire her considerable fortune.",
+  "coverUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-08-16",
+  "title": "The Vampire",
+  "author": "John William Polidori",
+  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "subjects": [
     "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "title": "South!",
   "author": "Ernest Shackleton",
   "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
@@ -155,50 +153,49 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-15",
-  "title": "The Rasp",
-  "author": "Philip MacDonald",
-  "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
+  "date": "2026-08-16",
+  "title": "The Casebook of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-15",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-08-16",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
-    "adventure",
-    "nonfiction",
-    "travel"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-15",
-  "title": "Essays",
-  "author": "Ralph Waldo Emerson",
-  "summary": "A collection of Ralph Waldo Emerson’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays",
+  "date": "2026-08-16",
+  "title": "Dialogues",
+  "author": "Seneca",
+  "summary": "Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "title": "Poetry",
   "author": "John Keats",
   "summary": "A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.",
@@ -211,26 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-08-15",
-  "title": "The Luck of Barry Lyndon",
-  "author": "William Makepeace Thackeray",
-  "summary": "A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon",
+  "date": "2026-08-16",
+  "title": "The Beggar’s Opera",
+  "author": "John Gay",
+  "summary": "A highwayman worries that he’s undone when his love affairs are uncovered.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera",
   "subjects": [
-    "fiction",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-15",
-  "title": "First Lensman",
-  "author": "E. E. Smith",
-  "summary": "Virgil Samms, the first individual to receive a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/first-lensman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/first-lensman",
+  "date": "2026-08-16",
+  "title": "Search the Sky",
+  "author": "Frederik Pohl",
+  "summary": "A man visits several worlds as he attempts to discover why humanity is dying out.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
   "subjects": [
     "science_fiction"
   ]
@@ -238,13 +235,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-15",
-  "title": "Short Fiction",
-  "author": "Guy de Maupassant",
-  "summary": "A collection of short stories by Guy de Maupassant, in order of date of composition.",
-  "coverUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators",
+  "date": "2026-08-16",
+  "title": "Household Tales",
+  "author": "Jacob Grimm",
+  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
   "subjects": [
+    "childrens",
     "fiction",
     "shorts"
   ]
@@ -252,21 +250,21 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-15",
-  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
-  "author": "Jonathan Dymond",
-  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+  "date": "2026-08-16",
+  "title": "The Pilgrim Kamanita",
+  "author": "Karl Gjellerup",
+  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
+  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
   "subjects": [
-    "philosophy",
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "title": "Travel Essays",
   "author": "Robert Louis Stevenson",
   "summary": "A collection of Robert Louis Stevenson’s travel essays.",
