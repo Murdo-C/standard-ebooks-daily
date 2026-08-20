@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-19",
-  "title": "The Blacker the Berry",
-  "author": "Wallace Thurman",
-  "summary": "A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.",
-  "coverUrl": "https://standardebooks.org/ebooks/wallace-thurman/the-blacker-the-berry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/wallace-thurman/the-blacker-the-berry",
+  "date": "2026-08-20",
+  "title": "Metropolis",
+  "author": "Thea von Harbou",
+  "summary": "In a futuristic dystopian city, the son of the city’s mastermind falls in love with a revolutionary activist.",
+  "coverUrl": "https://standardebooks.org/ebooks/thea-von-harbou/metropolis/the-readers-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thea-von-harbou/metropolis/the-readers-library",
   "subjects": [
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-19",
-  "title": "The Third Round",
-  "author": "H. C. McNeile",
-  "summary": "A fearless detective comes to the aid of a scientist who’s made the discovery of a lifetime.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/the-third-round/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/the-third-round",
+  "date": "2026-08-20",
+  "title": "The First Sir Percy",
+  "author": "Baroness Orczy",
+  "summary": "A man and his followers try again to overthrow the Stadtholder of the Netherlands.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-first-sir-percy",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-19",
-  "title": "Father Henson’s Story of His Own Life",
-  "author": "Josiah Henson",
-  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
-  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
+  "date": "2026-08-20",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "summary": "The autobiography of English philosopher John Stuart Mill.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
   "subjects": [
     "autobiography"
   ]
@@ -41,7 +41,7 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "title": "The Lives and Opinions of Eminent Philosophers",
   "author": "Diogenes Laërtius",
   "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
@@ -55,14 +55,13 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-19",
-  "title": "Treasure Island",
-  "author": "Robert Louis Stevenson",
-  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "date": "2026-08-20",
+  "title": "The Wonderful Adventures of Nils",
+  "author": "Selma Lagerlöf",
+  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
   "subjects": [
-    "adventure",
     "childrens",
     "fiction"
   ]
@@ -70,12 +69,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-19",
-  "title": "As You Like It",
+  "date": "2026-08-20",
+  "title": "Twelfth Night",
   "author": "William Shakespeare",
-  "summary": "Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
+  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-08-19",
-  "title": "Measure for Measure",
+  "date": "2026-08-20",
+  "title": "King Lear",
   "author": "William Shakespeare",
-  "summary": "A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure",
+  "summary": "An aging king divides his kingdom between his two eldest daughters, slighting the third, and comes to bitterly regret his decision.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-lear/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-lear",
   "subjects": [
     "drama"
   ]
@@ -97,27 +96,26 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-19",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-08-20",
+  "title": "The Return",
+  "author": "Walter de la Mare",
+  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
   "subjects": [
-    "comedy",
     "fantasy",
-    "satire"
+    "horror"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-19",
-  "title": "Ozma of Oz",
-  "author": "L. Frank Baum",
-  "summary": "A girl gets whisked away to a fairy land and helps restore the proper rulers to the throne.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz",
+  "date": "2026-08-20",
+  "title": "The Prince and the Pauper",
+  "author": "Mark Twain",
+  "summary": "The Prince of England and a pauper find their identities switched.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper",
   "subjects": [
     "childrens",
     "fiction"
@@ -126,71 +124,69 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-08-19",
-  "title": "The Private Memoirs and Confessions of a Justified Sinner",
-  "author": "James Hogg",
-  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "date": "2026-08-20",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "fiction",
-    "horror"
+    "adventure",
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-19",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-08-20",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-19",
-  "title": "The Casebook of Sherlock Holmes",
-  "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
+  "date": "2026-08-20",
+  "title": "File No. 113",
+  "author": "Émile Gaboriau",
+  "summary": "A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
   "subjects": [
     "fiction",
-    "mystery",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-19",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2026-08-20",
+  "title": "Democracy and Social Ethics",
+  "author": "Jane Addams",
+  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
   "subjects": [
     "nonfiction",
-    "spirituality",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-19",
-  "title": "Democracy and Education",
+  "date": "2026-08-20",
+  "title": "Human Nature and Conduct",
   "author": "John Dewey",
-  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
+  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -199,20 +195,21 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-19",
-  "title": "The Columbiad",
-  "author": "Joel Barlow",
-  "summary": "Columbus is shown a history of the western hemisphere since his discoveries.",
-  "coverUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad",
+  "date": "2026-08-20",
+  "title": "Cane",
+  "author": "Jean Toomer",
+  "summary": "An experimental and highly lyrical novel exploring the African-American experience.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-toomer/cane/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-toomer/cane",
   "subjects": [
+    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "title": "Candide",
   "author": "Voltaire",
   "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
@@ -225,12 +222,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-19",
-  "title": "First Lensman",
-  "author": "E. E. Smith",
-  "summary": "Virgil Samms, the first individual to receive a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/first-lensman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/first-lensman",
+  "date": "2026-08-20",
+  "title": "The Coming Race",
+  "author": "Edward Bulwer-Lytton",
+  "summary": "While exploring a mine, a man falls through a chasm into an underground world populated by a mysterious race.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race",
   "subjects": [
     "science_fiction"
   ]
@@ -238,14 +235,13 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-19",
-  "title": "Household Tales",
-  "author": "Jacob Grimm",
-  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
-  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
+  "date": "2026-08-20",
+  "title": "Dubliners",
+  "author": "James Joyce",
+  "summary": "Fifteen short stories about middle-class life in early 20th-century Dublin.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners",
   "subjects": [
-    "childrens",
     "fiction",
     "shorts"
   ]
@@ -253,21 +249,21 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-19",
-  "title": "Verses on Various Occasions",
-  "author": "John Henry Newman",
-  "summary": "A collection of poems by John Henry Newman.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "date": "2026-08-20",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
-    "poetry",
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "title": "Jack Keefe Stories",
   "author": "Ring Lardner",
   "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
