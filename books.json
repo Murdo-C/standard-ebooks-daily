@@ -1,25 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-22",
-  "title": "The Charwoman’s Shadow",
-  "author": "Lord Dunsany",
-  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-08-22",
-  "title": "The Third Round",
-  "author": "H. C. McNeile",
-  "summary": "A fearless detective comes to the aid of a scientist who’s made the discovery of a lifetime.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-c-mcneile/the-third-round/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-c-mcneile/the-third-round",
+  "date": "2026-08-23",
+  "title": "The Thirty-Nine Steps",
+  "author": "John Buchan",
+  "summary": "An expatriate returning to England after many years in South Africa is accused of a murder he did not commit, and has to flee from the police and other more dangerous pursuers.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps",
   "subjects": [
     "adventure",
     "fiction"
@@ -27,26 +14,43 @@
 }
 ,
 {
-  "genre": "autobiography",
-  "date": "2026-08-22",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "genre": "adventure",
+  "date": "2026-08-23",
+  "title": "The Great Airport Mystery",
+  "author": "Franklin W. Dixon",
+  "summary": "After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery",
   "subjects": [
-    "autobiography"
+    "adventure",
+    "childrens",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-08-23",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "subjects": [
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-08-22",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-08-23",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -55,12 +59,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-22",
-  "title": "Treasure Island",
+  "date": "2026-08-23",
+  "title": "Kidnapped",
   "author": "Robert Louis Stevenson",
-  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
+  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
   "subjects": [
     "adventure",
     "childrens",
@@ -70,12 +74,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-22",
-  "title": "As You Like It",
+  "date": "2026-08-23",
+  "title": "All’s Well That Ends Well",
   "author": "William Shakespeare",
-  "summary": "Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
+  "summary": "A woman tricks her husband into fulfilling his marriage demands.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +88,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-08-22",
-  "title": "Julius Caesar",
+  "date": "2026-08-23",
+  "title": "King John",
   "author": "William Shakespeare",
-  "summary": "A play portraying the assassination of Julius Caesar.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar",
+  "summary": "King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/king-john",
   "subjects": [
     "drama"
   ]
@@ -97,57 +101,55 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-22",
-  "title": "Short Fiction",
-  "author": "R. A. Lafferty",
-  "summary": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "date": "2026-08-23",
+  "title": "On a Pincushion",
+  "author": "Mary De Morgan",
+  "summary": "The first collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
   "subjects": [
     "fantasy",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-22",
-  "title": "Basil",
-  "author": "Wilkie Collins",
-  "summary": "An aristocratic young man falls in love at first sight with a lower-class girl on an omnibus, with disastrous consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/wilkie-collins/basil/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/wilkie-collins/basil",
+  "date": "2026-08-23",
+  "title": "Arsène Lupin Versus Herlock Sholmes",
+  "author": "Maurice Leblanc",
+  "summary": "The infamous French thief must pit his wits against England’s finest detective in the second Arsène Lupin collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead",
   "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-08-22",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
-  "subjects": [
-    "horror",
-    "science_fiction",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "memoir",
-  "date": "2026-08-22",
-  "title": "Seven Pillars of Wisdom",
-  "author": "T. E. Lawrence",
-  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "genre": "horror",
+  "date": "2026-08-23",
+  "title": "The Room in the Dragon Volant",
+  "author": "J. Sheridan Le Fanu",
+  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
   "subjects": [
-    "adventure",
+    "horror",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-08-23",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "subjects": [
     "memoir",
     "nonfiction"
   ]
@@ -155,12 +157,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-22",
-  "title": "The Secret of the Caves",
+  "date": "2026-08-23",
+  "title": "The Mystery of Cabin Island",
   "author": "Franklin W. Dixon",
-  "summary": "Four boys vacation at nearby caves only to be swept up in a mystery.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves",
+  "summary": "A group of amateur detectives unravel the mystery of a missing stamps collection.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island",
   "subjects": [
     "adventure",
     "childrens",
@@ -171,12 +173,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-22",
-  "title": "Democracy and Education",
+  "date": "2026-08-23",
+  "title": "Human Nature and Conduct",
   "author": "John Dewey",
-  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
+  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -185,25 +187,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-22",
-  "title": "Moribund Society and Anarchy",
-  "author": "Jean Grave",
-  "summary": "Jean Grave systemically critiques bourgeois society from an anarchist perspective.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
+  "date": "2026-08-23",
+  "title": "Democracy and Social Ethics",
+  "author": "Jane Addams",
+  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "title": "Poetry",
-  "author": "James McIntyre",
-  "summary": "A collection of poetry by James McIntyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry",
+  "author": "James Joyce",
+  "summary": "A collection of James Joyce’s poetry, ordered by date of first publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/poetry",
   "subjects": [
     "poetry"
   ]
@@ -211,39 +214,39 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-08-22",
-  "title": "Dodsworth",
-  "author": "Sinclair Lewis",
-  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
-  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
+  "date": "2026-08-23",
+  "title": "The History of Rasselas, Prince of Abyssinia",
+  "author": "Samuel Johnson",
+  "summary": "An Abyssinian prince embarks on adventures while exploring the meaning of happiness.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia",
   "subjects": [
-    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-22",
-  "title": "The Moon Maid",
+  "date": "2026-08-23",
+  "title": "The Land That Time Forgot",
   "author": "Edgar Rice Burroughs",
-  "summary": "A young man travels to the moon with a group of companions and discovers that it’s inhabited; in subsequent centuries, reincarnations of the same man deal with an invasion of the Earth by the malevolent inhabitants of the Moon.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-moon-maid",
+  "summary": "Stranded U-boat survivors and their rescuers contend with dangerous beasts and prehistoric people in a strange lost world.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot",
   "subjects": [
+    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-22",
-  "title": "The Son of the Wolf",
+  "date": "2026-08-23",
+  "title": "When God Laughs",
   "author": "Jack London",
-  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
+  "summary": "The eleventh collection of short stories by Jack London.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs",
   "subjects": [
     "adventure",
     "fiction",
@@ -253,28 +256,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-22",
-  "title": "Siddhartha",
+  "date": "2026-08-23",
+  "title": "Demian",
   "author": "Hermann Hesse",
-  "summary": "A man embarks on a spiritual journey through India.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
+  "summary": "A boy goes on a journey of spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
   "subjects": [
     "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-22",
-  "title": "South!",
-  "author": "Ernest Shackleton",
-  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
+  "date": "2026-08-23",
+  "title": "The Cruise of the Alerte",
+  "author": "E. F. Knight",
+  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
   "subjects": [
-    "memoir",
+    "adventure",
     "nonfiction",
     "travel"
   ]
