@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-26",
-  "title": "His Family",
-  "author": "Ernest Poole",
-  "summary": "A man sees his life differently through the eyes of his daughters in turn-of-the-century New York City.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-poole/his-family/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-poole/his-family",
+  "date": "2026-08-27",
+  "title": "Oliver Twist",
+  "author": "Charles Dickens",
+  "summary": "A poor boy, born and raised in a workhouse in Victorian England, falls into the control of a gang of heartless criminals.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist",
   "subjects": [
     "fiction"
   ]
@@ -14,26 +14,26 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-26",
-  "title": "Riders of the Purple Sage",
-  "author": "Zane Grey",
-  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
+  "date": "2026-08-27",
+  "title": "Ashenden",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
   "subjects": [
     "adventure",
-    "fiction"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-26",
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
-  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
+  "date": "2026-08-27",
+  "title": "A Daughter of the Samurai",
+  "author": "Etsu Inagaki Sugimoto",
+  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
+  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,28 +42,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-08-26",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-08-27",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-26",
-  "title": "Catriona",
-  "author": "Robert Louis Stevenson",
-  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "date": "2026-08-27",
+  "title": "The Coral Island",
+  "author": "R. M. Ballantyne",
+  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
   "subjects": [
     "adventure",
     "childrens",
@@ -73,55 +71,56 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-26",
-  "title": "My Four Weeks in France",
+  "date": "2026-08-27",
+  "title": "Short Fiction",
   "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "summary": "A collection of short stories by Ring Lardner.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
   "subjects": [
     "comedy",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "fiction",
+    "satire",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-08-26",
-  "title": "Henry VI, Part II",
-  "author": "William Shakespeare",
-  "summary": "King Henry VI marries Margaret of Anjou and further stokes discord within his court.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii",
+  "date": "2026-08-27",
+  "title": "June Moon",
+  "author": "Ring Lardner",
+  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
   "subjects": [
-    "drama"
+    "comedy",
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-26",
-  "title": "The Blazing World",
-  "author": "Margaret Cavendish",
-  "summary": "A young lady is abducted and finds herself the empress of a strange new world.",
-  "coverUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world",
+  "date": "2026-08-27",
+  "title": "The Gods of Pegāna",
+  "author": "Lord Dunsany",
+  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
   "subjects": [
-    "fantasy",
-    "philosophy"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-26",
-  "title": "Pierre and Jean",
+  "date": "2026-08-27",
+  "title": "Bel Ami",
   "author": "Guy de Maupassant",
-  "summary": "A doctor, jealous of his brother’s sudden wealth, starts questioning its provenance.",
-  "coverUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/pierre-and-jean/clara-bell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/pierre-and-jean/clara-bell",
+  "summary": "A former soldier seduces and manipulates women in order to rise through Parisian society.",
+  "coverUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company",
   "subjects": [
     "fiction"
   ]
@@ -129,22 +128,20 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-08-26",
-  "title": "At the Mountains of Madness",
+  "date": "2026-08-27",
+  "title": "The Case of Charles Dexter Ward",
   "author": "H. P. Lovecraft",
-  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
+  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
   "subjects": [
-    "adventure",
-    "horror",
-    "science_fiction"
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "title": "The Life of Buffalo Bill",
   "author": "William F. Cody",
   "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
@@ -158,15 +155,13 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-08-26",
-  "title": "The House on the Cliff",
-  "author": "Franklin W. Dixon",
-  "summary": "After visiting a suspected haunted house, two brothers and their friends embark on an adventure to see if there’s trouble afoot.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff",
+  "date": "2026-08-27",
+  "title": "The Bellamy Trial",
+  "author": "Frances Noyes Hart",
+  "summary": "A man and a woman are on trial for the murder of his wife, her friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
   "subjects": [
-    "adventure",
-    "childrens",
     "fiction",
     "mystery"
   ]
@@ -174,39 +169,41 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-08-26",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "date": "2026-08-27",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "biography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-08-26",
-  "title": "The Servile State",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-servile-state",
+  "date": "2026-08-27",
+  "title": "Demian",
+  "author": "Hermann Hesse",
+  "summary": "A boy goes on a journey of spiritual growth.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
   "subjects": [
-    "philosophy"
+    "fiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-08-26",
-  "title": "The Iliad",
-  "author": "Homer",
-  "summary": "The epic poem which follows a Greek warrior who refuses to give up his prize of war.",
-  "coverUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant",
+  "date": "2026-08-27",
+  "title": "Poetry",
+  "author": "Henry van Dyke Jr.",
+  "summary": "A collection of poems by the American author, educator, and clergyman Henry van Dyke Jr., exploring themes of nature, faith, love, and patriotism.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry",
   "subjects": [
     "poetry"
   ]
@@ -214,27 +211,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-08-26",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-08-27",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "comedy",
-    "fantasy",
+    "poetry",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-08-26",
-  "title": "The Skylark of Space",
-  "author": "E. E. Smith",
-  "summary": "A scientist accidentally creates a way to travel to other star systems, while a rival scientist tries to steal all of his work.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space",
+  "date": "2026-08-27",
+  "title": "Omega",
+  "author": "Camille Flammarion",
+  "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
   "subjects": [
     "science_fiction"
   ]
@@ -242,42 +238,43 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-26",
-  "title": "Short Science Fiction",
-  "author": "Isaac Asimov",
-  "summary": "A collection of short science fiction by Isaac Asimov, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+  "date": "2026-08-27",
+  "title": "Allan Quatermain Stories",
+  "author": "H. Rider Haggard",
+  "summary": "A collection of short stories about a legendary hunter.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
   "subjects": [
-    "science_fiction",
+    "adventure",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-26",
-  "title": "Orthodoxy",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton’s unique view on Christianity and how all his “solitary and sincere speculations” were ultimately answered by its theology.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+  "date": "2026-08-27",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
   "subjects": [
-    "philosophy",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-26",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-08-27",
+  "title": "Essays",
+  "author": "Henry David Thoreau",
+  "summary": "A collection of Henry David Thoreau’s essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
   "subjects": [
-    "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
