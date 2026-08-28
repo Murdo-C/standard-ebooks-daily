@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-27",
-  "title": "Oliver Twist",
+  "date": "2026-08-28",
+  "title": "Hard Times",
   "author": "Charles Dickens",
-  "summary": "A poor boy, born and raised in a workhouse in Victorian England, falls into the control of a gang of heartless criminals.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist",
+  "summary": "A wealthy man in the industrial north of England raises his children on purely rational principles, with unfortunate results.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/hard-times/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/hard-times",
   "subjects": [
     "fiction"
   ]
@@ -14,56 +14,57 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-27",
-  "title": "Ashenden",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short stories based on the experiences of an intelligence agent during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/ashenden",
+  "date": "2026-08-28",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
     "adventure",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-08-27",
-  "title": "A Daughter of the Samurai",
-  "author": "Etsu Inagaki Sugimoto",
-  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
-  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
-  "subjects": [
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-08-28",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "summary": "The English wife of a German aristocrat recounts, through a series of diary entries, a year spent revitalizing the neglected garden of their estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-von-arnim/elizabeth-and-her-german-garden",
+  "subjects": [
+    "autobiography",
+    "fiction"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2026-08-27",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-08-28",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-27",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "date": "2026-08-28",
+  "title": "Just William",
+  "author": "Richmal Crompton",
+  "summary": "An eleven-year old English boy gets involved in a continuous series of amusing adventures to the exasperation of his long-suffering family.",
+  "coverUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william",
   "subjects": [
-    "adventure",
     "childrens",
     "fiction"
   ]
@@ -71,7 +72,150 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-27",
+  "date": "2026-08-28",
+  "title": "Jack Keefe Stories",
+  "author": "Ring Lardner",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "subjects": [
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-08-28",
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "summary": "A comedy skewering Victorian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "subjects": [
+    "comedy",
+    "drama",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-08-28",
+  "title": "The King of Elfland’s Daughter",
+  "author": "Lord Dunsany",
+  "summary": "The people of Erl want magic, and get their wish.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-08-28",
+  "title": "Salammbô",
+  "author": "Gustave Flaubert",
+  "summary": "A mercenary army, employed by Carthage to fight its wars, rebels after not being paid.",
+  "coverUrl": "https://standardebooks.org/ebooks/gustave-flaubert/salammbo/j-s-chartres/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gustave-flaubert/salammbo/j-s-chartres",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-08-28",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "subjects": [
+    "horror",
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-08-28",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "subjects": [
+    "adventure",
+    "autobiography",
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-08-28",
+  "title": "The Mystery of a Hansom Cab",
+  "author": "Fergus Hume",
+  "summary": "A man is found dead in a hansom cab in the city of Melbourne, Australia, and a young man is accused of his murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/fergus-hume/the-mystery-of-a-hansom-cab/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fergus-hume/the-mystery-of-a-hansom-cab",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-08-28",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-08-28",
+  "title": "The Crowd",
+  "author": "Gustave Le Bon",
+  "summary": "Le Bon explores the psychology, motivations, and dangers of crowds of people.",
+  "coverUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-08-28",
+  "title": "Poetry",
+  "author": "Georgia Douglas Johnson",
+  "summary": "A collection of poems by Georgia Douglas Johnson.",
+  "coverUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-08-28",
   "title": "Short Fiction",
   "author": "Ring Lardner",
   "summary": "A collection of short stories by Ring Lardner.",
@@ -86,166 +230,28 @@
 }
 ,
 {
-  "genre": "drama",
-  "date": "2026-08-27",
-  "title": "June Moon",
-  "author": "Ring Lardner",
-  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
-  "subjects": [
-    "comedy",
-    "drama",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-08-27",
-  "title": "The Gods of Pegāna",
-  "author": "Lord Dunsany",
-  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-08-27",
-  "title": "Bel Ami",
-  "author": "Guy de Maupassant",
-  "summary": "A former soldier seduces and manipulates women in order to rise through Parisian society.",
-  "coverUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-08-27",
-  "title": "The Case of Charles Dexter Ward",
-  "author": "H. P. Lovecraft",
-  "summary": "A young scholar delves into his family past and finds more than he bargained for.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
-  "subjects": [
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-08-27",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-08-27",
-  "title": "The Bellamy Trial",
-  "author": "Frances Noyes Hart",
-  "summary": "A man and a woman are on trial for the murder of his wife, her friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-08-27",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-08-27",
-  "title": "Demian",
-  "author": "Hermann Hesse",
-  "summary": "A boy goes on a journey of spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
-  "subjects": [
-    "fiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-08-27",
-  "title": "Poetry",
-  "author": "Henry van Dyke Jr.",
-  "summary": "A collection of poems by the American author, educator, and clergyman Henry van Dyke Jr., exploring themes of nature, faith, love, and patriotism.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-08-27",
-  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
-  "author": "Robert Williams Wood",
-  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
-  "subjects": [
-    "poetry",
-    "satire"
-  ]
-}
-,
-{
   "genre": "science_fiction",
-  "date": "2026-08-27",
-  "title": "Omega",
-  "author": "Camille Flammarion",
-  "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
+  "date": "2026-08-28",
+  "title": "Stand by for Mars!",
+  "author": "Carey Rockwell",
+  "summary": "Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.",
+  "coverUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars",
   "subjects": [
+    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-08-27",
-  "title": "Allan Quatermain Stories",
-  "author": "H. Rider Haggard",
-  "summary": "A collection of short stories about a legendary hunter.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
+  "date": "2026-08-28",
+  "title": "Shorts from Scenes from Private Life",
+  "author": "Honoré de Balzac",
+  "summary": "Short fiction from the “Scenes from Private Life” section of Balzac’s Human Comedy.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators",
   "subjects": [
-    "adventure",
     "fiction",
     "shorts"
   ]
@@ -253,28 +259,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-08-27",
-  "title": "Unspoken Sermons",
+  "date": "2026-08-28",
+  "title": "Short Fiction",
   "author": "George MacDonald",
-  "summary": "George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "nonfiction",
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-08-27",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-08-28",
+  "title": "Racundra’s First Cruise",
+  "author": "Arthur Ransome",
+  "summary": "A writer builds a boat and sails it across the Baltic Sea with his two companions.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise",
   "subjects": [
-    "memoir",
     "nonfiction",
     "travel"
   ]
