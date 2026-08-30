@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-29",
-  "title": "A Tale of Two Cities",
+  "date": "2026-08-30",
+  "title": "David Copperfield",
   "author": "Charles Dickens",
-  "summary": "A family is reunited, added to, and then threatened to be torn apart by events arising from the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities",
+  "summary": "The semi-autobiographical tale of a young boy who rises up to become a successful novelist.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/david-copperfield/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/david-copperfield",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-29",
-  "title": "The Purple Land",
-  "author": "W. H. Hudson",
-  "summary": "An Englishman becomes embroiled in adventure, politics, and romance in 19th-century Uruguay.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land",
+  "date": "2026-08-30",
+  "title": "Doctor Syn",
+  "author": "Russell Thorndike",
+  "summary": "A king’s enforcer searching for smugglers uncovers the dark past of the inhabitants of a small English town.",
+  "coverUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-29",
-  "title": "Pointed Roofs",
-  "author": "Dorothy M. Richardson",
-  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
+  "date": "2026-08-30",
+  "title": "Passages from the Life of a Philosopher",
+  "author": "Charles Babbage",
+  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
   "subjects": [
-    "autobiography",
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-08-29",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-08-30",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +55,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-29",
-  "title": "The Gold Bat",
-  "author": "P. G. Wodehouse",
-  "summary": "The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat",
+  "date": "2026-08-30",
+  "title": "Stover at Yale",
+  "author": "Owen Johnson",
+  "summary": "A young prep school football star arrives at Yale, where he grows and develops on the football field and off.",
+  "coverUrl": "https://standardebooks.org/ebooks/owen-johnson/stover-at-yale/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/owen-johnson/stover-at-yale",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,7 +69,149 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-29",
+  "date": "2026-08-30",
+  "title": "Fred Gross Stories",
+  "author": "Ring Lardner",
+  "summary": "A police detective attempts to live the American dream in the Chicago suburbs.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
+  "subjects": [
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-08-30",
+  "title": "An Ideal Husband",
+  "author": "Oscar Wilde",
+  "summary": "Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband",
+  "subjects": [
+    "comedy",
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-08-30",
+  "title": "The Charwoman’s Shadow",
+  "author": "Lord Dunsany",
+  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "subjects": [
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-08-30",
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "summary": "A middle-class country wife tries to satisfy her yearnings for a luxurious life by engaging in various affairs.",
+  "coverUrl": "https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-08-30",
+  "title": "The Portent",
+  "author": "George MacDonald",
+  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
+  "subjects": [
+    "fantasy",
+    "horror",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-08-30",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "subjects": [
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-08-30",
+  "title": "The Slaves of Paris",
+  "author": "Émile Gaboriau",
+  "summary": "A group of blackmailers play a long game on several families.",
+  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-08-30",
+  "title": "Incidents in the Life of a Slave Girl",
+  "author": "Linda Brent",
+  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
+  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-08-30",
+  "title": "The Everlasting Man",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "subjects": [
+    "nonfiction",
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-08-30",
+  "title": "The Canterbury Tales",
+  "author": "Geoffrey Chaucer",
+  "summary": "A group of pilgrims trade tales as they travel through medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-08-30",
   "title": "Gullible’s Travels",
   "author": "Ring Lardner",
   "summary": "An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.",
@@ -85,184 +226,42 @@
 }
 ,
 {
-  "genre": "drama",
-  "date": "2026-08-29",
-  "title": "Lady Windermere’s Fan",
-  "author": "Oscar Wilde",
-  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "genre": "science_fiction",
+  "date": "2026-08-30",
+  "title": "Krakatit",
+  "author": "Karel Čapek",
+  "summary": "An engineer invents a terrible new explosive that becomes of interest to the authorities.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde",
   "subjects": [
-    "comedy",
-    "drama",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
-  "genre": "fantasy",
-  "date": "2026-08-29",
-  "title": "The Book of Wonder",
-  "author": "Lord Dunsany",
-  "summary": "A collection of fantastical short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
+  "genre": "shorts",
+  "date": "2026-08-30",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
+    "childrens",
     "fantasy",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "fiction",
-  "date": "2026-08-29",
-  "title": "After the Divorce",
-  "author": "Grazia Deledda",
-  "summary": "After her husband is wrongly convicted of murder, a young Sardinian woman driven into poverty is forced to divorce him and marry a wealthy but abusive man in order to survive.",
-  "coverUrl": "https://standardebooks.org/ebooks/grazia-deledda/after-the-divorce/maria-hornor-lansdale/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/grazia-deledda/after-the-divorce/maria-hornor-lansdale",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-08-29",
-  "title": "The Turn of the Screw",
-  "author": "Henry James",
-  "summary": "A governess moves in to a haunted manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
-  "subjects": [
-    "fiction",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-08-29",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-08-29",
-  "title": "The Mystery of Orcival",
-  "author": "Émile Gaboriau",
-  "summary": "A countess is murdered and suspects are quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival/holt-williams",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-08-29",
-  "title": "Liberalism",
-  "author": "L. T. Hobhouse",
-  "summary": "An early twentieth century description of the philosophy of liberal socialism.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-08-29",
-  "title": "What’s Wrong with the World",
-  "author": "G. K. Chesterton",
-  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-08-29",
-  "title": "Poetry",
-  "author": "George MacDonald",
-  "summary": "A collection of poetry by Scottish author, poet, and Christian minister George MacDonald, exploring themes of faith, nature, redemption, and the human soul.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-08-29",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-08-29",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
-  "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-08-29",
-  "title": "Short Fiction",
-  "author": "Hjalmar Söderberg",
-  "summary": "A collection of Hjalmar Söderberg’s short stories, ordered by date of their translation.",
-  "coverUrl": "https://standardebooks.org/ebooks/hjalmar-soderberg/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hjalmar-soderberg/short-fiction/various-translators",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2026-08-29",
-  "title": "Polynesian Mythology",
-  "author": "George Grey",
-  "summary": "A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-grey/polynesian-mythology",
+  "date": "2026-08-30",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
   "subjects": [
     "nonfiction",
     "spirituality"
@@ -271,13 +270,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-08-29",
-  "title": "Two Years Before the Mast",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
+  "date": "2026-08-30",
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
+    "nonfiction",
     "travel"
   ]
 }
