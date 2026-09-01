@@ -1,34 +1,35 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-08-31",
-  "title": "Barnaby Rudge",
-  "author": "Charles Dickens",
-  "summary": "A simple-minded young man and his pet raven are swept up in the anti-Catholic Gordon Riots of 1780.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/barnaby-rudge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/barnaby-rudge",
+  "date": "2026-09-01",
+  "title": "The Magician",
+  "author": "W. Somerset Maugham",
+  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
   "subjects": [
-    "fiction"
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-08-31",
-  "title": "Kim",
-  "author": "Rudyard Kipling",
-  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+  "date": "2026-09-01",
+  "title": "The Land That Time Forgot",
+  "author": "Edgar Rice Burroughs",
+  "summary": "Stranded U-boat survivors and their rescuers contend with dangerous beasts and prehistoric people in a strange lost world.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot",
   "subjects": [
     "adventure",
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "title": "“We”",
   "author": "Charles A. Lindbergh",
   "summary": "Legendary aviator Charles Lindbergh gives an account of his early life, how he got into flying, and his famous transatlantic flight.",
@@ -42,7 +43,7 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "title": "Eminent Victorians",
   "author": "Lytton Strachey",
   "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
@@ -56,51 +57,51 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-08-31",
-  "title": "Children’s Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s children’s stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories",
+  "date": "2026-09-01",
+  "title": "The Great Airport Mystery",
+  "author": "Franklin W. Dixon",
+  "summary": "After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery",
   "subjects": [
+    "adventure",
     "childrens",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-08-31",
-  "title": "June Moon",
+  "date": "2026-09-01",
+  "title": "My Four Weeks in France",
   "author": "Ring Lardner",
-  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-08-31",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2026-09-01",
+  "title": "The Two Gentlemen of Verona",
+  "author": "William Shakespeare",
+  "summary": "Two best friends become involved in a love triangle.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-two-gentlemen-of-verona",
   "subjects": [
-    "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "title": "Fifty-One Tales",
   "author": "Lord Dunsany",
   "summary": "A series of otherworldly short stories ranging from the moral to the whimsical.",
@@ -114,21 +115,145 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-08-31",
-  "title": "Tracks in the Snow",
-  "author": "Godfrey R. Benson",
-  "summary": "A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+  "date": "2026-09-01",
+  "title": "The Nigger of the Narcissus",
+  "author": "Joseph Conrad",
+  "summary": "An Afro-Caribbean sailor enlists on a trading ship bound for London, but his health soon deteriorates.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-nigger-of-the-narcissus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-nigger-of-the-narcissus",
   "subjects": [
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-08-31",
+  "date": "2026-09-01",
+  "title": "Melmoth the Wanderer",
+  "author": "Charles Robert Maturin",
+  "summary": "A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-09-01",
+  "title": "The House of the Dead",
+  "author": "Fyodor Dostoevsky",
+  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
+  "subjects": [
+    "fiction",
+    "memoir"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-09-01",
+  "title": "His Last Bow",
+  "author": "Arthur Conan Doyle",
+  "summary": "The world’s first consulting detective and his faithful biographer tackle more mysterious cases.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow",
+  "subjects": [
+    "fiction",
+    "mystery",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-09-01",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "subjects": [
+    "autobiography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-09-01",
+  "title": "Unto This Last",
+  "author": "John Ruskin",
+  "summary": "A philosophical discussion on the nature of wealth and labor.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-09-01",
+  "title": "The Columbiad",
+  "author": "Joel Barlow",
+  "summary": "Columbus is shown a history of the western hemisphere since his discoveries.",
+  "coverUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joel-barlow/the-columbiad",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-09-01",
+  "title": "Point Counter Point",
+  "author": "Aldous Huxley",
+  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+  "subjects": [
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-09-01",
+  "title": "The Moon Pool",
+  "author": "A. Merritt",
+  "summary": "A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-merritt/the-moon-pool",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-09-01",
+  "title": "Short Fiction",
+  "author": "Gustave Flaubert",
+  "summary": "A collection of short stories by Gustave Flaubert.",
+  "coverUrl": "https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne",
+  "subjects": [
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-09-01",
   "title": "Short Fiction",
   "author": "George MacDonald",
   "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
@@ -144,142 +269,15 @@
 }
 ,
 {
-  "genre": "memoir",
-  "date": "2026-08-31",
-  "title": "My Four Weeks in France",
-  "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
-  "subjects": [
-    "comedy",
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-08-31",
-  "title": "Monsieur Lecoq",
-  "author": "Émile Gaboriau",
-  "summary": "Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-08-31",
-  "title": "Sticks and Stones",
-  "author": "Lewis Mumford",
-  "summary": "Lewis Mumford discusses the effects of architecture on American society throughout history.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-mumford/sticks-and-stones/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-mumford/sticks-and-stones",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-08-31",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
-  "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-08-31",
-  "title": "Mirèio",
-  "author": "Frédéric Mistral",
-  "summary": "Two young Provençal lovers are kept apart by their social class.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-08-31",
-  "title": "Fred Gross Stories",
-  "author": "Ring Lardner",
-  "summary": "A police detective attempts to live the American dream in the Chicago suburbs.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-08-31",
-  "title": "We",
-  "author": "Yevgeny Zamyatin",
-  "summary": "A thousand years in the future, the builder of a spaceship discovers his emotions.",
-  "coverUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-08-31",
-  "title": "While the Billy Boils",
-  "author": "Henry Lawson",
-  "summary": "A short story collection based on Australian colonial life in 1890s.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
-  "subjects": [
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-08-31",
-  "title": "The Way to God and How to Find It",
-  "author": "D. L. Moody",
-  "summary": "An evangelical preacher shares his theological framework.",
-  "coverUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it",
-  "subjects": [
-    "nonfiction",
-    "spirituality"
-  ]
-}
-,
-{
   "genre": "travel",
-  "date": "2026-08-31",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-09-01",
+  "title": "The Cruise of the Nona",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
   "subjects": [
-    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
