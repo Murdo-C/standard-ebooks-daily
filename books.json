@@ -1,68 +1,75 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-04",
-  "title": "To Cuba and Back",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back",
+  "date": "2026-09-05",
+  "title": "Sailing Alone Around the World",
+  "author": "Joshua Slocum",
+  "summary": "A sailor gives his account how he completed the first solo sailing voyage around the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world",
   "subjects": [
+    "adventure",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-04",
-  "title": "Kim",
-  "author": "Rudyard Kipling",
-  "summary": "An orphaned street-urchin follows a holy man across India during the time of the British Raj, eventually gaining an education and becoming a recruit to the Great Game of espionage against the Russians.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+  "date": "2026-09-05",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "summary": "A young boy finds adventure on the high seas as he battles bloodthirsty pirates in search of a long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island",
   "subjects": [
     "adventure",
+    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-04",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2026-09-05",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-09-04",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-09-05",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-04",
-  "title": "Green Meadow Stories",
-  "author": "Thornton W. Burgess",
-  "summary": "A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.",
-  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories",
+  "date": "2026-09-05",
+  "title": "The Great Airport Mystery",
+  "author": "Franklin W. Dixon",
+  "summary": "After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery",
   "subjects": [
+    "adventure",
     "childrens",
     "fiction"
   ]
@@ -70,12 +77,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-04",
-  "title": "Gullible’s Travels",
+  "date": "2026-09-05",
+  "title": "Fred Gross Stories",
   "author": "Ring Lardner",
-  "summary": "An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels",
+  "summary": "A police detective attempts to live the American dream in the Chicago suburbs.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
   "subjects": [
     "comedy",
     "fiction",
@@ -86,12 +93,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-09-04",
-  "title": "The Comedy of Errors",
+  "date": "2026-09-05",
+  "title": "Hamlet",
   "author": "William Shakespeare",
-  "summary": "Two sets of identical twins are mistaken for their lost siblings.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors",
+  "summary": "The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/hamlet",
   "subjects": [
     "drama"
   ]
@@ -99,14 +106,13 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-04",
-  "title": "The Crock of Gold",
+  "date": "2026-09-05",
+  "title": "The Demi-Gods",
   "author": "James Stephens",
-  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
   "subjects": [
-    "comedy",
     "fantasy",
     "philosophy"
   ]
@@ -114,80 +120,85 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-04",
-  "title": "Piccadilly Jim",
+  "date": "2026-09-05",
+  "title": "Short Fiction",
   "author": "P. G. Wodehouse",
-  "summary": "Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim",
+  "summary": "A collection of P. G. Wodehouse’s short fiction.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
   "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-09-04",
-  "title": "John Silence Stories",
-  "author": "Algernon Blackwood",
-  "summary": "A physician turned detective uses his psychic abilities to solve the strange cases presented to him.",
-  "coverUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories",
-  "subjects": [
-    "horror",
+    "comedy",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
+  "genre": "horror",
+  "date": "2026-09-05",
+  "title": "The Wolf-Leader",
+  "author": "Alexandre Dumas",
+  "summary": "A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
   "genre": "memoir",
-  "date": "2026-09-04",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2026-09-05",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-04",
-  "title": "A Study in Scarlet",
+  "date": "2026-09-05",
+  "title": "The Casebook of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-04",
-  "title": "Representative Men",
-  "author": "Ralph Waldo Emerson",
-  "summary": "A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.",
-  "coverUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men",
+  "date": "2026-09-05",
+  "title": "The Cruise of the Nona",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
   "subjects": [
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-04",
-  "title": "The Public and Its Problems",
+  "date": "2026-09-05",
+  "title": "Democracy and Education",
   "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -196,12 +207,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "title": "Poetry",
-  "author": "James McIntyre",
-  "summary": "A collection of poetry by James McIntyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry",
+  "author": "James Weldon Johnson",
+  "summary": "A collection of poems by James Weldon Johnson.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
   "subjects": [
     "poetry"
   ]
@@ -209,14 +220,13 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-04",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2026-09-05",
+  "title": "Main Street",
+  "author": "Sinclair Lewis",
+  "summary": "An ambitious young woman chafes against the constraints of small-town America.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/main-street",
   "subjects": [
-    "comedy",
     "fiction",
     "satire"
   ]
@@ -224,12 +234,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-04",
-  "title": "The Inheritors",
-  "author": "Joseph Conrad",
-  "summary": "A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors",
+  "date": "2026-09-05",
+  "title": "Gladiator",
+  "author": "Philip Wylie",
+  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
   "subjects": [
     "science_fiction"
   ]
@@ -237,42 +247,42 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-04",
-  "title": "Lost Face",
-  "author": "Jack London",
-  "summary": "A collection of short stories by Jack London.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/lost-face/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/lost-face",
+  "date": "2026-09-05",
+  "title": "Short Science Fiction",
+  "author": "Isaac Asimov",
+  "summary": "A collection of short science fiction by Isaac Asimov, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
   "subjects": [
-    "fiction",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-04",
-  "title": "The Way to God and How to Find It",
-  "author": "D. L. Moody",
-  "summary": "An evangelical preacher shares his theological framework.",
-  "coverUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it",
+  "date": "2026-09-05",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
+  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
   "subjects": [
-    "nonfiction",
+    "fiction",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-09-04",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-09-05",
+  "title": "The Cruise of the Nona",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
   "subjects": [
-    "adventure",
     "nonfiction",
     "travel"
   ]
