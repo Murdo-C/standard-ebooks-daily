@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-06",
-  "title": "Noli Me Tangere",
-  "author": "José Rizal",
-  "summary": "After years away studying in Europe, a man returns to his hometown in the Philippines, and plans to build a school for the improvement of the local population.",
-  "coverUrl": "https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire",
+  "date": "2026-09-07",
+  "title": "Father Henson’s Story of His Own Life",
+  "author": "Josiah Henson",
+  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
+  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
   "subjects": [
-    "fiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-06",
-  "title": "The Master of Ballantrae",
+  "date": "2026-09-07",
+  "title": "The Black Arrow",
   "author": "Robert Louis Stevenson",
-  "summary": "The relationship of two noble brothers is blighted by hostility and vengeance in Jacobite Scotland.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
+  "summary": "During the War of the Roses, a young knight must rescue his lady and find out who killed his father.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-06",
-  "title": "Personal Memoirs of Ulysses S. Grant",
-  "author": "Ulysses S. Grant",
-  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
-  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
+  "date": "2026-09-07",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "summary": "The autobiography of American President Theodore Roosevelt.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-09-06",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-09-07",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
     "fiction"
@@ -56,12 +55,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-06",
-  "title": "Smoky the Cowhorse",
-  "author": "Will James",
-  "summary": "Smoky, a gray-colored horse, grows into adulthood on the ranges of the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse",
+  "date": "2026-09-07",
+  "title": "The Wonderful Adventures of Nils",
+  "author": "Selma Lagerlöf",
+  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,22 +69,21 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-06",
-  "title": "June Moon",
-  "author": "Ring Lardner",
-  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
+  "date": "2026-09-07",
+  "title": "The Conscious Lovers",
+  "author": "Richard Steele",
+  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "title": "Henry IV, Part I",
   "author": "William Shakespeare",
   "summary": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
@@ -98,12 +96,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-06",
-  "title": "The Line of Love",
+  "date": "2026-09-07",
+  "title": "Figures of Earth",
   "author": "James Branch Cabell",
-  "summary": "A generational saga plays out in a series of short stories about love and marriage in medieval Europe.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love",
+  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
   "subjects": [
     "comedy",
     "fantasy"
@@ -112,12 +110,12 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-06",
-  "title": "Piccadilly Jim",
+  "date": "2026-09-07",
+  "title": "The Pothunters",
   "author": "P. G. Wodehouse",
-  "summary": "Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim",
+  "summary": "The theft of sports trophies from an English public school has unexpected implications on the lives of the school’s students and masters.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters",
   "subjects": [
     "fiction"
   ]
@@ -125,55 +123,55 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-09-06",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "date": "2026-09-07",
+  "title": "The Place Called Dagon",
+  "author": "Herbert Gorman",
+  "summary": "A young doctor faces a demonical cult.",
+  "coverUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon",
   "subjects": [
-    "horror",
-    "mystery"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-06",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-09-07",
+  "title": "The Bolshevik Myth",
+  "author": "Alexander Berkman",
+  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-06",
-  "title": "A Study in Scarlet",
+  "date": "2026-09-07",
+  "title": "The Casebook of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-06",
-  "title": "Histories",
-  "author": "Herodotus",
-  "summary": "Herodotus recounts the history and geography of the ancient world.",
-  "coverUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
+  "date": "2026-09-07",
+  "title": "Progress and Poverty",
+  "author": "Henry George",
+  "summary": "An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty",
   "subjects": [
     "nonfiction"
   ]
@@ -181,12 +179,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-06",
-  "title": "Human Nature and Conduct",
-  "author": "John Dewey",
-  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+  "date": "2026-09-07",
+  "title": "The Social Contract",
+  "author": "Jean-Jacques Rousseau",
+  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -195,12 +193,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "title": "Poetry",
-  "author": "James McIntyre",
-  "summary": "A collection of poetry by James McIntyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-mcintyre/poetry",
+  "author": "James Joyce",
+  "summary": "A collection of James Joyce’s poetry, ordered by date of first publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/poetry",
   "subjects": [
     "poetry"
   ]
@@ -208,31 +206,27 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-06",
-  "title": "Short Fiction",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
+  "date": "2026-09-07",
+  "title": "The Birds",
+  "author": "Aristophanes",
+  "summary": "Two Athenians persuade the birds to build them a new city in the sky.",
+  "coverUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
   "subjects": [
-    "adventure",
     "comedy",
-    "horror",
-    "mystery",
-    "satire",
-    "science_fiction",
-    "shorts"
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-06",
-  "title": "The Inheritors",
-  "author": "Joseph Conrad",
-  "summary": "A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors",
+  "date": "2026-09-07",
+  "title": "Gladiator",
+  "author": "Philip Wylie",
+  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
   "subjects": [
     "science_fiction"
   ]
@@ -240,14 +234,13 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-06",
-  "title": "Allan Quatermain Stories",
-  "author": "H. Rider Haggard",
-  "summary": "A collection of short stories about a legendary hunter.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
+  "date": "2026-09-07",
+  "title": "Shorts from Scenes from Private Life",
+  "author": "Honoré de Balzac",
+  "summary": "Short fiction from the “Scenes from Private Life” section of Balzac’s Human Comedy.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators",
   "subjects": [
-    "adventure",
     "fiction",
     "shorts"
   ]
@@ -255,29 +248,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-06",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-09-07",
+  "title": "Barlaam and Ioasaph",
+  "author": "Anonymous",
+  "summary": "A monk converts a cloistered young prince to Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
   "subjects": [
-    "nonfiction",
-    "philosophy",
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-09-06",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-09-07",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
-    "biography",
     "memoir",
     "nonfiction",
     "travel"
