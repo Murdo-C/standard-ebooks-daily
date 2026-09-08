@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-07",
-  "title": "Father Henson’s Story of His Own Life",
-  "author": "Josiah Henson",
-  "summary": "Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.",
-  "coverUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life",
+  "date": "2026-09-08",
+  "title": "The Tour",
+  "author": "Louis Couperus",
+  "summary": "A Roman nobleman travels through Egypt in search of a lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/louis-couperus/the-tour/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/louis-couperus/the-tour/alexander-teixeira-de-mattos",
   "subjects": [
-    "autobiography"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-07",
-  "title": "The Black Arrow",
-  "author": "Robert Louis Stevenson",
-  "summary": "During the War of the Roses, a young knight must rescue his lady and find out who killed his father.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow",
+  "date": "2026-09-08",
+  "title": "The Survivors of the Chancellor",
+  "author": "Jules Verne",
+  "summary": "A record of the ill-fated voyage of the Chancellor as told by one of the passengers.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-07",
-  "title": "An Autobiography",
-  "author": "Theodore Roosevelt",
-  "summary": "The autobiography of American President Theodore Roosevelt.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "date": "2026-09-08",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
     "autobiography"
   ]
@@ -41,7 +41,7 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "title": "Tombstone",
   "author": "Walter Noble Burns",
   "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
@@ -55,12 +55,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-07",
-  "title": "The Wonderful Adventures of Nils",
-  "author": "Selma Lagerlöf",
-  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
+  "date": "2026-09-08",
+  "title": "Smoky the Cowhorse",
+  "author": "Will James",
+  "summary": "Smoky, a gray-colored horse, grows into adulthood on the ranges of the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse",
   "subjects": [
     "childrens",
     "fiction"
@@ -69,26 +69,28 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-07",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-09-08",
+  "title": "Fred Gross Stories",
+  "author": "Ring Lardner",
+  "summary": "A police detective attempts to live the American dream in the Chicago suburbs.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction",
+    "satire",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-09-07",
-  "title": "Henry IV, Part I",
+  "date": "2026-09-08",
+  "title": "Henry VIII",
   "author": "William Shakespeare",
-  "summary": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+  "summary": "King Henry VIII plans to divorce his first wife for Anne Bullen.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii",
   "subjects": [
     "drama"
   ]
@@ -96,26 +98,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-07",
-  "title": "Figures of Earth",
+  "date": "2026-09-08",
+  "title": "Domnei",
   "author": "James Branch Cabell",
-  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
+  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
   "subjects": [
-    "comedy",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-07",
-  "title": "The Pothunters",
-  "author": "P. G. Wodehouse",
-  "summary": "The theft of sports trophies from an English public school has unexpected implications on the lives of the school’s students and masters.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-pothunters",
+  "date": "2026-09-08",
+  "title": "Orlando",
+  "author": "Virginia Woolf",
+  "summary": "A young Elizabethan poet for whom success is elusive becomes a woman and embraces the spirit of the age.",
+  "coverUrl": "https://standardebooks.org/ebooks/virginia-woolf/orlando/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/virginia-woolf/orlando",
   "subjects": [
     "fiction"
   ]
@@ -123,27 +124,28 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-09-07",
-  "title": "The Place Called Dagon",
-  "author": "Herbert Gorman",
-  "summary": "A young doctor faces a demonical cult.",
-  "coverUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon",
+  "date": "2026-09-08",
+  "title": "Short Fiction",
+  "author": "M. R. James",
+  "summary": "A collection of ghost stories written by M. R. James.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-07",
-  "title": "The Bolshevik Myth",
-  "author": "Alexander Berkman",
-  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
+  "date": "2026-09-08",
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "summary": "T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
   "subjects": [
+    "adventure",
     "memoir",
     "nonfiction"
   ]
@@ -151,35 +153,21 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-07",
-  "title": "The Casebook of Sherlock Holmes",
-  "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
+  "date": "2026-09-08",
+  "title": "Whose Body?",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocratic detective unravels the mystery of a body deposited in a bathtub in 1920s England.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/whose-body/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/whose-body",
   "subjects": [
     "fiction",
-    "mystery",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-07",
-  "title": "Progress and Poverty",
-  "author": "Henry George",
-  "summary": "An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "title": "The Social Contract",
   "author": "Jean-Jacques Rousseau",
   "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
@@ -192,8 +180,22 @@
 }
 ,
 {
+  "genre": "philosophy",
+  "date": "2026-09-08",
+  "title": "Democracy and Education",
+  "author": "John Dewey",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "poetry",
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "title": "Poetry",
   "author": "James Joyce",
   "summary": "A collection of James Joyce’s poetry, ordered by date of first publication.",
@@ -206,27 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-07",
-  "title": "The Birds",
-  "author": "Aristophanes",
-  "summary": "Two Athenians persuade the birds to build them a new city in the sky.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
+  "date": "2026-09-08",
+  "title": "The Book of Khalid",
+  "author": "Ameen Rihani",
+  "summary": "A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.",
+  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid",
   "subjects": [
-    "comedy",
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-07",
-  "title": "Gladiator",
-  "author": "Philip Wylie",
-  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
+  "date": "2026-09-08",
+  "title": "The Mummy!",
+  "author": "Jane C. Loudon",
+  "summary": "An ancient Egyptian mummy is resurrected in the twenty-second century.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy",
   "subjects": [
     "science_fiction"
   ]
@@ -234,13 +235,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-07",
-  "title": "Shorts from Scenes from Private Life",
-  "author": "Honoré de Balzac",
-  "summary": "Short fiction from the “Scenes from Private Life” section of Balzac’s Human Comedy.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators",
+  "date": "2026-09-08",
+  "title": "The Son of the Wolf",
+  "author": "Jack London",
+  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
   "subjects": [
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -248,21 +250,22 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-07",
-  "title": "Barlaam and Ioasaph",
-  "author": "Anonymous",
-  "summary": "A monk converts a cloistered young prince to Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
+  "date": "2026-09-08",
+  "title": "Religion and the Rise of Capitalism",
+  "author": "R. H. Tawney",
+  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
   "subjects": [
-    "fiction",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "title": "South!",
   "author": "Ernest Shackleton",
   "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
