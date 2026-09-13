@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "title": "The Mysterious Island",
   "author": "Jules Verne",
   "summary": "Five Americans, balloon-wrecked on a deserted island, must find a way to survive while revealing the island’s strange mysteries.",
@@ -14,54 +14,53 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-12",
-  "title": "Tarzan and the Ant Men",
+  "date": "2026-09-13",
+  "title": "Pirates of Venus",
   "author": "Edgar Rice Burroughs",
-  "summary": "The legendary lord of the jungle Tarzan finds himself trapped in an unfamiliar land inhabited by a tiny people.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men",
+  "summary": "A space traveler accidentally finds himself on Venus and must learn the local customs to survive.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus",
   "subjects": [
     "adventure",
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-12",
-  "title": "Personal Memoirs of Ulysses S. Grant",
-  "author": "Ulysses S. Grant",
-  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
-  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
+  "date": "2026-09-13",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "summary": "The autobiography of American President Theodore Roosevelt.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-09-12",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-09-13",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-12",
-  "title": "Kidnapped",
+  "date": "2026-09-13",
+  "title": "Catriona",
   "author": "Robert Louis Stevenson",
-  "summary": "After his parents die, a young Scottish man travels to see his only remaining relative, expecting to be welcomed, but instead finds his life and liberty in grave danger.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
     "adventure",
     "childrens",
@@ -71,12 +70,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-12",
-  "title": "Uneasy Money",
+  "date": "2026-09-13",
+  "title": "The Adventures of Sally",
   "author": "P. G. Wodehouse",
-  "summary": "When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money",
+  "summary": "A young woman comes into an inheritance, loses it all, and finds love along the way.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,34 +84,36 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-09-12",
-  "title": "Major Barbara",
+  "date": "2026-09-13",
+  "title": "Man and Superman",
   "author": "George Bernard Shaw",
-  "summary": "The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara",
+  "summary": "Jack Tanner flees both London and responsibility when he is made guardian of his childhood friend Ann Whitehead.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-12",
-  "title": "The Princess and the Goblin",
+  "date": "2026-09-13",
+  "title": "The Portent",
   "author": "George MacDonald",
-  "summary": "A princess and her young friend valiantly fend off a goblin attack with help from a ghostly relative.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin",
+  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "fantasy",
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "title": "Brigadier Gerard Stories",
   "author": "Arthur Conan Doyle",
   "summary": "A gallant French cavalryman recounts his adventures in the Napoleonic Wars.",
@@ -127,40 +128,40 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-09-12",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-09-13",
+  "title": "Short Fiction",
+  "author": "H. P. Lovecraft",
+  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
   "subjects": [
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-12",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2026-09-13",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-12",
-  "title": "The Lerouge Case",
-  "author": "Émile Gaboriau",
-  "summary": "A widow is found dead under mysterious circumstances, and Monsieur Lecoq of the police arranges to have his mentor brought in to help solve the crime.",
-  "coverUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emile-gaboriau/the-lerouge-case/vizetelly-and-company",
+  "date": "2026-09-13",
+  "title": "Whose Body?",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocratic detective unravels the mystery of a body deposited in a bathtub in 1920s England.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/whose-body/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/whose-body",
   "subjects": [
     "fiction",
     "mystery"
@@ -169,12 +170,25 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-12",
-  "title": "Unto This Last",
-  "author": "John Ruskin",
-  "summary": "A philosophical discussion on the nature of wealth and labor.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last",
+  "date": "2026-09-13",
+  "title": "My First Summer in the Sierra",
+  "author": "John Muir",
+  "summary": "The influential Scottish-American naturalist spends a summer exploring the high country surrounding the headwaters of the Merced and Tuolumne rivers in the Sierra Nevada, and records what he sees in a diary.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-muir/my-first-summer-in-the-sierra",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-09-13",
+  "title": "Reflections on the Revolution in France",
+  "author": "Edmund Burke",
+  "summary": "The conservative political theorist Edmund Burke critiques the political program of the French Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -182,26 +196,13 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-09-12",
-  "title": "Mutual Aid",
-  "author": "Peter Kropotkin",
-  "summary": "Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
   "genre": "poetry",
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "title": "Poetry",
-  "author": "Georgia Douglas Johnson",
-  "summary": "A collection of poems by Georgia Douglas Johnson.",
-  "coverUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
+  "author": "George MacDonald",
+  "summary": "A collection of poetry by Scottish author, poet, and Christian minister George MacDonald, exploring themes of faith, nature, redemption, and the human soul.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/poetry",
   "subjects": [
     "poetry"
   ]
@@ -209,27 +210,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-12",
-  "title": "The Birds",
-  "author": "Aristophanes",
-  "summary": "Two Athenians persuade the birds to build them a new city in the sky.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
+  "date": "2026-09-13",
+  "title": "Krakatit",
+  "author": "Karel Čapek",
+  "summary": "An engineer invents a terrible new explosive that becomes of interest to the authorities.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde",
   "subjects": [
-    "comedy",
-    "drama",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-12",
-  "title": "Gladiator",
-  "author": "Philip Wylie",
-  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
+  "date": "2026-09-13",
+  "title": "The Inheritors",
+  "author": "Joseph Conrad",
+  "summary": "A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors",
   "subjects": [
     "science_fiction"
   ]
@@ -237,26 +237,26 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-12",
-  "title": "Poirot Investigates",
-  "author": "Agatha Christie",
-  "summary": "A calculating Belgian detective and his wide-eyed companion investigate and solve a series of mysteries.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates",
+  "date": "2026-09-13",
+  "title": "Short Fiction",
+  "author": "Mack Reynolds",
+  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
   "subjects": [
-    "mystery",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-12",
-  "title": "The Pursuit of God",
-  "author": "A. W. Tozer",
-  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
+  "date": "2026-09-13",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
     "spirituality"
   ]
@@ -264,15 +264,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-09-12",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-09-13",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
