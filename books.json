@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "title": "The Survivors of the Chancellor",
   "author": "Jules Verne",
   "summary": "A record of the ill-fated voyage of the Chancellor as told by one of the passengers.",
@@ -15,56 +15,56 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-14",
-  "title": "Beyond Thirty",
+  "date": "2026-09-15",
+  "title": "Jungle Tales of Tarzan",
   "author": "Edgar Rice Burroughs",
-  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
+  "summary": "A collection of short stories about Tarzan growing up in the jungle.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan",
   "subjects": [
     "adventure",
-    "fantasy",
-    "science_fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-14",
-  "title": "The Autobiography of an Idea",
-  "author": "Louis H. Sullivan",
-  "summary": "Famed architect Louis H. Sullivan recounts his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea",
+  "date": "2026-09-15",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "summary": "A collection of reminiscences and reflections from the author’s experiences.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-09-14",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
-  "subjects": [
-    "biography",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "childrens",
-  "date": "2026-09-14",
-  "title": "The Coral Island",
-  "author": "R. M. Ballantyne",
-  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
+  "genre": "biography",
+  "date": "2026-09-15",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
-    "adventure",
+    "biography",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-09-15",
+  "title": "Just William",
+  "author": "Richmal Crompton",
+  "summary": "An eleven-year old English boy gets involved in a continuous series of amusing adventures to the exasperation of his long-suffering family.",
+  "coverUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richmal-crompton/just-william",
+  "subjects": [
     "childrens",
     "fiction"
   ]
@@ -72,56 +72,51 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-14",
-  "title": "Short Fiction",
+  "date": "2026-09-15",
+  "title": "Psmith, Journalist",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of P. G. Wodehouse’s short fiction.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "summary": "Psmith, visiting New York with Mike on a cricket tour, finds entertainment and trouble for himself in the newspaper business, stirring up trouble with New York’s notorious gangs.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-journalist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-journalist",
   "subjects": [
-    "comedy",
-    "fiction",
-    "shorts"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-09-14",
-  "title": "Back to Methuselah",
+  "date": "2026-09-15",
+  "title": "Candida",
   "author": "George Bernard Shaw",
-  "summary": "Five linked plays explore human longevity and governance.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
+  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
   "subjects": [
-    "comedy",
-    "drama",
-    "science_fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-14",
-  "title": "The Princess and Curdie",
+  "date": "2026-09-15",
+  "title": "Lilith",
   "author": "George MacDonald",
-  "summary": "A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie",
+  "summary": "After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/lilith",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-14",
-  "title": "Moll Flanders",
-  "author": "Daniel Defoe",
-  "summary": "A resourceful woman navigates 18th-century English society and colonial America over a lifetime of seventy years, using her wit and resilience in her quest for wealth and happiness.",
-  "coverUrl": "https://standardebooks.org/ebooks/daniel-defoe/moll-flanders/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/daniel-defoe/moll-flanders",
+  "date": "2026-09-15",
+  "title": "The Trap",
+  "author": "Dorothy M. Richardson",
+  "summary": "At the start of the 20th century an independent woman and budding writer takes an apartment with a spinster night-school teacher.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/the-trap/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/the-trap",
   "subjects": [
     "fiction"
   ]
@@ -129,28 +124,34 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-09-14",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
+  "date": "2026-09-15",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "fiction",
+    "adventure",
+    "comedy",
     "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-14",
-  "title": "The Life of Buffalo Bill",
-  "author": "William F. Cody",
-  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
+  "date": "2026-09-15",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -158,12 +159,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-14",
-  "title": "The Sign of the Four",
+  "date": "2026-09-15",
+  "title": "The Hound of the Baskervilles",
   "author": "Arthur Conan Doyle",
-  "summary": "An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four",
+  "summary": "A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
   "subjects": [
     "fiction",
     "mystery"
@@ -172,7 +173,7 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "title": "Two Treatises of Government",
   "author": "John Locke",
   "summary": "Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.",
@@ -186,12 +187,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-14",
-  "title": "Essays",
+  "date": "2026-09-15",
+  "title": "The Rights of Man",
   "author": "Thomas Paine",
-  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
+  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
   "subjects": [
     "philosophy"
   ]
@@ -199,12 +200,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-14",
-  "title": "Mirèio",
-  "author": "Frédéric Mistral",
-  "summary": "Two young Provençal lovers are kept apart by their social class.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston",
+  "date": "2026-09-15",
+  "title": "Poetry",
+  "author": "Frances Ellen Watkins Harper",
+  "summary": "A collection of poems by Frances Ellen Watkins Harper.",
+  "coverUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
   "subjects": [
     "poetry"
   ]
@@ -212,39 +213,40 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-14",
-  "title": "The Beggar’s Opera",
-  "author": "John Gay",
-  "summary": "A highwayman worries that he’s undone when his love affairs are uncovered.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera",
+  "date": "2026-09-15",
+  "title": "Dodsworth",
+  "author": "Sinclair Lewis",
+  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
   "subjects": [
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-14",
-  "title": "Plague of Pythons",
-  "author": "Frederik Pohl",
-  "summary": "A man navigates a world torn apart by bouts of spontaneous, unexplained possessions.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
+  "date": "2026-09-15",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
+    "horror",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-14",
-  "title": "Short Fiction",
-  "author": "Leo Tolstoy",
-  "summary": "A collection of all of the short stories and novellas written by Leo Tolstoy.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators",
+  "date": "2026-09-15",
+  "title": "American Indian Stories",
+  "author": "Zitkála-Šá",
+  "summary": "A collection of stories about Dakota Indians.",
+  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories",
   "subjects": [
     "fiction",
     "shorts"
@@ -253,7 +255,7 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "title": "The Necromancers",
   "author": "Robert Hugh Benson",
   "summary": "A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.",
@@ -268,7 +270,7 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "title": "To Cuba and Back",
   "author": "Richard Henry Dana Jr.",
   "summary": "A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.",
