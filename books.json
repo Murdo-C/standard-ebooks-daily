@@ -1,25 +1,29 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-18",
-  "title": "The Airlords of Han",
-  "author": "Philip Francis Nowlan",
-  "summary": "Science fiction hero Buck Rogers continues his crusade against the evil Han empire.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han",
+  "date": "2026-09-19",
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
+  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
   "subjects": [
-    "science_fiction"
+    "autobiography",
+    "memoir",
+    "nonfiction",
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-18",
-  "title": "The House Without a Key",
-  "author": "Earl Derr Biggers",
-  "summary": "Upon arriving in Honolulu, a member of a prominent Boston family is asked to aid in the investigation of his relative’s murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-house-without-a-key/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-house-without-a-key",
+  "date": "2026-09-19",
+  "title": "Blind Corner",
+  "author": "Dornford Yates",
+  "summary": "A chance overhearing of an argument leads to a race for long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +32,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-18",
-  "title": "Memoirs of an Infantry Officer",
-  "author": "Siegfried Sassoon",
-  "summary": "An Englishman recounts his service, and his turn to pacifism, during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer",
+  "date": "2026-09-19",
+  "title": "The Enormous Room",
+  "author": "E. E. Cummings",
+  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
   "subjects": [
     "autobiography",
     "fiction"
@@ -42,26 +46,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-09-18",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-09-19",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
-    "philosophy"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-18",
-  "title": "Our Baseball Club and How It Won the Championship",
-  "author": "Noah Brooks",
-  "summary": "A late-19th century Illinois baseball team journeys to compete for the championship.",
-  "coverUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship",
+  "date": "2026-09-19",
+  "title": "The Blue Bird",
+  "author": "Maurice Maeterlinck",
+  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,12 +74,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-18",
-  "title": "Indiscretions of Archie",
+  "date": "2026-09-19",
+  "title": "A Gentleman of Leisure",
   "author": "P. G. Wodehouse",
-  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
+  "summary": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure",
   "subjects": [
     "comedy",
     "fiction"
@@ -84,43 +88,39 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-09-18",
-  "title": "Arms and the Man",
-  "author": "George Bernard Shaw",
-  "summary": "A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man",
+  "date": "2026-09-19",
+  "title": "The Hairy Ape",
+  "author": "Eugene O’Neill",
+  "summary": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
+  "coverUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-18",
-  "title": "Short Fiction",
+  "date": "2026-09-19",
+  "title": "At the Back of the North Wind",
   "author": "George MacDonald",
-  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
   "subjects": [
     "childrens",
-    "fantasy",
-    "horror",
-    "shorts",
-    "spirituality"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-18",
-  "title": "Sister Carrie",
-  "author": "Theodore Dreiser",
-  "summary": "A young woman moves to Chicago to chase her dream of being somebody.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-dreiser/sister-carrie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-dreiser/sister-carrie",
+  "date": "2026-09-19",
+  "title": "Lavengro",
+  "author": "George Borrow",
+  "summary": "A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain, encountering a variety of interesting characters.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-borrow/lavengro/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-borrow/lavengro",
   "subjects": [
     "fiction"
   ]
@@ -128,40 +128,41 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-09-18",
-  "title": "The Magician",
-  "author": "W. Somerset Maugham",
-  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "date": "2026-09-19",
+  "title": "The Place Called Dagon",
+  "author": "Herbert Gorman",
+  "summary": "A young doctor faces a demonical cult.",
+  "coverUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon",
   "subjects": [
-    "horror",
-    "mystery"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-18",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2026-09-19",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-18",
-  "title": "A Study in Scarlet",
-  "author": "Arthur Conan Doyle",
-  "summary": "The self-declared world’s first consulting detective unravels a mysterious case of murder and revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet",
+  "date": "2026-09-19",
+  "title": "The Benson Murder Case",
+  "author": "S. S. Van Dine",
+  "summary": "A Manhattanite art connoisseur becomes an amateur detective as he assists his good friend, the District Attorney, in solving an unusual murder case.",
+  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,12 +171,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-18",
-  "title": "The Public and Its Problems",
+  "date": "2026-09-19",
+  "title": "Democracy and Education",
   "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
+  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -184,12 +185,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-18",
-  "title": "Essays",
+  "date": "2026-09-19",
+  "title": "The Rights of Man",
   "author": "Thomas Paine",
-  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
+  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
   "subjects": [
     "philosophy"
   ]
@@ -197,12 +198,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-18",
-  "title": "The Kalevala",
-  "author": "Elias Lönnrot",
-  "summary": "The Finnish national epic poem recounting the creation of the Earth and the adventures of its mythical heroes.",
-  "coverUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/elias-lonnrot/the-kalevala/john-martin-crawford",
+  "date": "2026-09-19",
+  "title": "Poetry",
+  "author": "Edward Thomas",
+  "summary": "A collection of poetry by Edward Thomas.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry",
   "subjects": [
     "poetry"
   ]
@@ -210,43 +211,41 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-18",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-09-19",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "comedy",
-    "fantasy",
+    "poetry",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-18",
-  "title": "Short Fiction",
-  "author": "Walter M. Miller Jr.",
-  "summary": "A collection of short fiction by Walter M. Miller Jr., ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
+  "date": "2026-09-19",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-18",
-  "title": "Old Indian Legends",
-  "author": "Zitkála-Šá",
-  "summary": "A collection of Dakota legends retold by Zitkála-Šá.",
-  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+  "date": "2026-09-19",
+  "title": "Short Fiction",
+  "author": "Vsevolod Garshin",
+  "summary": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith",
   "subjects": [
-    "childrens",
     "fiction",
     "shorts"
   ]
@@ -254,14 +253,14 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-18",
-  "title": "Mary Olivier: A Life",
-  "author": "May Sinclair",
-  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
-  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
+  "date": "2026-09-19",
+  "title": "The Protestant Ethic and the Spirit of Capitalism",
+  "author": "Max Weber",
+  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -269,12 +268,12 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-09-18",
-  "title": "The Innocents Abroad",
-  "author": "Mark Twain",
-  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "date": "2026-09-19",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
     "nonfiction",
     "travel"
