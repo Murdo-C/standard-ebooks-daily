@@ -1,7 +1,262 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-19",
+  "date": "2026-09-20",
+  "title": "No Treason",
+  "author": "Lysander Spooner",
+  "summary": "Lawyer and political philosopher Lysander Spooner presents his case for the invalidity of the United States Constitution.",
+  "coverUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "adventure",
+  "date": "2026-09-20",
+  "title": "Perishable Goods",
+  "author": "Dornford Yates",
+  "summary": "A group of men hunt for the kidnappers of a friend’s wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/dornford-yates/perishable-goods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dornford-yates/perishable-goods",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "autobiography",
+  "date": "2026-09-20",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "subjects": [
+    "autobiography",
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-09-20",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-09-20",
+  "title": "The Windfairies",
+  "author": "Mary De Morgan",
+  "summary": "The third collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies",
+  "subjects": [
+    "childrens",
+    "fantasy",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-09-20",
+  "title": "A Prefect’s Uncle",
+  "author": "P. G. Wodehouse",
+  "summary": "A boy’s life at boarding school is disrupted by an uncle that he’s never met before.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-prefects-uncle",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-09-20",
+  "title": "The Jew of Malta",
+  "author": "Christopher Marlowe",
+  "summary": "After losing all of his possessions, a Jewish merchant is determined to get his revenge on Malta.",
+  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/the-jew-of-malta",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-09-20",
+  "title": "Zuni Folktales",
+  "author": "Frank Hamilton Cushing",
+  "summary": "A collection of folktales from the Zuni culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
+  "subjects": [
+    "fantasy",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-09-20",
+  "title": "Trilby",
+  "author": "George du Maurier",
+  "summary": "A young woman captures the hearts of a group of artists before falling under the spell of a strange villain.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-du-maurier/trilby/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-du-maurier/trilby",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-09-20",
+  "title": "The Room in the Dragon Volant",
+  "author": "J. Sheridan Le Fanu",
+  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+  "subjects": [
+    "horror",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-09-20",
+  "title": "My Four Weeks in France",
+  "author": "Ring Lardner",
+  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "subjects": [
+    "comedy",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-09-20",
+  "title": "Murder by the Clock",
+  "author": "Rufus King",
+  "summary": "A police lieutenant investigates a murder over the course of a single night.",
+  "coverUrl": "https://standardebooks.org/ebooks/rufus-king/murder-by-the-clock/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rufus-king/murder-by-the-clock",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-09-20",
+  "title": "Human Nature and Conduct",
+  "author": "John Dewey",
+  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-09-20",
+  "title": "Dialogues",
+  "author": "Plato",
+  "summary": "A collection of Plato’s dialogues.",
+  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-09-20",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
+  "subjects": [
+    "comedy",
+    "poetry",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-09-20",
+  "title": "Short Fiction",
+  "author": "Ring Lardner",
+  "summary": "A collection of short stories by Ring Lardner.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
+  "subjects": [
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-09-20",
+  "title": "Short Fiction",
+  "author": "Poul Anderson",
+  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
+  "subjects": [
+    "science_fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-09-20",
+  "title": "Short Fiction",
+  "author": "Voltairine de Cleyre",
+  "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
+  "subjects": [
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-09-20",
   "title": "The Story of My Experiments with Truth",
   "author": "Mahatma Gandhi",
   "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
@@ -17,263 +272,13 @@
 }
 ,
 {
-  "genre": "adventure",
-  "date": "2026-09-19",
-  "title": "Blind Corner",
-  "author": "Dornford Yates",
-  "summary": "A chance overhearing of an argument leads to a race for long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dornford-yates/blind-corner",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-09-19",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
-  "subjects": [
-    "autobiography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-09-19",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
-  "subjects": [
-    "biography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-09-19",
-  "title": "The Blue Bird",
-  "author": "Maurice Maeterlinck",
-  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
-  "subjects": [
-    "childrens",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-09-19",
-  "title": "A Gentleman of Leisure",
-  "author": "P. G. Wodehouse",
-  "summary": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-09-19",
-  "title": "The Hairy Ape",
-  "author": "Eugene O’Neill",
-  "summary": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
-  "coverUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-09-19",
-  "title": "At the Back of the North Wind",
-  "author": "George MacDonald",
-  "summary": "A young boy’s life is transformed by his visit to the country at the back of the north wind.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
-  "subjects": [
-    "childrens",
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-09-19",
-  "title": "Lavengro",
-  "author": "George Borrow",
-  "summary": "A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain, encountering a variety of interesting characters.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-borrow/lavengro/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-borrow/lavengro",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-09-19",
-  "title": "The Place Called Dagon",
-  "author": "Herbert Gorman",
-  "summary": "A young doctor faces a demonical cult.",
-  "coverUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon",
-  "subjects": [
-    "fiction",
-    "horror"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-09-19",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
-  "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-09-19",
-  "title": "The Benson Murder Case",
-  "author": "S. S. Van Dine",
-  "summary": "A Manhattanite art connoisseur becomes an amateur detective as he assists his good friend, the District Attorney, in solving an unusual murder case.",
-  "coverUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-09-19",
-  "title": "Democracy and Education",
-  "author": "John Dewey",
-  "summary": "A critical survey of the philosophy and aims of education in a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-09-19",
-  "title": "The Rights of Man",
-  "author": "Thomas Paine",
-  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-09-19",
-  "title": "Poetry",
-  "author": "Edward Thomas",
-  "summary": "A collection of poetry by Edward Thomas.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-thomas/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-09-19",
-  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
-  "author": "Robert Williams Wood",
-  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
-  "subjects": [
-    "poetry",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-09-19",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
-  "subjects": [
-    "horror",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-09-19",
-  "title": "Short Fiction",
-  "author": "Vsevolod Garshin",
-  "summary": "A collection of Garshin’s translated short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/vsevolod-garshin/short-fiction/rowland-smith",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-09-19",
-  "title": "The Protestant Ethic and the Spirit of Capitalism",
-  "author": "Max Weber",
-  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
-  "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
   "genre": "travel",
-  "date": "2026-09-19",
-  "title": "Through the Brazilian Wilderness",
+  "date": "2026-09-20",
+  "title": "A Book-Lover’s Holidays in the Open",
   "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "summary": "Outdoorsman and former U.S. president Theodore Roosevelt weaves his love of reading into the stories of his travels through the Americas.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open",
   "subjects": [
     "nonfiction",
     "travel"
