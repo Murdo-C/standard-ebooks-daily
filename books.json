@@ -1,28 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-21",
-  "title": "The House on the Cliff",
-  "author": "Franklin W. Dixon",
-  "summary": "After visiting a suspected haunted house, two brothers and their friends embark on an adventure to see if there’s trouble afoot.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff",
+  "date": "2026-09-22",
+  "title": "Zuni Folktales",
+  "author": "Frank Hamilton Cushing",
+  "summary": "A collection of folktales from the Zuni culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
   "subjects": [
-    "adventure",
-    "childrens",
-    "fiction",
-    "mystery"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-21",
-  "title": "The Laughing Cavalier",
+  "date": "2026-09-22",
+  "title": "Sir Percy Hits Back",
   "author": "Baroness Orczy",
-  "summary": "An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier",
+  "summary": "A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back",
   "subjects": [
     "adventure",
     "fiction"
@@ -31,40 +29,40 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-21",
-  "title": "Confessions of an English Opium-Eater",
-  "author": "Thomas De Quincey",
-  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "date": "2026-09-22",
+  "title": "Memoirs of a Foxhunting Man",
+  "author": "Siegfried Sassoon",
+  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
+  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-09-21",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2026-09-22",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-21",
-  "title": "Emily of New Moon",
+  "date": "2026-09-22",
+  "title": "Anne of Green Gables",
   "author": "L. M. Montgomery",
-  "summary": "A budding poetess and orphan goes to live with her estranged aunts.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
   "subjects": [
     "childrens",
     "fiction"
@@ -73,27 +71,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-21",
-  "title": "Lady Windermere’s Fan",
+  "date": "2026-09-22",
+  "title": "An Ideal Husband",
   "author": "Oscar Wilde",
-  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "summary": "Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-09-21",
-  "title": "Edward II",
-  "author": "Christopher Marlowe",
-  "summary": "Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.",
-  "coverUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/christopher-marlowe/edward-ii",
+  "date": "2026-09-22",
+  "title": "The Alchemist",
+  "author": "Ben Jonson",
+  "summary": "A rollicking Elizabethan comedy in which two con men and their female compatriot gull a series of unfortunate victims out of their money.",
+  "coverUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ben-jonson/the-alchemist",
   "subjects": [
     "drama"
   ]
@@ -101,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-21",
-  "title": "Master Flea",
-  "author": "E. T. A. Hoffmann",
-  "summary": "A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-t-a-hoffmann/master-flea/george-soane",
+  "date": "2026-09-22",
+  "title": "Kai Lung’s Golden Hours",
+  "author": "Ernest Bramah",
+  "summary": "An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-bramah/kai-lungs-golden-hours",
   "subjects": [
     "fantasy"
   ]
@@ -114,7 +111,7 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "title": "Pan Michael",
   "author": "Henryk Sienkiewicz",
   "summary": "A Turkish invasion of 17th century Poland threatens the entire Commonwealth.",
@@ -127,25 +124,26 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-09-21",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2026-09-22",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-21",
-  "title": "Now It Can Be Told",
-  "author": "Philip Gibbs",
-  "summary": "A British war correspondent recalls his experiences during the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "date": "2026-09-22",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -154,26 +152,25 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-21",
-  "title": "The Viaduct Murder",
+  "date": "2026-09-22",
+  "title": "The Three Taps",
   "author": "Ronald A. Knox",
-  "summary": "A foursome of friends out golfing try to unravel the mystery surrounding a corpse found on the links.",
-  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder",
+  "summary": "The mysterious death of a heavily-insured businessman calls for an investigation by the insurer’s private detective.",
+  "coverUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-three-taps/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ronald-a-knox/the-three-taps",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-21",
-  "title": "The Social Contract",
-  "author": "Jean-Jacques Rousseau",
-  "summary": "Rousseau explores the political philosophy of authority originating from the consent of the people.",
-  "coverUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole",
+  "date": "2026-09-22",
+  "title": "Democracy and Social Ethics",
+  "author": "Jane Addams",
+  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -182,25 +179,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-21",
-  "title": "Meditations",
-  "author": "Marcus Aurelius",
-  "summary": "The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.",
-  "coverUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long",
+  "date": "2026-09-22",
+  "title": "Liberalism",
+  "author": "L. T. Hobhouse",
+  "summary": "An early twentieth century description of the philosophy of liberal socialism.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-21",
-  "title": "The Faerie Queene",
-  "author": "Edmund Spenser",
-  "summary": "Six knights embodying Christian virtues embark on allegorical quests.",
-  "coverUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene",
+  "date": "2026-09-22",
+  "title": "Spoon River Anthology",
+  "author": "Edgar Lee Masters",
+  "summary": "A collection of short poems recounting the lives and deaths of the residents of a small Illinois town.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-lee-masters/spoon-river-anthology",
   "subjects": [
     "poetry"
   ]
@@ -208,29 +206,28 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-21",
-  "title": "Jack Keefe Stories",
+  "date": "2026-09-22",
+  "title": "Gullible’s Travels",
   "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "summary": "An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels",
   "subjects": [
     "comedy",
     "fiction",
     "satire",
-    "shorts",
-    "travel"
+    "shorts"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-21",
-  "title": "Armageddon 2419 A.D.",
+  "date": "2026-09-22",
+  "title": "The Airlords of Han",
   "author": "Philip Francis Nowlan",
-  "summary": "Adventure hero Buck Rogers battles the forces of the evil Han Empire in 2419 America.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d",
+  "summary": "Science fiction hero Buck Rogers continues his crusade against the evil Han empire.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han",
   "subjects": [
     "science_fiction"
   ]
@@ -238,13 +235,14 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-21",
-  "title": "Short Fiction",
-  "author": "Tanizaki Jun’ichirō",
-  "summary": "A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators",
+  "date": "2026-09-22",
+  "title": "Brigadier Gerard Stories",
+  "author": "Arthur Conan Doyle",
+  "summary": "A gallant French cavalryman recounts his adventures in the Napoleonic Wars.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
   "subjects": [
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -252,14 +250,13 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-21",
-  "title": "The Kingdom of God Is Within You",
+  "date": "2026-09-22",
+  "title": "A Confession",
   "author": "Leo Tolstoy",
-  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -267,14 +264,13 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-09-21",
-  "title": "Racundra’s First Cruise",
-  "author": "Arthur Ransome",
-  "summary": "A writer builds a boat and sails it across the Baltic Sea with his two companions.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise",
+  "date": "2026-09-22",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "nonfiction",
     "travel"
   ]
 }
