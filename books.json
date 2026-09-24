@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "title": "The Wolf-Leader",
   "author": "Alexandre Dumas",
   "summary": "A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.",
@@ -15,54 +15,57 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-23",
-  "title": "The Splendid Spur",
-  "author": "Arthur Quiller-Couch",
-  "summary": "Events force a young man to act for the Royalist side in the English Civil War, bringing many adventures in consequence.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/the-splendid-spur/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/the-splendid-spur",
+  "date": "2026-09-24",
+  "title": "The Maracot Deep",
+  "author": "Arthur Conan Doyle",
+  "summary": "A scientific expedition stumbles upon the remnants of Atlantis.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep",
   "subjects": [
     "adventure",
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-23",
-  "title": "The Enormous Room",
-  "author": "E. E. Cummings",
-  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
+  "date": "2026-09-24",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
     "autobiography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-09-23",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
-  "subjects": [
-    "biography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
+  "genre": "biography",
+  "date": "2026-09-24",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2026-09-23",
-  "title": "Emily of New Moon",
+  "date": "2026-09-24",
+  "title": "Anne of Green Gables",
   "author": "L. M. Montgomery",
-  "summary": "A budding poetess and orphan goes to live with her estranged aunts.",
-  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon",
+  "summary": "A coming-of-age story of a young girl growing up on a farm on Prince Edward Island.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,26 +74,27 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-23",
-  "title": "An Ideal Husband",
+  "date": "2026-09-24",
+  "title": "A Woman of No Importance",
   "author": "Oscar Wilde",
-  "summary": "Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/an-ideal-husband",
+  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
   "subjects": [
     "comedy",
-    "drama"
+    "drama",
+    "satire"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-09-23",
-  "title": "Three Sisters",
+  "date": "2026-09-24",
+  "title": "Uncle Vanya",
   "author": "Anton Chekhov",
-  "summary": "Three sisters long to escape their provincial town and return to Moscow.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/three-sisters/julius-west/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/three-sisters/julius-west",
+  "summary": "An elderly professor and his young wife return to their country estate, where their family’s simmering resentments boil over.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett",
   "subjects": [
     "drama"
   ]
@@ -98,20 +102,21 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-23",
-  "title": "The Worm Ouroboros",
-  "author": "E. R. Eddison",
-  "summary": "The King Gorice of Witchland and the lords of Demonland wage war in the high-fantasy lands of Mercury.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros",
+  "date": "2026-09-24",
+  "title": "Wet Magic",
+  "author": "E. Nesbit",
+  "summary": "A group of children visiting the seaside free a captive mermaid and visit her domain.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/wet-magic",
   "subjects": [
+    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "title": "The Voyages of Doctor Dolittle",
   "author": "Hugh Lofting",
   "summary": "A young boy begins his apprenticeship with Doctor Dolittle, accompanying him on a series of adventures in search of a floating island and a missing naturalist.",
@@ -126,35 +131,36 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-09-23",
-  "title": "Brood of the Witch-Queen",
-  "author": "Sax Rohmer",
-  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
-  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "date": "2026-09-24",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-23",
-  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
-  "author": "Olaudah Equiano",
-  "summary": "An autobiography of an ex-slave in the mid 1700s.",
-  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
+  "date": "2026-09-24",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "title": "The Red Thumbmark",
   "author": "R. Austin Freeman",
   "summary": "A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.",
@@ -167,39 +173,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-23",
-  "title": "Democracy and Social Ethics",
-  "author": "Jane Addams",
-  "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics",
+  "date": "2026-09-24",
+  "title": "How the Other Half Lives",
+  "author": "Jacob Riis",
+  "summary": "A social reformer documents the living conditions of the poor in the tenements of New York City.",
+  "coverUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jacob-riis/how-the-other-half-lives",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-23",
-  "title": "What Is Art?",
-  "author": "Leo Tolstoy",
-  "summary": "Leo Tolstoy outlines his philosophy of aesthetics.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
+  "date": "2026-09-24",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
   "subjects": [
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-23",
-  "title": "Poetry",
-  "author": "Edgar Allan Poe",
-  "summary": "A collection of Edgar Allan Poe’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
+  "date": "2026-09-24",
+  "title": "The Book of Jade",
+  "author": "David Park Barnitz",
+  "summary": "A collection of decadent poetry by David Park Barnitz.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade",
   "subjects": [
     "poetry"
   ]
@@ -207,28 +213,25 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-09-23",
-  "title": "Fred Gross Stories",
-  "author": "Ring Lardner",
-  "summary": "A police detective attempts to live the American dream in the Chicago suburbs.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
+  "date": "2026-09-24",
+  "title": "The Little Nugget",
+  "author": "P. G. Wodehouse",
+  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts"
+    "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-23",
-  "title": "Armageddon 2419 A.D.",
+  "date": "2026-09-24",
+  "title": "The Airlords of Han",
   "author": "Philip Francis Nowlan",
-  "summary": "Adventure hero Buck Rogers battles the forces of the evil Han Empire in 2419 America.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d",
+  "summary": "Science fiction hero Buck Rogers continues his crusade against the evil Han empire.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han",
   "subjects": [
     "science_fiction"
   ]
@@ -236,12 +239,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "title": "Short Fiction",
-  "author": "Voltairine de Cleyre",
-  "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
+  "author": "Tanizaki Jun’ichirō",
+  "summary": "A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators",
   "subjects": [
     "fiction",
     "shorts"
@@ -250,31 +253,30 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-23",
-  "title": "The Pilgrim Kamanita",
-  "author": "Karl Gjellerup",
-  "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
-  "coverUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie",
+  "date": "2026-09-24",
+  "title": "Jesus the Son of Man",
+  "author": "Kahlil Gibran",
+  "summary": "The life of Jesus of Nazareth is examined through the lens of the people around him.",
+  "coverUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man",
   "subjects": [
     "fiction",
+    "shorts",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-09-23",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-09-24",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
