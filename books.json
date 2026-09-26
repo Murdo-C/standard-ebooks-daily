@@ -1,62 +1,63 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-25",
-  "title": "Shirley",
-  "author": "Charlotte Brontë",
-  "summary": "In the early part of the 19th Century, two young women struggle in different ways for independence and love during turbulent times caused by the advent of mechanical looms in the textile industry.",
-  "coverUrl": "https://standardebooks.org/ebooks/charlotte-bronte/shirley/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charlotte-bronte/shirley",
+  "date": "2026-09-26",
+  "title": "The Varieties of Religious Experience",
+  "author": "William James",
+  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
   "subjects": [
-    "fiction"
+    "nonfiction",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-25",
-  "title": "The Prisoner of Zenda",
-  "author": "Anthony Hope",
-  "summary": "King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda",
+  "date": "2026-09-26",
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
   "subjects": [
     "adventure",
-    "fiction"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-25",
-  "title": "Confessions of an English Opium-Eater",
-  "author": "Thomas De Quincey",
-  "summary": "A portrait of the life of a drug addict in Georgian-era London.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "date": "2026-09-26",
+  "title": "Memoirs of a Foxhunting Man",
+  "author": "Siegfried Sassoon",
+  "summary": "A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart.",
+  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-09-25",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-09-26",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "title": "Alice’s Adventures in Wonderland",
   "author": "Lewis Carroll",
   "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
@@ -70,7 +71,7 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "title": "She Stoops to Conquer",
   "author": "Oliver Goldsmith",
   "summary": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
@@ -84,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-09-25",
-  "title": "The Seagull",
+  "date": "2026-09-26",
+  "title": "The Cherry Orchard",
   "author": "Anton Chekhov",
-  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
+  "summary": "A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
   "subjects": [
     "comedy",
     "drama"
@@ -98,12 +99,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-25",
-  "title": "The Magic City",
+  "date": "2026-09-26",
+  "title": "The Phoenix and the Carpet",
   "author": "E. Nesbit",
-  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
+  "summary": "Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
   "subjects": [
     "childrens",
     "fantasy"
@@ -112,57 +113,54 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-25",
-  "title": "Pan Michael",
-  "author": "Henryk Sienkiewicz",
-  "summary": "A Turkish invasion of 17th century Poland threatens the entire Commonwealth.",
-  "coverUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/pan-michael/jeremiah-curtin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/pan-michael/jeremiah-curtin",
+  "date": "2026-09-26",
+  "title": "David Harum",
+  "author": "Edward Noyes Westcott",
+  "summary": "An aimless young man leaves the city for a small village to work for a horse-trading country banker.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum",
   "subjects": [
+    "comedy",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-09-25",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "date": "2026-09-26",
+  "title": "The Return",
+  "author": "Walter de la Mare",
+  "summary": "After visiting a graveyard, a man finds his appearance has mysteriously changed.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-de-la-mare/the-return",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "fantasy",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-25",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-09-26",
+  "title": "Incidents in the Life of a Slave Girl",
+  "author": "Linda Brent",
+  "summary": "The autobiography of a woman who grew up in, and escaped from, slavery.",
+  "coverUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/linda-brent/incidents-in-the-life-of-a-slave-girl",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-25",
-  "title": "The D’Arblay Mystery",
+  "date": "2026-09-26",
+  "title": "The Eye of Osiris",
   "author": "R. Austin Freeman",
-  "summary": "A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery",
+  "summary": "A newly qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-eye-of-osiris/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-austin-freeman/the-eye-of-osiris",
   "subjects": [
     "mystery"
   ]
@@ -170,83 +168,81 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-25",
-  "title": "The Cruise of the Nona",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
+  "date": "2026-09-26",
+  "title": "Histories",
+  "author": "Herodotus",
+  "summary": "Herodotus recounts the history and geography of the ancient world.",
+  "coverUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
   "subjects": [
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-25",
-  "title": "On Liberty",
-  "author": "John Stuart Mill",
-  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+  "date": "2026-09-26",
+  "title": "Liberalism",
+  "author": "L. T. Hobhouse",
+  "summary": "An early twentieth century description of the philosophy of liberal socialism.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-25",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2026-09-26",
+  "title": "Poetry",
+  "author": "C. S. Lewis",
+  "summary": "A collection of C. S. Lewis’ poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-09-25",
-  "title": "The Coming of Bill",
-  "author": "P. G. Wodehouse",
-  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
+  "date": "2026-09-26",
+  "title": "Lady Windermere’s Fan",
+  "author": "Oscar Wilde",
+  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
   "subjects": [
+    "comedy",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-25",
-  "title": "Short Fiction",
-  "author": "Philip K. Dick",
-  "summary": "A collection of short works by science fiction legend Philip K. Dick.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+  "date": "2026-09-26",
+  "title": "Islands of Space",
+  "author": "John W. Campbell",
+  "summary": "Four men become the first humans to travel to other galaxies.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-25",
-  "title": "Brigadier Gerard Stories",
-  "author": "Arthur Conan Doyle",
-  "summary": "A gallant French cavalryman recounts his adventures in the Napoleonic Wars.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
+  "date": "2026-09-26",
+  "title": "Short Fiction",
+  "author": "Voltairine de Cleyre",
+  "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
   "subjects": [
-    "adventure",
     "fiction",
     "shorts"
   ]
@@ -254,26 +250,26 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-25",
-  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
-  "author": "Jonathan Dymond",
-  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
+  "date": "2026-09-26",
+  "title": "Verses on Various Occasions",
+  "author": "John Henry Newman",
+  "summary": "A collection of poems by John Henry Newman.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
   "subjects": [
-    "philosophy",
+    "poetry",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-09-25",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2026-09-26",
+  "title": "With the Empress Dowager of China",
+  "author": "Katharine A. Carl",
+  "summary": "A female painter becomes the court artist of the Empress Dowager of China.",
+  "coverUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china",
   "subjects": [
     "nonfiction",
     "travel"
