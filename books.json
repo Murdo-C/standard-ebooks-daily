@@ -1,39 +1,39 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-27",
-  "title": "The Great Illusion",
-  "author": "Norman Angell",
-  "summary": "A philosopher and M.P. argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.",
-  "coverUrl": "https://standardebooks.org/ebooks/norman-angell/the-great-illusion/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/norman-angell/the-great-illusion",
+  "date": "2026-09-28",
+  "title": "Gladiator",
+  "author": "Philip Wylie",
+  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
   "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-09-27",
-  "title": "The Defiant Agents",
-  "author": "Andre Norton",
-  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
-  "subjects": [
-    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2026-09-28",
+  "title": "Twenty Years After",
+  "author": "Alexandre Dumas",
+  "summary": "Four musketeers are drawn back together by current events after many years apart, try to save Charles I from Cromwell, and are pursued by the now-grown son of a former female adversary.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
   "genre": "autobiography",
-  "date": "2026-09-27",
-  "title": "The Diary",
-  "author": "Samuel Pepys",
-  "summary": "The diary of a man living in London in the 17th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
+  "date": "2026-09-28",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,26 +42,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-09-27",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-09-28",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-27",
-  "title": "The Wind in the Willows",
-  "author": "Kenneth Grahame",
-  "summary": "Four animals adventure through the bucolic English countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/kenneth-grahame/the-wind-in-the-willows",
+  "date": "2026-09-28",
+  "title": "Cornelli",
+  "author": "Johanna Spyri",
+  "summary": "A young girl’s emotional hurt requires time and love to heal.",
+  "coverUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/johanna-spyri/cornelli/elisabeth-p-stork",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,12 +70,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-27",
-  "title": "Hay Fever",
-  "author": "Noël Coward",
-  "summary": "A well-to-do family cannot be civil to each other in front of their weekend guests.",
-  "coverUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever",
+  "date": "2026-09-28",
+  "title": "The Inspector General",
+  "author": "Nikolai Gogol",
+  "summary": "Corrupt officials in a small Russian town are thrown into disarray by the arrival of an Inspector General from the central government.",
+  "coverUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +84,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-09-27",
-  "title": "Agamemnon",
+  "date": "2026-09-28",
+  "title": "The Eumenides",
   "author": "Aeschylus",
-  "summary": "The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray",
+  "summary": "A man is pursued by wrathful goddesses for avenging his father’s murder, and finds refuge in Athens where a trial determines his fate.",
+  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray",
   "subjects": [
     "drama"
   ]
@@ -97,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-27",
-  "title": "The Story of the Amulet",
+  "date": "2026-09-28",
+  "title": "The House of Arden",
   "author": "E. Nesbit",
-  "summary": "Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-story-of-the-amulet",
+  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
   "subjects": [
     "childrens",
     "fantasy"
@@ -111,36 +111,162 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-27",
-  "title": "The Mucker",
-  "author": "Edgar Rice Burroughs",
-  "summary": "A street tough undergoes a transformation as he navigates the dangerous worlds of Chicago’s slums, a South Pacific island, and the wilds of Mexico.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-mucker",
+  "date": "2026-09-28",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "summary": "An ancient undead monster terrorizes Victorian London.",
+  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
   "subjects": [
-    "adventure",
-    "fiction"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-09-27",
-  "title": "The Necromancers",
-  "author": "Robert Hugh Benson",
-  "summary": "A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
+  "date": "2026-09-28",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
-    "fiction",
     "horror",
-    "spirituality"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-27",
+  "date": "2026-09-28",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "subjects": [
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-09-28",
+  "title": "The Rasp",
+  "author": "Philip MacDonald",
+  "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-09-28",
+  "title": "What’s Wrong with the World",
+  "author": "G. K. Chesterton",
+  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-09-28",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "summary": "One of the fundamental texts of the Tao philosophy and religion.",
+  "coverUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge",
+  "subjects": [
+    "philosophy",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-09-28",
+  "title": "The Argonautica",
+  "author": "Apollonius of Rhodes",
+  "summary": "A Greek hero voyages to a distant land to steal the fabled Golden Fleece.",
+  "coverUrl": "https://standardebooks.org/ebooks/apollonius-of-rhodes/the-argonautica/arthur-s-way/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apollonius-of-rhodes/the-argonautica/arthur-s-way",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-09-28",
+  "title": "Zuleika Dobson",
+  "author": "Max Beerbohm",
+  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+  "subjects": [
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-09-28",
+  "title": "The War of the Worlds",
+  "author": "H. G. Wells",
+  "summary": "The first-person narrative of the Martian invasion of 19th-century Earth.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-09-28",
+  "title": "Brigadier Gerard Stories",
+  "author": "Arthur Conan Doyle",
+  "summary": "A gallant French cavalryman recounts his adventures in the Napoleonic Wars.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
+  "subjects": [
+    "adventure",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-09-28",
+  "title": "Siddhartha",
+  "author": "Hermann Hesse",
+  "summary": "A man embarks on a spiritual journey through India.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
+  "subjects": [
+    "fiction",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "travel",
+  "date": "2026-09-28",
   "title": "Sailing Alone Around the World",
   "author": "Joshua Slocum",
   "summary": "A sailor gives his account how he completed the first solo sailing voyage around the world.",
@@ -150,134 +276,6 @@
     "adventure",
     "memoir",
     "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-09-27",
-  "title": "Fantômas",
-  "author": "Pierre Souvestre",
-  "summary": "A shapeshifting arch-villain terrorizes Parisian society.",
-  "coverUrl": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-09-27",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
-  "subjects": [
-    "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-09-27",
-  "title": "What Is Art?",
-  "author": "Leo Tolstoy",
-  "summary": "Leo Tolstoy outlines his philosophy of aesthetics.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-09-27",
-  "title": "The Consolation of Philosophy",
-  "author": "Boethius",
-  "summary": "A Roman statesman awaiting execution is visited by the personification of philosophy.",
-  "coverUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james",
-  "subjects": [
-    "philosophy",
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-09-27",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
-  "subjects": [
-    "comedy",
-    "drama",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-09-27",
-  "title": "A Strange Manuscript Found in a Copper Cylinder",
-  "author": "James De Mille",
-  "summary": "A shipwrecked sailor travels through a portal to a lost world populated by fantastic creatures and a strange civilization.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder",
-  "subjects": [
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-09-27",
-  "title": "Short Fiction",
-  "author": "Tanizaki Jun’ichirō",
-  "summary": "A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-09-27",
-  "title": "The Pilgrim’s Progress",
-  "author": "John Bunyan",
-  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
-  "subjects": [
-    "fiction",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "travel",
-  "date": "2026-09-27",
-  "title": "The Giant Raft",
-  "author": "Jules Verne",
-  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
-  "subjects": [
-    "adventure",
-    "fiction",
     "travel"
   ]
 }
