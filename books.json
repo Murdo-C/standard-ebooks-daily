@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-29",
-  "title": "Phoebe, Junior",
+  "date": "2026-09-30",
+  "title": "Salem Chapel",
   "author": "Margaret Oliphant",
-  "summary": "The friendship between the daughters of a dissenting minister and an Anglican clergyman tests boundaries of class and wealth.",
-  "coverUrl": "https://standardebooks.org/ebooks/margaret-oliphant/phoebe-junior/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/margaret-oliphant/phoebe-junior",
+  "summary": "A young dissenting minister experiences challenges to his pastorate while going through personal crises.",
+  "coverUrl": "https://standardebooks.org/ebooks/margaret-oliphant/salem-chapel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/margaret-oliphant/salem-chapel",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-29",
-  "title": "The Four Feathers",
-  "author": "A. E. W. Mason",
-  "summary": "A young man sets off to regain his honor after his resignation from the military on the eve of deployment brands him a coward.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-four-feathers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-four-feathers",
+  "date": "2026-09-30",
+  "title": "Around the World in Eighty Days",
+  "author": "Jules Verne",
+  "summary": "On a bet, an eccentric Victorian gentleman races to circumnavigate the globe.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,69 +28,69 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-29",
-  "title": "A Yankee in the Trenches",
-  "author": "Robert Derby Holmes",
-  "summary": "An American describes his experiences in the British Army in the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "date": "2026-09-30",
+  "title": "My Reminiscences",
+  "author": "Rabindranath Tagore",
+  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-09-29",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2026-09-30",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-29",
-  "title": "Household Tales",
-  "author": "Jacob Grimm",
-  "summary": "A collection of Germanic fairy tales containing the classic stories of Cinderella, Snow-White, Rapunzel, and other well known characters.",
-  "coverUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
+  "date": "2026-09-30",
+  "title": "The Story of Doctor Dolittle",
+  "author": "Hugh Lofting",
+  "summary": "A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.",
+  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle",
   "subjects": [
+    "adventure",
     "childrens",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-29",
-  "title": "Tartuffe",
-  "author": "Molière",
-  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
-  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
+  "date": "2026-09-30",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
     "comedy",
-    "drama"
+    "fiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-09-29",
-  "title": "The Libation Bearers",
-  "author": "Aeschylus",
-  "summary": "A man is ordered by a god to avenge his father’s murder by killing his mother and her lover.",
-  "coverUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray",
+  "date": "2026-09-30",
+  "title": "Plays",
+  "author": "Zeami Motokiyo",
+  "summary": "A collection of Zeami Motokiyo’s plays, arranged in chronological order of translation.",
+  "coverUrl": "https://standardebooks.org/ebooks/zeami-motokiyo/plays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zeami-motokiyo/plays/various-translators",
   "subjects": [
     "drama"
   ]
@@ -98,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-09-29",
-  "title": "The House of Arden",
+  "date": "2026-09-30",
+  "title": "Five Children and It",
   "author": "E. Nesbit",
-  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
   "subjects": [
     "childrens",
     "fantasy"
@@ -112,84 +112,83 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-29",
-  "title": "The Giant Raft",
+  "date": "2026-09-30",
+  "title": "The Fur Country",
   "author": "Jules Verne",
-  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
+  "summary": "A group of colonists attempt to settle in the Arctic Circle.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers",
   "subjects": [
     "adventure",
-    "fiction",
-    "travel"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-09-29",
-  "title": "The Private Memoirs and Confessions of a Justified Sinner",
-  "author": "James Hogg",
-  "summary": "A religious fanatic’s mysterious friend helps turn him into a killer.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "date": "2026-09-30",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "fiction",
-    "horror"
+    "adventure",
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-29",
-  "title": "The Mirror of the Sea",
+  "date": "2026-09-30",
+  "title": "A Personal Record",
   "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-29",
-  "title": "The Rasp",
-  "author": "Philip MacDonald",
-  "summary": "A retired colonel investigates the elaborate murder of a cabinet minister.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-macdonald/the-rasp",
+  "date": "2026-09-30",
+  "title": "The Patient in Room 18",
+  "author": "Mignon G. Eberhart",
+  "summary": "A nurse helps a detective investigate a murder in a hospital.",
+  "coverUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-29",
-  "title": "What’s Wrong with the World",
+  "date": "2026-09-30",
+  "title": "The Everlasting Man",
   "author": "G. K. Chesterton",
-  "summary": "Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
   "subjects": [
     "nonfiction",
-    "philosophy"
+    "philosophy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-29",
-  "title": "What Is Art?",
-  "author": "Leo Tolstoy",
-  "summary": "Leo Tolstoy outlines his philosophy of aesthetics.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
+  "date": "2026-09-30",
+  "title": "On Liberty",
+  "author": "John Stuart Mill",
+  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
   "subjects": [
     "philosophy"
   ]
@@ -197,26 +196,25 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-29",
-  "title": "The Nibelungenlied",
+  "date": "2026-09-30",
+  "title": "Sir Gawain and the Green Knight",
   "author": "Anonymous",
-  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+  "summary": "A knight accepts a supernatural challenge and faces tests of honesty, loyalty, and honor.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew",
   "subjects": [
-    "adventure",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-09-29",
-  "title": "Gulliver’s Travels",
-  "author": "Jonathan Swift",
-  "summary": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
+  "date": "2026-09-30",
+  "title": "Northanger Abbey",
+  "author": "Jane Austen",
+  "summary": "A young girl with an overactive imagination comes of age.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
   "subjects": [
     "fiction",
     "satire"
@@ -225,27 +223,27 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-29",
-  "title": "Short Fiction",
+  "date": "2026-09-30",
+  "title": "The Island of Doctor Moreau",
   "author": "H. G. Wells",
-  "summary": "A collection of short stories by H. G. Wells in a variety of genres ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+  "summary": "A shipwrecked man is rescued by a boat and left on a strange island owned by a physiologist who experiments in vivisection.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-29",
-  "title": "Short Fiction",
-  "author": "Voltairine de Cleyre",
-  "summary": "A collection of all of the short stories written by Voltairine de Cleyre.",
-  "coverUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
+  "date": "2026-09-30",
+  "title": "Brigadier Gerard Stories",
+  "author": "Arthur Conan Doyle",
+  "summary": "A gallant French cavalryman recounts his adventures in the Napoleonic Wars.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
   "subjects": [
+    "adventure",
     "fiction",
     "shorts"
   ]
@@ -253,14 +251,14 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-29",
-  "title": "Demian",
-  "author": "Hermann Hesse",
-  "summary": "A boy goes on a journey of spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
+  "date": "2026-09-30",
+  "title": "The Everlasting Man",
+  "author": "G. K. Chesterton",
+  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -268,15 +266,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-09-29",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-09-30",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "comedy",
+    "fiction",
     "travel"
   ]
 }
