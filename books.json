@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-09-30",
-  "title": "Salem Chapel",
-  "author": "Margaret Oliphant",
-  "summary": "A young dissenting minister experiences challenges to his pastorate while going through personal crises.",
-  "coverUrl": "https://standardebooks.org/ebooks/margaret-oliphant/salem-chapel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/margaret-oliphant/salem-chapel",
+  "date": "2026-10-01",
+  "title": "The Borough Treasurer",
+  "author": "J. S. Fletcher",
+  "summary": "When a retired detective is found murdered, two business partners in a small Yorkshire town become the prime suspects.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-09-30",
-  "title": "Around the World in Eighty Days",
-  "author": "Jules Verne",
-  "summary": "On a bet, an eccentric Victorian gentleman races to circumnavigate the globe.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle",
+  "date": "2026-10-01",
+  "title": "Greenmantle",
+  "author": "John Buchan",
+  "summary": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,39 +29,42 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-09-30",
-  "title": "My Reminiscences",
-  "author": "Rabindranath Tagore",
-  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
+  "date": "2026-10-01",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-09-30",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-10-01",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "fiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-09-30",
-  "title": "The Story of Doctor Dolittle",
-  "author": "Hugh Lofting",
-  "summary": "A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.",
-  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle",
+  "date": "2026-10-01",
+  "title": "Catriona",
+  "author": "Robert Louis Stevenson",
+  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
   "subjects": [
     "adventure",
     "childrens",
@@ -70,40 +74,41 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-09-30",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2026-10-01",
+  "title": "She Stoops to Conquer",
+  "author": "Oliver Goldsmith",
+  "summary": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
+  "coverUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer",
   "subjects": [
     "comedy",
-    "fiction",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-09-30",
-  "title": "Plays",
-  "author": "Zeami Motokiyo",
-  "summary": "A collection of Zeami Motokiyo’s plays, arranged in chronological order of translation.",
-  "coverUrl": "https://standardebooks.org/ebooks/zeami-motokiyo/plays/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zeami-motokiyo/plays/various-translators",
-  "subjects": [
     "drama"
   ]
 }
 ,
 {
+  "genre": "drama",
+  "date": "2026-10-01",
+  "title": "Festus",
+  "author": "Philip James Bailey",
+  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
+  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "subjects": [
+    "drama",
+    "poetry",
+    "spirituality"
+  ]
+}
+,
+{
   "genre": "fantasy",
-  "date": "2026-09-30",
-  "title": "Five Children and It",
+  "date": "2026-10-01",
+  "title": "Harding’s Luck",
   "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
   "subjects": [
     "childrens",
     "fantasy"
@@ -112,83 +117,82 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-09-30",
-  "title": "The Fur Country",
-  "author": "Jules Verne",
-  "summary": "A group of colonists attempt to settle in the Arctic Circle.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers",
+  "date": "2026-10-01",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
   "subjects": [
-    "adventure",
+    "comedy",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-09-30",
-  "title": "At the Mountains of Madness",
-  "author": "H. P. Lovecraft",
-  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
+  "date": "2026-10-01",
+  "title": "The Turn of the Screw",
+  "author": "Henry James",
+  "summary": "A governess moves in to a haunted manor.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
   "subjects": [
-    "adventure",
-    "horror",
-    "science_fiction"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-09-30",
-  "title": "A Personal Record",
-  "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
+  "date": "2026-10-01",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-09-30",
-  "title": "The Patient in Room 18",
-  "author": "Mignon G. Eberhart",
-  "summary": "A nurse helps a detective investigate a murder in a hospital.",
-  "coverUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
+  "date": "2026-10-01",
+  "title": "The Secret Adversary",
+  "author": "Agatha Christie",
+  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
   "subjects": [
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-09-30",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "date": "2026-10-01",
+  "title": "Personal Memoirs of Ulysses S. Grant",
+  "author": "Ulysses S. Grant",
+  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
+  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
   "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-09-30",
-  "title": "On Liberty",
-  "author": "John Stuart Mill",
-  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
+  "date": "2026-10-01",
+  "title": "The Wealth of Nations",
+  "author": "Adam Smith",
+  "summary": "Adam Smith lays the foundation of classical economics.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
   "subjects": [
     "philosophy"
   ]
@@ -196,85 +200,86 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-09-30",
-  "title": "Sir Gawain and the Green Knight",
-  "author": "Anonymous",
-  "summary": "A knight accepts a supernatural challenge and faces tests of honesty, loyalty, and honor.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew",
+  "date": "2026-10-01",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
   "subjects": [
-    "poetry"
+    "comedy",
+    "poetry",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-09-30",
-  "title": "Northanger Abbey",
-  "author": "Jane Austen",
-  "summary": "A young girl with an overactive imagination comes of age.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+  "date": "2026-10-01",
+  "title": "Krakatit",
+  "author": "Karel Čapek",
+  "summary": "An engineer invents a terrible new explosive that becomes of interest to the authorities.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-09-30",
-  "title": "The Island of Doctor Moreau",
-  "author": "H. G. Wells",
-  "summary": "A shipwrecked man is rescued by a boat and left on a strange island owned by a physiologist who experiments in vivisection.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau",
+  "date": "2026-10-01",
+  "title": "Journey to the Center of the Earth",
+  "author": "Jules Verne",
+  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
   "subjects": [
+    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-09-30",
-  "title": "Brigadier Gerard Stories",
-  "author": "Arthur Conan Doyle",
-  "summary": "A gallant French cavalryman recounts his adventures in the Napoleonic Wars.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
+  "date": "2026-10-01",
+  "title": "Darby O’Gill and the Good People",
+  "author": "Herminie Templeton Kavanagh",
+  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
+  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
   "subjects": [
-    "adventure",
-    "fiction",
+    "childrens",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-09-30",
-  "title": "The Everlasting Man",
-  "author": "G. K. Chesterton",
-  "summary": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man",
+  "date": "2026-10-01",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
   "subjects": [
-    "nonfiction",
-    "philosophy",
+    "fiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-09-30",
-  "title": "Three Men in a Boat",
-  "author": "Jerome K. Jerome",
-  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
-  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "date": "2026-10-01",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "comedy",
-    "fiction",
+    "memoir",
     "travel"
   ]
 }
