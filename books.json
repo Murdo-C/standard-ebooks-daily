@@ -1,26 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-01",
-  "title": "The Borough Treasurer",
-  "author": "J. S. Fletcher",
-  "summary": "When a retired detective is found murdered, two business partners in a small Yorkshire town become the prime suspects.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+  "date": "2026-10-02",
+  "title": "On the Art of Reading",
+  "author": "Arthur Quiller-Couch",
+  "summary": "Quiller-Couch argues for the study and appreciation of classic English literature.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading",
   "subjects": [
-    "fiction",
-    "mystery"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-01",
-  "title": "Greenmantle",
-  "author": "John Buchan",
-  "summary": "The story of a chase through war-torn Europe to prevent an uprising during the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/greenmantle",
+  "date": "2026-10-02",
+  "title": "The Last of the Mohicans",
+  "author": "James Fenimore Cooper",
+  "summary": "Frontiersmen and Native Americans help transport a colonel’s daughters through upper New York during the French and Indian War.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,42 +28,39 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-01",
-  "title": "A Yankee in the Trenches",
-  "author": "Robert Derby Holmes",
-  "summary": "An American describes his experiences in the British Army in the First World War.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
+  "date": "2026-10-02",
+  "title": "My Reminiscences",
+  "author": "Rabindranath Tagore",
+  "summary": "Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.",
+  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/my-reminiscences/the-macmillan-company",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-10-01",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-10-02",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-01",
-  "title": "Catriona",
-  "author": "Robert Louis Stevenson",
-  "summary": "After coming into his fortune and evading his uncle’s schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/catriona",
+  "date": "2026-10-02",
+  "title": "The Coral Island",
+  "author": "R. M. Ballantyne",
+  "summary": "Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.",
+  "coverUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island",
   "subjects": [
     "adventure",
     "childrens",
@@ -74,12 +70,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-01",
-  "title": "She Stoops to Conquer",
-  "author": "Oliver Goldsmith",
-  "summary": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
-  "coverUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer",
+  "date": "2026-10-02",
+  "title": "Hay Fever",
+  "author": "Noël Coward",
+  "summary": "A well-to-do family cannot be civil to each other in front of their weekend guests.",
+  "coverUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever",
   "subjects": [
     "comedy",
     "drama"
@@ -88,83 +84,82 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-10-01",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-10-02",
+  "title": "Lady Windermere’s Fan",
+  "author": "Oscar Wilde",
+  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
   "subjects": [
+    "comedy",
     "drama",
-    "poetry",
-    "spirituality"
+    "satire"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-01",
-  "title": "Harding’s Luck",
-  "author": "E. Nesbit",
-  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
+  "date": "2026-10-02",
+  "title": "Thuvia, Maid of Mars",
+  "author": "Edgar Rice Burroughs",
+  "summary": "When the beautiful Princess Thuvia of Ptarth is kidnapped, suspicion falls on John Carter’s son Carthoris, who sets out to rescue the woman he loves.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars",
   "subjects": [
-    "childrens",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-01",
-  "title": "The Cords of Vanity",
-  "author": "James Branch Cabell",
-  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "date": "2026-10-02",
+  "title": "The Secret City",
+  "author": "Hugh Walpole",
+  "summary": "A Russian family and their English friends become tangled in threads of intrigue as the Revolution erupts around them.",
+  "coverUrl": "https://standardebooks.org/ebooks/hugh-walpole/the-secret-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hugh-walpole/the-secret-city",
   "subjects": [
-    "comedy",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-10-01",
-  "title": "The Turn of the Screw",
-  "author": "Henry James",
-  "summary": "A governess moves in to a haunted manor.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
+  "date": "2026-10-02",
+  "title": "The Portent",
+  "author": "George MacDonald",
+  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
   "subjects": [
-    "fiction",
-    "horror"
+    "fantasy",
+    "horror",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-01",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "date": "2026-10-02",
+  "title": "The Life of Buffalo Bill",
+  "author": "William F. Cody",
+  "summary": "The 1879 autobiography of William F. Cody, more commonly known as Buffalo Bill, detailing his early life in the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
   "subjects": [
     "memoir",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-01",
-  "title": "The Secret Adversary",
-  "author": "Agatha Christie",
-  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
+  "date": "2026-10-02",
+  "title": "The Man in the Queue",
+  "author": "Josephine Tey",
+  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
+  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
   "subjects": [
     "fiction",
     "mystery"
@@ -173,26 +168,25 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-01",
-  "title": "Personal Memoirs of Ulysses S. Grant",
-  "author": "Ulysses S. Grant",
-  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
-  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
+  "date": "2026-10-02",
+  "title": "History of the Peloponnesian War",
+  "author": "Thucydides",
+  "summary": "A contemporary history of the ancient Greek war between Athens and Sparta and their allies.",
+  "coverUrl": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley",
   "subjects": [
-    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-01",
-  "title": "The Wealth of Nations",
-  "author": "Adam Smith",
-  "summary": "Adam Smith lays the foundation of classical economics.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+  "date": "2026-10-02",
+  "title": "Moribund Society and Anarchy",
+  "author": "Jean Grave",
+  "summary": "Jean Grave systemically critiques bourgeois society from an anarchist perspective.",
+  "coverUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre",
   "subjects": [
     "philosophy"
   ]
@@ -200,22 +194,20 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-01",
-  "title": "Nonsense Books",
-  "author": "Edward Lear",
-  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
+  "date": "2026-10-02",
+  "title": "The Faerie Queene",
+  "author": "Edmund Spenser",
+  "summary": "Six knights embodying Christian virtues embark on allegorical quests.",
+  "coverUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene",
   "subjects": [
-    "comedy",
-    "poetry",
-    "shorts"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "title": "Krakatit",
   "author": "Karel Čapek",
   "summary": "An engineer invents a terrible new explosive that becomes of interest to the authorities.",
@@ -229,41 +221,39 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-01",
-  "title": "Journey to the Center of the Earth",
-  "author": "Jules Verne",
-  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
+  "date": "2026-10-02",
+  "title": "Short Fiction",
+  "author": "Frederik Pohl",
+  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
   "subjects": [
-    "adventure",
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-01",
-  "title": "Darby O’Gill and the Good People",
-  "author": "Herminie Templeton Kavanagh",
-  "summary": "When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.",
-  "coverUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people",
+  "date": "2026-10-02",
+  "title": "While the Billy Boils",
+  "author": "Henry Lawson",
+  "summary": "A short story collection based on Australian colonial life in 1890s.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
   "subjects": [
-    "childrens",
-    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-01",
-  "title": "The Pilgrim’s Progress",
-  "author": "John Bunyan",
-  "summary": "An allegorical story of a pilgrim in search of redemption, followed later by his wife and children, passing through great trials before reaching the Celestial City.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress",
+  "date": "2026-10-02",
+  "title": "Siddhartha",
+  "author": "Hermann Hesse",
+  "summary": "A man embarks on a spiritual journey through India.",
+  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/siddhartha/various-translators",
   "subjects": [
     "fiction",
     "spirituality"
@@ -272,14 +262,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-10-01",
-  "title": "Roughing It",
+  "date": "2026-10-02",
+  "title": "The Innocents Abroad",
   "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
+  "summary": "Mark Twain travels abroad, offering witty observations on the places and cultures he encounters and commentary on the habits and foibles of his fellow travelers.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
   "subjects": [
-    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
