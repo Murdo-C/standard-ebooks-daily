@@ -1,40 +1,40 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-06",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-10-07",
+  "title": "All Quiet on the Western Front",
+  "author": "Erich Maria Remarque",
+  "summary": "A young German soldier struggles to survive on the Western Front of World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/erich-maria-remarque/all-quiet-on-the-western-front/a-w-wheen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/erich-maria-remarque/all-quiet-on-the-western-front/a-w-wheen",
   "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-10-06",
-  "title": "The Sea-Wolf",
-  "author": "Jack London",
-  "summary": "Literary critic Humphrey Van Weyden is pressed into service aboard a seal-hunting schooner by its cruel, ruthless, but intelligent captain.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-sea-wolf",
-  "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "adventure",
+  "date": "2026-10-07",
+  "title": "The Son of the Wolf",
+  "author": "Jack London",
+  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
+  "subjects": [
+    "adventure",
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
   "genre": "autobiography",
-  "date": "2026-10-06",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2026-10-07",
+  "title": "You Can’t Win",
+  "author": "Jack Black",
+  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
   "subjects": [
     "autobiography"
   ]
@@ -42,81 +42,83 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-10-06",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2026-10-07",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-06",
-  "title": "Children’s Stories",
-  "author": "Oscar Wilde",
-  "summary": "A collection of Oscar Wilde’s children’s stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories",
+  "date": "2026-10-07",
+  "title": "Our Baseball Club and How It Won the Championship",
+  "author": "Noah Brooks",
+  "summary": "A late-19th century Illinois baseball team journeys to compete for the championship.",
+  "coverUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship",
   "subjects": [
     "childrens",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-06",
-  "title": "The Crock of Gold",
-  "author": "James Stephens",
-  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+  "date": "2026-10-07",
+  "title": "The Line of Love",
+  "author": "James Branch Cabell",
+  "summary": "A generational saga plays out in a series of short stories about love and marriage in medieval Europe.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love",
   "subjects": [
     "comedy",
-    "fantasy",
-    "philosophy"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-10-06",
-  "title": "The Vortex",
+  "date": "2026-10-07",
+  "title": "Hay Fever",
   "author": "Noël Coward",
-  "summary": "A son’s home-coming, along with his new fiancée, leads to trouble with his vain mother.",
-  "coverUrl": "https://standardebooks.org/ebooks/noel-coward/the-vortex/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noel-coward/the-vortex",
+  "summary": "A well-to-do family cannot be civil to each other in front of their weekend guests.",
+  "coverUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-06",
-  "title": "The Gods of Mars",
+  "date": "2026-10-07",
+  "title": "Beyond Thirty",
   "author": "Edgar Rice Burroughs",
-  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
+  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
   "subjects": [
-    "fantasy"
+    "adventure",
+    "fantasy",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-06",
-  "title": "Mr. Standfast",
-  "author": "John Buchan",
-  "summary": "An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast",
+  "date": "2026-10-07",
+  "title": "Five Weeks in a Balloon",
+  "author": "Jules Verne",
+  "summary": "Three men attempt to cross Africa by balloon.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland",
   "subjects": [
     "adventure",
     "fiction"
@@ -125,12 +127,12 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-10-06",
-  "title": "Wieland",
-  "author": "Charles Brockden Brown",
-  "summary": "Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland",
+  "date": "2026-10-07",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "summary": "An ancient undead monster terrorizes Victorian London.",
+  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
   "subjects": [
     "fiction",
     "horror"
@@ -139,7 +141,36 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-06",
+  "date": "2026-10-07",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "subjects": [
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-10-07",
+  "title": "Mystery at Lynden Sands",
+  "author": "J. J. Connington",
+  "summary": "A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-10-07",
   "title": "Twelve Years a Slave",
   "author": "Solomon Northup",
   "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
@@ -152,64 +183,35 @@
 }
 ,
 {
-  "genre": "mystery",
-  "date": "2026-10-06",
-  "title": "Murder in the Maze",
-  "author": "J. J. Connington",
-  "summary": "Twin brothers are found murdered in a maze, and the local Chief Constable must solve the crime.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-10-06",
-  "title": "The Diary",
-  "author": "Samuel Pepys",
-  "summary": "The diary of a man living in London in the 17th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
   "genre": "philosophy",
-  "date": "2026-10-06",
-  "title": "Mutual Aid",
-  "author": "Peter Kropotkin",
-  "summary": "Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.",
-  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid",
+  "date": "2026-10-07",
+  "title": "Reflections on the Revolution in France",
+  "author": "Edmund Burke",
+  "summary": "The conservative political theorist Edmund Burke critiques the political program of the French Revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-06",
-  "title": "The Divine Comedy",
-  "author": "Dante Alighieri",
-  "summary": "Dante journeys through Hell, Purgatory, and Heaven in order to receive salvation and to find divine love.",
-  "coverUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+  "date": "2026-10-07",
+  "title": "Poetry",
+  "author": "C. S. Lewis",
+  "summary": "A collection of C. S. Lewis’ poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "title": "The Walls of Jericho",
   "author": "Rudolph Fisher",
   "summary": "A black lawyer attempts to move into an exclusively white neighborhood.",
@@ -223,12 +225,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "title": "Short Fiction",
-  "author": "Frederik Pohl",
-  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+  "author": "Poul Anderson",
+  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -237,12 +239,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-06",
-  "title": "Call Mr. Fortune",
-  "author": "H. C. Bailey",
-  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
+  "date": "2026-10-07",
+  "title": "The Incredulity of Father Brown",
+  "author": "G. K. Chesterton",
+  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
   "subjects": [
     "fiction",
     "mystery",
@@ -252,28 +254,31 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-06",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-10-07",
+  "title": "Mary Olivier: A Life",
+  "author": "May Sinclair",
+  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
+  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
   "subjects": [
-    "drama",
-    "poetry",
+    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-10-06",
-  "title": "Two Years Before the Mast",
-  "author": "Richard Henry Dana Jr.",
-  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
+  "date": "2026-10-07",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
+    "comedy",
+    "fiction",
+    "spirituality",
     "travel"
   ]
 }
