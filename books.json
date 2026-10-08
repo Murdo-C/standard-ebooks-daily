@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-07",
-  "title": "All Quiet on the Western Front",
-  "author": "Erich Maria Remarque",
-  "summary": "A young German soldier struggles to survive on the Western Front of World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/erich-maria-remarque/all-quiet-on-the-western-front/a-w-wheen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/erich-maria-remarque/all-quiet-on-the-western-front/a-w-wheen",
+  "date": "2026-10-08",
+  "title": "The Worm Ouroboros",
+  "author": "E. R. Eddison",
+  "summary": "The King Gorice of Witchland and the lords of Demonland wage war in the high-fantasy lands of Mercury.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-r-eddison/the-worm-ouroboros",
   "subjects": [
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-07",
-  "title": "The Son of the Wolf",
+  "date": "2026-10-08",
+  "title": "When God Laughs",
   "author": "Jack London",
-  "summary": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf",
+  "summary": "The eleventh collection of short stories by Jack London.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/when-god-laughs",
   "subjects": [
     "adventure",
     "fiction",
@@ -29,39 +29,42 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-07",
-  "title": "You Can’t Win",
-  "author": "Jack Black",
-  "summary": "Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-black/you-cant-win",
+  "date": "2026-10-08",
+  "title": "Our Nig",
+  "author": "Harriet E. Wilson",
+  "summary": "An autobiographical account of a young biracial girl abandoned by her parents and forced into servitude in the northern United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harriet-e-wilson/our-nig",
   "subjects": [
-    "autobiography"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-10-07",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
-  "subjects": [
-    "biography",
+    "autobiography",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "biography",
+  "date": "2026-10-08",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2026-10-07",
-  "title": "Our Baseball Club and How It Won the Championship",
-  "author": "Noah Brooks",
-  "summary": "A late-19th century Illinois baseball team journeys to compete for the championship.",
-  "coverUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship",
+  "date": "2026-10-08",
+  "title": "The Blue Bird",
+  "author": "Maurice Maeterlinck",
+  "summary": "Two children go on a magical adventure in search of the Blue Bird.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,12 +73,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-07",
-  "title": "The Line of Love",
+  "date": "2026-10-08",
+  "title": "Figures of Earth",
   "author": "James Branch Cabell",
-  "summary": "A generational saga plays out in a series of short stories about love and marriage in medieval Europe.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love",
+  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
   "subjects": [
     "comedy",
     "fantasy"
@@ -84,12 +87,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-10-07",
-  "title": "Hay Fever",
-  "author": "Noël Coward",
-  "summary": "A well-to-do family cannot be civil to each other in front of their weekend guests.",
-  "coverUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever",
+  "date": "2026-10-08",
+  "title": "The Inspector General",
+  "author": "Nikolai Gogol",
+  "summary": "Corrupt officials in a small Russian town are thrown into disarray by the arrival of an Inspector General from the central government.",
+  "coverUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/nikolai-gogol/the-inspector-general/thomas-seltzer",
   "subjects": [
     "comedy",
     "drama"
@@ -98,27 +101,25 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-07",
-  "title": "Beyond Thirty",
+  "date": "2026-10-08",
+  "title": "A Princess of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty",
+  "summary": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars",
   "subjects": [
-    "adventure",
-    "fantasy",
-    "science_fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-07",
-  "title": "Five Weeks in a Balloon",
-  "author": "Jules Verne",
-  "summary": "Three men attempt to cross Africa by balloon.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland",
+  "date": "2026-10-08",
+  "title": "Mr. Standfast",
+  "author": "John Buchan",
+  "summary": "An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast",
   "subjects": [
     "adventure",
     "fiction"
@@ -127,26 +128,27 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-10-07",
-  "title": "Dracula",
-  "author": "Bram Stoker",
-  "summary": "An ancient undead monster terrorizes Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula",
+  "date": "2026-10-08",
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "summary": "A collection of short fiction by Henry Kuttner, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
   "subjects": [
-    "fiction",
-    "horror"
+    "horror",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-07",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-10-08",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
@@ -156,81 +158,81 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-07",
-  "title": "Mystery at Lynden Sands",
-  "author": "J. J. Connington",
-  "summary": "A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands",
+  "date": "2026-10-08",
+  "title": "The Big Bow Mystery",
+  "author": "Israel Zangwill",
+  "summary": "A seemingly impossible murder committed during the trade union movement becomes the obsession of London’s Bow district.",
+  "coverUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/israel-zangwill/the-big-bow-mystery",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-07",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2026-10-08",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "summary": "The diary of a man living in London in the 17th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-pepys/the-diary",
   "subjects": [
-    "memoir",
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-07",
-  "title": "Reflections on the Revolution in France",
-  "author": "Edmund Burke",
-  "summary": "The conservative political theorist Edmund Burke critiques the political program of the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france",
+  "date": "2026-10-08",
+  "title": "Essays",
+  "author": "Thomas Paine",
+  "summary": "A collection of Thomas Paine’s essays on republicanism, the problems of monarchy, and human rights.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/essays",
   "subjects": [
-    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-07",
-  "title": "Poetry",
-  "author": "C. S. Lewis",
-  "summary": "A collection of C. S. Lewis’ poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry",
+  "date": "2026-10-08",
+  "title": "The Consolation of Philosophy",
+  "author": "Boethius",
+  "summary": "A Roman statesman awaiting execution is visited by the personification of philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james",
   "subjects": [
+    "philosophy",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-10-07",
-  "title": "The Walls of Jericho",
-  "author": "Rudolph Fisher",
-  "summary": "A black lawyer attempts to move into an exclusively white neighborhood.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho",
+  "date": "2026-10-08",
+  "title": "The Surprising Adventures of Baron Munchausen",
+  "author": "Rudolph Erich Raspe",
+  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
+  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
   "subjects": [
-    "fiction",
+    "comedy",
+    "fantasy",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "title": "Short Fiction",
-  "author": "Poul Anderson",
-  "summary": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/poul-anderson/short-fiction",
+  "author": "Fritz Leiber",
+  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
   "subjects": [
     "science_fiction",
     "shorts"
@@ -239,29 +241,31 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-07",
-  "title": "The Incredulity of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
+  "date": "2026-10-08",
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "fiction",
-    "mystery",
-    "shorts"
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-07",
-  "title": "Mary Olivier: A Life",
-  "author": "May Sinclair",
-  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
-  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
+  "date": "2026-10-08",
+  "title": "The Protestant Ethic and the Spirit of Capitalism",
+  "author": "Max Weber",
+  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -269,16 +273,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-10-07",
-  "title": "The Four Men",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
+  "date": "2026-10-08",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
-    "comedy",
-    "fiction",
-    "spirituality",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
