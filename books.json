@@ -1,25 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-09",
-  "title": "Short Works",
-  "author": "Epictetus",
-  "summary": "A collection of Epictetus’s short works.",
-  "coverUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/epictetus/short-works/george-long",
+  "date": "2026-10-10",
+  "title": "Legends of Vancouver",
+  "author": "E. Pauline Johnson",
+  "summary": "E. Pauline Johnson’s collection of legends and myths of the Squamish people.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver",
   "subjects": [
-    "philosophy"
+    "nonfiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-09",
-  "title": "The Call of the Wild",
-  "author": "Jack London",
-  "summary": "The story of a domesticated dog’s return to a primitive state in the late 19th-century Yukon.",
-  "coverUrl": "https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild",
+  "date": "2026-10-10",
+  "title": "When the World Shook",
+  "author": "H. Rider Haggard",
+  "summary": "A writer of adventure stories indulges in a sudden urge to travel to the islands of the Pacific, and soon finds himself shipwrecked on a remote South Sea island.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/when-the-world-shook/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/when-the-world-shook",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,54 +29,54 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-09",
-  "title": "Geronimo’s Story of His Life",
-  "author": "Geronimo",
-  "summary": "The Apache war chief Geronimo recounts the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
+  "date": "2026-10-10",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-10-09",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-10-10",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-09",
-  "title": "The Windfairies",
-  "author": "Mary De Morgan",
-  "summary": "The third collection of fairy tales by Mary De Morgan.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/the-windfairies",
+  "date": "2026-10-10",
+  "title": "Emily of New Moon",
+  "author": "L. M. Montgomery",
+  "summary": "A budding poetess and orphan goes to live with her estranged aunts.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon",
   "subjects": [
     "childrens",
-    "fantasy",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-09",
-  "title": "The Cords of Vanity",
-  "author": "James Branch Cabell",
-  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "date": "2026-10-10",
+  "title": "Manalive",
+  "author": "G. K. Chesterton",
+  "summary": "An eccentric man brings chaos and happiness to a house of litigious lodgers.",
+  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/manalive",
   "subjects": [
     "comedy",
     "fiction"
@@ -84,68 +85,66 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-10-09",
-  "title": "Tartuffe",
-  "author": "Molière",
-  "summary": "A father announces his daughter will marry Tartuffe, a sanctimonious fraud and hypocrite.",
-  "coverUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/moliere/tartuffe/curtis-hidden-page",
+  "date": "2026-10-10",
+  "title": "Hamilton",
+  "author": "Mary P. Hamlin",
+  "summary": "Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-09",
-  "title": "Lady Into Fox",
-  "author": "David Garnett",
-  "summary": "A newly married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox",
+  "date": "2026-10-10",
+  "title": "Russian Folktales",
+  "author": "A. N. Afanasyev",
+  "summary": "A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-09",
-  "title": "Mr. Standfast",
-  "author": "John Buchan",
-  "summary": "An army general chases a network of German spies through Scotland, the Swiss Alps, and the First World War’s Western Front.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/mr-standfast",
+  "date": "2026-10-10",
+  "title": "Against the Grain",
+  "author": "J.-K. Huysmans",
+  "summary": "Ailing, neurotic, and bored with the world, a French nobleman retreats to a secluded cottage in the countryside to create an artificial paradise for himself.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "author": "H. P. Lovecraft",
+  "summary": "The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-09",
-  "title": "The Bolshevik Myth",
-  "author": "Alexander Berkman",
-  "summary": "A left-wing radical records his experiences in revolutionary Russia.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth",
+  "date": "2026-10-10",
+  "title": "The Storm of Steel",
+  "author": "Ernst Jünger",
+  "summary": "A German storm troop officer recounts his experiences in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -154,42 +153,40 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-09",
-  "title": "Call Mr. Fortune",
-  "author": "H. C. Bailey",
-  "summary": "A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
+  "date": "2026-10-10",
+  "title": "Murder in the Gunroom",
+  "author": "H. Beam Piper",
+  "summary": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom",
   "subjects": [
     "fiction",
-    "mystery",
-    "shorts"
+    "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-09",
-  "title": "Travel Essays",
-  "author": "Robert Louis Stevenson",
-  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "date": "2026-10-10",
+  "title": "A Yankee in the Trenches",
+  "author": "Robert Derby Holmes",
+  "summary": "An American describes his experiences in the British Army in the First World War.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches",
   "subjects": [
-    "memoir",
-    "nonfiction",
-    "travel"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-09",
-  "title": "The Rights of Man",
-  "author": "Thomas Paine",
-  "summary": "A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
+  "date": "2026-10-10",
+  "title": "Dialogues",
+  "author": "Plato",
+  "summary": "A collection of Plato’s dialogues.",
+  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
   "subjects": [
     "philosophy"
   ]
@@ -197,69 +194,73 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-09",
-  "title": "The Argonautica",
-  "author": "Apollonius of Rhodes",
-  "summary": "A Greek hero voyages to a distant land to steal the fabled Golden Fleece.",
-  "coverUrl": "https://standardebooks.org/ebooks/apollonius-of-rhodes/the-argonautica/arthur-s-way/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apollonius-of-rhodes/the-argonautica/arthur-s-way",
+  "date": "2026-10-10",
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "summary": "The epic poem that follows the legendary hero Siegfried on his adventures, his death, and his wife’s revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
   "subjects": [
+    "adventure",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-10-09",
-  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
-  "author": "Robert Williams Wood",
-  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
+  "date": "2026-10-10",
+  "title": "Jack Keefe Stories",
+  "author": "Ring Lardner",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
   "subjects": [
-    "poetry",
-    "satire"
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts",
+    "travel"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-09",
-  "title": "Omega",
-  "author": "Camille Flammarion",
-  "summary": "A comet threatens to collide with the Earth, perhaps bringing about the end of the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/camille-flammarion/omega/j-b-walker",
+  "date": "2026-10-10",
+  "title": "Short Fiction",
+  "author": "Clark Ashton Smith",
+  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
   "subjects": [
-    "science_fiction"
+    "fantasy",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-09",
-  "title": "Short Fiction",
-  "author": "Fyodor Sologub",
-  "summary": "A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators",
+  "date": "2026-10-10",
+  "title": "Zuni Folktales",
+  "author": "Frank Hamilton Cushing",
+  "summary": "A collection of folktales from the Zuni culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
   "subjects": [
-    "fiction",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-09",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-10-10",
+  "title": "The Kingdom of God Is Within You",
+  "author": "Leo Tolstoy",
+  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
   "subjects": [
-    "autobiography",
-    "memoir",
     "nonfiction",
     "philosophy",
     "spirituality"
@@ -268,16 +269,17 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-10-09",
-  "title": "My Four Weeks in France",
+  "date": "2026-10-10",
+  "title": "Jack Keefe Stories",
   "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
   "subjects": [
     "comedy",
-    "memoir",
-    "nonfiction",
+    "fiction",
+    "satire",
+    "shorts",
     "travel"
   ]
 }
