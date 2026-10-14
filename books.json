@@ -1,67 +1,68 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-13",
-  "title": "English as She Is Spoke",
-  "author": "Pedro Carolino",
-  "summary": "A phrasebook of unintentionally hilarious English.",
-  "coverUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke",
+  "date": "2026-10-14",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "comedy"
+    "poetry",
+    "satire"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-13",
-  "title": "Cleopatra",
+  "date": "2026-10-14",
+  "title": "Allan Quatermain Stories",
   "author": "H. Rider Haggard",
-  "summary": "An Egyptian patriot relates the tale of the fall of Cleopatra.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/cleopatra/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/cleopatra",
+  "summary": "A collection of short stories about a legendary hunter.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
   "subjects": [
     "adventure",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-13",
-  "title": "“We”",
-  "author": "Charles A. Lindbergh",
-  "summary": "Legendary aviator Charles Lindbergh gives an account of his early life, how he got into flying, and his famous transatlantic flight.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-a-lindbergh/we/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-a-lindbergh/we",
+  "date": "2026-10-14",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-10-13",
-  "title": "Eminent Victorians",
-  "author": "Lytton Strachey",
-  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "date": "2026-10-14",
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
+  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
   "subjects": [
     "biography",
-    "nonfiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-13",
-  "title": "Five Children and It",
+  "date": "2026-10-14",
+  "title": "Harding’s Luck",
   "author": "E. Nesbit",
-  "summary": "Five children encounter an ancient magical creature who grants them wishes—all of which go comically wrong.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/five-children-and-it",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
   "subjects": [
     "childrens",
     "fantasy"
@@ -70,12 +71,12 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-13",
-  "title": "The Apple Cart",
+  "date": "2026-10-14",
+  "title": "Misalliance",
   "author": "George Bernard Shaw",
-  "summary": "An English king challenges his popular prime minister and cabinet.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart",
+  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
   "subjects": [
     "comedy",
     "drama"
@@ -84,12 +85,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-10-13",
-  "title": "The Unicorn from the Stars",
-  "author": "Lady Gregory",
-  "summary": "A young man’s visions disrupt the peace of his community.",
-  "coverUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars",
+  "date": "2026-10-14",
+  "title": "The Duchess of Malfi",
+  "author": "John Webster",
+  "summary": "A widow marries beneath her station and against her brothers’ orders and, enraged, they take their revenge.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-webster/the-duchess-of-malfi",
   "subjects": [
     "drama"
   ]
@@ -97,40 +98,38 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-13",
-  "title": "The Sketchbook of Geoffrey Crayon, Gent.",
-  "author": "Washington Irving",
-  "summary": "A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”",
-  "coverUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent",
+  "date": "2026-10-14",
+  "title": "The Well at the World’s End",
+  "author": "William Morris",
+  "summary": "A king’s son embarks on an adventure to find a legendary well that grants long life.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-13",
-  "title": "The Swiss Family Robinson",
-  "author": "Johann David Wyss",
-  "summary": "A Swiss family is shipwrecked on a remote island in the East Indies.",
-  "coverUrl": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin",
+  "date": "2026-10-14",
+  "title": "Bleak House",
+  "author": "Charles Dickens",
+  "summary": "A young woman of uncertain parentage is taken in by a kindly guardian, while her fate and that of two other young people hinge on the outcome of an interminable legal case.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-dickens/bleak-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-dickens/bleak-house",
   "subjects": [
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-10-13",
-  "title": "The Lost Stradivarius",
-  "author": "John Meade Falkner",
-  "summary": "A talented young musician comes into possession of an old manuscript and a beautiful violin, and is consumed by the history they carry.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-meade-falkner/the-lost-stradivarius/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-meade-falkner/the-lost-stradivarius",
+  "date": "2026-10-14",
+  "title": "The Wolf-Leader",
+  "author": "Alexandre Dumas",
+  "summary": "A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson",
   "subjects": [
     "fiction",
     "horror"
@@ -139,40 +138,40 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-13",
-  "title": "The Hashish Eater",
-  "author": "Fitz Hugh Ludlow",
-  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
-  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
+  "date": "2026-10-14",
+  "title": "My Life in China and America",
+  "author": "Yung Wing",
+  "summary": "A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.",
+  "coverUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america",
   "subjects": [
-    "memoir"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-13",
-  "title": "The Portent",
-  "author": "George MacDonald",
-  "summary": "A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/the-portent",
+  "date": "2026-10-14",
+  "title": "The Lazy Detective",
+  "author": "George Dilnot",
+  "summary": "An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective",
   "subjects": [
-    "fantasy",
-    "horror",
+    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-13",
-  "title": "Now It Can Be Told",
-  "author": "Philip Gibbs",
-  "summary": "A British war correspondent recalls his experiences during the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "date": "2026-10-14",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -181,12 +180,12 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-13",
-  "title": "What Is Art?",
-  "author": "Leo Tolstoy",
-  "summary": "Leo Tolstoy outlines his philosophy of aesthetics.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/what-is-art/aylmer-maude",
+  "date": "2026-10-14",
+  "title": "On Liberty",
+  "author": "John Stuart Mill",
+  "summary": "Mill’s famous essay that applies a utilitarian ethical system to systems of government.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/on-liberty",
   "subjects": [
     "philosophy"
   ]
@@ -194,12 +193,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-13",
-  "title": "Beowulf",
-  "author": "Anonymous",
-  "summary": "A hero is hired to kill a monster that has been plaguing the land.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/beowulf/john-lesslie-hall/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/beowulf/john-lesslie-hall",
+  "date": "2026-10-14",
+  "title": "Poetry",
+  "author": "Ambrose Bierce",
+  "summary": "A collection of Ambrose Bierce’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
   "subjects": [
     "poetry"
   ]
@@ -207,12 +206,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-10-13",
-  "title": "The Little Nugget",
+  "date": "2026-10-14",
+  "title": "The Coming of Bill",
   "author": "P. G. Wodehouse",
-  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
     "satire"
   ]
@@ -220,25 +219,31 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-13",
-  "title": "The Absolute at Large",
-  "author": "Karel Čapek",
-  "summary": "An inventor builds an atomic engine which converts matter into energy, but has the unfortunate side-effect of liberating divinity into the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova",
+  "date": "2026-10-14",
+  "title": "Short Fiction",
+  "author": "Edgar Allan Poe",
+  "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction",
   "subjects": [
-    "science_fiction"
+    "adventure",
+    "comedy",
+    "horror",
+    "mystery",
+    "satire",
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "title": "Short Fiction",
-  "author": "Thomas Mann",
-  "summary": "A collection of Thomas Mann’s short stories, ordered by date of their original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators",
+  "author": "Anton Chekhov",
+  "summary": "A collection of Chekhov’s short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett",
   "subjects": [
     "fiction",
     "shorts"
@@ -247,29 +252,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-13",
-  "title": "Jesus the Son of Man",
-  "author": "Kahlil Gibran",
-  "summary": "The life of Jesus of Nazareth is examined through the lens of the people around him.",
-  "coverUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man",
+  "date": "2026-10-14",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "fiction",
-    "shorts",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-10-13",
-  "title": "With the Empress Dowager of China",
-  "author": "Katharine A. Carl",
-  "summary": "A female painter becomes the court artist of the Empress Dowager of China.",
-  "coverUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china",
+  "date": "2026-10-14",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "nonfiction",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
