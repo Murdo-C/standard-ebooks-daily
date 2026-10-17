@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-16",
-  "title": "The Hoosier Schoolmaster",
-  "author": "Edward Eggleston",
-  "summary": "A young man takes on a difficult teaching assignment in rural Indiana.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-eggleston/the-hoosier-schoolmaster/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-eggleston/the-hoosier-schoolmaster",
+  "date": "2026-10-17",
+  "title": "Castle Rackrent",
+  "author": "Maria Edgeworth",
+  "summary": "Four generations of an aristocratic Anglo-Irish family settle on their family estate in eighteenth-century Ireland.",
+  "coverUrl": "https://standardebooks.org/ebooks/maria-edgeworth/castle-rackrent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maria-edgeworth/castle-rackrent",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-16",
-  "title": "Typee",
-  "author": "Herman Melville",
-  "summary": "Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.",
-  "coverUrl": "https://standardebooks.org/ebooks/herman-melville/typee/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/herman-melville/typee",
+  "date": "2026-10-17",
+  "title": "The Prisoner of Zenda",
+  "author": "Anthony Hope",
+  "summary": "King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-hope/the-prisoner-of-zenda",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-16",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "date": "2026-10-17",
+  "title": "A Daughter of the Samurai",
+  "author": "Etsu Inagaki Sugimoto",
+  "summary": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
+  "coverUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai",
   "subjects": [
     "autobiography",
     "nonfiction"
@@ -42,26 +42,26 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-10-16",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-10-17",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-16",
-  "title": "Driven Back to Eden",
-  "author": "Edward Payson Roe",
-  "summary": "A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden",
+  "date": "2026-10-17",
+  "title": "Understood Betsy",
+  "author": "Dorothy Canfield Fisher",
+  "summary": "A young girl discovers independence, responsibility, and newfound confidence after being sent to live in a farmhouse with her extended family.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-canfield-fisher/understood-betsy",
   "subjects": [
     "childrens",
     "fiction"
@@ -70,27 +70,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-16",
-  "title": "Back to Methuselah",
+  "date": "2026-10-17",
+  "title": "Arms and the Man",
   "author": "George Bernard Shaw",
-  "summary": "Five linked plays explore human longevity and governance.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah",
+  "summary": "A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man",
   "subjects": [
     "comedy",
-    "drama",
-    "science_fiction"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-10-16",
-  "title": "Short Plays",
-  "author": "J. M. Synge",
-  "summary": "A collection of three short plays by J. M. Synge.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
+  "date": "2026-10-17",
+  "title": "Exiles",
+  "author": "James Joyce",
+  "summary": "An unmarried couple in early twentieth-century Dublin struggle with the consequences of their respective infidelities.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-joyce/exiles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-joyce/exiles",
   "subjects": [
     "drama"
   ]
@@ -98,12 +97,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-16",
-  "title": "The Gods of Pegāna",
+  "date": "2026-10-17",
+  "title": "The King of Elfland’s Daughter",
   "author": "Lord Dunsany",
-  "summary": "A mysterious god creates a cosmic pantheon to rule over its worlds and time.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana",
+  "summary": "The people of Erl want magic, and get their wish.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter",
   "subjects": [
     "fantasy"
   ]
@@ -111,55 +110,53 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-16",
-  "title": "The Story of Doctor Dolittle",
-  "author": "Hugh Lofting",
-  "summary": "A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.",
-  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle",
+  "date": "2026-10-17",
+  "title": "The Financier",
+  "author": "Theodore Dreiser",
+  "summary": "A young man makes and loses a fortune in Civil War era America.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-dreiser/the-financier/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-dreiser/the-financier",
   "subjects": [
-    "adventure",
-    "childrens",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-10-16",
-  "title": "The Beetle",
-  "author": "Richard Marsh",
-  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
+  "date": "2026-10-17",
+  "title": "Short Fiction",
+  "author": "M. R. James",
+  "summary": "A collection of ghost stories written by M. R. James.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
   "subjects": [
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-16",
-  "title": "The Education of Henry Adams",
-  "author": "Henry Adams",
-  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
+  "date": "2026-10-17",
+  "title": "Roughing It",
+  "author": "Mark Twain",
+  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
   "subjects": [
-    "autobiography",
     "memoir",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-16",
-  "title": "The Sea Mystery",
+  "date": "2026-10-17",
+  "title": "The Starvel Hollow Tragedy",
   "author": "Freeman Wills Crofts",
-  "summary": "The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery",
+  "summary": "A fire that leaves three dead has enough hints of murder to draw our detective up to Yorkshire.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-starvel-hollow-tragedy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-starvel-hollow-tragedy",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,27 +165,27 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-16",
-  "title": "The Protestant Ethic and the Spirit of Capitalism",
-  "author": "Max Weber",
-  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
+  "date": "2026-10-17",
+  "title": "A Negro Explorer at the North Pole",
+  "author": "Matthew Henson",
+  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
   "subjects": [
+    "memoir",
     "nonfiction",
-    "philosophy",
-    "spirituality"
+    "travel"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-16",
-  "title": "A General View of Positivism",
-  "author": "Auguste Comte",
-  "summary": "A brief overview of the goals and methods of the Positivist philosophical movement.",
-  "coverUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges",
+  "date": "2026-10-17",
+  "title": "Beyond Good and Evil",
+  "author": "Friedrich Nietzsche",
+  "summary": "Nietzsche’s philosophical treatise on the ambiguity of traditional morality.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern",
   "subjects": [
     "philosophy"
   ]
@@ -196,87 +193,87 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-16",
-  "title": "Eugene Onegin",
-  "author": "Alexander Pushkin",
-  "summary": "A jaded Russian fop’s disdain for the world catches up with him.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding",
+  "date": "2026-10-17",
+  "title": "Orlando Furioso",
+  "author": "Ludovico Ariosto",
+  "summary": "A beautiful woman lures a knight away from his duty to protect Europe from invaders.",
+  "coverUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ludovico-ariosto/orlando-furioso/william-stewart-rose",
   "subjects": [
-    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-10-16",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "date": "2026-10-17",
+  "title": "Zuleika Dobson",
+  "author": "Max Beerbohm",
+  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
   "subjects": [
-    "comedy",
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-16",
-  "title": "Short Fiction",
-  "author": "Mack Reynolds",
-  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
+  "date": "2026-10-17",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "summary": "A tragic scientist creates a monster in his laboratory.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
   "subjects": [
+    "horror",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-10-17",
+  "title": "Short Fiction",
+  "author": "Clark Ashton Smith",
+  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
+  "subjects": [
+    "fantasy",
     "science_fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2026-10-16",
-  "title": "Short Fiction",
-  "author": "Anton Chekhov",
-  "summary": "A collection of Chekhov’s short stories and novellas ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2026-10-16",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "date": "2026-10-17",
+  "title": "The Four Men",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a pilgrimage across his beloved home English county of Sussex writing as four distinct personalities, with a wide variety of songs, stories, and digressions.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-four-men",
   "subjects": [
+    "comedy",
     "fiction",
-    "poetry",
-    "spirituality"
+    "spirituality",
+    "travel"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-10-16",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-10-17",
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "summary": "The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.",
+  "coverUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "comedy",
+    "fiction",
     "travel"
   ]
 }
