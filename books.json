@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "title": "The Autobiography of Mark Rutherford",
   "author": "Mark Rutherford",
   "summary": "A young dissenting minister searches for love and meaning amidst loneliness and doubt.",
@@ -14,39 +14,40 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-19",
-  "title": "The Defiant Agents",
-  "author": "Andre Norton",
-  "summary": "Rival colonies are stranded on an alien world, their memories mixed with those of their ancestors and pitted against each other by the Western and Soviet forces who sent them.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/the-defiant-agents",
+  "date": "2026-10-20",
+  "title": "Twenty Years After",
+  "author": "Alexandre Dumas",
+  "summary": "Four musketeers are drawn back together by current events after many years apart, try to save Charles I from Cromwell, and are pursued by the now-grown son of a former female adversary.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-19",
-  "title": "An Autobiography",
-  "author": "Theodore Roosevelt",
-  "summary": "The autobiography of American President Theodore Roosevelt.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography",
+  "date": "2026-10-20",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "summary": "A Russian revolutionary tells of his life from early childhood, his adventures as a geographer, and how he turned into an anarcho-communist.",
+  "coverUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/peter-kropotkin/memoirs-of-a-revolutionist",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-10-19",
-  "title": "Queen Victoria",
+  "date": "2026-10-20",
+  "title": "Eminent Victorians",
   "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -55,12 +56,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-19",
-  "title": "The Hidden Staircase",
+  "date": "2026-10-20",
+  "title": "The Bungalow Mystery",
   "author": "Carolyn Keene",
-  "summary": "A young amateur detective investigates a supposed haunting.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
+  "summary": "A young amateur detective investigates a new friend’s abusive guardian.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
   "subjects": [
     "childrens",
     "mystery"
@@ -69,27 +70,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-19",
-  "title": "Nonsense Books",
-  "author": "Edward Lear",
-  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
+  "date": "2026-10-20",
+  "title": "The Seagull",
+  "author": "Anton Chekhov",
+  "summary": "A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.",
+  "coverUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett",
   "subjects": [
     "comedy",
-    "poetry",
-    "shorts"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-10-19",
-  "title": "A Doll’s House",
-  "author": "Henrik Ibsen",
-  "summary": "In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.",
-  "coverUrl": "https://standardebooks.org/ebooks/henrik-ibsen/a-dolls-house/r-farquharson-sharp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henrik-ibsen/a-dolls-house/r-farquharson-sharp",
+  "date": "2026-10-20",
+  "title": "The Doctor’s Dilemma",
+  "author": "George Bernard Shaw",
+  "summary": "A doctor must decide which patient is worthy of his newly discovered cure: a talented but amoral artist, or a good-hearted but undistinguished public servant.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-doctors-dilemma/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/the-doctors-dilemma",
   "subjects": [
     "drama"
   ]
@@ -97,20 +97,21 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-19",
-  "title": "The Charwoman’s Shadow",
+  "date": "2026-10-20",
+  "title": "Fifty-One Tales",
   "author": "Lord Dunsany",
-  "summary": "A young nobleman becomes a magician to secure his sister’s marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow",
+  "summary": "A series of otherworldly short stories ranging from the moral to the whimsical.",
+  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "title": "In Search of Lost Time",
   "author": "Marcel Proust",
   "summary": "The first-person account of a man’s introspections on his life and examination of memory.",
@@ -123,28 +124,28 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-10-19",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
+  "date": "2026-10-20",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
-    "horror"
+    "fiction",
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-19",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-10-20",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
-    "adventure",
-    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -152,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-19",
-  "title": "The Cheyne Mystery",
+  "date": "2026-10-20",
+  "title": "Inspector French’s Greatest Case",
   "author": "Freeman Wills Crofts",
-  "summary": "A man is drugged and then burgled for something he doesn’t know he has.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery",
+  "summary": "An inspector is called in to investigate the murder of a diamond trading firm’s employee and the theft of their jewels.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/inspector-frenchs-greatest-case",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,39 +167,40 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-19",
-  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
-  "author": "Mary Wollstonecraft",
-  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "date": "2026-10-20",
+  "title": "Culture and Anarchy",
+  "author": "Matthew Arnold",
+  "summary": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
+  "coverUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy",
   "subjects": [
     "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-19",
-  "title": "Thus Spake Zarathustra",
-  "author": "Friedrich Nietzsche",
-  "summary": "After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common",
+  "date": "2026-10-20",
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "summary": "A collection of essays by Errico Malatesta.",
+  "coverUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "title": "Poetry",
-  "author": "Ameen Rihani",
-  "summary": "A collection of Ameen Rihani’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of poetry by Scottish writer Robert Louis Stevenson.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/poetry",
   "subjects": [
     "poetry"
   ]
@@ -206,12 +208,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-10-19",
-  "title": "Northanger Abbey",
-  "author": "Jane Austen",
-  "summary": "A young girl with an overactive imagination comes of age.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey",
+  "date": "2026-10-20",
+  "title": "Martin Eden",
+  "author": "Jack London",
+  "summary": "A young working-class man sets out to become a bourgeois writer.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
   "subjects": [
     "fiction",
     "satire"
@@ -220,7 +222,7 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "title": "Short Fiction",
   "author": "Edgar Allan Poe",
   "summary": "A collection of Edgar Allan Poe’s short fiction, ordered by date of publication.",
@@ -239,41 +241,44 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-19",
-  "title": "The Memoirs of Sherlock Holmes",
-  "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes",
+  "date": "2026-10-20",
+  "title": "The Sketchbook of Geoffrey Crayon, Gent.",
+  "author": "Washington Irving",
+  "summary": "A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”",
+  "coverUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent",
   "subjects": [
-    "fiction",
-    "mystery",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-19",
-  "title": "A Day at a Time",
-  "author": "Archibald Alexander",
-  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
+  "date": "2026-10-20",
+  "title": "The Necromancers",
+  "author": "Robert Hugh Benson",
+  "summary": "A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
   "subjects": [
+    "fiction",
+    "horror",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-10-19",
-  "title": "The Cruise of the Nona",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona",
+  "date": "2026-10-20",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
+    "biography",
+    "memoir",
     "nonfiction",
     "travel"
   ]
