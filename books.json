@@ -1,25 +1,29 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-22",
-  "title": "The Private Papers of Henry Ryecroft",
-  "author": "George Gissing",
-  "summary": "A retired Englishman muses on life and literature in his private diary.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-gissing/the-private-papers-of-henry-ryecroft/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-gissing/the-private-papers-of-henry-ryecroft",
+  "date": "2026-10-23",
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "fiction"
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-22",
-  "title": "Tarzan and the Ant Men",
-  "author": "Edgar Rice Burroughs",
-  "summary": "The legendary lord of the jungle Tarzan finds himself trapped in an unfamiliar land inhabited by a tiny people.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men",
+  "date": "2026-10-23",
+  "title": "The Three Hostages",
+  "author": "John Buchan",
+  "summary": "A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,63 +32,64 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-22",
-  "title": "The Autobiography of John Stuart Mill",
-  "author": "John Stuart Mill",
-  "summary": "The autobiography of English philosopher John Stuart Mill.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill",
+  "date": "2026-10-23",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-10-22",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-10-23",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-22",
-  "title": "The Adventures of Pinocchio",
-  "author": "Carlo Collodi",
-  "summary": "A wooden puppet comes to life and goes on adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
+  "date": "2026-10-23",
+  "title": "Black Beauty",
+  "author": "Anna Sewell",
+  "summary": "A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-sewell/black-beauty",
   "subjects": [
-    "childrens"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-22",
-  "title": "The Layton Court Mystery",
-  "author": "Anthony Berkeley",
-  "summary": "Two friends become amateur sleuths when a suicide during a summer retreat leaves too many questions unanswered.",
-  "coverUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-layton-court-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-layton-court-mystery",
+  "date": "2026-10-23",
+  "title": "Gentlemen Prefer Blondes",
+  "author": "Anita Loos",
+  "summary": "The comic diary of a young woman recounting her escapades and romances in 1920s New York and Europe.",
+  "coverUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
   "subjects": [
     "comedy",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "title": "The Man of Destiny",
   "author": "George Bernard Shaw",
   "summary": "Napoleon engages in a battle of wits to reclaim some stolen letters.",
@@ -98,20 +103,22 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-22",
-  "title": "The Little White Bird",
-  "author": "J. M. Barrie",
-  "summary": "A series of adventures in London, including those of the narrator and a little boy named David, and Peter Pan.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/the-little-white-bird",
+  "date": "2026-10-23",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
-    "fantasy"
+    "comedy",
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "title": "The Riddle of the Sands",
   "author": "Erskine Childers",
   "summary": "Two English friends go on a sailing trip that quickly turns thrilling as they stumble upon a sinister German plot.",
@@ -124,35 +131,37 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-10-22",
-  "title": "The Three Impostors",
+  "date": "2026-10-23",
+  "title": "Short Fiction",
   "author": "Arthur Machen",
-  "summary": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors",
+  "summary": "A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-machen/short-fiction",
   "subjects": [
     "fiction",
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-22",
-  "title": "Twelve Years a Slave",
-  "author": "Solomon Northup",
-  "summary": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
-  "coverUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "date": "2026-10-23",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
     "memoir",
-    "nonfiction"
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "title": "The Mystery of the Barranca",
   "author": "Herman Whitaker",
   "summary": "A mining engineer and his friend suffer a series of misfortunes in their search for riches and treasure.",
@@ -166,40 +175,38 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-22",
-  "title": "A Treatise of Human Nature",
-  "author": "David Hume",
-  "summary": "Philosopher David Hume lays out a clear and original vision of our knowledge and understanding of the world, and also of human psychology and morality.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature",
+  "date": "2026-10-23",
+  "title": "The Voyage of the Beagle",
+  "author": "Charles Darwin",
+  "summary": "Darwin’s personal account of his 1831 voyage around the world investigating the geology, botany, and zoology of various lands.",
+  "coverUrl": "https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-22",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-10-23",
+  "title": "An Enquiry Concerning Human Understanding",
+  "author": "David Hume",
+  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
   "subjects": [
-    "biography",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-22",
-  "title": "The Canterbury Tales",
-  "author": "Geoffrey Chaucer",
-  "summary": "A group of pilgrims trade tales as they travel through medieval England.",
-  "coverUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geoffrey-chaucer/the-canterbury-tales",
+  "date": "2026-10-23",
+  "title": "Poetry",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of poetry by Scottish writer Robert Louis Stevenson.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/poetry",
   "subjects": [
     "poetry"
   ]
@@ -207,40 +214,39 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-10-22",
-  "title": "Democracy",
-  "author": "Henry Adams",
-  "summary": "A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/democracy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
+  "date": "2026-10-23",
+  "title": "Black No More",
+  "author": "George Schuyler",
+  "summary": "A medical process that makes black people look white revolutionizes American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-schuyler/black-no-more",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-22",
-  "title": "Short Fiction",
-  "author": "Mack Reynolds",
-  "summary": "A collection of science fiction short stories by Mack Reynolds ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mack-reynolds/short-fiction",
+  "date": "2026-10-23",
+  "title": "The Mummy!",
+  "author": "Jane C. Loudon",
+  "summary": "An ancient Egyptian mummy is resurrected in the twenty-second century.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-22",
-  "title": "A Thief in the Night",
-  "author": "E. W. Hornung",
-  "summary": "The gentleman thief’s pal reminisces on past adventures in this third collection of A. J. Raffles stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
+  "date": "2026-10-23",
+  "title": "Short Fiction",
+  "author": "Kate Chopin",
+  "summary": "A collection of Kate Chopin’s short stories, ordered by date of writing.",
+  "coverUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/kate-chopin/short-fiction",
   "subjects": [
     "fiction",
     "shorts"
@@ -249,27 +255,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-22",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-10-23",
+  "title": "Mary Olivier: A Life",
+  "author": "May Sinclair",
+  "summary": "A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.",
+  "coverUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life",
   "subjects": [
-    "drama",
-    "poetry",
+    "fiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-10-22",
-  "title": "Scrambles Amongst the Alps in the Years 1860–69",
-  "author": "Edward Whymper",
-  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
-  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "date": "2026-10-23",
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
+  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
   "subjects": [
     "memoir",
     "nonfiction",
