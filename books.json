@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-26",
-  "title": "New Grub Street",
-  "author": "George Gissing",
-  "summary": "A group of writers try to hold on to artistic merit in the face of abject poverty in the quickly changing literary and social landscape of Victorian London.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-gissing/new-grub-street/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-gissing/new-grub-street",
+  "date": "2026-10-27",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "summary": "The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long",
   "subjects": [
-    "fiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-26",
-  "title": "Waverley",
-  "author": "Walter Scott",
-  "summary": "A young English officer becomes involved in the Jacobite rebellion.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-scott/waverley/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-scott/waverley",
+  "date": "2026-10-27",
+  "title": "Five Weeks in a Balloon",
+  "author": "Jules Verne",
+  "summary": "Three men attempt to cross Africa by balloon.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,26 +28,28 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-26",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2026-10-27",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
+    "adventure",
     "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-10-26",
-  "title": "Queen Victoria",
+  "date": "2026-10-27",
+  "title": "Eminent Victorians",
   "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -56,12 +58,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-26",
-  "title": "Indian Fairy Tales",
-  "author": "Joseph Jacobs",
-  "summary": "A collection of fairy tales that exhibits India’s rich folk tale tradition.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales",
+  "date": "2026-10-27",
+  "title": "Beautiful Stories from Shakespeare",
+  "author": "E. Nesbit",
+  "summary": "Children’s author E. Nesbit retells some of Shakespeare’s plays for young readers.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/beautiful-stories-from-shakespeare/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/beautiful-stories-from-shakespeare",
   "subjects": [
     "childrens",
     "shorts"
@@ -70,27 +72,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-26",
-  "title": "The Birds",
-  "author": "Aristophanes",
-  "summary": "Two Athenians persuade the birds to build them a new city in the sky.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
+  "date": "2026-10-27",
+  "title": "Getting Married",
+  "author": "George Bernard Shaw",
+  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
   "subjects": [
     "comedy",
-    "drama",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-10-26",
-  "title": "Pygmalion",
+  "date": "2026-10-27",
+  "title": "Short Plays",
   "author": "George Bernard Shaw",
-  "summary": "An arrogant upper-class professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/pygmalion/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/pygmalion",
+  "summary": "A collection of sixteen short plays by George Bernard Shaw.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/short-plays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/short-plays",
   "subjects": [
     "drama"
   ]
@@ -98,52 +99,53 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-26",
-  "title": "Figures of Earth",
+  "date": "2026-10-27",
+  "title": "Domnei",
   "author": "James Branch Cabell",
-  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
+  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
   "subjects": [
-    "comedy",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-26",
-  "title": "His Family",
-  "author": "Ernest Poole",
-  "summary": "A man sees his life differently through the eyes of his daughters in turn-of-the-century New York City.",
-  "coverUrl": "https://standardebooks.org/ebooks/ernest-poole/his-family/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ernest-poole/his-family",
+  "date": "2026-10-27",
+  "title": "The Crimson Circle",
+  "author": "Edgar Wallace",
+  "summary": "A police inspector and an unusual private detective investigate a devious blackmail plot.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-crimson-circle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-crimson-circle",
   "subjects": [
-    "fiction"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-10-26",
-  "title": "The Dark Other",
-  "author": "Stanley G. Weinbaum",
-  "summary": "A young woman seeks the reason behind her lover’s outbursts of cruelty.",
-  "coverUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "date": "2026-10-27",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
-    "horror"
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-26",
-  "title": "Now It Can Be Told",
-  "author": "Philip Gibbs",
-  "summary": "A British war correspondent recalls his experiences during the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "date": "2026-10-27",
+  "title": "Red Dusk and the Morrow",
+  "author": "Paul Dukes",
+  "summary": "A newly-minted secret agent is sent to pick up the pieces of Britain’s spy networks after they are shattered by the Red Terror.",
+  "coverUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/paul-dukes/red-dusk-and-the-morrow",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -152,12 +154,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-26",
-  "title": "The Powerhouse",
-  "author": "John Buchan",
-  "summary": "A secret criminal organization is uncovered after an M.P.’s friend goes missing.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-buchan/the-powerhouse/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-buchan/the-powerhouse",
+  "date": "2026-10-27",
+  "title": "The House of the Arrow",
+  "author": "A. E. W. Mason",
+  "summary": "A blackmailer falsely accuses a dead woman’s niece of murder by poison, but the evidence suggests the accusation might not be false after all.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow",
   "subjects": [
     "fiction",
     "mystery"
@@ -166,39 +168,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-26",
-  "title": "A Treatise of Human Nature",
-  "author": "David Hume",
-  "summary": "Philosopher David Hume lays out a clear and original vision of our knowledge and understanding of the world, and also of human psychology and morality.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature",
+  "date": "2026-10-27",
+  "title": "The Economic Consequences of the Peace",
+  "author": "John Maynard Keynes",
+  "summary": "Keynes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace",
   "subjects": [
-    "nonfiction",
-    "philosophy"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-26",
-  "title": "Women and Economics",
-  "author": "Charlotte Perkins Gilman",
-  "summary": "Gilman explores the transformation of the role of women in society and the necessity for women to achieve economic independence.",
-  "coverUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics",
+  "date": "2026-10-27",
+  "title": "The Consolation of Philosophy",
+  "author": "Boethius",
+  "summary": "A Roman statesman awaiting execution is visited by the personification of philosophy.",
+  "coverUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/boethius/the-consolation-of-philosophy/h-r-james",
   "subjects": [
-    "philosophy"
+    "philosophy",
+    "poetry"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-26",
-  "title": "Lyrical Ballads",
-  "author": "William Wordsworth",
-  "summary": "A collection of pastoral poems that is considered the defining text for the beginning of Romantic-era literature.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads",
+  "date": "2026-10-27",
+  "title": "Poetry",
+  "author": "William Shakespeare",
+  "summary": "A collection of William Shakespeare’s poems and sonnets.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry",
   "subjects": [
     "poetry"
   ]
@@ -206,26 +208,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-10-26",
-  "title": "Where Angels Fear to Tread",
-  "author": "E. M. Forster",
-  "summary": "After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/where-angels-fear-to-tread",
+  "date": "2026-10-27",
+  "title": "Looking Backward",
+  "author": "Edward Bellamy",
+  "summary": "A man falls asleep in 1887 and wakes up over a century later in a socialist utopia.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-bellamy/looking-backward",
   "subjects": [
-    "fiction",
-    "satire"
+    "satire",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-26",
-  "title": "Gladiator",
-  "author": "Philip Wylie",
-  "summary": "A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-wylie/gladiator",
+  "date": "2026-10-27",
+  "title": "The Inheritors",
+  "author": "Joseph Conrad",
+  "summary": "A young writer dabbling in journalism meets a strange, otherworldly woman with long-term political goals.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors",
   "subjects": [
     "science_fiction"
   ]
@@ -233,28 +235,27 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "title": "Short Fiction",
-  "author": "H. Beam Piper",
-  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
+  "author": "Xavier de Maistre",
+  "summary": "A collection of Xavier de Maistre’s short fiction, ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/xavier-de-maistre/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/xavier-de-maistre/short-fiction/various-translators",
   "subjects": [
-    "science_fiction",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-26",
-  "title": "The Kingdom of God Is Within You",
+  "date": "2026-10-27",
+  "title": "A Confession",
   "author": "Leo Tolstoy",
-  "summary": "Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.",
-  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener",
+  "summary": "A brief meditation on depression, philosophy, religion, and the meaning of life.",
+  "coverUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude",
   "subjects": [
-    "nonfiction",
     "philosophy",
     "spirituality"
   ]
@@ -262,15 +263,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-10-26",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-10-27",
+  "title": "The Autobiography of a Super-Tramp",
+  "author": "W. H. Davies",
+  "summary": "At the end of the 19th century, a destitute tramp wanders across England and North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp",
   "subjects": [
-    "adventure",
-    "nonfiction",
+    "autobiography",
     "travel"
   ]
 }
