@@ -1,50 +1,49 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-28",
-  "title": "The Black Opal",
-  "author": "Katharine Susannah Prichard",
-  "summary": "A tightly-knit community of opal miners in New South Wales is rocked by the departure of one of their most-beloved young people.",
-  "coverUrl": "https://standardebooks.org/ebooks/katharine-susannah-prichard/the-black-opal/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/katharine-susannah-prichard/the-black-opal",
+  "date": "2026-10-29",
+  "title": "Short Fiction",
+  "author": "Fritz Leiber",
+  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
   "subjects": [
-    "fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-28",
-  "title": "Tarzan and the Ant Men",
-  "author": "Edgar Rice Burroughs",
-  "summary": "The legendary lord of the jungle Tarzan finds himself trapped in an unfamiliar land inhabited by a tiny people.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men",
+  "date": "2026-10-29",
+  "title": "Allan Quatermain Stories",
+  "author": "H. Rider Haggard",
+  "summary": "A collection of short stories about a legendary hunter.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain-stories",
   "subjects": [
     "adventure",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-28",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-10-29",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
-    "adventure",
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "Tombstone",
   "author": "Walter Noble Burns",
   "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
@@ -58,12 +57,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-28",
-  "title": "The Story of Doctor Dolittle",
+  "date": "2026-10-29",
+  "title": "The Voyages of Doctor Dolittle",
   "author": "Hugh Lofting",
-  "summary": "A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.",
-  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle",
+  "summary": "A young boy begins his apprenticeship with Doctor Dolittle, accompanying him on a series of adventures in search of a floating island and a missing naturalist.",
+  "coverUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-voyages-of-doctor-dolittle/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hugh-lofting/the-voyages-of-doctor-dolittle",
   "subjects": [
     "adventure",
     "childrens",
@@ -73,21 +72,20 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-28",
-  "title": "Indiscretions of Archie",
+  "date": "2026-10-29",
+  "title": "Psmith in the City",
   "author": "P. G. Wodehouse",
-  "summary": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie",
+  "summary": "A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
   "subjects": [
-    "comedy",
-    "fiction"
+    "comedy"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "Saint Joan",
   "author": "George Bernard Shaw",
   "summary": "Joan of Arc’s life story is retold, from her early life, to her campaigns, and beyond.",
@@ -100,12 +98,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-28",
-  "title": "Lud-in-the-Mist",
-  "author": "Hope Mirrlees",
-  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
-  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
+  "date": "2026-10-29",
+  "title": "Domnei",
+  "author": "James Branch Cabell",
+  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
   "subjects": [
     "fantasy"
   ]
@@ -113,21 +111,21 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-28",
-  "title": "The Valley of Fear",
-  "author": "Arthur Conan Doyle",
-  "summary": "The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear",
+  "date": "2026-10-29",
+  "title": "The Three Just Men",
+  "author": "Edgar Wallace",
+  "summary": "A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men",
   "subjects": [
-    "fiction",
-    "mystery"
+    "adventure",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "Brood of the Witch-Queen",
   "author": "Sax Rohmer",
   "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
@@ -141,7 +139,7 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "The Interesting Narrative of the Life of Olaudah Equiano",
   "author": "Olaudah Equiano",
   "summary": "An autobiography of an ex-slave in the mid 1700s.",
@@ -155,56 +153,51 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-28",
-  "title": "The Phantom of the Opera",
-  "author": "Gaston Leroux",
-  "summary": "A mysterious presence terrorizes the Paris Opera.",
-  "coverUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
+  "date": "2026-10-29",
+  "title": "The Patient in Room 18",
+  "author": "Mignon G. Eberhart",
+  "summary": "A nurse helps a detective investigate a murder in a hospital.",
+  "coverUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-28",
-  "title": "Journals",
-  "author": "Alexander Mackenzie",
-  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
-  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
+  "date": "2026-10-29",
+  "title": "The Book of Tea",
+  "author": "Okakura Kakuzō",
+  "summary": "The Book of Tea is a long essay exploring the relationship between teaism, taoism, and the aesthetics of Japanese culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea",
   "subjects": [
-    "adventure",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-10-28",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-10-29",
+  "title": "Nicomachean Ethics",
+  "author": "Aristotle",
+  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
+  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
   "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "Poetry",
-  "author": "William Carlos Williams",
-  "summary": "An anthology of William Carlos Williams’ poetry collections, combining The Tempers (1913), Al Que Quiere! (1917), and Sour Grapes (1921).",
-  "coverUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
+  "author": "John Keats",
+  "summary": "A collection of John Keats’ published poems, and a selection of unpublished fragments and posthumous verse.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-keats/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-keats/poetry",
   "subjects": [
     "poetry"
   ]
@@ -212,48 +205,50 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-10-28",
-  "title": "The Indiscreet Jewels",
-  "author": "Denis Diderot",
-  "summary": "The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.",
-  "coverUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman",
+  "date": "2026-10-29",
+  "title": "Penguin Island",
+  "author": "Anatole France",
+  "summary": "A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.",
+  "coverUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans",
   "subjects": [
+    "comedy",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-28",
-  "title": "The House on the Borderland",
-  "author": "William Hope Hodgson",
-  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
+  "date": "2026-10-29",
+  "title": "R.U.R.",
+  "author": "Karel Čapek",
+  "summary": "The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
   "subjects": [
-    "horror",
+    "drama",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "Short Fiction",
-  "author": "Robert E. Howard",
-  "summary": "A collection of short fiction by Robert E. Howard, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction",
+  "author": "H. Beam Piper",
+  "summary": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction",
   "subjects": [
-    "fiction",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "The Pilgrim Kamanita",
   "author": "Karl Gjellerup",
   "summary": "An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.",
@@ -267,15 +262,14 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-10-28",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2026-10-29",
+  "title": "A Book-Lover’s Holidays in the Open",
+  "author": "Theodore Roosevelt",
+  "summary": "Outdoorsman and former U.S. president Theodore Roosevelt weaves his love of reading into the stories of his travels through the Americas.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open",
   "subjects": [
     "nonfiction",
-    "spirituality",
     "travel"
   ]
 }
