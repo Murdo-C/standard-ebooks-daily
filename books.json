@@ -1,27 +1,26 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-10-30",
-  "title": "The Path to Rome",
-  "author": "Hilaire Belloc",
-  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
+  "date": "2026-10-31",
+  "title": "Whose Body?",
+  "author": "Dorothy L. Sayers",
+  "summary": "An aristocratic detective unravels the mystery of a body deposited in a bathtub in 1920s England.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/whose-body/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/whose-body",
   "subjects": [
-    "nonfiction",
-    "spirituality",
-    "travel"
+    "fiction",
+    "mystery"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-10-30",
-  "title": "The Chinese Parrot",
-  "author": "Earl Derr Biggers",
-  "summary": "A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tycoon.",
-  "coverUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot",
+  "date": "2026-10-31",
+  "title": "Lord Tony’s Wife",
+  "author": "Baroness Orczy",
+  "summary": "A young woman and her father are kidnapped by a man intent on revenge for his father’s death.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife",
   "subjects": [
     "adventure",
     "fiction"
@@ -30,12 +29,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-10-30",
-  "title": "Passages from the Life of a Philosopher",
-  "author": "Charles Babbage",
-  "summary": "The eminent Victorian scientist and mathematician on his inventions, dreams and adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher",
+  "date": "2026-10-31",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
   "subjects": [
     "autobiography"
   ]
@@ -43,7 +42,7 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "title": "The Lives and Opinions of Eminent Philosophers",
   "author": "Diogenes Laërtius",
   "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
@@ -57,26 +56,26 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-10-30",
-  "title": "Indian Fairy Tales",
-  "author": "Joseph Jacobs",
-  "summary": "A collection of fairy tales that exhibits India’s rich folk tale tradition.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales",
+  "date": "2026-10-31",
+  "title": "The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "summary": "The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn",
   "subjects": [
     "childrens",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-10-30",
-  "title": "Right Ho, Jeeves",
+  "date": "2026-10-31",
+  "title": "The Adventures of Sally",
   "author": "P. G. Wodehouse",
-  "summary": "Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
+  "summary": "A young woman comes into an inheritance, loses it all, and finds love along the way.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,53 +84,52 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-10-30",
-  "title": "Misalliance",
+  "date": "2026-10-31",
+  "title": "Saint Joan",
   "author": "George Bernard Shaw",
-  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
+  "summary": "Joan of Arc’s life story is retold, from her early life, to her campaigns, and beyond.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/saint-joan",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-10-30",
-  "title": "Lud-in-the-Mist",
-  "author": "Hope Mirrlees",
-  "summary": "After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.",
-  "coverUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist",
+  "date": "2026-10-31",
+  "title": "On a Pincushion",
+  "author": "Mary De Morgan",
+  "summary": "The first collection of fairy tales by Mary De Morgan.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
   "subjects": [
-    "fantasy"
+    "fantasy",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-10-30",
-  "title": "The Three Just Men",
-  "author": "Edgar Wallace",
-  "summary": "A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men",
+  "date": "2026-10-31",
+  "title": "The Fifth Queen Crowned",
+  "author": "Ford Madox Ford",
+  "summary": "Katharine Howard, Queen of England, reaches the height of her power, only to find that idealism and integrity are fragile weapons against court intrigue and religious faction.",
+  "coverUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned",
   "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-10-30",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-10-31",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
     "horror",
     "science_fiction"
@@ -140,27 +138,26 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-10-30",
-  "title": "A Negro Explorer at the North Pole",
-  "author": "Matthew Henson",
-  "summary": "The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.",
-  "coverUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/matthew-henson/a-negro-explorer-at-the-north-pole",
+  "date": "2026-10-31",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "author": "Olaudah Equiano",
+  "summary": "An autobiography of an ex-slave in the mid 1700s.",
+  "coverUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
   "subjects": [
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-10-30",
-  "title": "The Patient in Room 18",
-  "author": "Mignon G. Eberhart",
-  "summary": "A nurse helps a detective investigate a murder in a hospital.",
-  "coverUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18",
+  "date": "2026-10-31",
+  "title": "The Dead Letter",
+  "author": "Metta Victor",
+  "summary": "A junior lawyer investigates the murder of a man engaged to a woman he has feelings for.",
+  "coverUrl": "https://standardebooks.org/ebooks/metta-victor/the-dead-letter/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/metta-victor/the-dead-letter",
   "subjects": [
     "mystery"
   ]
@@ -168,26 +165,12 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-10-30",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
-  "subjects": [
-    "autobiography",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-10-30",
-  "title": "A Voice from the South",
-  "author": "Anna Julia Cooper",
-  "summary": "A Black woman from the American South philosophizes on various subjects.",
-  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "date": "2026-10-31",
+  "title": "Roads to Freedom",
+  "author": "Bertrand Russell",
+  "summary": "Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.",
+  "coverUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom",
   "subjects": [
     "nonfiction",
     "philosophy"
@@ -195,13 +178,26 @@
 }
 ,
 {
+  "genre": "philosophy",
+  "date": "2026-10-31",
+  "title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "summary": "Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.",
+  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments",
+  "subjects": [
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "poetry",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "title": "Poetry",
-  "author": "Langston Hughes",
-  "summary": "A collection of poems by Langston Hughes.",
-  "coverUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/langston-hughes/poetry",
+  "author": "C. S. Lewis",
+  "summary": "A collection of C. S. Lewis’ poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry",
   "subjects": [
     "poetry"
   ]
@@ -209,12 +205,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-10-30",
-  "title": "Those Barren Leaves",
+  "date": "2026-10-31",
+  "title": "Crome Yellow",
   "author": "Aldous Huxley",
-  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "summary": "A young writer travels to an English countryside manor to spend the summer alongside a cast of outlandish leisure class intellectuals.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
   "subjects": [
     "fiction",
     "satire"
@@ -223,25 +219,26 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-10-30",
-  "title": "The Mummy!",
-  "author": "Jane C. Loudon",
-  "summary": "An ancient Egyptian mummy is resurrected in the twenty-second century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy",
+  "date": "2026-10-31",
+  "title": "Robur the Conqueror",
+  "author": "Jules Verne",
+  "summary": "A domineering inventor kidnaps members of a balloonist club and flies them around the world to prove the superiority of his heavier-than-air machine.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington",
   "subjects": [
+    "adventure",
     "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "title": "Short Fiction",
-  "author": "Robert E. Howard",
-  "summary": "A collection of short fiction by Robert E. Howard, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction",
+  "author": "Thomas Mann",
+  "summary": "A collection of Thomas Mann’s short stories, ordered by date of their original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators",
   "subjects": [
     "fiction",
     "shorts"
@@ -250,29 +247,29 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-10-30",
-  "title": "Jesus the Son of Man",
-  "author": "Kahlil Gibran",
-  "summary": "The life of Jesus of Nazareth is examined through the lens of the people around him.",
-  "coverUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man",
+  "date": "2026-10-31",
+  "title": "An Inquiry Into the Accordancy of War with the Principles of Christianity",
+  "author": "Jonathan Dymond",
+  "summary": "Dymond argues that war is incompatible with the teachings of Christianity.",
+  "coverUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jonathan-dymond/an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity",
   "subjects": [
-    "fiction",
-    "shorts",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-10-30",
-  "title": "The Autobiography of a Super-Tramp",
-  "author": "W. H. Davies",
-  "summary": "At the end of the 19th century, a destitute tramp wanders across England and North America.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp",
+  "date": "2026-10-31",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "autobiography",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
