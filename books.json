@@ -1,54 +1,53 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-01",
-  "title": "Lady Into Fox",
-  "author": "David Garnett",
-  "summary": "A newly married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
-  "coverUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/david-garnett/lady-into-fox",
+  "date": "2026-11-02",
+  "title": "The Unpleasantness at the Bellona Club",
+  "author": "Dorothy L. Sayers",
+  "summary": "The discovery of the quiet death of an elderly man at an exclusive club leads to unexpected complications.",
+  "coverUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/the-unpleasantness-at-the-bellona-club/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/dorothy-l-sayers/the-unpleasantness-at-the-bellona-club",
   "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-11-01",
-  "title": "The Man in the Brown Suit",
-  "author": "Agatha Christie",
-  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
-  "subjects": [
-    "adventure",
     "fiction",
     "mystery"
   ]
 }
 ,
 {
-  "genre": "autobiography",
-  "date": "2026-11-01",
-  "title": "Pointed Roofs",
-  "author": "Dorothy M. Richardson",
-  "summary": "Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.",
-  "coverUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs",
+  "genre": "adventure",
+  "date": "2026-11-02",
+  "title": "The Four Feathers",
+  "author": "A. E. W. Mason",
+  "summary": "A young man sets off to regain his honor after his resignation from the military on the eve of deployment brands him a coward.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-four-feathers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-four-feathers",
   "subjects": [
-    "autobiography",
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-11-02",
+  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
+  "author": "Black Hawk",
+  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
+  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
   "genre": "biography",
-  "date": "2026-11-01",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-11-02",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
     "nonfiction"
@@ -57,21 +56,20 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-01",
-  "title": "The House of Arden",
-  "author": "E. Nesbit",
-  "summary": "Two children, with the aid of a magical white mole, travel into the past in search of their family’s long-lost treasure.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-house-of-arden",
+  "date": "2026-11-02",
+  "title": "Pollyanna Grows Up",
+  "author": "Eleanor H. Porter",
+  "summary": "Pollyanna recovers from an automobile accident with the help of a nearby dowager, before leaving the country to later return to rural Vermont.",
+  "coverUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna-grows-up",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "title": "Leave It to Psmith",
   "author": "P. G. Wodehouse",
   "summary": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
@@ -84,12 +82,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-11-01",
-  "title": "The Two Noble Kinsmen",
+  "date": "2026-11-02",
+  "title": "Julius Caesar",
   "author": "William Shakespeare",
-  "summary": "Two cousins fall in love with a beautiful princess.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare_john-fletcher/the-two-noble-kinsmen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare_john-fletcher/the-two-noble-kinsmen",
+  "summary": "A play portraying the assassination of Julius Caesar.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar",
   "subjects": [
     "drama"
   ]
@@ -97,7 +95,7 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "title": "Lady Into Fox",
   "author": "David Garnett",
   "summary": "A newly married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.",
@@ -110,41 +108,42 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-01",
-  "title": "Suspiria de Profundis",
-  "author": "Thomas De Quincey",
-  "summary": "A collection of prose poems inspired by De Quincey’s opium dreams.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis",
+  "date": "2026-11-02",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
     "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-11-01",
-  "title": "The Vampire",
-  "author": "John William Polidori",
-  "summary": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire",
-  "subjects": [
     "horror"
   ]
 }
 ,
 {
-  "genre": "memoir",
-  "date": "2026-11-01",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "genre": "horror",
+  "date": "2026-11-02",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "summary": "A collection of ghost stories by E. F. Benson.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
   "subjects": [
-    "autobiography",
+    "fiction",
+    "horror",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-11-02",
+  "title": "My Life in China and America",
+  "author": "Yung Wing",
+  "summary": "A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.",
+  "coverUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america",
+  "subjects": [
     "memoir",
     "nonfiction"
   ]
@@ -152,52 +151,55 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-01",
-  "title": "The Hound of the Baskervilles",
+  "date": "2026-11-02",
+  "title": "His Last Bow",
   "author": "Arthur Conan Doyle",
-  "summary": "A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+  "summary": "The world’s first consulting detective and his faithful biographer tackle more mysterious cases.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow",
   "subjects": [
     "fiction",
-    "mystery"
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-01",
-  "title": "Ten Days That Shook the World",
-  "author": "John Reed",
-  "summary": "Journalist John Reed gives a first-hand account of Russia’s 1917 October Revolution, which lead to the formation of the Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-reed/ten-days-that-shook-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-reed/ten-days-that-shook-the-world",
+  "date": "2026-11-02",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
+  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
   "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-11-01",
-  "title": "Discourses on Livy",
-  "author": "Niccolò Machiavelli",
-  "summary": "The classic treatise on how to prevent the tyranny of a Prince.",
-  "coverUrl": "https://standardebooks.org/ebooks/niccolo-machiavelli/discourses-on-livy/ninian-hill-thomson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/niccolo-machiavelli/discourses-on-livy/ninian-hill-thomson",
+  "date": "2026-11-02",
+  "title": "A Vindication of the Rights of Woman",
+  "author": "Mary Wollstonecraft",
+  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "title": "Poetry",
-  "author": "Fernando Pessoa",
-  "summary": "A collection of Fernando Pessoa’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+  "author": "C. S. Lewis",
+  "summary": "A collection of C. S. Lewis’ poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/c-s-lewis/poetry",
   "subjects": [
     "poetry"
   ]
@@ -205,35 +207,34 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-11-01",
-  "title": "Lady Windermere’s Fan",
-  "author": "Oscar Wilde",
-  "summary": "A witty comedy that subverts the harsh social codes of Victorian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan",
+  "date": "2026-11-02",
+  "title": "Candide",
+  "author": "Voltaire",
+  "summary": "A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.",
+  "coverUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
   "subjects": [
-    "comedy",
-    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-01",
-  "title": "Star Hunter",
+  "date": "2026-11-02",
+  "title": "Short Fiction",
   "author": "Andre Norton",
-  "summary": "On the unexplored jungle world of Jumala the sole survivor of a spaceship crash is heir to a fortune, or has been made to believe so.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/star-hunter",
+  "summary": "A collection of fantasy and science fiction short fiction by Andre Norton.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
   "subjects": [
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "title": "The Book of Wonder",
   "author": "Lord Dunsany",
   "summary": "A collection of fantastical short stories.",
@@ -247,29 +248,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-01",
-  "title": "On the Making of Man",
-  "author": "Gregory of Nyssa",
-  "summary": "An early Christian theologian expounds on the doctrine of humanity being made in God’s image.",
-  "coverUrl": "https://standardebooks.org/ebooks/gregory-of-nyssa/on-the-making-of-man/william-moore_henry-austin-wilson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/gregory-of-nyssa/on-the-making-of-man/william-moore_henry-austin-wilson",
+  "date": "2026-11-02",
+  "title": "Practical Mysticism",
+  "author": "Evelyn Underhill",
+  "summary": "Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism",
   "subjects": [
     "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-11-01",
-  "title": "Through the Brazilian Wilderness",
-  "author": "Theodore Roosevelt",
-  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
-  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "date": "2026-11-02",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "nonfiction",
     "travel"
   ]
 }
