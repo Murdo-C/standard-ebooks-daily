@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "title": "O Pioneers!",
   "author": "Willa Cather",
   "summary": "A Swedish-American immigrant family builds a farm and community on the Nebraska prairie.",
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "title": "Sir Percy Hits Back",
   "author": "Baroness Orczy",
   "summary": "A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.",
@@ -28,41 +28,41 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-05",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2026-11-06",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
-    "autobiography"
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-11-05",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-11-06",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-05",
-  "title": "The Hidden Staircase",
+  "date": "2026-11-06",
+  "title": "The Bungalow Mystery",
   "author": "Carolyn Keene",
-  "summary": "A young amateur detective investigates a supposed haunting.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase",
+  "summary": "A young amateur detective investigates a new friend’s abusive guardian.",
+  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
   "subjects": [
     "childrens",
     "mystery"
@@ -71,25 +71,26 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-05",
-  "title": "Psmith in the City",
+  "date": "2026-11-06",
+  "title": "Something New",
   "author": "P. G. Wodehouse",
-  "summary": "A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
-    "comedy"
+    "comedy",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-11-05",
-  "title": "Henry VI, Part I",
+  "date": "2026-11-06",
+  "title": "Henry VI, Part II",
   "author": "William Shakespeare",
-  "summary": "King Henry VI takes the throne during a time of great political division: the quarreling among English noblemen and the collapse of England’s hold in France.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-i",
+  "summary": "King Henry VI marries Margaret of Anjou and further stokes discord within his court.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-ii",
   "subjects": [
     "drama"
   ]
@@ -97,22 +98,20 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-11-05",
-  "title": "Short Fiction",
-  "author": "Clark Ashton Smith",
-  "summary": "A collection of short fiction by Clark Ashton Smith, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/clark-ashton-smith/short-fiction",
+  "date": "2026-11-06",
+  "title": "The Well at the World’s End",
+  "author": "William Morris",
+  "summary": "A king’s son embarks on an adventure to find a legendary well that grants long life.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
   "subjects": [
-    "fantasy",
-    "science_fiction",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "title": "Siddhartha",
   "author": "Hermann Hesse",
   "summary": "A man embarks on a spiritual journey through India.",
@@ -126,26 +125,26 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-11-05",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+  "date": "2026-11-06",
+  "title": "The House on the Borderland",
+  "author": "William Hope Hodgson",
+  "summary": "An account of the terrifying metaphysical haunting of a recluse’s secluded home.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-hope-hodgson/the-house-on-the-borderland",
   "subjects": [
     "horror",
-    "mystery"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-11-05",
-  "title": "Now It Can Be Told",
-  "author": "Philip Gibbs",
-  "summary": "A British war correspondent recalls his experiences during the Great War.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told",
+  "date": "2026-11-06",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
   "subjects": [
     "memoir",
     "nonfiction"
@@ -154,12 +153,12 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-05",
-  "title": "The Man in the Queue",
-  "author": "Josephine Tey",
-  "summary": "A police inspector is baffled by the case of a man who was stabbed while waiting in a theater queue.",
-  "coverUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/josephine-tey/the-man-in-the-queue",
+  "date": "2026-11-06",
+  "title": "The Paradise Mystery",
+  "author": "J. S. Fletcher",
+  "summary": "A young doctor attempts to turn a mysterious death to his romantic advantage.",
+  "coverUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery",
   "subjects": [
     "fiction",
     "mystery"
@@ -168,45 +167,39 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-05",
-  "title": "Running a Thousand Miles for Freedom",
-  "author": "William Craft",
-  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+  "date": "2026-11-06",
+  "title": "Darkwater",
+  "author": "W. E. B. Du Bois",
+  "summary": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater",
   "subjects": [
-    "adventure",
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-11-05",
-  "title": "The Story of My Experiments with Truth",
-  "author": "Mahatma Gandhi",
-  "summary": "Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.",
-  "coverUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "date": "2026-11-06",
+  "title": "No Treason",
+  "author": "Lysander Spooner",
+  "summary": "Lawyer and political philosopher Lysander Spooner presents his case for the invalidity of the United States Constitution.",
+  "coverUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lysander-spooner/no-treason",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction",
-    "philosophy",
-    "spirituality"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-05",
-  "title": "Poetry",
-  "author": "William Carlos Williams",
-  "summary": "An anthology of William Carlos Williams’ poetry collections, combining The Tempers (1913), Al Que Quiere! (1917), and Sour Grapes (1921).",
-  "coverUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
+  "date": "2026-11-06",
+  "title": "Leaves of Grass",
+  "author": "Walt Whitman",
+  "summary": "The definitive collection of Walt Whitman’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass",
   "subjects": [
     "poetry"
   ]
@@ -214,75 +207,69 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-11-05",
-  "title": "The Importance of Being Earnest",
-  "author": "Oscar Wilde",
-  "summary": "A comedy skewering Victorian high society.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "date": "2026-11-06",
+  "title": "Sartor Resartus",
+  "author": "Thomas Carlyle",
+  "summary": "The meta-fictional commentary on the life of “famous” German philosopher Diogenes Teufelsdröckh and his Philosophy of Clothes.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-carlyle/sartor-resartus",
   "subjects": [
-    "comedy",
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-05",
-  "title": "Short Fiction",
-  "author": "E. M. Forster",
-  "summary": "A collection of E. M. Forster’s short stories, ordered by date of their original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+  "date": "2026-11-06",
+  "title": "The Jewels of Aptor",
+  "author": "Samuel R. Delany",
+  "summary": "Four companions travel to the mysterious island of Aptor in search of a jewel.",
+  "coverUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/samuel-r-delany/the-jewels-of-aptor",
   "subjects": [
-    "fantasy",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-11-06",
+  "title": "Short Fiction",
+  "author": "Clifford D. Simak",
+  "summary": "A collection of short fiction by Clifford D. Simak, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
+  "subjects": [
     "science_fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "shorts",
-  "date": "2026-11-05",
-  "title": "The Amateur Cracksman",
-  "author": "E. W. Hornung",
-  "summary": "A British cricketer and his friend steal valuables in this first collection of A. J. Raffles short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman",
-  "subjects": [
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
   "genre": "spirituality",
-  "date": "2026-11-05",
-  "title": "Barlaam and Ioasaph",
-  "author": "Anonymous",
-  "summary": "A monk converts a cloistered young prince to Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
+  "date": "2026-11-06",
+  "title": "Of One Blood",
+  "author": "Pauline E. Hopkins",
+  "summary": "A young scholar’s life spirals down a dark path after the near-death of a singer.",
+  "coverUrl": "https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood",
   "subjects": [
-    "fiction",
+    "fantasy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-11-05",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-11-06",
+  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+  "author": "Mary Wollstonecraft",
+  "summary": "Mary Wollstonecraft’s account of her travels through Scandinavia.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
+    "nonfiction",
     "travel"
   ]
 }
