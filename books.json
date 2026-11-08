@@ -1,26 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-07",
-  "title": "Tarzan and the Ant Men",
+  "date": "2026-11-08",
+  "title": "Pellucidar",
   "author": "Edgar Rice Burroughs",
-  "summary": "The legendary lord of the jungle Tarzan finds himself trapped in an unfamiliar land inhabited by a tiny people.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men",
+  "summary": "An adventurer returns to the hollow interior of the Earth in search of his lost love.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar",
   "subjects": [
-    "adventure",
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-07",
-  "title": "Lord Tony’s Wife",
+  "date": "2026-11-08",
+  "title": "Pimpernel and Rosemary",
   "author": "Baroness Orczy",
-  "summary": "A young woman and her father are kidnapped by a man intent on revenge for his father’s death.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/lord-tonys-wife",
+  "summary": "A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary",
   "subjects": [
     "adventure",
     "fiction"
@@ -29,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-07",
-  "title": "Geronimo’s Story of His Life",
-  "author": "Geronimo",
-  "summary": "The Apache war chief Geronimo recounts the story of his life.",
-  "coverUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life",
+  "date": "2026-11-08",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
   "subjects": [
     "autobiography"
   ]
@@ -42,55 +41,53 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-11-07",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-11-08",
+  "title": "A General History of the Pirates",
+  "author": "Captain Charles Johnson",
+  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-07",
-  "title": "The Mystery at Lilac Inn",
-  "author": "Carolyn Keene",
-  "summary": "A young amateur detective attempts to recover her friend’s stolen diamonds.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn",
+  "date": "2026-11-08",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "summary": "A wooden puppet comes to life and goes on adventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio",
   "subjects": [
-    "childrens",
-    "mystery"
+    "childrens"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-07",
-  "title": "Sunshine Sketches of a Little Town",
-  "author": "Stephen Leacock",
-  "summary": "A humorous account of life in the fictional small town of Mariposa.",
-  "coverUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town",
+  "date": "2026-11-08",
+  "title": "She Stoops to Conquer",
+  "author": "Oliver Goldsmith",
+  "summary": "Two young men visit the countryside: one to find a wife, and the other to avoid one.",
+  "coverUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer",
   "subjects": [
     "comedy",
-    "fiction",
-    "satire"
+    "drama"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-11-07",
-  "title": "Henry VI, Part III",
+  "date": "2026-11-08",
+  "title": "Henry VIII",
   "author": "William Shakespeare",
-  "summary": "Henry VI is overthrown and Edward Plantagenet becomes the new King of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-vi-part-iii",
+  "summary": "King Henry VIII plans to divorce his first wife for Anne Bullen.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-viii",
   "subjects": [
     "drama"
   ]
@@ -98,12 +95,12 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-11-07",
-  "title": "Thuvia, Maid of Mars",
+  "date": "2026-11-08",
+  "title": "The Gods of Mars",
   "author": "Edgar Rice Burroughs",
-  "summary": "When the beautiful Princess Thuvia of Ptarth is kidnapped, suspicion falls on John Carter’s son Carthoris, who sets out to rescue the woman he loves.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/thuvia-maid-of-mars",
+  "summary": "John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars",
   "subjects": [
     "fantasy"
   ]
@@ -111,96 +108,96 @@
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-07",
-  "title": "The Magic Mountain",
-  "author": "Thomas Mann",
-  "summary": "A young man visits his cousin in a sanitarium in the mountains, only to see himself become one of its patients.",
-  "coverUrl": "https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter",
+  "date": "2026-11-08",
+  "title": "An Antarctic Mystery",
+  "author": "Jules Verne",
+  "summary": "An American naturalist travels south beyond the remote Kerguelen Islands.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/frances-cashel-hoey",
   "subjects": [
+    "adventure",
     "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-11-07",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-11-08",
+  "title": "Short Fiction",
+  "author": "Frank Belknap Long",
+  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-11-07",
-  "title": "Roughing It",
-  "author": "Mark Twain",
-  "summary": "Mark Twain’s semiautobiographical account of his travel across the United States.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/roughing-it",
-  "subjects": [
-    "memoir",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-11-07",
-  "title": "The Incredulity of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
-  "subjects": [
-    "fiction",
-    "mystery",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
-  "genre": "nonfiction",
-  "date": "2026-11-07",
-  "title": "Personal Memoirs of Ulysses S. Grant",
-  "author": "Ulysses S. Grant",
-  "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
-  "coverUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant",
+  "genre": "memoir",
+  "date": "2026-11-08",
+  "title": "A Personal Record",
+  "author": "Joseph Conrad",
+  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
   "subjects": [
-    "autobiography",
+    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-11-07",
-  "title": "The Story of Utopias",
-  "author": "Lewis Mumford",
-  "summary": "An American historian reviews the literature surrounding utopias and how they relate to contemporary society.",
-  "coverUrl": "https://standardebooks.org/ebooks/lewis-mumford/the-story-of-utopias/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lewis-mumford/the-story-of-utopias",
+  "genre": "mystery",
+  "date": "2026-11-08",
+  "title": "The Sea Mystery",
+  "author": "Freeman Wills Crofts",
+  "summary": "The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-11-08",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "summary": "Theodore Roosevelt’s autobiographical account of his expedition into the uncharted depths of the Brazilian rainforest.",
+  "coverUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
   "subjects": [
     "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-11-08",
+  "title": "The Communist Manifesto",
+  "author": "Karl Marx",
+  "summary": "Karl Marx and Friedrich Engels’ classic analysis of modern industrial society and call for Working Class revolution.",
+  "coverUrl": "https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore",
+  "subjects": [
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-07",
-  "title": "Poetry",
-  "author": "Oscar Wilde",
-  "summary": "A collection of poems by Oscar Wilde.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/poetry",
+  "date": "2026-11-08",
+  "title": "Sonnets from the Portuguese",
+  "author": "Elizabeth Barrett Browning",
+  "summary": "A collection of 44 love sonnets.",
+  "coverUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese",
   "subjects": [
     "poetry"
   ]
@@ -208,26 +205,26 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-11-07",
-  "title": "The Beggar’s Opera",
-  "author": "John Gay",
-  "summary": "A highwayman worries that he’s undone when his love affairs are uncovered.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera",
+  "date": "2026-11-08",
+  "title": "Dodsworth",
+  "author": "Sinclair Lewis",
+  "summary": "A newly-retired businessman’s peaceful European trip falls apart as his wife chases high European society.",
+  "coverUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sinclair-lewis/dodsworth",
   "subjects": [
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-07",
-  "title": "Last and First Men",
-  "author": "Olaf Stapledon",
-  "summary": "A human from the very distant future relates the whole history of mankind to a modern-day human.",
-  "coverUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
+  "date": "2026-11-08",
+  "title": "The Absolute at Large",
+  "author": "Karel Čapek",
+  "summary": "An inventor builds an atomic engine which converts matter into energy, but has the unfortunate side-effect of liberating divinity into the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova",
   "subjects": [
     "science_fiction"
   ]
@@ -235,12 +232,12 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-07",
-  "title": "The Adventures of Sherlock Holmes",
+  "date": "2026-11-08",
+  "title": "The Casebook of Sherlock Holmes",
   "author": "Arthur Conan Doyle",
-  "summary": "The world’s first consulting detective investigates a variety of intriguing cases in the first Holmes short story collection.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes",
+  "summary": "The world’s first consulting detective and his companion investigate further crimes and mysteries.",
+  "coverUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-casebook-of-sherlock-holmes",
   "subjects": [
     "fiction",
     "mystery",
@@ -250,27 +247,27 @@
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-07",
-  "title": "Festus",
-  "author": "Philip James Bailey",
-  "summary": "A man goes on a quest for knowledge, truth, and understanding in the face of the complexities of existence and spirituality.",
-  "coverUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/philip-james-bailey/festus",
+  "date": "2026-11-08",
+  "title": "The Protestant Ethic and the Spirit of Capitalism",
+  "author": "Max Weber",
+  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
   "subjects": [
-    "drama",
-    "poetry",
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-11-07",
-  "title": "The Mirror of the Sea",
-  "author": "Joseph Conrad",
-  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "date": "2026-11-08",
+  "title": "South!",
+  "author": "Ernest Shackleton",
+  "summary": "A British expedition sets off to cross Antarctica, but when their ship is wrecked they have to face a long struggle for survival.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernest-shackleton/south",
   "subjects": [
     "memoir",
     "nonfiction",
