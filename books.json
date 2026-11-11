@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-10",
-  "title": "A Popular Schoolgirl",
-  "author": "Angela Brazil",
-  "summary": "A schoolgirl navigates a difficult year after a new girl has inadvertently assumed her mantle.",
-  "coverUrl": "https://standardebooks.org/ebooks/angela-brazil/a-popular-schoolgirl/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/angela-brazil/a-popular-schoolgirl",
+  "date": "2026-11-11",
+  "title": "Voodoo Planet",
+  "author": "Andre Norton",
+  "summary": "Dane Thorson travels to the safari planet Khatka and encounters an evil witch doctor.",
+  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/voodoo-planet/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/voodoo-planet",
   "subjects": [
-    "fiction"
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-10",
-  "title": "The Secret of the Old Mill",
+  "date": "2026-11-11",
+  "title": "The Shore Road Mystery",
   "author": "Franklin W. Dixon",
-  "summary": "The police are out of their depth as counterfeit bills circulate through the city, but two amateur sleuths are on the case.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill",
+  "summary": "Two amateur slueths endeavor to break up a carjacking ring.",
+  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery",
   "subjects": [
     "adventure",
     "childrens",
@@ -30,83 +30,54 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-10",
-  "title": "Yashka",
-  "author": "Maria Bochkareva",
-  "summary": "A Russian peasant leaves exile in Siberia to fight for her country in World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maria-bochkareva/yashka",
+  "date": "2026-11-11",
+  "title": "The Autobiography of a Super-Tramp",
+  "author": "W. H. Davies",
+  "summary": "At the end of the 19th century, a destitute tramp wanders across England and North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp",
   "subjects": [
     "autobiography",
-    "nonfiction"
+    "travel"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-11-10",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-11-11",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
   "subjects": [
     "biography",
-    "fiction"
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-10",
-  "title": "The House on the Cliff",
-  "author": "Franklin W. Dixon",
-  "summary": "After visiting a suspected haunted house, two brothers and their friends embark on an adventure to see if there’s trouble afoot.",
-  "coverUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/franklin-w-dixon/the-house-on-the-cliff",
+  "date": "2026-11-11",
+  "title": "The Gold Bat",
+  "author": "P. G. Wodehouse",
+  "summary": "The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat",
   "subjects": [
-    "adventure",
     "childrens",
-    "fiction",
-    "mystery"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-10",
-  "title": "Hay Fever",
-  "author": "Noël Coward",
-  "summary": "A well-to-do family cannot be civil to each other in front of their weekend guests.",
-  "coverUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/noel-coward/hay-fever",
-  "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-11-10",
-  "title": "Henry IV, Part I",
-  "author": "William Shakespeare",
-  "summary": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-11-10",
-  "title": "Jurgen",
+  "date": "2026-11-11",
+  "title": "Figures of Earth",
   "author": "James Branch Cabell",
-  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
+  "summary": "A young swineherd rises to the rank of Count by following his own thinking and desires.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/figures-of-earth",
   "subjects": [
     "comedy",
     "fantasy"
@@ -114,13 +85,40 @@
 }
 ,
 {
+  "genre": "drama",
+  "date": "2026-11-11",
+  "title": "Henry IV, Part II",
+  "author": "William Shakespeare",
+  "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-11-11",
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+  "subjects": [
+    "childrens",
+    "fantasy"
+  ]
+}
+,
+{
   "genre": "fiction",
-  "date": "2026-11-10",
-  "title": "Styrbiorn the Strong",
-  "author": "E. R. Eddison",
-  "summary": "A Viking prince vies for glory and control of a kingdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-r-eddison/styrbiorn-the-strong/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-r-eddison/styrbiorn-the-strong",
+  "date": "2026-11-11",
+  "title": "Adam’s Breed",
+  "author": "Radclyffe Hall",
+  "summary": "The child of Italian immigrants struggles to find meaning in Edwardian-era London.",
+  "coverUrl": "https://standardebooks.org/ebooks/radclyffe-hall/adams-breed/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/radclyffe-hall/adams-breed",
   "subjects": [
     "fiction"
   ]
@@ -128,12 +126,12 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-11-10",
-  "title": "Wieland",
-  "author": "Charles Brockden Brown",
-  "summary": "Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-brockden-brown/wieland",
+  "date": "2026-11-11",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
     "fiction",
     "horror"
@@ -142,26 +140,27 @@
 ,
 {
   "genre": "memoir",
-  "date": "2026-11-10",
-  "title": "The House of the Dead",
-  "author": "Fyodor Dostoevsky",
-  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
+  "date": "2026-11-11",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
-    "fiction",
-    "memoir"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-10",
-  "title": "The Ponson Case",
+  "date": "2026-11-11",
+  "title": "The Cheyne Mystery",
   "author": "Freeman Wills Crofts",
-  "summary": "The death of a wealthy industrialist initially seems like an accident, but soon sparks a murder inquiry.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case",
+  "summary": "A man is drugged and then burgled for something he doesn’t know he has.",
+  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery",
   "subjects": [
     "fiction",
     "mystery"
@@ -170,7 +169,89 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-10",
+  "date": "2026-11-11",
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "summary": "An ancient Chinese classic discussing the art of war.",
+  "coverUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles",
+  "subjects": [
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-11-11",
+  "title": "Human Nature and Conduct",
+  "author": "John Dewey",
+  "summary": "Dewey applies the theory of pragmatism to morality, reason, and society.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-11-11",
+  "title": "North of Boston",
+  "author": "Robert Frost",
+  "summary": "A collection of Frost’s poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-11-11",
+  "title": "Gullible’s Travels",
+  "author": "Ring Lardner",
+  "summary": "An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/gullibles-travels",
+  "subjects": [
+    "comedy",
+    "fiction",
+    "satire",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-11-11",
+  "title": "Space Viking",
+  "author": "H. Beam Piper",
+  "summary": "A tragic starfarer seeks revenge in this epic space opera.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-beam-piper/space-viking/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-beam-piper/space-viking",
+  "subjects": [
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-11-11",
+  "title": "Fables",
+  "author": "Aesop",
+  "summary": "Aesop’s classic Fables of behavior and consequence.",
+  "coverUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones",
+  "subjects": [
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-11-11",
   "title": "The Imitation of Christ",
   "author": "Thomas à Kempis",
   "summary": "Thomas à Kempis provides instructions for a Christian spiritual life.",
@@ -183,103 +264,15 @@
 }
 ,
 {
-  "genre": "philosophy",
-  "date": "2026-11-10",
-  "title": "The Public and Its Problems",
-  "author": "John Dewey",
-  "summary": "A discussion of the political philosophy of a democratic society.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems",
-  "subjects": [
-    "nonfiction",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-11-10",
-  "title": "Poetry",
-  "author": "William Shakespeare",
-  "summary": "A collection of William Shakespeare’s poems and sonnets.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-11-10",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
-  "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-11-10",
-  "title": "Journey to the Center of the Earth",
-  "author": "Jules Verne",
-  "summary": "Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson",
-  "subjects": [
-    "adventure",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-11-10",
-  "title": "Short Fiction",
-  "author": "Algis Budrys",
-  "summary": "Science fiction short stories by author Algis Budrys.",
-  "coverUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
-  "subjects": [
-    "science_fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-11-10",
-  "title": "Religion and the Rise of Capitalism",
-  "author": "R. H. Tawney",
-  "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/r-h-tawney/religion-and-the-rise-of-capitalism",
-  "subjects": [
-    "nonfiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
   "genre": "travel",
-  "date": "2026-11-10",
-  "title": "The Worst Journey in the World",
-  "author": "Apsley Cherry-Garrard",
-  "summary": "The travelogue of a member of Robert Scott’s ill-fated Antarctic expedition of 1910.",
-  "coverUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "date": "2026-11-11",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
   "subjects": [
-    "memoir",
-    "nonfiction",
+    "shorts",
     "travel"
   ]
 }
