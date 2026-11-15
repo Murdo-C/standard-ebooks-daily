@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "title": "A Popular Schoolgirl",
   "author": "Angela Brazil",
   "summary": "A schoolgirl navigates a difficult year after a new girl has inadvertently assumed her mantle.",
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-14",
-  "title": "Cleopatra",
-  "author": "H. Rider Haggard",
-  "summary": "An Egyptian patriot relates the tale of the fall of Cleopatra.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-rider-haggard/cleopatra/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-rider-haggard/cleopatra",
+  "date": "2026-11-15",
+  "title": "The Master of Ballantrae",
+  "author": "Robert Louis Stevenson",
+  "summary": "The relationship of two noble brothers is blighted by hostility and vengeance in Jacobite Scotland.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,145 +28,7 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-14",
-  "title": "The Autobiography of a Super-Tramp",
-  "author": "W. H. Davies",
-  "summary": "At the end of the 19th century, a destitute tramp wanders across England and North America.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp",
-  "subjects": [
-    "autobiography",
-    "travel"
-  ]
-}
-,
-{
-  "genre": "biography",
-  "date": "2026-11-14",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
-  "subjects": [
-    "biography",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-11-14",
-  "title": "The Secret of the Old Clock",
-  "author": "Carolyn Keene",
-  "summary": "The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.",
-  "coverUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock",
-  "subjects": [
-    "childrens",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-11-14",
-  "title": "A Gentleman of Leisure",
-  "author": "P. G. Wodehouse",
-  "summary": "Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/a-gentleman-of-leisure",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-11-14",
-  "title": "Henry V",
-  "author": "William Shakespeare",
-  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-11-14",
-  "title": "The Roots of the Mountains",
-  "author": "William Morris",
-  "summary": "The peoples of the dales and woods must unite to defeat a foe intent on enslaving them.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-11-14",
-  "title": "The Cloven Foot",
-  "author": "M. E. Braddon",
-  "summary": "A man down on his luck will inherit a fortune if he marries his uncle’s adopted daughter, but secrets from his past stand in his way.",
-  "coverUrl": "https://standardebooks.org/ebooks/m-e-braddon/the-cloven-foot/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/m-e-braddon/the-cloven-foot",
-  "subjects": [
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "horror",
-  "date": "2026-11-14",
-  "title": "Ghost Stories",
-  "author": "E. F. Benson",
-  "summary": "A collection of ghost stories by E. F. Benson.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-benson/ghost-stories",
-  "subjects": [
-    "fiction",
-    "horror",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "memoir",
-  "date": "2026-11-14",
-  "title": "A Personal Record",
-  "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-11-14",
-  "title": "The Cheyne Mystery",
-  "author": "Freeman Wills Crofts",
-  "summary": "A man is drugged and then burgled for something he doesn’t know he has.",
-  "coverUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery",
-  "subjects": [
-    "fiction",
-    "mystery"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "title": "Personal Memoirs of Ulysses S. Grant",
   "author": "Ulysses S. Grant",
   "summary": "One of the greatest generals of the United States tells the story of his life and details his key role in winning the Civil War.",
@@ -179,8 +41,149 @@
 }
 ,
 {
+  "genre": "biography",
+  "date": "2026-11-15",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "subjects": [
+    "biography",
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "childrens",
+  "date": "2026-11-15",
+  "title": "Indian Fairy Tales",
+  "author": "Joseph Jacobs",
+  "summary": "A collection of fairy tales that exhibits India’s rich folk tale tradition.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-jacobs/indian-fairy-tales",
+  "subjects": [
+    "childrens",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "comedy",
+  "date": "2026-11-15",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
+  "subjects": [
+    "comedy",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "drama",
+  "date": "2026-11-15",
+  "title": "Henry IV, Part II",
+  "author": "William Shakespeare",
+  "summary": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
+  "subjects": [
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-11-15",
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl takes a passerby down the road near her farm when they find themselves transported to another land.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+  "subjects": [
+    "childrens",
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-11-15",
+  "title": "El Dorado",
+  "author": "Baroness Orczy",
+  "summary": "Two separate interests want to free the imprisoned Dauphin of France.",
+  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/el-dorado",
+  "subjects": [
+    "adventure",
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-11-15",
+  "title": "The Magician",
+  "author": "W. Somerset Maugham",
+  "summary": "A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/the-magician",
+  "subjects": [
+    "horror",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-11-15",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "summary": "Julius Caesar’s account of the conflicts between Rome and Gaul in the later years of the Roman republic.",
+  "coverUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-11-15",
+  "title": "Tracks in the Snow",
+  "author": "Godfrey R. Benson",
+  "summary": "A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.",
+  "coverUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+  "subjects": [
+    "fiction",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-11-15",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
+  "subjects": [
+    "biography",
+    "nonfiction"
+  ]
+}
+,
+{
   "genre": "philosophy",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "title": "Democracy and Social Ethics",
   "author": "Jane Addams",
   "summary": "Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility.",
@@ -194,12 +197,12 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-14",
-  "title": "A Cycle of the West",
-  "author": "John G. Neihardt",
-  "summary": "A series of epic poems that recounts the history, legends, and mythology of the American West.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
+  "date": "2026-11-15",
+  "title": "Songs of the Cattle Trail and Cow Camp",
+  "author": "John A. Lomax",
+  "summary": "A collection of cowboy poetry collected by folklorist John A. Lomax.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp",
   "subjects": [
     "poetry"
   ]
@@ -207,12 +210,12 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-11-14",
-  "title": "The Little Nugget",
+  "date": "2026-11-15",
+  "title": "The Coming of Bill",
   "author": "P. G. Wodehouse",
-  "summary": "The ambitious fiancée of an English gentleman asks him to kidnap the son of an American businessman from boarding school, before professional kidnappers get to him first.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-little-nugget",
+  "summary": "A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
   "subjects": [
     "satire"
   ]
@@ -220,12 +223,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-14",
-  "title": "Last and First Men",
-  "author": "Olaf Stapledon",
-  "summary": "A human from the very distant future relates the whole history of mankind to a modern-day human.",
-  "coverUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
+  "date": "2026-11-15",
+  "title": "The Stainless Steel Rat",
+  "author": "Harry Harrison",
+  "summary": "An intergalactic thief tries life on the side of the law.",
+  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat",
   "subjects": [
     "science_fiction"
   ]
@@ -233,41 +236,42 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-14",
-  "title": "The Book of Wonder",
-  "author": "Lord Dunsany",
-  "summary": "A collection of fantastical short stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
+  "date": "2026-11-15",
+  "title": "Short Fiction",
+  "author": "Cordwainer Smith",
+  "summary": "A collection of short stories by Cordwainer Smith ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/cordwainer-smith/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/cordwainer-smith/short-fiction",
   "subjects": [
-    "fantasy",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-14",
-  "title": "A Day at a Time",
-  "author": "Archibald Alexander",
-  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
+  "date": "2026-11-15",
+  "title": "The Protestant Ethic and the Spirit of Capitalism",
+  "author": "Max Weber",
+  "summary": "A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
   "subjects": [
+    "nonfiction",
+    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-11-14",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2026-11-15",
+  "title": "Two Years Before the Mast",
+  "author": "Richard Henry Dana Jr.",
+  "summary": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
   "subjects": [
-    "shorts",
     "travel"
   ]
 }
