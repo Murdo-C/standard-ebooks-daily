@@ -1,25 +1,25 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-16",
-  "title": "Voodoo Planet",
-  "author": "Andre Norton",
-  "summary": "Dane Thorson travels to the safari planet Khatka and encounters an evil witch doctor.",
-  "coverUrl": "https://standardebooks.org/ebooks/andre-norton/voodoo-planet/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/andre-norton/voodoo-planet",
+  "date": "2026-11-17",
+  "title": "Wolf Solent",
+  "author": "John Cowper Powys",
+  "summary": "A teacher flees modernity in London and to make a life in his small Dorset hometown.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-cowper-powys/wolf-solent/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-cowper-powys/wolf-solent",
   "subjects": [
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-16",
-  "title": "Doctor Syn",
-  "author": "Russell Thorndike",
-  "summary": "A king’s enforcer searching for smugglers uncovers the dark past of the inhabitants of a small English town.",
-  "coverUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/russell-thorndike/doctor-syn",
+  "date": "2026-11-17",
+  "title": "The Special Correspondent",
+  "author": "Jules Verne",
+  "summary": "A Parisian news reporter is assigned to travel across Asia by train and report on the sights, experiences, and interesting characters along the way.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-16",
-  "title": "Memoirs of an Infantry Officer",
-  "author": "Siegfried Sassoon",
-  "summary": "An Englishman recounts his service, and his turn to pacifism, during World War I.",
-  "coverUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer",
+  "date": "2026-11-17",
+  "title": "The Enormous Room",
+  "author": "E. E. Cummings",
+  "summary": "E. E. Cummings describes the experiences of his and his fellow inmates’ imprisonment during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room",
   "subjects": [
     "autobiography",
     "fiction"
@@ -42,181 +42,40 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-11-16",
-  "title": "The Lives and Opinions of Eminent Philosophers",
-  "author": "Diogenes Laërtius",
-  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
-  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "date": "2026-11-17",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "childrens",
-  "date": "2026-11-16",
-  "title": "Old Indian Legends",
-  "author": "Zitkála-Šá",
-  "summary": "A collection of Dakota legends retold by Zitkála-Šá.",
-  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
-  "subjects": [
-    "childrens",
-    "fiction",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "comedy",
-  "date": "2026-11-16",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
-  "subjects": [
-    "comedy",
-    "drama"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-11-16",
-  "title": "Henry V",
-  "author": "William Shakespeare",
-  "summary": "Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/henry-v",
-  "subjects": [
-    "drama"
-  ]
-}
-,
-{
-  "genre": "fantasy",
-  "date": "2026-11-16",
-  "title": "The Roots of the Mountains",
-  "author": "William Morris",
-  "summary": "The peoples of the dales and woods must unite to defeat a foe intent on enslaving them.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-morris/the-roots-of-the-mountains",
-  "subjects": [
-    "fantasy"
-  ]
-}
-,
-{
-  "genre": "fiction",
-  "date": "2026-11-16",
-  "title": "The Elusive Pimpernel",
-  "author": "Baroness Orczy",
-  "summary": "A French official schemes to finally catch the Scarlet Pimpernel.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel",
-  "subjects": [
-    "adventure",
     "fiction"
   ]
 }
 ,
 {
-  "genre": "horror",
-  "date": "2026-11-16",
-  "title": "The Room in the Dragon Volant",
-  "author": "J. Sheridan Le Fanu",
-  "summary": "After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+  "genre": "childrens",
+  "date": "2026-11-17",
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "summary": "A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.",
+  "coverUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
   "subjects": [
-    "horror",
-    "mystery"
+    "childrens",
+    "fiction"
   ]
 }
 ,
 {
-  "genre": "memoir",
-  "date": "2026-11-16",
-  "title": "A Personal Record",
-  "author": "Joseph Conrad",
-  "summary": "Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.",
-  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/a-personal-record",
-  "subjects": [
-    "memoir",
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "mystery",
-  "date": "2026-11-16",
-  "title": "The Incredulity of Father Brown",
-  "author": "G. K. Chesterton",
-  "summary": "The third set of stories of a Catholic priest who is also an amateur detective.",
-  "coverUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
-  "subjects": [
-    "fiction",
-    "mystery",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "nonfiction",
-  "date": "2026-11-16",
-  "title": "Ten Days That Shook the World",
-  "author": "John Reed",
-  "summary": "Journalist John Reed gives a first-hand account of Russia’s 1917 October Revolution, which lead to the formation of the Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-reed/ten-days-that-shook-the-world/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-reed/ten-days-that-shook-the-world",
-  "subjects": [
-    "nonfiction"
-  ]
-}
-,
-{
-  "genre": "philosophy",
-  "date": "2026-11-16",
-  "title": "Demian",
-  "author": "Hermann Hesse",
-  "summary": "A boy goes on a journey of spiritual growth.",
-  "coverUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday",
-  "subjects": [
-    "fiction",
-    "philosophy",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-11-16",
-  "title": "Paradise Lost",
-  "author": "John Milton",
-  "summary": "A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
-  "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-11-16",
-  "title": "A Woman of No Importance",
-  "author": "Oscar Wilde",
-  "summary": "A mother’s secretive past clashes with high society when her son is offered an irresistible position with a charismatic nobleman.",
-  "coverUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/oscar-wilde/a-woman-of-no-importance",
+  "genre": "comedy",
+  "date": "2026-11-17",
+  "title": "June Moon",
+  "author": "Ring Lardner",
+  "summary": "A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
   "subjects": [
     "comedy",
     "drama",
@@ -225,42 +84,181 @@
 }
 ,
 {
-  "genre": "science_fiction",
-  "date": "2026-11-16",
-  "title": "Short Fiction",
-  "author": "Harry Harrison",
-  "summary": "A collection of science fiction stories by Harry Harrison, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/harry-harrison/short-fiction",
+  "genre": "drama",
+  "date": "2026-11-17",
+  "title": "Short Plays",
+  "author": "George Bernard Shaw",
+  "summary": "A collection of sixteen short plays by George Bernard Shaw.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/short-plays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/short-plays",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-11-17",
+  "title": "Dorothy and the Wizard in Oz",
+  "author": "L. Frank Baum",
+  "summary": "A young girl and her companions travel through dangerous underground realms with the help of an old friend.",
+  "coverUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz",
+  "subjects": [
+    "childrens",
+    "fantasy"
+  ]
+}
+,
+{
+  "genre": "fiction",
+  "date": "2026-11-17",
+  "title": "The Gambler",
+  "author": "Fyodor Dostoevsky",
+  "summary": "A Russian tutor deals with the outcomes of the allure of roulette.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-gambler/c-j-hogarth/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-gambler/c-j-hogarth",
+  "subjects": [
+    "fiction"
+  ]
+}
+,
+{
+  "genre": "horror",
+  "date": "2026-11-17",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "subjects": [
+    "fiction",
+    "horror"
+  ]
+}
+,
+{
+  "genre": "memoir",
+  "date": "2026-11-17",
+  "title": "The Mirror of the Sea",
+  "author": "Joseph Conrad",
+  "summary": "An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.",
+  "coverUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea",
+  "subjects": [
+    "memoir",
+    "nonfiction",
+    "travel"
+  ]
+}
+,
+{
+  "genre": "mystery",
+  "date": "2026-11-17",
+  "title": "The Layton Court Mystery",
+  "author": "Anthony Berkeley",
+  "summary": "Two friends become amateur sleuths when a suicide during a summer retreat leaves too many questions unanswered.",
+  "coverUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-layton-court-mystery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anthony-berkeley/the-layton-court-mystery",
+  "subjects": [
+    "comedy",
+    "mystery"
+  ]
+}
+,
+{
+  "genre": "nonfiction",
+  "date": "2026-11-17",
+  "title": "The Storm of Steel",
+  "author": "Ernst Jünger",
+  "summary": "A German storm troop officer recounts his experiences in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton",
+  "subjects": [
+    "memoir",
+    "nonfiction"
+  ]
+}
+,
+{
+  "genre": "philosophy",
+  "date": "2026-11-17",
+  "title": "A Voice from the South",
+  "author": "Anna Julia Cooper",
+  "summary": "A Black woman from the American South philosophizes on various subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "subjects": [
+    "nonfiction",
+    "philosophy"
+  ]
+}
+,
+{
+  "genre": "poetry",
+  "date": "2026-11-17",
+  "title": "John Brown’s Body",
+  "author": "Stephen Vincent Benét",
+  "summary": "The sweeping tragedy of the American Civil War is chronicled through the interwoven experiences of soldiers and civilians from both the North and the South.",
+  "coverUrl": "https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body",
+  "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-11-17",
+  "title": "Those Barren Leaves",
+  "author": "Aldous Huxley",
+  "summary": "An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.",
+  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves",
+  "subjects": [
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-11-17",
+  "title": "Islands of Space",
+  "author": "John W. Campbell",
+  "summary": "Four men become the first humans to travel to other galaxies.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-w-campbell/islands-of-space",
+  "subjects": [
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-16",
-  "title": "The League of the Scarlet Pimpernel",
-  "author": "Baroness Orczy",
-  "summary": "A collection of short stories featuring the Scarlet Pimpernel.",
-  "coverUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/baroness-orczy/the-league-of-the-scarlet-pimpernel",
+  "date": "2026-11-17",
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "adventure",
-    "fiction",
-    "shorts"
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-16",
-  "title": "The Varieties of Religious Experience",
-  "author": "William James",
-  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+  "date": "2026-11-17",
+  "title": "The Way to God and How to Find It",
+  "author": "D. L. Moody",
+  "summary": "An evangelical preacher shares his theological framework.",
+  "coverUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it",
   "subjects": [
     "nonfiction",
     "spirituality"
@@ -269,17 +267,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-11-16",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-11-17",
+  "title": "The Path to Rome",
+  "author": "Hilaire Belloc",
+  "summary": "Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.",
+  "coverUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
+    "nonfiction",
+    "spirituality",
     "travel"
   ]
 }
