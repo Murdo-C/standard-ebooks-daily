@@ -1,85 +1,81 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-19",
-  "title": "Gulliver’s Travels",
-  "author": "Jonathan Swift",
-  "summary": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
+  "date": "2026-11-20",
+  "title": "Ten Days That Shook the World",
+  "author": "John Reed",
+  "summary": "Journalist John Reed gives a first-hand account of Russia’s 1917 October Revolution, which lead to the formation of the Soviet Union.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-reed/ten-days-that-shook-the-world/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-reed/ten-days-that-shook-the-world",
   "subjects": [
-    "fiction",
-    "satire"
-  ]
-}
-,
-{
-  "genre": "adventure",
-  "date": "2026-11-19",
-  "title": "The Survivors of the Chancellor",
-  "author": "Jules Verne",
-  "summary": "A record of the ill-fated voyage of the Chancellor as told by one of the passengers.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-e-frewer/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-e-frewer",
-  "subjects": [
-    "adventure",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "autobiography",
-  "date": "2026-11-19",
-  "title": "“We”",
-  "author": "Charles A. Lindbergh",
-  "summary": "Legendary aviator Charles Lindbergh gives an account of his early life, how he got into flying, and his famous transatlantic flight.",
-  "coverUrl": "https://standardebooks.org/ebooks/charles-a-lindbergh/we/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/charles-a-lindbergh/we",
-  "subjects": [
-    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
-  "genre": "biography",
-  "date": "2026-11-19",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "genre": "adventure",
+  "date": "2026-11-20",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "summary": "A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon",
   "subjects": [
-    "biography",
-    "memoir",
-    "nonfiction",
+    "adventure",
+    "fiction",
     "travel"
   ]
 }
 ,
 {
+  "genre": "autobiography",
+  "date": "2026-11-20",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "summary": "The thirtieth president of the United States recounts his life story.",
+  "coverUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge",
+  "subjects": [
+    "autobiography"
+  ]
+}
+,
+{
+  "genre": "biography",
+  "date": "2026-11-20",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laërtius",
+  "summary": "Brief biographies of the prominent philosophers of ancient Greece.",
+  "coverUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge",
+  "subjects": [
+    "biography",
+    "philosophy"
+  ]
+}
+,
+{
   "genre": "childrens",
-  "date": "2026-11-19",
-  "title": "Old Indian Legends",
-  "author": "Zitkála-Šá",
-  "summary": "A collection of Dakota legends retold by Zitkála-Šá.",
-  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+  "date": "2026-11-20",
+  "title": "Smoky the Cowhorse",
+  "author": "Will James",
+  "summary": "Smoky, a gray-colored horse, grows into adulthood on the ranges of the American West.",
+  "coverUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse",
   "subjects": [
     "childrens",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-19",
-  "title": "The Conscious Lovers",
-  "author": "Richard Steele",
-  "summary": "A rich young man tries to avoid the marriage his father has arranged.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers",
+  "date": "2026-11-20",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "summary": "Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.",
+  "coverUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/richard-brinsley-sheridan/the-school-for-scandal",
   "subjects": [
     "comedy",
     "drama"
@@ -88,39 +84,41 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-11-19",
-  "title": "Mrs. Warren’s Profession",
+  "date": "2026-11-20",
+  "title": "Misalliance",
   "author": "George Bernard Shaw",
-  "summary": "A young woman learns a secret about her mother’s past and must decide what it means for her future.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession",
+  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
   "subjects": [
+    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-11-19",
-  "title": "Peter and Wendy",
-  "author": "J. M. Barrie",
-  "summary": "A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.",
-  "coverUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy",
+  "date": "2026-11-20",
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "summary": "A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
   "subjects": [
-    "childrens",
-    "fantasy"
+    "comedy",
+    "fantasy",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-19",
-  "title": "The Created Legend",
-  "author": "Fyodor Sologub",
-  "summary": "In a provincial town a Russian poet draws himself away from society to create his utopia.",
-  "coverUrl": "https://standardebooks.org/ebooks/fyodor-sologub/the-created-legend/john-cournos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fyodor-sologub/the-created-legend/john-cournos",
+  "date": "2026-11-20",
+  "title": "The Idiot",
+  "author": "Fyodor Dostoevsky",
+  "summary": "An epileptic prince becomes entangled in Russian high society.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-idiot/eva-m-martin/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-idiot/eva-m-martin",
   "subjects": [
     "fiction"
   ]
@@ -128,41 +126,42 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-11-19",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-11-20",
+  "title": "The Necromancers",
+  "author": "Robert Hugh Benson",
+  "summary": "A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
   "subjects": [
+    "fiction",
     "horror",
-    "science_fiction"
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-11-19",
-  "title": "Essays",
-  "author": "Henry David Thoreau",
-  "summary": "A collection of Henry David Thoreau’s essays.",
-  "coverUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "date": "2026-11-20",
+  "title": "The Education of Henry Adams",
+  "author": "Henry Adams",
+  "summary": "A prominent and caustic historian reflects on the reasons that “the more he was educated, the less he understood,” and what he believes the future holds for American society.",
+  "coverUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/henry-adams/the-education-of-henry-adams",
   "subjects": [
+    "autobiography",
     "memoir",
-    "nonfiction",
-    "travel"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-19",
-  "title": "The Secret Adversary",
+  "date": "2026-11-20",
+  "title": "The Murder on the Links",
   "author": "Agatha Christie",
-  "summary": "Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary",
+  "summary": "A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links",
   "subjects": [
     "fiction",
     "mystery"
@@ -171,26 +170,25 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-19",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2026-11-20",
+  "title": "Aspects of the Novel",
+  "author": "E. M. Forster",
+  "summary": "E. M. Forster offers an analysis of aspects of the novel.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
   "subjects": [
-    "memoir",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-11-19",
-  "title": "The Wealth of Nations",
-  "author": "Adam Smith",
-  "summary": "Adam Smith lays the foundation of classical economics.",
-  "coverUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations",
+  "date": "2026-11-20",
+  "title": "An Enquiry Concerning Human Understanding",
+  "author": "David Hume",
+  "summary": "Hume examines the fundamental nature of knowledge, reality and human understanding.",
+  "coverUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding",
   "subjects": [
     "philosophy"
   ]
@@ -198,26 +196,25 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-19",
-  "title": "Hudibras",
-  "author": "Samuel Butler",
-  "summary": "A knight and his squire set forth for adventure and love.",
-  "coverUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras",
+  "date": "2026-11-20",
+  "title": "Songs of a Sourdough",
+  "author": "Robert W. Service",
+  "summary": "A collection of poems about the Klondike Gold Rush.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-w-service/songs-of-a-sourdough",
   "subjects": [
-    "fiction",
     "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-11-19",
-  "title": "Point Counter Point",
-  "author": "Aldous Huxley",
-  "summary": "Several connected stories are interwoven to create a satirical look at English society.",
-  "coverUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+  "date": "2026-11-20",
+  "title": "Vile Bodies",
+  "author": "Evelyn Waugh",
+  "summary": "A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.",
+  "coverUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies",
   "subjects": [
     "fiction",
     "satire"
@@ -226,12 +223,12 @@
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-19",
-  "title": "The Mummy!",
-  "author": "Jane C. Loudon",
-  "summary": "An ancient Egyptian mummy is resurrected in the twenty-second century.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy",
+  "date": "2026-11-20",
+  "title": "A Strange Manuscript Found in a Copper Cylinder",
+  "author": "James De Mille",
+  "summary": "A shipwrecked sailor travels through a portal to a lost world populated by fantastic creatures and a strange civilization.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder",
   "subjects": [
     "science_fiction"
   ]
@@ -239,41 +236,41 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "title": "Short Fiction",
-  "author": "F. Scott Fitzgerald",
-  "summary": "A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction",
+  "author": "Fritz Leiber",
+  "summary": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "coverUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction",
   "subjects": [
-    "fiction",
+    "science_fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-19",
-  "title": "The Art of Illustration",
-  "author": "C. H. Spurgeon",
-  "summary": "Baptist preacher C. H. Spurgeon teaches how to use illustrations and examples for effective preaching.",
-  "coverUrl": "https://standardebooks.org/ebooks/c-h-spurgeon/the-art-of-illustration/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/c-h-spurgeon/the-art-of-illustration",
+  "date": "2026-11-20",
+  "title": "The Pursuit of God",
+  "author": "A. W. Tozer",
+  "summary": "A. W. Tozer’s classic work on Christian living, containing practical advice for those who wish to know God, not simply know about Him.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-w-tozer/the-pursuit-of-god",
   "subjects": [
-    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-11-19",
-  "title": "Racundra’s First Cruise",
-  "author": "Arthur Ransome",
-  "summary": "A writer builds a boat and sails it across the Baltic Sea with his two companions.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise",
+  "date": "2026-11-20",
+  "title": "Journals",
+  "author": "Alexander Mackenzie",
+  "summary": "Explorer Alexander Mackenzie details his journeys to both the Arctic and Pacific Oceans in his personal journals.",
+  "coverUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/alexander-mackenzie/journals",
   "subjects": [
+    "adventure",
     "nonfiction",
     "travel"
   ]
