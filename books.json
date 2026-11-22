@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-21",
-  "title": "Eugénie Grandet",
+  "date": "2026-11-22",
+  "title": "A Start in Life",
   "author": "Honoré de Balzac",
-  "summary": "A young woman with a miserly father falls in love with her cousin.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/eugenie-grandet/clara-bell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/eugenie-grandet/clara-bell",
+  "summary": "A young man ventures out on his own and suffers the consequences of his pride and impulsiveness.",
+  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-start-in-life/clara-bell/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-start-in-life/clara-bell",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-21",
-  "title": "The Fur Country",
+  "date": "2026-11-22",
+  "title": "The Child of the Cavern",
   "author": "Jules Verne",
-  "summary": "A group of colonists attempt to settle in the Arctic Circle.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/nancy-bell/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/nancy-bell",
+  "summary": "An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.",
+  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,27 +28,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-21",
-  "title": "Up from Slavery",
-  "author": "Booker T. Washington",
-  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
-  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
+  "date": "2026-11-22",
+  "title": "The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk",
+  "author": "Black Hawk",
+  "summary": "The autobiography of Black Hawk, the famous leader of the Native American Sauk tribe and central figure in the Black Hawk War of 1832.",
+  "coverUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/black-hawk/the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk",
   "subjects": [
-    "autobiography",
-    "memoir",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-11-21",
-  "title": "A General History of the Pirates",
-  "author": "Captain Charles Johnson",
-  "summary": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
-  "coverUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates",
+  "date": "2026-11-22",
+  "title": "Eminent Victorians",
+  "author": "Lytton Strachey",
+  "summary": "Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians",
   "subjects": [
     "biography",
     "nonfiction"
@@ -57,12 +55,12 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-21",
-  "title": "Green Forest Stories",
+  "date": "2026-11-22",
+  "title": "Green Meadow Stories",
   "author": "Thornton W. Burgess",
-  "summary": "A collection of four animal tales featuring the denizens of the Green Forest.",
-  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-forest-stories",
+  "summary": "A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.",
+  "coverUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories",
   "subjects": [
     "childrens",
     "fiction"
@@ -71,57 +69,54 @@
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-21",
-  "title": "Ukridge Stories",
+  "date": "2026-11-22",
+  "title": "Uneasy Money",
   "author": "P. G. Wodehouse",
-  "summary": "A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories",
+  "summary": "When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money",
   "subjects": [
     "comedy",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "drama",
-  "date": "2026-11-21",
-  "title": "Misalliance",
+  "date": "2026-11-22",
+  "title": "Major Barbara",
   "author": "George Bernard Shaw",
-  "summary": "On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/misalliance",
+  "summary": "The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-11-21",
-  "title": "The Demi-Gods",
-  "author": "James Stephens",
-  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
+  "date": "2026-11-22",
+  "title": "The Line of Love",
+  "author": "James Branch Cabell",
+  "summary": "A generational saga plays out in a series of short stories about love and marriage in medieval Europe.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love",
   "subjects": [
-    "fantasy",
-    "philosophy"
+    "comedy",
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-21",
-  "title": "Old Indian Legends",
+  "date": "2026-11-22",
+  "title": "American Indian Stories",
   "author": "Zitkála-Šá",
-  "summary": "A collection of Dakota legends retold by Zitkála-Šá.",
-  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+  "summary": "A collection of stories about Dakota Indians.",
+  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories",
   "subjects": [
-    "childrens",
     "fiction",
     "shorts"
   ]
@@ -129,42 +124,42 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-11-21",
-  "title": "The Beetle",
-  "author": "Richard Marsh",
-  "summary": "A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.",
-  "coverUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/richard-marsh/the-beetle",
+  "date": "2026-11-22",
+  "title": "Short Fiction",
+  "author": "M. R. James",
+  "summary": "A collection of ghost stories written by M. R. James.",
+  "coverUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/m-r-james/short-fiction",
   "subjects": [
-    "horror"
+    "horror",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-11-21",
-  "title": "Recollections of Full Years",
-  "author": "Helen Herron Taft",
-  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
+  "date": "2026-11-22",
+  "title": "The House of the Dead",
+  "author": "Fyodor Dostoevsky",
+  "summary": "A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett",
   "subjects": [
-    "biography",
-    "memoir",
-    "nonfiction",
-    "travel"
+    "fiction",
+    "memoir"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-21",
-  "title": "The Murder on the Links",
+  "date": "2026-11-22",
+  "title": "The Man in the Brown Suit",
   "author": "Agatha Christie",
-  "summary": "A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-on-the-links",
+  "summary": "Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit",
   "subjects": [
+    "adventure",
     "fiction",
     "mystery"
   ]
@@ -172,14 +167,14 @@
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-21",
-  "title": "The Cruise of the Alerte",
-  "author": "E. F. Knight",
-  "summary": "An English journalist sets sail in search of treasure buried on a remote desert island.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte",
+  "date": "2026-11-22",
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "summary": "A classic in early mountaineering literature, describing the first ascent of the Matterhorn and other climbs in the Alps.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
   "subjects": [
-    "adventure",
+    "memoir",
     "nonfiction",
     "travel"
   ]
@@ -187,25 +182,26 @@
 ,
 {
   "genre": "philosophy",
-  "date": "2026-11-21",
-  "title": "Dialogues",
-  "author": "Plato",
-  "summary": "A collection of Plato’s dialogues.",
-  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+  "date": "2026-11-22",
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "summary": "Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.",
+  "coverUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan",
   "subjects": [
+    "nonfiction",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-21",
-  "title": "North of Boston",
+  "date": "2026-11-22",
+  "title": "New Hampshire",
   "author": "Robert Frost",
-  "summary": "A collection of Frost’s poetry.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/north-of-boston",
+  "summary": "Robert Frost’s Pulitzer-winning book of poetry.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-frost/new-hampshire",
   "subjects": [
     "poetry"
   ]
@@ -213,72 +209,70 @@
 ,
 {
   "genre": "satire",
-  "date": "2026-11-21",
-  "title": "The Surprising Adventures of Baron Munchausen",
-  "author": "Rudolph Erich Raspe",
-  "summary": "The legendary Baron Munchausen’s tall tales of wonder and adventure.",
-  "coverUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen",
+  "date": "2026-11-22",
+  "title": "How to Tell the Birds from the Flowers and Other Woodcuts",
+  "author": "Robert Williams Wood",
+  "summary": "A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts",
   "subjects": [
-    "comedy",
-    "fantasy",
+    "poetry",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-21",
-  "title": "Short Science Fiction",
-  "author": "Isaac Asimov",
-  "summary": "A collection of short science fiction by Isaac Asimov, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+  "date": "2026-11-22",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "summary": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness",
   "subjects": [
-    "science_fiction",
-    "shorts"
+    "adventure",
+    "horror",
+    "science_fiction"
   ]
 }
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-21",
-  "title": "Short Fiction",
-  "author": "Frederik Pohl",
-  "summary": "A collection of science fiction stories by Frederik Pohl ordered by date of publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+  "date": "2026-11-22",
+  "title": "Zuni Folktales",
+  "author": "Frank Hamilton Cushing",
+  "summary": "A collection of folktales from the Zuni culture.",
+  "coverUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales",
   "subjects": [
-    "science_fiction",
+    "fantasy",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-21",
-  "title": "The City of God",
-  "author": "Augustine of Hippo",
-  "summary": "Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.",
-  "coverUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+  "date": "2026-11-22",
+  "title": "A Day at a Time",
+  "author": "Archibald Alexander",
+  "summary": "A 1916 Christian devotional reflecting on faith and morality during World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/archibald-alexander/a-day-at-a-time",
   "subjects": [
-    "nonfiction",
-    "philosophy",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-11-21",
-  "title": "On a Chinese Screen",
-  "author": "W. Somerset Maugham",
-  "summary": "A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.",
-  "coverUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen",
+  "date": "2026-11-22",
+  "title": "The Autobiography of a Super-Tramp",
+  "author": "W. H. Davies",
+  "summary": "At the end of the 19th century, a destitute tramp wanders across England and North America.",
+  "coverUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp",
   "subjects": [
-    "shorts",
+    "autobiography",
     "travel"
   ]
 }
