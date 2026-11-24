@@ -1,7 +1,7 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "title": "A Woman of Thirty",
   "author": "Honoré de Balzac",
   "summary": "The story of a young woman who marries badly, told in several vignettes covering the remainder of her life.",
@@ -14,7 +14,7 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "title": "Robur the Conqueror",
   "author": "Jules Verne",
   "summary": "A domineering inventor kidnaps members of a balloonist club and flies them around the world to prove the superiority of his heavier-than-air machine.",
@@ -28,26 +28,25 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-23",
-  "title": "The Autobiography of Benjamin Franklin",
-  "author": "Benjamin Franklin",
-  "summary": "Benjamin Franklin writes about his youth, adventures, and achievements.",
-  "coverUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin",
+  "date": "2026-11-24",
+  "title": "Twenty Years at Hull House",
+  "author": "Jane Addams",
+  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
   "subjects": [
-    "autobiography",
-    "nonfiction"
+    "autobiography"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-11-23",
-  "title": "Tombstone",
-  "author": "Walter Noble Burns",
-  "summary": "An embellished retelling of the town of Tombstone, Arizona, during its heyday in the late 19th century, featuring famous heroes and outlaws of the American Old West.",
-  "coverUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "date": "2026-11-24",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
   "subjects": [
     "biography",
     "fiction"
@@ -56,27 +55,26 @@
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-23",
-  "title": "Hindu Tales from the Sanskrit",
-  "author": "S. M. Mitra",
-  "summary": "Short stories and fables from the Sanskrit tradition.",
-  "coverUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/s-m-mitra/hindu-tales-from-the-sanskrit",
+  "date": "2026-11-24",
+  "title": "The Wonderful Adventures of Nils",
+  "author": "Selma Lagerlöf",
+  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
+  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
   "subjects": [
     "childrens",
-    "fiction",
-    "shorts"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-23",
-  "title": "The Small Bachelor",
+  "date": "2026-11-24",
+  "title": "Something New",
   "author": "P. G. Wodehouse",
-  "summary": "A struggling artist and his dream girl set off on a series of comedic misadventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor",
+  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
+  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
   "subjects": [
     "comedy",
     "fiction"
@@ -85,12 +83,12 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-11-23",
-  "title": "Fanny’s First Play",
+  "date": "2026-11-24",
+  "title": "Getting Married",
   "author": "George Bernard Shaw",
-  "summary": "A young woman writes a play to shock her father, in which two respectable families deal with their with disreputable children.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play",
+  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
   "subjects": [
     "comedy",
     "drama"
@@ -99,90 +97,90 @@
 ,
 {
   "genre": "fantasy",
-  "date": "2026-11-23",
-  "title": "Jurgen",
+  "date": "2026-11-24",
+  "title": "Domnei",
   "author": "James Branch Cabell",
-  "summary": "Jurgen, a pawnbroker and “monstrous clever fellow,” is sent on a witty and parodic magical journey in search of true love.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/jurgen",
+  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
   "subjects": [
-    "comedy",
     "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-23",
-  "title": "Riders of the Purple Sage",
-  "author": "Zane Grey",
-  "summary": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
-  "coverUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage",
+  "date": "2026-11-24",
+  "title": "American Indian Stories",
+  "author": "Zitkála-Šá",
+  "summary": "A collection of stories about Dakota Indians.",
+  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories",
   "subjects": [
-    "adventure",
-    "fiction"
+    "fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-11-23",
-  "title": "Frankenstein",
-  "author": "Mary Shelley",
-  "summary": "A tragic scientist creates a monster in his laboratory.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "date": "2026-11-24",
+  "title": "Short Fiction",
+  "author": "Manly Wade Wellman",
+  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
+  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
   "subjects": [
     "horror",
-    "science_fiction"
+    "science_fiction",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-11-23",
-  "title": "The Hashish Eater",
-  "author": "Fitz Hugh Ludlow",
-  "summary": "A philosophical contemplation of youthful adventures spent ingesting large doses of psychoactive cannabis extract.",
-  "coverUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/fitz-hugh-ludlow/the-hashish-eater",
+  "date": "2026-11-24",
+  "title": "The Storm of Steel",
+  "author": "Ernst Jünger",
+  "summary": "A German storm troop officer recounts his experiences in World War I.",
+  "coverUrl": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton",
   "subjects": [
-    "memoir"
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-23",
-  "title": "The Murder at the Vicarage",
+  "date": "2026-11-24",
+  "title": "The Big Four",
   "author": "Agatha Christie",
-  "summary": "A vicar attempts to unravel the mystery of a murder that took place in his study, while his neighbor—an elderly spinster—takes an interest.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-murder-at-the-vicarage",
+  "summary": "A famous detective must use all his little grey cells to stop an immensely powerful and ruthless organization from taking over the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-23",
-  "title": "Reflections on the Revolution in France",
-  "author": "Edmund Burke",
-  "summary": "The conservative political theorist Edmund Burke critiques the political program of the French Revolution.",
-  "coverUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france",
+  "date": "2026-11-24",
+  "title": "The Way to God and How to Find It",
+  "author": "D. L. Moody",
+  "summary": "An evangelical preacher shares his theological framework.",
+  "coverUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it",
   "subjects": [
     "nonfiction",
-    "philosophy"
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "title": "Nicomachean Ethics",
   "author": "Aristotle",
   "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
@@ -195,41 +193,39 @@
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-23",
-  "title": "Gitanjali",
-  "author": "Rabindranath Tagore",
-  "summary": "Prose poems of offering translated by the author from the original Bengali.",
-  "coverUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali",
+  "date": "2026-11-24",
+  "title": "Victory Odes",
+  "author": "Pindar",
+  "summary": "A collection of lyric poems celebrating the triumphs of ancient Greek athletes in various sporting events.",
+  "coverUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way",
   "subjects": [
-    "fiction",
-    "poetry",
-    "spirituality"
+    "poetry"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-11-23",
-  "title": "Gulliver’s Travels",
-  "author": "Jonathan Swift",
-  "summary": "An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.",
-  "coverUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels",
+  "date": "2026-11-24",
+  "title": "The Beggar’s Opera",
+  "author": "John Gay",
+  "summary": "A highwayman worries that he’s undone when his love affairs are uncovered.",
+  "coverUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera",
   "subjects": [
-    "fiction",
+    "drama",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-23",
-  "title": "The World Set Free",
+  "date": "2026-11-24",
+  "title": "The War of the Worlds",
   "author": "H. G. Wells",
-  "summary": "Facing the devastation of a nuclear world war, humanity unites under a world government.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-world-set-free/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-world-set-free",
+  "summary": "The first-person narrative of the Martian invasion of 19th-century Earth.",
+  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
   "subjects": [
     "science_fiction"
   ]
@@ -237,45 +233,45 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-23",
-  "title": "Short Fiction",
-  "author": "Frank Belknap Long",
-  "summary": "A collection of short fiction by Frank Belknap Long, ordered by date of original publication.",
-  "coverUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "date": "2026-11-24",
+  "title": "A Thief in the Night",
+  "author": "E. W. Hornung",
+  "summary": "The gentleman thief’s pal reminisces on past adventures in this third collection of A. J. Raffles stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
   "subjects": [
-    "horror",
-    "science_fiction",
+    "fiction",
     "shorts"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-23",
-  "title": "Barlaam and Ioasaph",
-  "author": "Anonymous",
-  "summary": "A monk converts a cloistered young prince to Christianity.",
-  "coverUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
+  "date": "2026-11-24",
+  "title": "The Varieties of Religious Experience",
+  "author": "William James",
+  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
   "subjects": [
-    "fiction",
+    "nonfiction",
     "spirituality"
   ]
 }
 ,
 {
   "genre": "travel",
-  "date": "2026-11-23",
-  "title": "My Four Weeks in France",
+  "date": "2026-11-24",
+  "title": "Jack Keefe Stories",
   "author": "Ring Lardner",
-  "summary": "A sports columnist and humorist travels to France as a war correspondent during World War I and recounts his experiences on the assignment.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/my-four-weeks-in-france",
+  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
+  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
   "subjects": [
     "comedy",
-    "memoir",
-    "nonfiction",
+    "fiction",
+    "satire",
+    "shorts",
     "travel"
   ]
 }
