@@ -1,94 +1,84 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-24",
-  "title": "A Woman of Thirty",
-  "author": "Honoré de Balzac",
-  "summary": "The story of a young woman who marries badly, told in several vignettes covering the remainder of her life.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-woman-of-thirty/ellen-marriage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/a-woman-of-thirty/ellen-marriage",
+  "date": "2026-11-25",
+  "title": "A Vindication of the Rights of Woman",
+  "author": "Mary Wollstonecraft",
+  "summary": "Wollstonecraft argues for equal treatment of women in society, especially in matters of education.",
+  "coverUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mary-wollstonecraft/a-vindication-of-the-rights-of-woman",
   "subjects": [
-    "fiction"
+    "nonfiction",
+    "philosophy"
   ]
 }
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-24",
-  "title": "Robur the Conqueror",
-  "author": "Jules Verne",
-  "summary": "A domineering inventor kidnaps members of a balloonist club and flies them around the world to prove the superiority of his heavier-than-air machine.",
-  "coverUrl": "https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington",
+  "date": "2026-11-25",
+  "title": "Tarzan and the Ant Men",
+  "author": "Edgar Rice Burroughs",
+  "summary": "The legendary lord of the jungle Tarzan finds himself trapped in an unfamiliar land inhabited by a tiny people.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-ant-men",
   "subjects": [
     "adventure",
-    "science_fiction"
+    "fiction"
   ]
 }
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-24",
-  "title": "Twenty Years at Hull House",
-  "author": "Jane Addams",
-  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
-  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "date": "2026-11-25",
+  "title": "Running a Thousand Miles for Freedom",
+  "author": "William Craft",
+  "summary": "The authors escape from slavery by posing as a slaveowner and his slave.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
   "subjects": [
-    "autobiography"
+    "adventure",
+    "autobiography",
+    "memoir",
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "biography",
-  "date": "2026-11-24",
-  "title": "Personal Recollections of Joan of Arc",
-  "author": "Mark Twain",
-  "summary": "A fictional biography of Joan of Arc from her early teenage years to her martyrdom.",
-  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc",
+  "date": "2026-11-25",
+  "title": "Queen Victoria",
+  "author": "Lytton Strachey",
+  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
   "subjects": [
     "biography",
-    "fiction"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-24",
-  "title": "The Wonderful Adventures of Nils",
-  "author": "Selma Lagerlöf",
-  "summary": "Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.",
-  "coverUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard",
+  "date": "2026-11-25",
+  "title": "Harding’s Luck",
+  "author": "E. Nesbit",
+  "summary": "A poor orphan boy accidentally discovers magic which sends him into the past and leads to his recovery of a fortune and a lordly title.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/hardings-luck",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-24",
-  "title": "Something New",
-  "author": "P. G. Wodehouse",
-  "summary": "Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.",
-  "coverUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/p-g-wodehouse/something-new",
-  "subjects": [
-    "comedy",
-    "fiction"
-  ]
-}
-,
-{
-  "genre": "drama",
-  "date": "2026-11-24",
-  "title": "Getting Married",
-  "author": "George Bernard Shaw",
-  "summary": "On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/getting-married",
+  "date": "2026-11-25",
+  "title": "Twelfth Night",
+  "author": "William Shakespeare",
+  "summary": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
   "subjects": [
     "comedy",
     "drama"
@@ -96,50 +86,63 @@
 }
 ,
 {
-  "genre": "fantasy",
-  "date": "2026-11-24",
-  "title": "Domnei",
-  "author": "James Branch Cabell",
-  "summary": "The tale of to what extent a woman’s love is worth pursuing.",
-  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
+  "genre": "drama",
+  "date": "2026-11-25",
+  "title": "Candida",
+  "author": "George Bernard Shaw",
+  "summary": "A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
   "subjects": [
-    "fantasy"
+    "drama"
+  ]
+}
+,
+{
+  "genre": "fantasy",
+  "date": "2026-11-25",
+  "title": "Of One Blood",
+  "author": "Pauline E. Hopkins",
+  "summary": "A young scholar’s life spirals down a dark path after the near-death of a singer.",
+  "coverUrl": "https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood",
+  "subjects": [
+    "fantasy",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-24",
-  "title": "American Indian Stories",
-  "author": "Zitkála-Šá",
-  "summary": "A collection of stories about Dakota Indians.",
-  "coverUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories",
+  "date": "2026-11-25",
+  "title": "The Cords of Vanity",
+  "author": "James Branch Cabell",
+  "summary": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity",
   "subjects": [
-    "fiction",
-    "shorts"
+    "comedy",
+    "fiction"
   ]
 }
 ,
 {
   "genre": "horror",
-  "date": "2026-11-24",
-  "title": "Short Fiction",
-  "author": "Manly Wade Wellman",
-  "summary": "A collection of horror and science fiction stories by Manly Wade Wellman.",
-  "coverUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/manly-wade-wellman/short-fiction",
+  "date": "2026-11-25",
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "summary": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "coverUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
   "subjects": [
-    "horror",
-    "science_fiction",
-    "shorts"
+    "fiction",
+    "horror"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "title": "The Storm of Steel",
   "author": "Ernst Jünger",
   "summary": "A German storm troop officer recounts his experiences in World War I.",
@@ -153,79 +156,83 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-24",
-  "title": "The Big Four",
+  "date": "2026-11-25",
+  "title": "Partners in Crime",
   "author": "Agatha Christie",
-  "summary": "A famous detective must use all his little grey cells to stop an immensely powerful and ruthless organization from taking over the world.",
-  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/the-big-four",
+  "summary": "A young married couple take over running an “International Detective Agency.”",
+  "coverUrl": "https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/agatha-christie/partners-in-crime",
   "subjects": [
-    "mystery"
+    "fiction",
+    "mystery",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-24",
-  "title": "The Way to God and How to Find It",
-  "author": "D. L. Moody",
-  "summary": "An evangelical preacher shares his theological framework.",
-  "coverUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it",
+  "date": "2026-11-25",
+  "title": "The Condition of the Working Class in England",
+  "author": "Friedrich Engels",
+  "summary": "A philosopher reports on the state of the proletariat in Victorian England.",
+  "coverUrl": "https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky",
   "subjects": [
-    "nonfiction",
-    "spirituality"
+    "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-11-24",
-  "title": "Nicomachean Ethics",
-  "author": "Aristotle",
-  "summary": "Aristotle examines how one may live in the most thriving, excellent manner.",
-  "coverUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
+  "date": "2026-11-25",
+  "title": "The Demi-Gods",
+  "author": "James Stephens",
+  "summary": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
+  "coverUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods",
   "subjects": [
+    "fantasy",
     "philosophy"
   ]
 }
 ,
 {
   "genre": "poetry",
-  "date": "2026-11-24",
-  "title": "Victory Odes",
-  "author": "Pindar",
-  "summary": "A collection of lyric poems celebrating the triumphs of ancient Greek athletes in various sporting events.",
-  "coverUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way",
+  "date": "2026-11-25",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "summary": "A collection of literary nonsense in the forms of limericks, songs, and short stories.",
+  "coverUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edward-lear/nonsense-books",
   "subjects": [
-    "poetry"
+    "comedy",
+    "poetry",
+    "shorts"
   ]
 }
 ,
 {
   "genre": "satire",
-  "date": "2026-11-24",
-  "title": "The Beggar’s Opera",
-  "author": "John Gay",
-  "summary": "A highwayman worries that he’s undone when his love affairs are uncovered.",
-  "coverUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera",
+  "date": "2026-11-25",
+  "title": "Martin Eden",
+  "author": "Jack London",
+  "summary": "A young working-class man sets out to become a bourgeois writer.",
+  "coverUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jack-london/martin-eden",
   "subjects": [
-    "drama",
+    "fiction",
     "satire"
   ]
 }
 ,
 {
   "genre": "science_fiction",
-  "date": "2026-11-24",
-  "title": "The War of the Worlds",
-  "author": "H. G. Wells",
-  "summary": "The first-person narrative of the Martian invasion of 19th-century Earth.",
-  "coverUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+  "date": "2026-11-25",
+  "title": "The Absolute at Large",
+  "author": "Karel Čapek",
+  "summary": "An inventor builds an atomic engine which converts matter into energy, but has the unfortunate side-effect of liberating divinity into the world.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/the-absolute-at-large/sarka-b-hrbkova",
   "subjects": [
     "science_fiction"
   ]
@@ -233,21 +240,24 @@
 ,
 {
   "genre": "shorts",
-  "date": "2026-11-24",
-  "title": "A Thief in the Night",
-  "author": "E. W. Hornung",
-  "summary": "The gentleman thief’s pal reminisces on past adventures in this third collection of A. J. Raffles stories.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
+  "date": "2026-11-25",
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
+  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
   "subjects": [
-    "fiction",
-    "shorts"
+    "childrens",
+    "fantasy",
+    "horror",
+    "shorts",
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "spirituality",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "title": "The Varieties of Religious Experience",
   "author": "William James",
   "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
@@ -261,17 +271,15 @@
 ,
 {
   "genre": "travel",
-  "date": "2026-11-24",
-  "title": "Jack Keefe Stories",
-  "author": "Ring Lardner",
-  "summary": "A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories",
+  "date": "2026-11-25",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
   "subjects": [
-    "comedy",
-    "fiction",
-    "satire",
-    "shorts",
+    "memoir",
+    "nonfiction",
     "travel"
   ]
 }
