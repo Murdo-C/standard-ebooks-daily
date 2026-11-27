@@ -1,12 +1,12 @@
 { "books": [
 {
   "genre": "all",
-  "date": "2026-11-26",
-  "title": "The Teeth of the Tiger",
+  "date": "2026-11-27",
+  "title": "The Hollow Needle",
   "author": "Maurice Leblanc",
-  "summary": "A series of murders connected to an enormous legacy leads to a battle against an unseen adversary.",
-  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos",
+  "summary": "The famous gentleman-thief plans his most audacious crime yet: to steal the lost treasures of France.",
+  "coverUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-hollow-needle/alexander-teixeira-de-mattos/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/maurice-leblanc/the-hollow-needle/alexander-teixeira-de-mattos",
   "subjects": [
     "fiction"
   ]
@@ -14,12 +14,12 @@
 ,
 {
   "genre": "adventure",
-  "date": "2026-11-26",
-  "title": "The Four Just Men",
-  "author": "Edgar Wallace",
-  "summary": "To prevent the passage of a controversial government bill, four vigilantes take the law into their own hands.",
-  "coverUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-four-just-men",
+  "date": "2026-11-27",
+  "title": "Tarzan the Terrible",
+  "author": "Edgar Rice Burroughs",
+  "summary": "Tarzan seeks to rescue his kidnapped wife from a lost city hidden in a prehistoric jungle.",
+  "coverUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-the-terrible/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-the-terrible",
   "subjects": [
     "adventure",
     "fiction"
@@ -28,12 +28,12 @@
 ,
 {
   "genre": "autobiography",
-  "date": "2026-11-26",
-  "title": "The Story of My Life",
-  "author": "Helen Keller",
-  "summary": "Helen Keller writes about her experiences as a deafblind child learning to communicate.",
-  "coverUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
+  "date": "2026-11-27",
+  "title": "Twenty Years at Hull House",
+  "author": "Jane Addams",
+  "summary": "Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.",
+  "coverUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
   "subjects": [
     "autobiography"
   ]
@@ -41,40 +41,42 @@
 ,
 {
   "genre": "biography",
-  "date": "2026-11-26",
-  "title": "Queen Victoria",
-  "author": "Lytton Strachey",
-  "summary": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
-  "coverUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria",
+  "date": "2026-11-27",
+  "title": "Recollections of Full Years",
+  "author": "Helen Herron Taft",
+  "summary": "Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.",
+  "coverUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years",
   "subjects": [
     "biography",
-    "nonfiction"
+    "memoir",
+    "nonfiction",
+    "travel"
   ]
 }
 ,
 {
   "genre": "childrens",
-  "date": "2026-11-26",
-  "title": "The Enchanted Castle",
+  "date": "2026-11-27",
+  "title": "The Magic City",
   "author": "E. Nesbit",
-  "summary": "Three children discover a wonderful garden and castle, and come into possession of a magic ring which entangles them in many strange adventures.",
-  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle",
+  "summary": "A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it.",
+  "coverUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/e-nesbit/the-magic-city",
   "subjects": [
     "childrens",
-    "fiction"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "comedy",
-  "date": "2026-11-26",
-  "title": "The Merchant of Venice",
+  "date": "2026-11-27",
+  "title": "As You Like It",
   "author": "William Shakespeare",
-  "summary": "To help his friend Bassanio woo the beautiful Portia, the Venetian merchant Antonio borrows a large sum from Shylock, a Jewish moneylender.",
-  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/the-merchant-of-venice",
+  "summary": "Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
   "subjects": [
     "comedy",
     "drama"
@@ -83,40 +85,38 @@
 ,
 {
   "genre": "drama",
-  "date": "2026-11-26",
-  "title": "Arms and the Man",
-  "author": "George Bernard Shaw",
-  "summary": "A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man",
+  "date": "2026-11-27",
+  "title": "The Hairy Ape",
+  "author": "Eugene O’Neill",
+  "summary": "An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.",
+  "coverUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/eugene-oneill/the-hairy-ape",
   "subjects": [
-    "comedy",
     "drama"
   ]
 }
 ,
 {
   "genre": "fantasy",
-  "date": "2026-11-26",
-  "title": "On a Pincushion",
-  "author": "Mary De Morgan",
-  "summary": "The first collection of fairy tales by Mary De Morgan.",
-  "coverUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion",
+  "date": "2026-11-27",
+  "title": "A Connecticut Yankee in King Arthur’s Court",
+  "author": "Mark Twain",
+  "summary": "An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.",
+  "coverUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court",
   "subjects": [
-    "fantasy",
-    "shorts"
+    "fantasy"
   ]
 }
 ,
 {
   "genre": "fiction",
-  "date": "2026-11-26",
-  "title": "Albert Savarus",
-  "author": "Honoré de Balzac",
-  "summary": "A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.",
-  "coverUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage",
+  "date": "2026-11-27",
+  "title": "The Castle of Otranto",
+  "author": "Horace Walpole",
+  "summary": "A Gothic tale of chivalry, romance, and horror.",
+  "coverUrl": "https://standardebooks.org/ebooks/horace-walpole/the-castle-of-otranto/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/horace-walpole/the-castle-of-otranto",
   "subjects": [
     "fiction"
   ]
@@ -124,27 +124,29 @@
 ,
 {
   "genre": "horror",
-  "date": "2026-11-26",
-  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-  "author": "Robert Louis Stevenson",
-  "summary": "A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.",
-  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "date": "2026-11-27",
+  "title": "The Necromancers",
+  "author": "Robert Hugh Benson",
+  "summary": "A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
   "subjects": [
+    "fiction",
     "horror",
-    "science_fiction"
+    "spirituality"
   ]
 }
 ,
 {
   "genre": "memoir",
-  "date": "2026-11-26",
-  "title": "My Disillusionment in Russia",
-  "author": "Emma Goldman",
-  "summary": "Emma Goldman recounts her experiences living in the early Soviet Union.",
-  "coverUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "date": "2026-11-27",
+  "title": "Up from Slavery",
+  "author": "Booker T. Washington",
+  "summary": "The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.",
+  "coverUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery",
   "subjects": [
+    "autobiography",
     "memoir",
     "nonfiction"
   ]
@@ -152,105 +154,34 @@
 ,
 {
   "genre": "mystery",
-  "date": "2026-11-26",
-  "title": "The Prisoner in the Opal",
+  "date": "2026-11-27",
+  "title": "At the Villa Rose",
   "author": "A. E. W. Mason",
-  "summary": "Disturbing vague warnings of threatening evil forces suddenly coalesce when two women disappear and a mutilated body drifts to the river bank.",
-  "coverUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal",
+  "summary": "A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.",
+  "coverUrl": "https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose",
   "subjects": [
-    "fiction",
     "mystery"
   ]
 }
 ,
 {
   "genre": "nonfiction",
-  "date": "2026-11-26",
-  "title": "The Condition of the Working Class in England",
-  "author": "Friedrich Engels",
-  "summary": "A philosopher reports on the state of the proletariat in Victorian England.",
-  "coverUrl": "https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky",
+  "date": "2026-11-27",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "summary": "Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.",
+  "coverUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass",
   "subjects": [
+    "autobiography",
     "nonfiction"
   ]
 }
 ,
 {
   "genre": "philosophy",
-  "date": "2026-11-26",
-  "title": "Dialogues",
-  "author": "Plato",
-  "summary": "A collection of Plato’s dialogues.",
-  "coverUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
-  "subjects": [
-    "philosophy"
-  ]
-}
-,
-{
-  "genre": "poetry",
-  "date": "2026-11-26",
-  "title": "Poetry",
-  "author": "Ring Lardner",
-  "summary": "A collection of poems by Ring Lardner.",
-  "coverUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/ring-lardner/poetry",
-  "subjects": [
-    "poetry"
-  ]
-}
-,
-{
-  "genre": "satire",
-  "date": "2026-11-26",
-  "title": "The Works of Max Beerbohm",
-  "author": "Max Beerbohm",
-  "summary": "A collection of satirical essays ridiculing pretentiousness through imitation.",
-  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/the-works-of-max-beerbohm",
-  "subjects": [
-    "satire",
-    "shorts"
-  ]
-}
-,
-{
-  "genre": "science_fiction",
-  "date": "2026-11-26",
-  "title": "R.U.R.",
-  "author": "Karel Čapek",
-  "summary": "The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.",
-  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
-  "subjects": [
-    "drama",
-    "science_fiction"
-  ]
-}
-,
-{
-  "genre": "shorts",
-  "date": "2026-11-26",
-  "title": "Short Fiction",
-  "author": "George MacDonald",
-  "summary": "A collection of George MacDonald’s fairy tales, short stories, and novellas.",
-  "coverUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
-  "subjects": [
-    "childrens",
-    "fantasy",
-    "horror",
-    "shorts",
-    "spirituality"
-  ]
-}
-,
-{
-  "genre": "spirituality",
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "title": "Religion and the Rise of Capitalism",
   "author": "R. H. Tawney",
   "summary": "A tracing of the development of religious thought from the Middle Ages to the dawn of the Industrial Revolution.",
@@ -264,14 +195,84 @@
 }
 ,
 {
-  "genre": "travel",
-  "date": "2026-11-26",
-  "title": "Racundra’s First Cruise",
-  "author": "Arthur Ransome",
-  "summary": "A writer builds a boat and sails it across the Baltic Sea with his two companions.",
-  "coverUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise/downloads/cover.jpg",
-  "entryUrl": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise",
+  "genre": "poetry",
+  "date": "2026-11-27",
+  "title": "Poetry",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of poetry by Scottish writer Robert Louis Stevenson.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/poetry/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/poetry",
   "subjects": [
+    "poetry"
+  ]
+}
+,
+{
+  "genre": "satire",
+  "date": "2026-11-27",
+  "title": "Zuleika Dobson",
+  "author": "Max Beerbohm",
+  "summary": "A beautiful magician unsuspectingly casts her charms on quiet Oxford.",
+  "coverUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+  "subjects": [
+    "fiction",
+    "satire"
+  ]
+}
+,
+{
+  "genre": "science_fiction",
+  "date": "2026-11-27",
+  "title": "Krakatit",
+  "author": "Karel Čapek",
+  "summary": "An engineer invents a terrible new explosive that becomes of interest to the authorities.",
+  "coverUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde",
+  "subjects": [
+    "satire",
+    "science_fiction"
+  ]
+}
+,
+{
+  "genre": "shorts",
+  "date": "2026-11-27",
+  "title": "Short Fiction",
+  "author": "Fyodor Sologub",
+  "summary": "A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.",
+  "coverUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators",
+  "subjects": [
+    "fiction",
+    "shorts"
+  ]
+}
+,
+{
+  "genre": "spirituality",
+  "date": "2026-11-27",
+  "title": "The Varieties of Religious Experience",
+  "author": "William James",
+  "summary": "A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.",
+  "coverUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience",
+  "subjects": [
+    "nonfiction",
+    "spirituality"
+  ]
+}
+,
+{
+  "genre": "travel",
+  "date": "2026-11-27",
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "summary": "A collection of Robert Louis Stevenson’s travel essays.",
+  "coverUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/cover.jpg",
+  "entryUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "subjects": [
+    "memoir",
     "nonfiction",
     "travel"
   ]
